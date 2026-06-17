@@ -1,3 +1,83 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+a.internal,
+a.internal-link {
+  background-color: transparent;
+  border-radius: 0;
+  line-height: inherit;
+  padding: 0;
+  text-decoration-line: underline;
+  text-decoration-thickness: 0.08em;
+  text-decoration-color: color-mix(in srgb, var(--secondary) 35%, transparent);
+  text-underline-offset: 0.16em;
+}
+
+a.internal:hover,
+a.internal-link:hover {
+  background-color: transparent;
+  color: var(--secondary);
+  text-decoration-color: color-mix(in srgb, var(--secondary) 35%, transparent);
+}
+
+a.internal.broken,
+a.internal-link.broken {
+  opacity: 0.65;
+  text-decoration-style: dashed;
+
+  &:hover {
+    opacity: 0.65;
+  }
+}
+
+a.internal:has(> img),
+a.internal-link:has(> img) {
+  text-decoration: none;
+}
+
+a.internal.tag-link,
+a.internal-link.tag-link {
+  background: color-mix(in srgb, var(--tertiary) 14%, transparent);
+  border-radius: 3px;
+  padding: 0.05rem 0.28rem;
+  text-decoration: none;
+}
+
+.note-properties {
+  display: none;
+}
+
+.content-meta {
+  color: var(--gray);
+  font-size: 0.78rem;
+  line-height: 1.35;
+  margin: -0.15rem 0 1.35rem;
+
+  span {
+    color: inherit;
+  }
+}
+
+.popover-hint > article:has(+ .page-listing) {
+  min-height: calc(100vh - 8rem);
+}
+
+.popover-hint > article + .page-listing {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+}
+
+.page-listing > p:first-child {
+  color: var(--gray);
+  font-size: 0.9rem;
+  margin-top: 0;
+}
+
+article > h1 {
+  color: var(--dark);
+}
+
+blockquote {
+  border-color: color-mix(in srgb, var(--tertiary) 65%, var(--lightgray));
+}

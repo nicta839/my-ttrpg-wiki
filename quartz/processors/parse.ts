@@ -14,6 +14,7 @@ import { QuartzLogger } from "../util/log"
 import { trace } from "../util/trace"
 import { BuildCtx, WorkerSerializableBuildCtx } from "../util/ctx"
 import { styleText } from "util"
+import YAML from "yaml"
 
 export type QuartzMdProcessor = Processor<MDRoot, MDRoot, MDRoot>
 export type QuartzHtmlProcessor = Processor<undefined, MDRoot, HTMLRoot>
@@ -47,6 +48,48 @@ export function createHtmlProcessor(ctx: BuildCtx): QuartzHtmlProcessor {
 function* chunks<T>(arr: T[], n: number) {
   for (let i = 0; i < arr.length; i += n) {
     yield arr.slice(i, i + n)
+  }
+}
+
+function normalizeStringList(value: unknown): string[] | undefined {
+  if (Array.isArray(value)) {
+    return value.map((item) => String(item).trim()).filter(Boolean)
+  }
+
+  if (typeof value === "string") {
+    return value
+      .split(/[\s,]+/)
+      .map((item) => item.trim())
+      .filter(Boolean)
+  }
+
+  return undefined
+}
+
+function parseLeadingFrontmatter(src: string) {
+  const match = /^---\r?\n([\s\S]*?)\r?\n(?:---|\.\.\.)(?:\r?\n|$)/.exec(src)
+  if (!match) return { content: src, frontmatter: undefined }
+
+  let parsed: unknown
+  try {
+    parsed = YAML.parse(match[1])
+  } catch {
+    parsed = {}
+  }
+  const frontmatter =
+    parsed && typeof parsed === "object" && !Array.isArray(parsed)
+      ? ({ ...parsed } as Record<string, unknown>)
+      : {}
+
+  const tags = normalizeStringList(frontmatter.tags)
+  if (tags) frontmatter.tags = tags
+
+  const aliases = normalizeStringList(frontmatter.aliases)
+  if (aliases) frontmatter.aliases = aliases
+
+  return {
+    content: src.slice(match[0].length),
+    frontmatter,
   }
 }
 
@@ -93,6 +136,17 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
 
         // strip leading and trailing whitespace
         file.value = file.value.toString().trim()
+
+        const parsedFrontmatter = parseLeadingFrontmatter(file.value.toString())
+        if (parsedFrontmatter.frontmatter) {
+          const frontmatter = parsedFrontmatter.frontmatter
+          if (typeof frontmatter.title !== "string" || frontmatter.title.length === 0) {
+            frontmatter.title = path.basename(fp, path.extname(fp))
+          }
+
+          file.data.frontmatter = frontmatter as NonNullable<typeof file.data.frontmatter>
+          file.value = parsedFrontmatter.content.trim()
+        }
 
         // Text -> Text transforms
         for (const plugin of cfg.plugins.transformers.filter((p) => p.textTransform)) {

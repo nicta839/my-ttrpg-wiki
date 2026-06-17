@@ -3,7 +3,7 @@ configuration:
   pageTitle: TTRPG Wiki
   pageTitleSuffix: ""
   enableSPA: true
-  enablePopovers: true
+  enablePopovers: false
   analytics:
     provider: plausible
   locale: en-US
@@ -21,25 +21,25 @@ configuration:
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f7f0df"
+        lightgray: "#ded0b8"
+        gray: "#9b8a70"
+        darkgray: "#3d3022"
+        dark: "#241b13"
+        secondary: "#2f5f8f"
+        tertiary: "#9a6a20"
+        highlight: rgba(184, 138, 45, 0.16)
+        textHighlight: "#f2d47966"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#181511"
+        lightgray: "#40372d"
+        gray: "#8f806a"
+        darkgray: "#e4d8c3"
+        dark: "#f6eddc"
+        secondary: "#8fb3d9"
+        tertiary: "#d0a34a"
+        highlight: rgba(208, 163, 74, 0.18)
+        textHighlight: "#b8892d66"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -240,7 +240,7 @@ plugins:
     options: {}
     order: 50
   - source: github:quartz-community/note-properties
-    enabled: true
+    enabled: false
     options:
       includeAll: false
       includedProperties:
@@ -266,7 +266,7 @@ plugins:
       name: quartz-themes
       repo: github:saberzero1/quartz-themes
       subdir: plugin
-    enabled: true
+    enabled: false
     options:
       theme: its-theme
       variation: ttrpg-dnd
