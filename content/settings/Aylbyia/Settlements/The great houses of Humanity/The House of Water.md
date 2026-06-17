@@ -1,3 +1,12 @@
+---
+title: The House of Water
+type: settlement
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/settlement
+  - category/settlements
+---
 Most important city: The House of Water
 
 Neutral location, meeting place for the houses, The greatest seat of knowledge, place of birth of the [[Blue Council]]. These are all names that the House of Water carries. This city hosts the greatest library of the continent, an academy of magic and a town filled with individuals bent on the accumulation of knowledge and diplomacy. The livelihood of this location depends on the supplies brought in through its harbor from the neighbouring barronies. The neutrality of this place is further reinforced by the fact that most of the financial assets of the baronnies lie in the good care of the Bank of the Blue Council for safekeeping in case of… unexpected deaths of family members.

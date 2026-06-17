@@ -1,1 +1,10 @@
+---
+title: Humans
+type: society
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/society
+  - category/society
+---
 They make up the major part of the make up of the world. And come in all flavours and colors. Last or second to last step to enlightenment. This race of people have their souls only lightly attached to their bodies, meaning they can technically transcend to heaven like the heroes of old.

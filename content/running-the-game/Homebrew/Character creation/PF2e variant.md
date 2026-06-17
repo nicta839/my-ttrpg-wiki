@@ -1,3 +1,10 @@
+---
+title: PF2e variant
+type: rule
+tags:
+  - running-the-game
+  - type/rule
+---
 This is a variant on character creation inspired by the one used in Pathfinder second edition. It gets rid of stat rolling or using an array to shape what you want how you want it by giving more importance to things like class chosen and background.
 
 Possible charater creation process to be decided during session 0

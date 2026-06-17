@@ -1,3 +1,10 @@
+---
+title: Resurrection
+type: rule
+tags:
+  - running-the-game
+  - type/rule
+---
 There are a few direction we can go towards in terms of resurrection. Either rules as written, something more like critical role or something like in Aerois/Court of Swords. This will be subject to a vote during session 0:
 
 Critical Role adaptation:

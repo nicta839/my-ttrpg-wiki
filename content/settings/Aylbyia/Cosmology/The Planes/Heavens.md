@@ -1,1 +1,10 @@
+---
+title: Heavens
+type: cosmology
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/cosmology
+  - category/cosmology
+---
 The [[Heavens]] are a place of eternal bliss that can be reached by being reincarnated and reaching a state of enlightenment. In this place, one's soul may serve and enjoy an eternal life. Once enlightened in this way, the soul is returned to the [[Primordial Fire]] that gave birth to the world.

@@ -1,3 +1,12 @@
+---
+title: Celestials and Saints
+type: cosmology
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/cosmology
+  - category/cosmology
+---
 Here is a list of the [[Celestials]] and their [[Saints]] during their confrontation with the [[Betrayer]]
 
 

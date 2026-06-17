@@ -1,3 +1,10 @@
+---
+title: Shields
+type: rule
+tags:
+  - running-the-game
+  - type/rule
+---
 Shields just giving a +2 can be boring. Here's what I found as an alternative for a little bit more modular shielding for your characters. The base requirement for using a shield is having shield proficiency.
 
 Buckler: +1AC, but is light enough to strap to your forearm so it doesn’t take up a hand. Cannot equip weapons in this hand. Costs 10g

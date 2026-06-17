@@ -1,3 +1,12 @@
+---
+title: Blue Council
+type: organization
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/organization
+  - category/organizations
+---
 Mark: A blue book with a golden eye on it
 
 Honored reputation: Keeper of knowledge

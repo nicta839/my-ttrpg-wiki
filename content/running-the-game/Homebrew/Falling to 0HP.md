@@ -1,3 +1,10 @@
+---
+title: Falling to 0HP
+type: rule
+tags:
+  - running-the-game
+  - type/rule
+---
 To avoid the yo-yo effect of falling to 0HP and being healed back up without any issue, I would like to introduce something that incentivizes keeping yourself and your allies up.
 
 This is a copy of a post made on reddit by DM_Biggs on r/DNDBehindTheScreen : Injury System and Tables

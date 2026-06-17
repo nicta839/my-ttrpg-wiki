@@ -1,3 +1,12 @@
+---
+title: Band of Blades
+type: organization
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/organization
+  - category/organizations
+---
 Mark: a blade with a hilt clutching a lightning bolt
 
 Honored reputation: Will accomplish a task no matter what

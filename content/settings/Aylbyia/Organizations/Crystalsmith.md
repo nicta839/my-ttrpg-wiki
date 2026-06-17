@@ -1,3 +1,12 @@
+---
+title: Crystalsmith
+type: organization
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/organization
+  - category/organizations
+---
 Mark: A simple green crystal
 
 Honored reputation: Best artisans there are

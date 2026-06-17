@@ -1,3 +1,12 @@
+---
+title: The Coin
+type: organization
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/organization
+  - category/organizations
+---
 Mark: A golden coin
 
 Honored reputation: Respect contracts

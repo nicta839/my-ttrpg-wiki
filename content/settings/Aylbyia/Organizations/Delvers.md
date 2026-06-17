@@ -1,3 +1,12 @@
+---
+title: Delvers
+type: organization
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/organization
+  - category/organizations
+---
 Mark: A pickaxe in a lamp
 
 Honored reputation: Eager explorators

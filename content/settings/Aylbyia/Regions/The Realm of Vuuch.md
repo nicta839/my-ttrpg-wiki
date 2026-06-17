@@ -1,4 +1,12 @@
-
+---
+title: The Realm of Vuuch
+type: region
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/region
+  - category/regions
+---
 Most important city: [[Tavik Nurlowk]]
 
 Region Flavor: Dangerous place where nature has retaken its hold over. Old ruins are covered by vegetation and wild animals are rampant. Small communities of treasure seekers roam the land if they are brave enough. Others come here to study the vegetation and go to the Unspoiled Garden to get samples for their work.

@@ -1,3 +1,10 @@
+---
+title: Attacking with variants
+type: rule
+tags:
+  - running-the-game
+  - type/rule
+---
 Driving attack: attack roll and Athletics contest, on a success you and the target move up to 15 feet in the same direction if the creature is the same size or smaller than you.
 
 Guarded attack: attack roll with disadvantage but the next creature to attack you also has disadvantage.

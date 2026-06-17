@@ -1,4 +1,12 @@
-
+---
+title: Arcane Magic
+type: cosmology
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/cosmology
+  - category/cosmology
+---
 This is magic granted through the manipulation of the [[Natural flow]] and its understanding. It manifests in the harnessing of the space within reach and touching the flow in that space. It is a dangerous effort where harnessing the chaotic energies of this flow is a task to be attempted only with the help of someone to guide you.
 
 Gestures and foci are important when your character uses this magic. Equations of magic would be equally important, as such glyphs and runes allow the anchoring of the flow to a certain point in space.

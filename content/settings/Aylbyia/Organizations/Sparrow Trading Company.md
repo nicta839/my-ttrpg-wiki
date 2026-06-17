@@ -1,3 +1,12 @@
+---
+title: Sparrow Trading Company
+type: organization
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/organization
+  - category/organizations
+---
 Mark: A sparrow
 
 Honored reputation: Diligent Merchants

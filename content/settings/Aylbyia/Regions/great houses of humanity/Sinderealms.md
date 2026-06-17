@@ -1,3 +1,12 @@
+---
+title: Sinderealms
+type: region
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/region
+  - category/regions
+---
  Sinderealms
 
 - Sinder: Seat of power of House Sinder. It boasts a large harbour from which large freight ships leave.

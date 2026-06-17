@@ -1,3 +1,11 @@
+---
+title: Timeline
+type: timeline
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/timeline
+---
 - Year 0
 
 - The [[Celestials]] contact the [[Plane of Flesh]] and offer redemption

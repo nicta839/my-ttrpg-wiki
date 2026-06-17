@@ -1,3 +1,10 @@
+---
+title: Goals
+type: rule
+tags:
+  - running-the-game
+  - type/rule
+---
 The goal of this mechanic is to incentivise action rather than reaction from the players towards the setting as well as promote roleplaying between players. At the beginning or end of each session, you announce three objectives that your character wants to accomplish during the play session (“Conan wants to befriend the dwarves”, “Esmeralda wants to defeat the evil litch”, “Kitara wants to gain the trust of Delina”). At the end of the session we see together if those goals were accomplished or if you worked towards them.
 
 If your goal concerned a major event in the world, an NPC or a party member, you get 1 Bond Point (BP) if you succeeded or failed after a genuine attempt. If you worked towards it you get 0,5 BP.

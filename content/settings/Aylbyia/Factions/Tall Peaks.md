@@ -1,3 +1,12 @@
+---
+title: Tall Peaks
+type: faction
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/faction
+  - category/factions
+---
 Honored Nature: Stoic
 
 Shadow Nature: Mysterious

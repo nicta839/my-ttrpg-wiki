@@ -1,4 +1,12 @@
-
+---
+title: Divine magic
+type: cosmology
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/cosmology
+  - category/cosmology
+---
 These feats of magic are possible through the channeling of the divine energy that flows towards the [[Plane of Flesh]] and granted by the [[Celestials]]. These miracles are obtained through dedicated worship of the Celestials.
 
 Women are the only ones who can perform miracles using Divine magic. Men who perform divine magic are seen as heretics, followers and tempters of Twilight. Be wary of what magic you use where.

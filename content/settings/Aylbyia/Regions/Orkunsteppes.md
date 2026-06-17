@@ -1,3 +1,12 @@
+---
+title: Orkunsteppes
+type: region
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/region
+  - category/regions
+---
 - Most important city: [[Lor]], The First City
 - [[Unarchus]]
 

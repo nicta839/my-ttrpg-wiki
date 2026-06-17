@@ -1,3 +1,12 @@
+---
+title: Ancestries
+type: society
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/society
+  - category/society
+---
 The order of things:
 
 Because of the implications of the reincarnation process, some races are more "pure" and valued as a whole. As such, they usually have access to higher statuses in society. The purity of one's soul is measured as how attached to the corporeal body it is. The higher you are on the echelon, the more enlightened the soul is thought to be.

@@ -1,3 +1,10 @@
+---
+title: Backgrounds
+type: rule
+tags:
+  - running-the-game
+  - type/rule
+---
 In order for you to make a background of your own you need to:
 
 - The languages that your character knows are determined by the location your character comes from and what their background entails.

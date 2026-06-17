@@ -1,4 +1,12 @@
-
+---
+title: The Great Houses of Humanity
+type: region
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/region
+  - category/regions
+---
 Most important city: [[The House of Water]]
 
 

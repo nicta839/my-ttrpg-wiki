@@ -1,3 +1,10 @@
+---
+title: Experience points
+type: rule
+tags:
+  - running-the-game
+  - type/rule
+---
 There are several ways of doing experience points. Here are some alternatives that we could explore in the game. We should decide this at session 0 and can of course be changed as we go:
 
 Milestone:

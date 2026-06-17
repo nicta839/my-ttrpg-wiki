@@ -1,4 +1,12 @@
-
+---
+title: The Platsmoor
+type: region
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/region
+  - category/regions
+---
 Most important city: [[Ziebglen]], Seat of Aumogonne
 
 Region Flavor

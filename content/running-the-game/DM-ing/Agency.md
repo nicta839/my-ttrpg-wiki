@@ -1,3 +1,10 @@
+---
+title: Agency
+type: guide
+tags:
+  - running-the-game
+  - type/guide
+---
 Character agency and Narrative agency
 
 Too often the NPCs are shown as helpless in a situation. This is not something that jives very well with settings alternative to europeo-centered narratives because it gives the vibe of european saviors coming to the rescue of the “lesser” people (low class, minority represented people, etc...). I aim to emphasize that the people are not helpless or waiting to be saved. They act according to whatever situation gives them freedom to act. The villagers will fight you to save their family and cattle if they can, at least they will cover their escape. Wild animals might fight you to the death if you’re equally wounded, flee if overwhelmed or drag a companion’s corpse if they see the opportunity. People will help you if you are friendly to them and will not suffer to be insulted if you are not. This should help to ground characters in whatever “reality” they are in.

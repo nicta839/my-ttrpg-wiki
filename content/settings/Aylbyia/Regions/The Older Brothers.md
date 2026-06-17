@@ -1,3 +1,12 @@
+---
+title: The Older Brothers
+type: region
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/region
+  - category/regions
+---
 Inhabited by the [[Mountain]] dwarves. The only point of access is through the Palace of the Sky Kings. The intricate sculpting architecture makes no sense for outsiders and seems to change every time you get there by airship (on invitation only).
 
 Important locations

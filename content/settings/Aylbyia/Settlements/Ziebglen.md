@@ -1,3 +1,12 @@
+---
+title: Ziebglen
+type: settlement
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/settlement
+  - category/settlements
+---
 Most important city: Ziebglen, Seat of Aumogonne
 
 Named after Saint [[Aumogonne]] who held back the [[Betrayer]] in order for the [[Celestials]] to destroy Them.

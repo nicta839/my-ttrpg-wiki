@@ -1,3 +1,12 @@
+---
+title: A rigid society
+type: society
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/society
+  - category/society
+---
 Under this section you will find a description of the society and get a feel for how things work. A lot of bloodline matters are traced through the motherline.
 
 The world at large enjoys living in a state of order with laws allowing large communities and common identities to form as nations. Bloodlines are majoritarily matrilinear. As such assets, wealth pass onto the eldest daughter of a family. Women have thus mostly been the ones to accrue wealth throughout time.

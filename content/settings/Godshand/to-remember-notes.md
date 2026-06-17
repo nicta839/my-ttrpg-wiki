@@ -1,3 +1,11 @@
+---
+title: to-remember-notes
+type: note
+setting: Godshand
+tags:
+  - setting/godshand
+  - type/note
+---
 1. What is the town's name?
 	1. Named after after a neabry landmark
 	2. Godshand

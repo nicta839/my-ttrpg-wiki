@@ -1,3 +1,12 @@
+---
+title: Junon, The Celestial City
+type: settlement
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/settlement
+  - category/settlements
+---
 Most important city: Junon, The Celestial City
 
 The Holy seat of the [[Church of the Flame]] and the heart of the [[Queendom]]. It is a sprawling city that spans along the Coast. All manner of goods can be found here. There is a saying "if you can't find what you look for in Junon, then you don't need it".

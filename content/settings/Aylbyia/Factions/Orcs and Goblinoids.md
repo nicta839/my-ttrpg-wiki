@@ -1,3 +1,12 @@
+---
+title: Orcs and Goblinoids
+type: faction
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/faction
+  - category/factions
+---
 Driven off of their lands by an unknown enemy, they seem to have settled within the borders of the [[Queendom]] and the newfound lands of the [[Hill]] [[Dwarves]].
 
 Their numbers are unknown but they are thought to be a community that is focused on utilitarian ethics: What you do is of use to the community, you serve the whole. Their tactics are ruthless.

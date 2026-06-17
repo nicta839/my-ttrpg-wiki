@@ -1,3 +1,12 @@
+---
+title: Northfangs
+type: region
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/region
+  - category/regions
+---
  Northfangs
 
 - Tavik Northfang: Ancient inoperating teleportation circle

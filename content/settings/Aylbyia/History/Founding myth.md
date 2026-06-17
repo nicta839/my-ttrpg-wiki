@@ -1,3 +1,12 @@
+---
+title: Founding myth
+type: history
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/history
+  - category/history
+---
 The [[Primordial Fire]] of the [[Heavens]] was revealed to the [[Plane of Flesh]] by the [[Celestials]]. Their influence brought the Tavik civilization up and enabled this world-sprawling empire to thrive and create wonders of magic. The [[Heavens]] was the closest it had ever been to the plane of flesh, with [[Celestials]] walking the land and guiding the people.
 
 The Celestial whose name was struck from history, was consumed by greed and betrayed the other [[Celestials]]. The [[Betrayer]], as they would come to be known, wished for all power and domination over all that was on the [[Plane of Flesh]] and the [[Heavens]].

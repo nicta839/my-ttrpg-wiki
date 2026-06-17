@@ -1,5 +1,10 @@
 ---
 title: Godshand
+type: setting
+setting: Godshand
+tags:
+  - setting/godshand
+  - type/setting
 ---
 # Godshand
 

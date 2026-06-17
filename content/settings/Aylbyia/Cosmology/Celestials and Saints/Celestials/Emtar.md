@@ -1,3 +1,12 @@
+---
+title: Emtar
+type: cosmology
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/cosmology
+  - category/cosmology
+---
 Emtar:
 
 - Portfolio: pragmatism, free will

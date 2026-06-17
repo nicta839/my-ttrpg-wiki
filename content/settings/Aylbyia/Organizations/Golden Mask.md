@@ -1,3 +1,12 @@
+---
+title: Golden Mask
+type: organization
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/organization
+  - category/organizations
+---
 Mark: A golden Mask
 
 Honored reputation: Defenders of the realms

@@ -1,1 +1,10 @@
+---
+title: Mountain
+type: society
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/society
+  - category/society
+---
 These dwarves rarely go out and those seen make up the majority of the Crystal Smiths organisation. They are shorter and stouter than their compatriotes. They are covered in bright green shiny veins coursing their bodies.

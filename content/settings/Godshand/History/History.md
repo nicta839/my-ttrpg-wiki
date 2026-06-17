@@ -1,3 +1,12 @@
+---
+title: History
+type: history
+setting: Godshand
+tags:
+  - setting/godshand
+  - type/history
+  - category/history
+---
 This place was established as a stop on the road in the desert. Access to water has always made this oasis a place of import in the greater geography of the world. 
 
 It rapidly became an opportunity to turn a place of worship into a touristic attraction and as such the town has grown, a temple was built atop the gosdhand mountain and stairs carved for pilgrims to climb.

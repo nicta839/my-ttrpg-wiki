@@ -1,4 +1,12 @@
-
+---
+title: Tiulasa
+type: region
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/region
+  - category/regions
+---
 Most important city: [[Hatchaka]]
 
 Region Flavor: Hilly green region where civilization has not threaded yet. Fishing villages inhabited by proud people.

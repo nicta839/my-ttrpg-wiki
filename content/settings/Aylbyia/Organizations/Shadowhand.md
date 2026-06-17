@@ -1,3 +1,12 @@
+---
+title: Shadowhand
+type: organization
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/organization
+  - category/organizations
+---
 Mark: ??
 
 Honored reputation: NOPE!

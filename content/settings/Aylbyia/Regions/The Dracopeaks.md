@@ -1,4 +1,12 @@
-
+---
+title: The Dracopeaks
+type: region
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/region
+  - category/regions
+---
 Most important city: [[South Harbour]]
 
 People are not left to roam freely. You enter the city and stick to your business…Then "you go on your way, stranger".

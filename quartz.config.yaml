@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: TTRPG Wiki
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -224,9 +224,7 @@ plugins:
   - source: github:quartz-community/footer
     enabled: true
     options:
-      links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+      links: {}
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
@@ -246,6 +244,8 @@ plugins:
     options:
       includeAll: false
       includedProperties:
+        - type
+        - setting
         - description
         - tags
         - aliases

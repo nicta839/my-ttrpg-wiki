@@ -1,9 +1,13 @@
 ---
 title: List of factions
+type: faction
 order: "0"
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/faction
+  - category/factions
 ---
-
-
 - [[Band of Blades]]
 - [[Blue Council]]
 - [[Crystalsmith]]

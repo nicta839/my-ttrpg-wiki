@@ -14,6 +14,9 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "docs": "npx quartz build --serve -d docs",
+    "sync:content": "node scripts/sync-content.mjs",
+    "build:wiki": "npm run sync:content && npx quartz build",
+    "serve:wiki": "npm run sync:content && npx quartz build --serve",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",

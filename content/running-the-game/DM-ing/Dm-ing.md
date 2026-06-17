@@ -1,3 +1,10 @@
+---
+title: Dm-ing
+type: guide
+tags:
+  - running-the-game
+  - type/guide
+---
 Hey everyone, I am maybe your future DM or your current one.
 
 I have been playing DnD 5e for since 2016 and have been DM-ing since 2017. I enjoy roleplaying the most and being surprised by some crazy, dangerous and risky plays from the players. I want to empower you in those decisions and give you an opportunity to get a win at that moment. I want you to show the other players how cool your character is.

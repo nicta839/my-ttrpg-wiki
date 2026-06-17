@@ -1,3 +1,12 @@
+---
+title: Inir
+type: cosmology
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/cosmology
+  - category/cosmology
+---
 Inir:
 
 - Portfolio: determinism, security

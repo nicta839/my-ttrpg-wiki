@@ -1,3 +1,12 @@
+---
+title: Regions of the world
+type: region
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/region
+  - category/regions
+---
 - [[settings/Aylbyia/Regions/great houses of humanity/The Great Houses of Humanity|The Great Houses of Humanity]]
 - [[Fin's End]]
 - [[The Dracopeaks]]

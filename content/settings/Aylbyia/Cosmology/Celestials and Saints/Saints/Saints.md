@@ -1,3 +1,12 @@
+---
+title: Saints
+type: cosmology
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/cosmology
+  - category/cosmology
+---
 - [[Andvar]]
 - [[Aumogonne]]
 - [[Brulux]]

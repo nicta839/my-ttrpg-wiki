@@ -1,4 +1,12 @@
-
+---
+title: The Great Houses of Humanity
+type: faction
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/faction
+  - category/factions
+---
 This faction is made up of several baronies
 
 Honored Nature: Wisdom

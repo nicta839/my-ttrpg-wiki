@@ -1,3 +1,12 @@
+---
+title: Elone
+type: cosmology
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/cosmology
+  - category/cosmology
+---
 Elone:
 
 - Portfolio: compassion, tradition

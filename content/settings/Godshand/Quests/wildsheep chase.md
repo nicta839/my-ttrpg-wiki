@@ -1,4 +1,12 @@
-
+---
+title: wildsheep chase
+type: quest
+setting: Godshand
+tags:
+  - setting/godshand
+  - type/quest
+  - category/quests
+---
 This was played as part of [[settings/Godshand/index]]
 
 andy: bigbear divine soul sorcerer: Crimp Padfoot

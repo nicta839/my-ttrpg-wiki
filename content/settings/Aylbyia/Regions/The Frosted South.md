@@ -1,3 +1,12 @@
+---
+title: The Frosted South
+type: region
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/region
+  - category/regions
+---
 - Most important city: [[South-of South Harbour]]
 - [[The Citadel of Frozen Crystal]]
 

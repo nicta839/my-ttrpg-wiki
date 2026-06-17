@@ -1,3 +1,12 @@
+---
+title: Hatchaka
+type: settlement
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/settlement
+  - category/settlements
+---
 Most important city: Hatchaka
 
 Isolated town connected to civilization only by the sea and its port. Hatchaka enjoys the peace of a small port town isolated from the world and independent. Their main export is the [[Silksteel]] that is harvested from the dangerous spiders of the forest that lie to the North of it.

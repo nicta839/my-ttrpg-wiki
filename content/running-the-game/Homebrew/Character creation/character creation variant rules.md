@@ -1,3 +1,10 @@
+---
+title: character creation variant rules
+type: rule
+tags:
+  - running-the-game
+  - type/rule
+---
 Characters will be created together during session 0, but it doesn't hurt to do some work beforehand.
 
 There are new rules for language that will be detailed in the [[Backgrounds]] page.

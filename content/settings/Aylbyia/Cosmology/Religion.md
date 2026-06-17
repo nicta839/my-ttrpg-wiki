@@ -1,3 +1,12 @@
+---
+title: Religion
+type: cosmology
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/cosmology
+  - category/cosmology
+---
 Cycle of life and death:
 
 Once someone dies, their soul vacates their body and travels to the [[Astral Sea]]. There on the "shore" they await to be attended to by the [[Celestials]]. If they are deemed ready, humble, pure and faithful, they are invited in the [[Heavens]] to experience eternal bliss and happiness and are absorbed into the [[Primordial Fire]] that is the source of the [[Celestials]]' power. If they are deemed unfit, their soul is sent to a new body so that they may experience more growth throughout their next life.

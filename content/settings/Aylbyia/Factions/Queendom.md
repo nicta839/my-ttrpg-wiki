@@ -1,3 +1,12 @@
+---
+title: Queendom
+type: faction
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/faction
+  - category/factions
+---
 Honored Nature: Pious
 
 Shadow Nature: Zealous

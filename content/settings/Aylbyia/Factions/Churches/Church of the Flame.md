@@ -1,3 +1,12 @@
+---
+title: Church of the Flame
+type: faction
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/faction
+  - category/factions
+---
 Church in the West: The Church of the Flame
 
 The doctrine of this Church is that the greater impact you leave on the plane of flesh, especially by helping the church, other people and building up your community, the more likely you are to climb the ladder when you die. This has helped the entrepreunerial aspect of life in places where this Church has influence.

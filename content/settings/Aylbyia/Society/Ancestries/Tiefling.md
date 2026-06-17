@@ -1,1 +1,10 @@
+---
+title: Tiefling
+type: society
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/society
+  - category/society
+---
 Humanoids touched by the corrupted aura of the [[Twilight]]. Some are suspected of being [twilight worshippers](Shaïdin.md) although most are veterans of the bordering castles that have been retired when the first signs of transformation happened. They are considered as tainted for the greater good. They are "disgusting" or martyrs depending on where they are. Their descendants can sometimes be Tieflings.

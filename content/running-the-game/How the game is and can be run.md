@@ -1,4 +1,10 @@
-
+---
+title: How the game is and can be run
+type: guide
+tags:
+  - running-the-game
+  - type/guide
+---
 Here are notes about how I want to run the game, dealing with [[Agency]], [[Dm-ing]] style and some [[Homebrew rules]] that we can discuss during session 0
 
 

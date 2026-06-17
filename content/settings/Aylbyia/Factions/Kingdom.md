@@ -1,10 +1,13 @@
 ---
 title: Kingdom
+type: faction
 order: "1"
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/faction
+  - category/factions
 ---
-
-
-
 Honored Nature: Courage
 
 Shadow Nature: Arrogance
@@ -17,7 +20,7 @@ War: Military tactics and the superior use of maneuvers to flank a more numerous
 
 Commerce: Grain and other produce of the earth.
 
-Politics: Currently controls the [[Platsmoor]]. The movement of the Orcish hordes is worrying.
+Politics: Currently controls the [[The Platsmoor|Platsmoor]]. The movement of the Orcish hordes is worrying.
 
 Shadow activities: smuggling of goods and people. Kidnapping of dwarven craftsmiths, ransom.
 

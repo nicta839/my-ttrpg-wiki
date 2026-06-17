@@ -1,3 +1,12 @@
+---
+title: The Younger Brother
+type: region
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/region
+  - category/regions
+---
 Smaller and older mountains than the Older Brother, the [[Hill]] dwarves came tumbling down some 300 years ago from them and established towns and cities within the valley east of these mountains.
 
 - Castle Filoria: [[Hill]] dwarf stronghold, it sees trade and is said to contain large amounts of gold a valuables
