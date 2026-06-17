@@ -1,0 +1,1 @@
+Andvar: Notorious knight who faught alone against overwhelming odds. They are the embodiement of courage and determination.
