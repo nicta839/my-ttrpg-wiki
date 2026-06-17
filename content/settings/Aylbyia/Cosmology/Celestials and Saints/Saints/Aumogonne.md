@@ -1,1 +1,0 @@
-- Aumogonne: Defended the [[Celestials]] with her followers, offering her life so that they may have the time to finish the ritual.

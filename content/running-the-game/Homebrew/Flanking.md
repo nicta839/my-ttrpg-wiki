@@ -1,1 +1,0 @@
-Flanking an enemy between two allied creatures gives you a +2 bonus to your melee attack roll. You cannot flank an enemy if you yourself are flanked.

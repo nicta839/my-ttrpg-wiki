@@ -1,1 +1,0 @@
-Unarchus: Large city constructed by the Orcs on the road to [[Lor]]. It boasts incredible tall structures used to fire projectiles on incoming groups of outsiders. It has now been vacated in favor of some other group.

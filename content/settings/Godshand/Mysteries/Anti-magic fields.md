@@ -1,1 +1,0 @@
-These fields of anti-magic are randomly strewn about, differ in size and their origin is unknown

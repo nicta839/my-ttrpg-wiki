@@ -1,1 +1,0 @@
-High Enlightened: Maeva Delmin, priestess of the [[Celestials]]. She is said to have portents of the future sent by the [[Celestials]] themselves.

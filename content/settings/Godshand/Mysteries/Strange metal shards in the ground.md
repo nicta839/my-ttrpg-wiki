@@ -1,1 +1,0 @@
-There are strange metal shards in the ground. They can sometimes be found in vegetables that grow in the fields

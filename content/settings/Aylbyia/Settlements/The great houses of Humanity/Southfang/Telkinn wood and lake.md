@@ -1,1 +1,0 @@
-Telkinn wood and lake: Ancient woods said to be inhabited by wood spirits.

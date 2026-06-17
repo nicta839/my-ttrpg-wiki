@@ -1,3 +1,0 @@
-Different cultural elements and things that just are like that....
-
-[[Showing the Hand]]

@@ -1,7 +1,0 @@
-Under this section you will find a description of the society and get a feel for how things work. A lot of bloodline matters are traced through the motherline.
-
-The world at large enjoys living in a state of order with laws allowing large communities and common identities to form as nations. Bloodlines are majoritarily matrilinear. As such assets, wealth pass onto the eldest daughter of a family. Women have thus mostly been the ones to accrue wealth throughout time.
-
-Mariage is commonly monogamous amongst commonfolk although some places give more leeway as to private life and pleasures as opposed to the notarial side of inheritance and filliation issues. Noblefolk living long lifespans usually marry with other noblefolk equally blessed so as to avoid cycling through partners. The business of procreation is usually handled through arranged meetings or through a fancy. Marriages for love amongst the nobility are not unheard of and there were many baronesses and noblewomen who did not remarry after the death of their husband.
-
-The people are very attached to their beliefs and abide by the rulings of the Church. Worship of individual [[Celestials]] or [[Saints]] is common as they are closer to certain aspects of one's life, however, noone would question the veracity and factuality of the Church's word on the history and myth of the world.

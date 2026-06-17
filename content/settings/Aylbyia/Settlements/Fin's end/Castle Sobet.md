@@ -1,1 +1,0 @@
-Small castle that oversees the two rivers exiting [[Fin's End]]

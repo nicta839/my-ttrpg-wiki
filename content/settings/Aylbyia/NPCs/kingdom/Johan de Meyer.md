@@ -1,1 +1,0 @@
-King Johan de Meyer: Leader of [[The Platsmoor]] [[Kingdom]]. Seems straigthforward and tends to hide his tactical mind behind the outward appearance of his handicap.

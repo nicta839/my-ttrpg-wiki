@@ -1,1 +1,0 @@
-The Citadel of Frozen Crystal: Fabled city of old Tavik. Said to hide powerful relics.

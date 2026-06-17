@@ -1,1 +1,0 @@
-Tavik Southfang: Ancient ruined location allowing travel to other such locations.

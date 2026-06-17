@@ -1,1 +1,0 @@
-Healer of those afflicted by the [[Betrayer]] and his forces.

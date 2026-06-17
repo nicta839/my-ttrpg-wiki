@@ -1,1 +1,0 @@
-The natural flow is that which enables time to pass and creatures to be born, grow and die. It is also the source of arcane magic in the world. It was tainted when the [[Betrayer]] slayed [[Cidias]]. It is now more chaotic than it was during the blessed times.

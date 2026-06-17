@@ -1,1 +1,0 @@
-Plause: Small fishing village
