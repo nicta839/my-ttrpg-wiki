@@ -1,0 +1,1 @@
+Merchant: Aralga Steelguard, dwarven merchant who has taken over surpervising the merchantile affairs of the [[Kingdom]].

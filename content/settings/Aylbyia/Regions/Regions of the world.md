@@ -1,0 +1,13 @@
+- [[settings/Aylbyia/Regions/great houses of humanity/The Great Houses of Humanity|The Great Houses of Humanity]]
+- [[Fin's End]]
+- [[The Dracopeaks]]
+- [[The Eastern Continent]]
+- [[The Frosted South]]
+- [[The Older Brothers]]
+- [[The Platsmoor]]
+- [[The Realm of Vuuch]]
+- [[The Skal'ik Desert and Lyzykos]]
+- [[The Younger Brother]]
+- [[Tiulasa]]
+- [[Twilight]]
+- 

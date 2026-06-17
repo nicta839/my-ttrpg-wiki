@@ -1,0 +1,1 @@
+Speaker of the Word: Kalim Endora, spymaster. His role is known to all and he trades information with mercenaries directly.

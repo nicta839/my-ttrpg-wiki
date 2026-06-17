@@ -1,0 +1,1 @@
+Silksteel is harvested from the spiders in [[Tiulasa]]. They are sold almost exclusively to the [[Sparrow Trading Company]] for the manufacture of the sails of their airship. It is a very strong material that is also incredibly light.
