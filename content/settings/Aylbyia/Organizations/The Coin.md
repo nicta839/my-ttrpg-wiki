@@ -8,6 +8,13 @@ tags:
   - category/organizations
 ---
 Mark: A golden coin
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![the coin](../../../assets/aylbyia/the-coin/the-coin-fea9f382cc-1600.webp)](../../../assets/aylbyia/the-coin/the-coin-fea9f382cc-full.webp)
+
+> [!onenote-gallery]
+> [![the coin 2](../../../assets/aylbyia/the-coin/the-coin-2-3057278c06-800.webp)](../../../assets/aylbyia/the-coin/the-coin-2-3057278c06-full.webp)
+<!-- onenote-media:end -->
 
 Honored reputation: Respect contracts
 

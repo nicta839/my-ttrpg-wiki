@@ -8,6 +8,10 @@ tags:
   - category/organizations
 ---
 Mark: a blade with a hilt clutching a lightning bolt
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![band of blades](../../../assets/aylbyia/band-of-blades/band-of-blades-d6182b6e95-1600.webp)](../../../assets/aylbyia/band-of-blades/band-of-blades-d6182b6e95-full.webp)
+<!-- onenote-media:end -->
 
 Honored reputation: Will accomplish a task no matter what
 

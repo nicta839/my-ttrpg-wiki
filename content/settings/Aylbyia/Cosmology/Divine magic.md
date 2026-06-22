@@ -8,6 +8,13 @@ tags:
   - category/cosmology
 ---
 These feats of magic are possible through the channeling of the divine energy that flows towards the [[Plane of Flesh]] and granted by the [[Celestials]]. These miracles are obtained through dedicated worship of the Celestials.
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![priestess](../../../assets/aylbyia/divine-magic/priestess-c2da38d92f-1600.webp)](../../../assets/aylbyia/divine-magic/priestess-c2da38d92f-full.webp)
+
+> [!onenote-gallery]
+> [![priestess 2](../../../assets/aylbyia/divine-magic/priestess-2-cee2327bf1-800.webp)](../../../assets/aylbyia/divine-magic/priestess-2-cee2327bf1-full.webp)
+<!-- onenote-media:end -->
 
 Women are the only ones who can perform miracles using Divine magic. Men who perform divine magic are seen as heretics, followers and tempters of Twilight. Be wary of what magic you use where.
 

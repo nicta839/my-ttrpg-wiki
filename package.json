@@ -21,6 +21,7 @@
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
+    "import:onenote": "node scripts/import-onenote.mjs",
     "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts",
     "prebuild": "npm run install-plugins"
   },
@@ -55,6 +56,7 @@
     "lightningcss": "^1.31.1",
     "micromorph": "^0.4.5",
     "minimatch": "^10.1.1",
+    "parse5": "^7.3.0",
     "preact": "^10.28.2",
     "preact-render-to-string": "^6.6.5",
     "pretty-bytes": "^7.1.0",

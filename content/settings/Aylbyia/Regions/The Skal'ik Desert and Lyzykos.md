@@ -8,6 +8,15 @@ tags:
   - category/regions
 ---
 Most important city: [[Junon, The Celestial City]]
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![city in the desert](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/city-in-the-desert-74259f2d97-1600.webp)](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/city-in-the-desert-74259f2d97-full.webp)
+
+> [!onenote-gallery]
+> [![location in the desert](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/location-in-the-desert-f6ce09f0d1-800.webp)](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/location-in-the-desert-f6ce09f0d1-full.webp)
+>
+> [![mage in the desert](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/mage-in-the-desert-142556624c-800.webp)](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/mage-in-the-desert-142556624c-full.webp)
+<!-- onenote-media:end -->
 
 Important locations
 

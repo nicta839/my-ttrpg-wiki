@@ -9,6 +9,13 @@ tags:
   - category/factions
 ---
 Honored Nature: Courage
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![-1월](../../../assets/aylbyia/kingdom/platsmoor-2-d65ecc2ab9-1600.webp)](../../../assets/aylbyia/kingdom/platsmoor-2-d65ecc2ab9-full.webp)
+
+> [!onenote-gallery]
+> [![platsmoor king](../../../assets/aylbyia/kingdom/platsmoor-king-a08b95af01-800.webp)](../../../assets/aylbyia/kingdom/platsmoor-king-a08b95af01-full.webp)
+<!-- onenote-media:end -->
 
 Shadow Nature: Arrogance
 

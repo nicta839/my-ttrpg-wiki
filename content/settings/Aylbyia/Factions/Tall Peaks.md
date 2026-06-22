@@ -8,6 +8,13 @@ tags:
   - category/factions
 ---
 Honored Nature: Stoic
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![나•](../../../assets/aylbyia/the-older-brothers/tall-peaks-2-969da7149b-1600.webp)](../../../assets/aylbyia/the-older-brothers/tall-peaks-2-969da7149b-full.webp)
+
+> [!onenote-gallery]
+> [![tall peaks](../../../assets/aylbyia/tall-peaks/tall-peaks-d59bed04b7-800.webp)](../../../assets/aylbyia/tall-peaks/tall-peaks-d59bed04b7-full.webp)
+<!-- onenote-media:end -->
 
 Shadow Nature: Mysterious
 

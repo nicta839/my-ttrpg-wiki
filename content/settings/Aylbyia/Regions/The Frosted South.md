@@ -9,6 +9,15 @@ tags:
 ---
 - Most important city: [[South-of South Harbour]]
 - [[The Citadel of Frozen Crystal]]
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![frosted south2](../../../assets/aylbyia/the-frosted-south/frosted-south2-aa579bf1ea-1600.webp)](../../../assets/aylbyia/the-frosted-south/frosted-south2-aa579bf1ea-full.webp)
+
+> [!onenote-gallery]
+> [![frosted south](../../../assets/aylbyia/the-frosted-south/frosted-south-8ef0c3e7c4-800.webp)](../../../assets/aylbyia/the-frosted-south/frosted-south-8ef0c3e7c4-full.webp)
+>
+> [![frosted south 3](../../../assets/aylbyia/the-frosted-south/frosted-south-3-21f9ccedaf-800.webp)](../../../assets/aylbyia/the-frosted-south/frosted-south-3-21f9ccedaf-full.webp)
+<!-- onenote-media:end -->
 
 Region Flavor: Frozen land and earth. Inhospitable but home to creatures that can bring a pretty penny
 

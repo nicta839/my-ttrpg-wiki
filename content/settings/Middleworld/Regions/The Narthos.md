@@ -1,0 +1,24 @@
+---
+title: The Narthos
+type: region
+setting: Middleworld
+tags:
+  - setting/middleworld
+  - type/region
+onenote_source: Worldbuilding 2/Geography/The Narthos
+---
+
+Point of impact of tall crimson menhirs. It has now corrupted the land and some suspect Lake menthis as well. It spreads slowly and little is known as to how to stop it. It covers a great surface of the planet.
+
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![narthos 3](../../../assets/middleworld/the-narthos/narthos-3-b780a62b47-1600.webp)](../../../assets/middleworld/the-narthos/narthos-3-b780a62b47-full.webp)
+
+> [!onenote-gallery]
+> [![narthos 4](../../../assets/middleworld/the-narthos/narthos-4-a8db276b08-800.webp)](../../../assets/middleworld/the-narthos/narthos-4-a8db276b08-full.webp)
+>
+> [![narthos 1](../../../assets/middleworld/the-narthos/narthos-1-d9a45b1f3f-800.webp)](../../../assets/middleworld/the-narthos/narthos-1-d9a45b1f3f-full.webp)
+>
+> [![narthos 2](../../../assets/middleworld/the-narthos/narthos-2-da4cff77af-800.webp)](../../../assets/middleworld/the-narthos/narthos-2-da4cff77af-full.webp)
+<!-- onenote-media:end -->
+

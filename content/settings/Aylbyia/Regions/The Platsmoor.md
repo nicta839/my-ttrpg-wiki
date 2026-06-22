@@ -8,6 +8,13 @@ tags:
   - category/regions
 ---
 Most important city: [[Ziebglen]], Seat of Aumogonne
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![platsmoor](../../../assets/aylbyia/the-platsmoor/platsmoor-55702d5f0c-1600.webp)](../../../assets/aylbyia/the-platsmoor/platsmoor-55702d5f0c-full.webp)
+
+> [!onenote-gallery]
+> [![platsmoor 3](../../../assets/aylbyia/the-platsmoor/platsmoor-3-9e9cfc04c1-800.webp)](../../../assets/aylbyia/the-platsmoor/platsmoor-3-9e9cfc04c1-full.webp)
+<!-- onenote-media:end -->
 
 Region Flavor
 

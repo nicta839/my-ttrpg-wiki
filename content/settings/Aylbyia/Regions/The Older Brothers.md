@@ -8,6 +8,10 @@ tags:
   - category/regions
 ---
 Inhabited by the [[Mountain]] dwarves. The only point of access is through the Palace of the Sky Kings. The intricate sculpting architecture makes no sense for outsiders and seems to change every time you get there by airship (on invitation only).
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![나•](../../../assets/aylbyia/the-older-brothers/tall-peaks-2-969da7149b-1600.webp)](../../../assets/aylbyia/the-older-brothers/tall-peaks-2-969da7149b-full.webp)
+<!-- onenote-media:end -->
 
 Important locations
 

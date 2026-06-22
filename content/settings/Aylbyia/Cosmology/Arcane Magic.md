@@ -8,6 +8,15 @@ tags:
   - category/cosmology
 ---
 This is magic granted through the manipulation of the [[Natural flow]] and its understanding. It manifests in the harnessing of the space within reach and touching the flow in that space. It is a dangerous effort where harnessing the chaotic energies of this flow is a task to be attempted only with the help of someone to guide you.
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![wild magic](../../../assets/aylbyia/arcane-magic/wild-magic-2e5ff8376b-1600.webp)](../../../assets/aylbyia/arcane-magic/wild-magic-2e5ff8376b-full.webp)
+
+> [!onenote-gallery]
+> [![ND op ght 0 1](../../../assets/aylbyia/arcane-magic/blue-council-wizard-2-b62dfc4a67-800.webp)](../../../assets/aylbyia/arcane-magic/blue-council-wizard-2-b62dfc4a67-full.webp)
+>
+> [![also wizard](../../../assets/aylbyia/arcane-magic/also-wizard-4782570821-800.webp)](../../../assets/aylbyia/arcane-magic/also-wizard-4782570821-full.webp)
+<!-- onenote-media:end -->
 
 Gestures and foci are important when your character uses this magic. Equations of magic would be equally important, as such glyphs and runes allow the anchoring of the flow to a certain point in space.
 

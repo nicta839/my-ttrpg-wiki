@@ -81,3 +81,51 @@ article > h1 {
 blockquote {
   border-color: color-mix(in srgb, var(--tertiary) 65%, var(--lightgray));
 }
+
+// OneNote imports use custom callouts so the same Markdown renders as a responsive
+// hero/gallery in both Quartz and Obsidian.
+.callout[data-callout="onenote-hero"],
+.callout[data-callout="onenote-gallery"] {
+  --callout-color: transparent;
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  margin: 1.5rem 0;
+  padding: 0;
+
+  > .callout-title {
+    display: none;
+  }
+}
+
+.callout[data-callout="onenote-hero"] {
+  > .callout-content > p {
+    margin: 0;
+  }
+
+  img {
+    border-radius: 12px;
+    display: block;
+    max-height: 70vh;
+    object-fit: cover;
+    width: 100%;
+  }
+}
+
+.callout[data-callout="onenote-gallery"] > .callout-content {
+  display: grid;
+  gap: 0.8rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr));
+
+  > p {
+    margin: 0;
+  }
+
+  img {
+    aspect-ratio: 4 / 3;
+    border-radius: 10px;
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+  }
+}

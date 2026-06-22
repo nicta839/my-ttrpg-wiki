@@ -8,6 +8,13 @@ tags:
   - category/organizations
 ---
 Mark: A blue book with a golden eye on it
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![blue council wizard](../../../assets/aylbyia/blue-council/blue-council-wizard-47ef7b4ec8-1600.webp)](../../../assets/aylbyia/blue-council/blue-council-wizard-47ef7b4ec8-full.webp)
+
+> [!onenote-gallery]
+> [![넣추寸\](../../../assets/aylbyia/blue-council/blue-wizard-female-2cda80f883-800.webp)](../../../assets/aylbyia/blue-council/blue-wizard-female-2cda80f883-full.webp)
+<!-- onenote-media:end -->
 
 Honored reputation: Keeper of knowledge
 

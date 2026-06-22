@@ -8,6 +8,10 @@ tags:
   - category/organizations
 ---
 Mark: A simple green crystal
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![crystal smiths](../../../assets/aylbyia/crystalsmith/crystal-smiths-669aff9319-1600.webp)](../../../assets/aylbyia/crystalsmith/crystal-smiths-669aff9319-full.webp)
+<!-- onenote-media:end -->
 
 Honored reputation: Best artisans there are
 

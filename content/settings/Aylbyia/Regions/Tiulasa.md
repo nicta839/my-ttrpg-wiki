@@ -8,6 +8,13 @@ tags:
   - category/regions
 ---
 Most important city: [[Hatchaka]]
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![tiulasa people](../../../assets/aylbyia/tiulasa/tiulasa-people-24c5aa2596-1600.webp)](../../../assets/aylbyia/tiulasa/tiulasa-people-24c5aa2596-full.webp)
+
+> [!onenote-gallery]
+> [![tiulasa](../../../assets/aylbyia/tiulasa/tiulasa-59325c8b68-800.webp)](../../../assets/aylbyia/tiulasa/tiulasa-59325c8b68-full.webp)
+<!-- onenote-media:end -->
 
 Region Flavor: Hilly green region where civilization has not threaded yet. Fishing villages inhabited by proud people.
 

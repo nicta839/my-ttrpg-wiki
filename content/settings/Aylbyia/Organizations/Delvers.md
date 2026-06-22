@@ -8,6 +8,13 @@ tags:
   - category/organizations
 ---
 Mark: A pickaxe in a lamp
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![delvers](../../../assets/aylbyia/delvers/delvers-f79742bd8e-1600.webp)](../../../assets/aylbyia/delvers/delvers-f79742bd8e-full.webp)
+
+> [!onenote-gallery]
+> [![delvers 2](../../../assets/aylbyia/delvers/delvers-2-bb0108fe61-800.webp)](../../../assets/aylbyia/delvers/delvers-2-bb0108fe61-full.webp)
+<!-- onenote-media:end -->
 
 Honored reputation: Eager explorators
 

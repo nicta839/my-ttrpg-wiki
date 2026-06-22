@@ -8,6 +8,13 @@ tags:
   - category/regions
 ---
 Most important city: [[South Harbour]]
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![dracopeaks2](../../../assets/aylbyia/the-dracopeaks/dracopeaks2-10e2fe04bd-1600.webp)](../../../assets/aylbyia/the-dracopeaks/dracopeaks2-10e2fe04bd-full.webp)
+
+> [!onenote-gallery]
+> [![drakopeaks](../../../assets/aylbyia/the-dracopeaks/drakopeaks-45c4a17c4b-800.webp)](../../../assets/aylbyia/the-dracopeaks/drakopeaks-45c4a17c4b-full.webp)
+<!-- onenote-media:end -->
 
 People are not left to roam freely. You enter the city and stick to your business…Then "you go on your way, stranger".
 

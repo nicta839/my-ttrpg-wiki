@@ -8,6 +8,13 @@ tags:
   - category/regions
 ---
 Most important city: [[Tavik Nurlowk]]
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![realm of vuuch2](../../../assets/aylbyia/the-realm-of-vuuch/realm-of-vuuch2-6e1c62a06e-1600.webp)](../../../assets/aylbyia/the-realm-of-vuuch/realm-of-vuuch2-6e1c62a06e-full.webp)
+
+> [!onenote-gallery]
+> [![realm of vuuch](../../../assets/aylbyia/the-realm-of-vuuch/realm-of-vuuch-ad106581b7-800.webp)](../../../assets/aylbyia/the-realm-of-vuuch/realm-of-vuuch-ad106581b7-full.webp)
+<!-- onenote-media:end -->
 
 Region Flavor: Dangerous place where nature has retaken its hold over. Old ruins are covered by vegetation and wild animals are rampant. Small communities of treasure seekers roam the land if they are brave enough. Others come here to study the vegetation and go to the Unspoiled Garden to get samples for their work.
 

@@ -8,6 +8,13 @@ tags:
   - category/organizations
 ---
 Mark: A golden Mask
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![golden mask 2](../../../assets/aylbyia/golden-mask/golden-mask-2-4cb07bd400-1600.webp)](../../../assets/aylbyia/golden-mask/golden-mask-2-4cb07bd400-full.webp)
+
+> [!onenote-gallery]
+> [![golden mask](../../../assets/aylbyia/golden-mask/golden-mask-782f363333-800.webp)](../../../assets/aylbyia/golden-mask/golden-mask-782f363333-full.webp)
+<!-- onenote-media:end -->
 
 Honored reputation: Defenders of the realms
 

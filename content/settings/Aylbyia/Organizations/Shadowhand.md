@@ -8,6 +8,13 @@ tags:
   - category/organizations
 ---
 Mark: ??
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![shadowhand](../../../assets/aylbyia/shadowhand/shadowhand-187fc6aa52-1600.webp)](../../../assets/aylbyia/shadowhand/shadowhand-187fc6aa52-full.webp)
+
+> [!onenote-gallery]
+> [![shadowhand mage](../../../assets/aylbyia/shadowhand/shadowhand-mage-8eea689a51-800.webp)](../../../assets/aylbyia/shadowhand/shadowhand-mage-8eea689a51-full.webp)
+<!-- onenote-media:end -->
 
 Honored reputation: NOPE!
 

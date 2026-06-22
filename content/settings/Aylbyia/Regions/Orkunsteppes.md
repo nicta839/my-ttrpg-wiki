@@ -9,6 +9,13 @@ tags:
 ---
 - Most important city: [[Lor]], The First City
 - [[Unarchus]]
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![orkunsteppe](../../../assets/aylbyia/orkunsteppes/orkunsteppe-3dd46ea33c-1600.webp)](../../../assets/aylbyia/orkunsteppes/orkunsteppe-3dd46ea33c-full.webp)
+
+> [!onenote-gallery]
+> [![orc city](../../../assets/aylbyia/orkunsteppes/orc-city-5671825993-800.webp)](../../../assets/aylbyia/orkunsteppes/orc-city-5671825993-full.webp)
+<!-- onenote-media:end -->
 
 This area is lost to the world. Expeditions into these lands have been infructuous. Nobody has come back. Thus some have named this region : The Deadlands
 

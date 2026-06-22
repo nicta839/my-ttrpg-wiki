@@ -8,6 +8,15 @@ tags:
   - category/factions
 ---
 Driven off of their lands by an unknown enemy, they seem to have settled within the borders of the [[Queendom]] and the newfound lands of the [[Hill]] [[Dwarves]].
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![orcs and gobelins 2](../../../assets/aylbyia/orcs-and-goblinoids/orcs-and-gobelins-2-116ec3f8e4-1600.webp)](../../../assets/aylbyia/orcs-and-goblinoids/orcs-and-gobelins-2-116ec3f8e4-full.webp)
+
+> [!onenote-gallery]
+> [![orcs and goelins 3](../../../assets/aylbyia/orcs-and-goblinoids/orcs-and-goelins-3-4c86c3ca31-800.webp)](../../../assets/aylbyia/orcs-and-goblinoids/orcs-and-goelins-3-4c86c3ca31-full.webp)
+>
+> [![orcs and gobelins](../../../assets/aylbyia/orcs-and-goblinoids/orcs-and-gobelins-c9be782650-800.webp)](../../../assets/aylbyia/orcs-and-goblinoids/orcs-and-gobelins-c9be782650-full.webp)
+<!-- onenote-media:end -->
 
 Their numbers are unknown but they are thought to be a community that is focused on utilitarian ethics: What you do is of use to the community, you serve the whole. Their tactics are ruthless.
 

@@ -8,6 +8,13 @@ tags:
   - category/organizations
 ---
 Mark: A sparrow
+<!-- onenote-media:start -->
+> [!onenote-hero]
+> [![sparrow trading](../../../assets/aylbyia/sparrow-trading-company/sparrow-trading-b6fd58d301-1600.webp)](../../../assets/aylbyia/sparrow-trading-company/sparrow-trading-b6fd58d301-full.webp)
+
+> [!onenote-gallery]
+> [![sparrow trading 2](../../../assets/aylbyia/sparrow-trading-company/sparrow-trading-2-27e05bf488-800.webp)](../../../assets/aylbyia/sparrow-trading-company/sparrow-trading-2-27e05bf488-full.webp)
+<!-- onenote-media:end -->
 
 Honored reputation: Diligent Merchants
 
