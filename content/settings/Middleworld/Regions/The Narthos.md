@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/The Narthos
+category: Regions
+visibility: public
+description: Point of impact of tall crimson menhirs. It has now corrupted the land and some suspect Lake menthis as well.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 Point of impact of tall crimson menhirs. It has now corrupted the land and some suspect Lake menthis as well. It spreads slowly and little is known as to how to stop it. It covers a great surface of the planet.
@@ -22,3 +28,9 @@ Point of impact of tall crimson menhirs. It has now corrupted the land and some 
 > [![narthos 2](../../../assets/middleworld/the-narthos/narthos-2-da4cff77af-800.webp)](../../../assets/middleworld/the-narthos/narthos-2-da4cff77af-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

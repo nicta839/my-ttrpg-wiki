@@ -4,7 +4,13 @@ type: rule
 tags:
   - running-the-game
   - type/rule
+category: Homebrew
+visibility: public
+description: This is a variant on character creation inspired by the one used in Pathfinder second edition.
+related:
+  - running-the-game/Homebrew/Character creation/character creation variant rules
 ---
+
 This is a variant on character creation inspired by the one used in Pathfinder second edition. It gets rid of stat rolling or using an array to shape what you want how you want it by giving more importance to things like class chosen and background.
 
 Possible charater creation process to be decided during session 0
@@ -270,3 +276,9 @@ Overall, I've found the system to be flexible, powerful, thematic, and balanced 
 Why not give it a try for your next game?
 
 Kohteesta <[https://www.reddit.com/r/dndnext/comments/cw2d89/building_ability_scores_from_the_ground_up/](https://www.reddit.com/r/dndnext/comments/cw2d89/building_ability_scores_from_the_ground_up/)>
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[running-the-game/Homebrew/Character creation/character creation variant rules|character creation variant rules]]
+<!-- vault-enrichment:end -->

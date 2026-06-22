@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/history
 onenote_source: My Notebook/the middleworld/Founding Myth
+category: History
+visibility: public
+description: The world was birthed through song, created as the Singer saw fit. Gods were sang into existence and appointed to craft the planet and oversee its beings.
+related:
+  - settings/Middleworld/History/index
+  - settings/Middleworld/index
 ---
 
 First Song:
@@ -59,3 +65,10 @@ Sixth Song:
 Time passed but the Singer was not forgotten by everybody.
 
 The world succeeded in sealing the creature away but it was not yet to have a moment of respite. After the foretold time of the return of the Singer, an illuminated man, named XXXX, rose to power and decided to conquer the world. Something here about this person killing a god and creating the weird dead zone. The cataclysm happened, people suppose that the Singer returned and left
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/History/index|History]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

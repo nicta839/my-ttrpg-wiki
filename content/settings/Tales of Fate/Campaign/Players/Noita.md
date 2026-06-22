@@ -6,6 +6,9 @@ tags:
   - setting/tales-of-fate
   - type/campaign
 onenote_source: Tales of Fate/Players/Noita
+category: Campaign
+visibility: public
+description: Wizard apprentice. Her master disappeared in strange circumstances. Outlawed by other wizards, she seeks answers and it seems they are linked to the strange necklace of Kissa and Orso.
 ---
 
 Wizard apprentice. Her master disappeared in strange circumstances. Outlawed by other wizards, she seeks answers and it seems they are linked to the strange necklace of Kissa and Orso.

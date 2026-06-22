@@ -6,6 +6,9 @@ tags:
   - setting/spine-of-the-world
   - type/history
 onenote_source: Spine of the world/World/History
+category: History
+visibility: public
+description: -5000 Arrival of the Elves on the Prime Material Elves mercilessly push the Orcs from the land Elves start waging war on the Human Kingdom of Salidar and other human settlements Elves push this…
 ---
 
 - -5000

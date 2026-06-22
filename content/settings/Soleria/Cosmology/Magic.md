@@ -6,6 +6,9 @@ tags:
   - setting/soleria
   - type/cosmology
 onenote_source: SOleria/World/Magic
+category: Cosmology
+visibility: public
+description: Practitioners of magic are kept under a tight leash after the events that unfolded during Alera's rampage.
 ---
 
 Practitioners of magic are kept under a tight leash after the events that unfolded during Alera's rampage.  A blood sample is kept at a repository in Kaern'Dal in order to ensure that if a practitioner of magic was found to cause trouble, they could be hunted relentlessly and removed. All people found with a talent for magic must report to Kaern'Dal to receive an education to use their powers responsibly. Failure to do so would have you branded as a hedge magician.

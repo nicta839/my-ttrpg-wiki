@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/Eastern Borderlands
+category: Regions
+visibility: public
+description: Untamed lands filled with monsters, it is said that those brave enough to thread these lands eventually reach the Sea of Visions where they may perform a ritual to have their future foretold.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 Untamed lands filled with monsters, it is said that those brave enough to thread these lands eventually reach the Sea of Visions where they may perform a ritual to have their future foretold.
@@ -20,3 +26,9 @@ Untamed lands filled with monsters, it is said that those brave enough to thread
 > [![eastern borderlands true 3](../../../assets/middleworld/eastern-borderlands/eastern-borderlands-true-3-b34e0ab1d4-800.webp)](../../../assets/middleworld/eastern-borderlands/eastern-borderlands-true-3-b34e0ab1d4-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/Illorains
+category: Regions
+visibility: public
+description: Western and Eastern Illorain were the first provinces conquered by the 1st Emperor. They are known for their refined goods such as wine, jewely work, enchantments and tailoring.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 Western and Eastern Illorain were the first provinces conquered by the 1st Emperor. They are known for their refined goods such as wine, jewely work, enchantments and tailoring.
@@ -23,3 +29,10 @@ Western and Eastern Illorain were the first provinces conquered by the 1st Emper
 <!-- onenote-media:end -->
 
 Laroix is the brithplace of the current Empress whereas Val Soine is home to one of the most prestigious military academies.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

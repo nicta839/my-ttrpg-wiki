@@ -22,6 +22,9 @@ npm run import:onenote -- --promote
 
 # Repair exact media-block preservation and enforce private GM routing
 npm run import:onenote -- --finalize
+
+# Back up and enrich frontmatter plus related-note navigation
+npm run import:onenote -- --enrich-vault
 ```
 
 Use `--source`, `--vault`, or `--one2html` to override the configured local paths. The first run downloads `one2html` v1.3.1 for Apple silicon into `.quartz-cache` and verifies its SHA-256 checksum. Set `ONE2HTML_BIN` on another platform.

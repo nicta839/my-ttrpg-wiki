@@ -5,7 +5,14 @@ setting: Godshand
 tags:
   - setting/godshand
   - type/timeline
+category: Setting
+visibility: public
+description: "This is a living timeline that has elements added to it as the game continues to be played in time:"
+related:
+  - settings/Godshand/index
+  - settings/Godshand/Quests/wildsheep chase
 ---
+
 This is a living timeline that has elements added to it as the game continues to be played in time:
 
 
@@ -17,3 +24,10 @@ Some short time before the Festival of Master Debate
 
 It is almost time for the Festival of Master Debate
 - New One/two shot:
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Godshand/index|Godshand]]
+- [[settings/Godshand/Quests/wildsheep chase|wildsheep chase]]
+<!-- vault-enrichment:end -->

@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/lore
 onenote_source: Worldbuilding 2/Character creation/Ancestries allowed
+category: Society
+visibility: public
+description: All ancestries presented in the world section are allowed.
+related:
+  - settings/Middleworld/Society/Character Creation/index
+  - settings/Middleworld/index
 ---
 
 All ancestries presented in the world section are allowed.
@@ -25,3 +31,10 @@ Plane-Touched: You get a physical reaction when close to a planar or teleportati
 Giant Spawn: You may manipulate raw mana longer than other people before suffering its adverse effects
 
 Fey Folk: Your affinity with mana winds allows you to understand and manipulate it with greater ease than other people.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Society/Character Creation/index|Character creation]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

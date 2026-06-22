@@ -6,6 +6,17 @@ tags:
   - setting/tales-of-fate
   - type/lore
 onenote_source: Tales of Fate/World/Elves
+category: Society
+visibility: public
+description: Elves have no known lifespan. They live for as long as they do not fall sick or struck by a weapon/spell.
+related:
+  - settings/Tales of Fate/Society/index
 ---
 
 Elves have no known lifespan. They live for as long as they do not fall sick or struck by a weapon/spell.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Tales of Fate/Society/index|The People]]
+<!-- vault-enrichment:end -->

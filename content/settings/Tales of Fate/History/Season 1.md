@@ -6,6 +6,11 @@ tags:
   - setting/tales-of-fate
   - type/history
 onenote_source: Tales of Fate/World/Season 1
+category: History
+visibility: public
+description: Kissa escapes from the circus after meeting Orso. He gave her the impression that he was after the necklace she inherited from her grandmother.
+related:
+  - settings/Tales of Fate/History/index
 ---
 
 Episode 1: Escape from Granalin
@@ -102,3 +107,9 @@ The party is teleported close to the painting and cross the painting into the la
 The witches failed to duplicate the sparks of divine of Anoin, Nina and Unicorn.
 
 Barath, an old friend of Anoin, self proclaimed himself as god king of the desert. He grew up in the orphanage of Anoin before leaving after hearing voices. He used to be a peculiar warlord during the Crusades.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Tales of Fate/History/index|History]]
+<!-- vault-enrichment:end -->

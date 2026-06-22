@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/Ruins of Gomnigan
+category: Regions
+visibility: public
+description: Ruins of an ancient kingdom.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 Ruins of an ancient kingdom.
@@ -22,3 +28,9 @@ Ruins of an ancient kingdom.
 > [![gomnigan 2](../../../assets/middleworld/ruins-of-gomnigan/gomnigan-2-38477d02aa-800.webp)](../../../assets/middleworld/ruins-of-gomnigan/gomnigan-2-38477d02aa-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

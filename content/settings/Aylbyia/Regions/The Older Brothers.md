@@ -6,7 +6,17 @@ tags:
   - setting/aylbyia
   - type/region
   - category/regions
+category: Regions
+visibility: public
+description: Inhabited by the Mountain dwarves. The only point of access is through the Palace of the Sky Kings.
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Regions/Regions of the world
+  - settings/Aylbyia/Society/Ancestries/Mountain
+  - settings/Aylbyia/Settlements/Tower of a Thousand Stars
+  - settings/Aylbyia/Cosmology/Celestials and Saints/Saints/Andvar
 ---
+
 Inhabited by the [[Mountain]] dwarves. The only point of access is through the Palace of the Sky Kings. The intricate sculpting architecture makes no sense for outsiders and seems to change every time you get there by airship (on invitation only).
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -20,3 +30,13 @@ Important locations
 - Hall of Andvar: Hall of worship of Saint [[Andvar]]. Sober building of worship with no roof. Worshippers come here to show their resilience. Prime place of training of all paladins of the church.
 
 - Faindale: Location of the violent repression that is taking place. The only location that grants access to the [[Tower of a Thousand Stars]].
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
+- [[settings/Aylbyia/Society/Ancestries/Mountain|Mountain]]
+- [[settings/Aylbyia/Settlements/Tower of a Thousand Stars|Tower of a Thousand Stars]]
+- [[settings/Aylbyia/Cosmology/Celestials and Saints/Saints/Andvar|Andvar]]
+<!-- vault-enrichment:end -->

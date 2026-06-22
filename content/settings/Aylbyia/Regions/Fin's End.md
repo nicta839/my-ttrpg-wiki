@@ -6,7 +6,20 @@ tags:
   - setting/aylbyia
   - type/region
   - category/regions
+category: Regions
+visibility: public
+description: This immense forest is thought to be the home of elves.
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Organizations/Band of Blades
+  - settings/Aylbyia/Regions/Regions of the world
+  - settings/Aylbyia/Regions/The Skal'ik Desert and Lyzykos
+  - settings/Aylbyia/Settlements/Fin's end/Castle Sobet
+  - settings/Aylbyia/Settlements/Fin's end/Tritonya
+  - settings/Aylbyia/Society/Ancestries/Elves
+  - settings/Aylbyia/Timeline
 ---
+
 This immense forest is thought to be the home of elves. The forest is bordered by watchtowers. These are manned by soldiers of the [[Queendom]] The [[Elves]] that come out of the forest are usually haggard and seem to have lost all memories of what lies within the Forest itself.
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -21,3 +34,16 @@ Important locations
 -  [[Castle Bleakunpine]]
 - [[Castle Sobet]]
 - [[Tritonya]]
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Organizations/Band of Blades|Band of Blades]]
+- [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
+- [[settings/Aylbyia/Regions/The Skal'ik Desert and Lyzykos|The Skal'ik Desert and Lyzykos]]
+- [[settings/Aylbyia/Settlements/Fin's end/Castle Sobet|Castle Sobet]]
+- [[settings/Aylbyia/Settlements/Fin's end/Tritonya|Tritonya]]
+- [[settings/Aylbyia/Society/Ancestries/Elves|Elves]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+<!-- vault-enrichment:end -->

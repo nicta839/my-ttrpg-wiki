@@ -6,7 +6,20 @@ tags:
   - setting/aylbyia
   - type/organization
   - category/organizations
+category: Organizations
+visibility: public
+description: "Mark: a blade with a hilt clutching a lightning bolt"
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Factions/List of factions and organisations
+  - settings/Aylbyia/Timeline
+  - settings/Aylbyia/Factions/Kingdom
+  - settings/Aylbyia/Organizations/Golden Mask
+  - settings/Aylbyia/Factions/Queendom
+  - settings/Aylbyia/Regions/Twilight
+  - settings/Aylbyia/Regions/Fin's End
 ---
+
 Mark: a blade with a hilt clutching a lightning bolt
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -26,3 +39,16 @@ Gain reputation by:
 This is a renowned group of mercenaries. Aside from the standing armies of the [[Kingdom]] and the [[Golden Mask]] in the [[Queendom]], they are the next largest military force of the continent. They have several chapters accross the land and they are called to muster the castles at the edge of the [[Twilight]] or around [[Fin's End]] usually. This mercenary group has its numbers greatly diminished due to their advances into [[Twilight]] and the War of the Four Houses. They are looking to replenish their numbers.
 
 This mercenary company is split in several chapters : The Hammerheads, The Red Company, Conclave of Wardens, Dead Men, Knightly Orders … These chapters each have a specialty and are preferred for certain tasks. Sometimes the chapters will be on opposing ends of a conflict. This is resolved either by negotiation, paying off the other chapter, combat between champions or all out battle.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+- [[settings/Aylbyia/Factions/Kingdom|Kingdom]]
+- [[settings/Aylbyia/Organizations/Golden Mask|Golden Mask]]
+- [[settings/Aylbyia/Factions/Queendom|Queendom]]
+- [[settings/Aylbyia/Regions/Twilight|Twilight]]
+- [[settings/Aylbyia/Regions/Fin's End|Fin's End]]
+<!-- vault-enrichment:end -->

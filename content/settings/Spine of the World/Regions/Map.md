@@ -6,6 +6,8 @@ tags:
   - setting/spine-of-the-world
   - type/region
 onenote_source: Spine of the world/World/Map
+category: Regions
+visibility: public
 ---
 
 <!-- onenote-media:start -->

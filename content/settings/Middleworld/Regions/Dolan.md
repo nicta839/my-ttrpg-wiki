@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/Dolan
+category: Regions
+visibility: public
+description: Small province stuck in the valley of the wolven mountains.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 Small province stuck in the valley of the wolven mountains. Cromer is the seat of the greatest known order of monster slayer. The Province was struck by a plague that left the work of monster slaying mostly unfulfilled for a long while. Dangerous monsters still roam.
@@ -22,3 +28,9 @@ Small province stuck in the valley of the wolven mountains. Cromer is the seat o
 > [![dolan 2](../../../assets/middleworld/dolan/dolan-2-247a5cf020-800.webp)](../../../assets/middleworld/dolan/dolan-2-247a5cf020-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

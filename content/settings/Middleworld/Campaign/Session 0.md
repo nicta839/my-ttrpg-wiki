@@ -6,6 +6,11 @@ tags:
   - setting/middleworld
   - type/campaign
 onenote_source: Worldbuilding 2/session 0/Session 0
+category: Campaign
+visibility: public
+description: "Through session 0 we first establish everybody's expectations for the campaign:"
+related:
+  - settings/Middleworld/index
 ---
 
 Through session 0 we first establish everybody's expectations for the campaign:
@@ -15,3 +20,9 @@ Through session 0 we first establish everybody's expectations for the campaign:
 - We talk about homebrew rules and content
 - We agree on a theme and start character creation, making sure that all characters are connected narratively (know each other from some place before and have the same goal)
 - We pick a starting spot and then the DM gets started with preparations for session 1 while everyone finalizes their backstories.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

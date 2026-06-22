@@ -6,7 +6,20 @@ tags:
   - setting/aylbyia
   - type/faction
   - category/factions
+category: Factions
+visibility: public
+description: "War: Extensive use of the church's resources to wage war. Implacable soldiers who are experts at the use of magic and shock tactics to maintain peace throughout the land."
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Factions/List of factions and organisations
+  - settings/Aylbyia/Factions/Orcs and Goblinoids
+  - settings/Aylbyia/Organizations/Band of Blades
+  - settings/Aylbyia/Organizations/Golden Mask
+  - settings/Aylbyia/Regions/Fin's End
+  - settings/Aylbyia/Settlements/Junon, The Celestial City
+  - settings/Aylbyia/Timeline
 ---
+
 Honored Nature: Pious
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -38,3 +51,16 @@ NPCs:
 - High Enlightened: [[Sahar Fengelborn]], shrewd head of the [[Church of the Flame]]. She has made it known that she wishes to reunite the churches of the west and east under one banner… Her banner.
 - Blessed Sword of the Heavens: [[Sulama Diro]], she is the one who directs the troops of the church. First into the fray.
 - Speaker of the Word: [[Kalim Endora]], spymaster. His role is known to all and he trades information with mercenaries directly.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]
+- [[settings/Aylbyia/Factions/Orcs and Goblinoids|Orcs and Goblinoids]]
+- [[settings/Aylbyia/Organizations/Band of Blades|Band of Blades]]
+- [[settings/Aylbyia/Organizations/Golden Mask|Golden Mask]]
+- [[settings/Aylbyia/Regions/Fin's End|Fin's End]]
+- [[settings/Aylbyia/Settlements/Junon, The Celestial City|Junon, The Celestial City]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+<!-- vault-enrichment:end -->

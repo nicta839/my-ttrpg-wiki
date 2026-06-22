@@ -5,7 +5,20 @@ setting: Aylbyia
 tags:
   - setting/aylbyia
   - type/timeline
+category: Setting
+visibility: public
+description: The Celestials contact the Plane of Flesh and offer redemption First sighting of Halfling and Gnome who spread the word of the Celestials All races are touched by their call and send missionaries to…
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/History/History of the world
+  - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials
+  - settings/Aylbyia/Cosmology/The Planes/Plane of Flesh
+  - settings/Aylbyia/Society/Ancestries/Halfling
+  - settings/Aylbyia/Society/Ancestries/Gnome
+  - settings/Aylbyia/Regions/Twilight
+  - settings/Aylbyia/Settlements/Ziebglen
 ---
+
 - Year 0
 
 - The [[Celestials]] contact the [[Plane of Flesh]] and offer redemption
@@ -148,3 +161,16 @@ tags:
 
 - The Wager is taken back by the forces of the Queendom
 - Faindale is under siege
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/History/History of the world|History of the world]]
+- [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]]
+- [[settings/Aylbyia/Cosmology/The Planes/Plane of Flesh|Plane of Flesh]]
+- [[settings/Aylbyia/Society/Ancestries/Halfling|Halfling]]
+- [[settings/Aylbyia/Society/Ancestries/Gnome|Gnome]]
+- [[settings/Aylbyia/Regions/Twilight|Twilight]]
+- [[settings/Aylbyia/Settlements/Ziebglen|Ziebglen]]
+<!-- vault-enrichment:end -->

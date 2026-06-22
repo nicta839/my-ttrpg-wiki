@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/history
 onenote_source: Worldbuilding 2/The world/History
+category: History
+visibility: public
+description: -500 Vallios rediscovered and rebuilt by Western Factions -300 Meridios lands in the North are colonized by devout worshippers of the Lord of the Grave and Salena Mapping of the North Rise of Lura,…
+related:
+  - settings/Middleworld/index
+  - settings/Middleworld/History/Founding Myth
 ---
 
 - -500
@@ -56,3 +62,10 @@ onenote_source: Worldbuilding 2/The world/History
   - Prisoners of war, convicts and other criminals are sent to Ursa to mine for mana crystals
 - 550
   - Campaign Start
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/History/Founding Myth|Founding Myth]]
+<!-- vault-enrichment:end -->

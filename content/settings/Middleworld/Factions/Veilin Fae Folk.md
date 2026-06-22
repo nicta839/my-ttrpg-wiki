@@ -6,6 +6,11 @@ tags:
   - setting/middleworld
   - type/faction
 onenote_source: Worldbuilding 2/Factions/Veilin Fae Folk
+category: Factions
+visibility: public
+description: Attached to nature and traditions, golden trees grow above their manawells. They enjoy a mana-rich environement that may be the cause of their affinity for magic.
+related:
+  - settings/Middleworld/index
 ---
 
 Attached to nature and traditions, golden trees grow above their manawells. They enjoy a mana-rich environement that may be the cause of their affinity for magic.
@@ -21,3 +26,9 @@ Attached to nature and traditions, golden trees grow above their manawells. They
 <!-- onenote-media:end -->
 
 Separated for hundreds of years from their compatriotes in the Nevergreen forest and those that went to Meridios.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

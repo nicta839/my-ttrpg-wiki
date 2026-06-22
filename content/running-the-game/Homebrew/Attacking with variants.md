@@ -4,7 +4,13 @@ type: rule
 tags:
   - running-the-game
   - type/rule
+category: Homebrew
+visibility: public
+description: "Driving attack: attack roll and Athletics contest, on a success you and the target move up to 15 feet in the same direction if the creature is the same size or smaller than you."
+related:
+  - running-the-game/Homebrew/Homebrew rules
 ---
+
 Driving attack: attack roll and Athletics contest, on a success you and the target move up to 15 feet in the same direction if the creature is the same size or smaller than you.
 
 Guarded attack: attack roll with disadvantage but the next creature to attack you also has disadvantage.
@@ -22,3 +28,9 @@ staggering shot: give 2 AC to target, if creature is large or smaller and you h
 These are subject to change.
 
 There is a UA about this
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[running-the-game/Homebrew/Homebrew rules|Homebrew rules]]
+<!-- vault-enrichment:end -->

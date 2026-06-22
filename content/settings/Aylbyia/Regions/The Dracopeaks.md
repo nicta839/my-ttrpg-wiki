@@ -6,7 +6,17 @@ tags:
   - setting/aylbyia
   - type/region
   - category/regions
+category: Regions
+visibility: public
+description: People are not left to roam freely. You enter the city and stick to your business…Then "you go on your way, stranger".
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Regions/Regions of the world
+  - settings/Aylbyia/Society/Ancestries/Dragonborn
+  - settings/Aylbyia/Timeline
+  - settings/Aylbyia/Settlements/Drakopeaks/South Harbour
 ---
+
 Most important city: [[South Harbour]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -29,3 +39,13 @@ Art: ??
 Food: ??
 
 Lifestyle: ??
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
+- [[settings/Aylbyia/Society/Ancestries/Dragonborn|Dragonborn]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+- [[settings/Aylbyia/Settlements/Drakopeaks/South Harbour|South Harbour]]
+<!-- vault-enrichment:end -->

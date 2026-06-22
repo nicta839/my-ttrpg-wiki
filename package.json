@@ -22,6 +22,7 @@
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "import:onenote": "node scripts/import-onenote.mjs",
+    "enrich:vault": "node scripts/enrich-vault.mjs",
     "install-plugins": "npx tsx ./quartz/plugins/loader/install-plugins.ts",
     "prebuild": "npm run install-plugins"
   },

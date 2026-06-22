@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/organization
 onenote_source: Worldbuilding 2/Organizations/Hunters
+category: Organizations
+visibility: public
+description: Used to go around killing dangerous creatures for people. Reduced to barely just a few members after the great Lycan incident.
+related:
+  - settings/Middleworld/Organizations/index
+  - settings/Middleworld/index
 ---
 
 Used to go around killing dangerous creatures for people. Reduced to barely just a few members after the great Lycan incident.
@@ -21,3 +27,10 @@ Used to go around killing dangerous creatures for people. Reduced to barely just
 They were called in but it turned into a massacre as some of the members were turned into lycans as well. They quelled the lycanthrope uprising at the price of many of their own members.
 
 They are sometimes hired to hunt for monsters far away from their own lands (Wolven mountains) these days.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Organizations/index|Organizations]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

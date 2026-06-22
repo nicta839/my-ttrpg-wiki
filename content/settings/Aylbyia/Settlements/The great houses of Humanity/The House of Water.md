@@ -6,7 +6,16 @@ tags:
   - setting/aylbyia
   - type/settlement
   - category/settlements
+category: Settlements
+visibility: public
+description: Neutral location, meeting place for the houses, The greatest seat of knowledge, place of birth of the Blue Council.
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Factions/The Great Houses of Humanity
+  - settings/Aylbyia/Regions/great houses of humanity/The Great Houses of Humanity
+  - settings/Aylbyia/Organizations/Blue Council
 ---
+
 Most important city: The House of Water
 
 Neutral location, meeting place for the houses, The greatest seat of knowledge, place of birth of the [[Blue Council]]. These are all names that the House of Water carries. This city hosts the greatest library of the continent, an academy of magic and a town filled with individuals bent on the accumulation of knowledge and diplomacy. The livelihood of this location depends on the supplies brought in through its harbor from the neighbouring barronies. The neutrality of this place is further reinforced by the fact that most of the financial assets of the baronnies lie in the good care of the Bank of the Blue Council for safekeeping in case of… unexpected deaths of family members.
@@ -19,3 +28,12 @@ Important locations:
 - Sapphire Academy: Location of learning of the Arcane. People of high stature and gift come to learn the harness their arcane powers here.
 - Azure Dome: location of meeting of the baronesses of the land and seat of power of the Blue Council.
 - Amber district: Banks and businesses can be found here. Best tolerated black market location as well.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Factions/The Great Houses of Humanity|The Great Houses of Humanity]]
+- [[settings/Aylbyia/Regions/great houses of humanity/The Great Houses of Humanity|The Great Houses of Humanity]]
+- [[settings/Aylbyia/Organizations/Blue Council|Blue Council]]
+<!-- vault-enrichment:end -->

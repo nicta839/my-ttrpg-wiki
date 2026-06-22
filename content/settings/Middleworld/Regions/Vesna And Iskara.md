@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/Vesna and Iskara
+category: Regions
+visibility: public
+description: Grainery and bridge to the western provinces of the Empire. They also control land and sea trading routes with the Varesh.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 Grainery and bridge to the western provinces of the Empire. They also control land and sea trading routes with the Varesh.
@@ -20,3 +26,9 @@ Grainery and bridge to the western provinces of the Empire. They also control la
 > [![vesna 3](../../../assets/middleworld/vesna-and-iskara/vesna-3-219877940c-800.webp)](../../../assets/middleworld/vesna-and-iskara/vesna-3-219877940c-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

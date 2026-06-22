@@ -6,6 +6,9 @@ tags:
   - setting/tales-of-fate
   - type/npc
 onenote_source: Tales of Fate/Characters met/Anthony
+category: NPCs
+visibility: public
+description: Mentor and older brother/father figure for Anoin. He protects Anoin's secret from those who doubt his allegiances.
 ---
 
 Mentor and older brother/father figure for Anoin. He protects Anoin's secret from those who doubt his allegiances.

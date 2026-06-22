@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/Gallanda jungle
+category: Regions
+visibility: public
+description: Mostly unexplored land. An unexperienced teleporter stranded themselves in the middle of it and have reported that there is a forest of trees made of glass in the middle of it.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 Mostly unexplored land. An unexperienced teleporter stranded themselves in the middle of it and have reported that there is a forest of trees made of glass in the middle of it. Sadly the teleporter disappeared after reporting this.
@@ -20,3 +26,9 @@ Mostly unexplored land. An unexperienced teleporter stranded themselves in the m
 > [![gallanda 3](../../../assets/middleworld/gallanda-jungle/gallanda-3-cfb4e39081-800.webp)](../../../assets/middleworld/gallanda-jungle/gallanda-3-cfb4e39081-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

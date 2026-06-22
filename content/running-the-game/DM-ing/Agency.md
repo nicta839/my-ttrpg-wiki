@@ -4,7 +4,13 @@ type: guide
 tags:
   - running-the-game
   - type/guide
+category: DM-ing
+visibility: public
+description: Too often the NPCs are shown as helpless in a situation.
+related:
+  - running-the-game/How the game is and can be run
 ---
+
 Character agency and Narrative agency
 
 Too often the NPCs are shown as helpless in a situation. This is not something that jives very well with settings alternative to europeo-centered narratives because it gives the vibe of european saviors coming to the rescue of the “lesser” people (low class, minority represented people, etc...). I aim to emphasize that the people are not helpless or waiting to be saved. They act according to whatever situation gives them freedom to act. The villagers will fight you to save their family and cattle if they can, at least they will cover their escape. Wild animals might fight you to the death if you’re equally wounded, flee if overwhelmed or drag a companion’s corpse if they see the opportunity. People will help you if you are friendly to them and will not suffer to be insulted if you are not. This should help to ground characters in whatever “reality” they are in.
@@ -20,3 +26,9 @@ Asking if there is a crate filled with something in the room you are fighting in
 I am not a big fan of some of what I read on Reddit about "grittiness", so-called "historical accuracy" and immersion elements because they seem to often forget that some things are just not very fun to play. As such, I refuse to portray sexual violence of any kind in, sexism isn’t a thing (usually) in the settings I wish to portray; sexual preferences and gender identity are a non-issues for the characters at large. In a world where you can change who you are, what you are and that empowers you, I do not want people to have to deal with these things. I reserve the darker and more evil tendencies of things in the world to evil characters and antagonists. You have the power to bring people with petty bigotted beliefs down a peg in these worlds.  If someone happens to exhibits sexist tendencies, they probably are meant to be portrayed as someone who definitely is not good and who definitely is an antagonist. They do not reflect my views on sexuality and my view of people who do not share my identity. Worlds can be dark without us resorting to these cheap shortcuts.
 
 For the immersion elements such as arrow tracking, encumbrance, rations, armor wear, I choose to go the “reasonable” route. I will ask to restock, repair the armor when you are in town or in a place to buy, but I will enforce encumbrance rules and rations only where it seems that there is either player abuse or when the party is stranded in the middle of nowhere and have to think about what they do with their food and water.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[running-the-game/How the game is and can be run|How the game is and can be run]]
+<!-- vault-enrichment:end -->

@@ -5,7 +5,13 @@ setting: Godshand
 tags:
   - setting/godshand
   - type/note
+category: Setting
+visibility: public
+description: What is the town's name? Named after after a neabry landmark Godshand Why are people in this town?
+related:
+  - settings/Godshand/index
 ---
+
 1. What is the town's name?
 	1. Named after after a neabry landmark
 	2. Godshand
@@ -33,3 +39,9 @@ tags:
 	5. Extra extra extra wildlife danger (plants and animal)
 
 Showing the hand is showing the finger
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Godshand/index|Godshand]]
+<!-- vault-enrichment:end -->

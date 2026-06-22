@@ -6,6 +6,9 @@ tags:
   - setting/tales-of-fate
   - type/campaign
 onenote_source: Tales of Fate/Players/Anoin
+category: Campaign
+visibility: public
+description: Crusade veteran, he was foretold of a great future in which he will have a crucial part ot play.
 ---
 
 Crusade veteran, he was foretold of a great future in which he will have a crucial part ot play.

@@ -6,6 +6,9 @@ tags:
   - setting/spine-of-the-world
   - type/history
 onenote_source: Spine of the world/World/The Story so far
+category: History
+visibility: public
+description: "Season 0: The Inquisition Implication of the Blackwood in a nefarious experiment involving crystals similar the the Circuits Establishment of the Inquisition by orders of the Archon of Stone…"
 ---
 
 - Season 0: The Inquisition

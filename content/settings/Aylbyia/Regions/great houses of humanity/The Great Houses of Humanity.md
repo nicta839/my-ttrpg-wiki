@@ -6,7 +6,20 @@ tags:
   - setting/aylbyia
   - type/region
   - category/regions
+category: Regions
+visibility: public
+description: "Geography: Mountain bordered region where every town and village is turned towards the sea."
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Organizations/Blue Council
+  - settings/Aylbyia/Regions/Regions of the world
+  - settings/Aylbyia/Settlements/The great houses of Humanity/The House of Water
+  - settings/Aylbyia/Organizations/Shadowhand
+  - settings/Aylbyia/Regions/great houses of humanity/Southfang
+  - settings/Aylbyia/Regions/great houses of humanity/Sinderealms
+  - settings/Aylbyia/Regions/great houses of humanity/Northfangs
 ---
+
 Most important city: [[The House of Water]]
 
 
@@ -45,3 +58,16 @@ Lifestyle: Blessed by good weather, the commoners of this place take each day on
 - Marcourt: Effective seat and city of House Overstar. They enjoy good trading with the Queendom.
 
 - Korslet: Necessary point of passage for land trade towards the Sea and the baronnies.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Organizations/Blue Council|Blue Council]]
+- [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
+- [[settings/Aylbyia/Settlements/The great houses of Humanity/The House of Water|The House of Water]]
+- [[settings/Aylbyia/Organizations/Shadowhand|Shadowhand]]
+- [[settings/Aylbyia/Regions/great houses of humanity/Southfang|Southfang]]
+- [[settings/Aylbyia/Regions/great houses of humanity/Sinderealms|Sinderealms]]
+- [[settings/Aylbyia/Regions/great houses of humanity/Northfangs|Northfangs]]
+<!-- vault-enrichment:end -->

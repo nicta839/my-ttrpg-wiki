@@ -4,7 +4,13 @@ type: rule
 tags:
   - running-the-game
   - type/rule
+category: Homebrew
+visibility: public
+description: To avoid the yo-yo effect of falling to 0HP and being healed back up without any issue, I would like to introduce something that incentivizes keeping yourself and your allies up.
+related:
+  - running-the-game/Homebrew/Homebrew rules
 ---
+
 To avoid the yo-yo effect of falling to 0HP and being healed back up without any issue, I would like to introduce something that incentivizes keeping yourself and your allies up.
 
 This is a copy of a post made on reddit by DM_Biggs on r/DNDBehindTheScreen : Injury System and Tables
@@ -138,3 +144,9 @@ Very Severe: lasts 1d10 weeks
 20. A Fighting Chance - no effect
 
 We can add additional tools for you to thwart the effects of these injuries: healer feat with more benefitial effects such as helping reduce medicine check DCs and helping cure/reduce up to major injuries, adding additonal spells such as "cure minor injury" and "cure major injury" and potions specifically geared towards healing injuries and not HP and as such increase the value of herbalism kit proficiencies and the like.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[running-the-game/Homebrew/Homebrew rules|Homebrew rules]]
+<!-- vault-enrichment:end -->

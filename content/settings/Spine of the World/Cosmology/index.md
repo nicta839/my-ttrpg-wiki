@@ -6,6 +6,13 @@ tags:
   - setting/spine-of-the-world
   - type/cosmology
 onenote_source: Spine of the world/World/Religion
+category: Cosmology
+visibility: public
+description: At first, the universe was but chaos as magical energies, matter, and space moved around wildly.
+related:
+  - settings/Spine of the World/Cosmology/Aangarahd
+  - settings/Spine of the World/Cosmology/Elves and sleep
+  - settings/Spine of the World/Cosmology/Sehanine Moonbow
 ---
 
 # Myths of Creation:
@@ -57,3 +64,11 @@ I admit I entertained the idea when I first heard it. I am after all a man of sc
 If they are right though... No, I shall continue banishing these heretical thoughts from my mind.
 
 -Elmeraz the Wise, Grand Historian and Keeper of Knowledge. "Journal and meditations: Late Years."
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Spine of the World/Cosmology/Aangarahd|Aangarahd]]
+- [[settings/Spine of the World/Cosmology/Elves and sleep|Elves and sleep]]
+- [[settings/Spine of the World/Cosmology/Sehanine Moonbow|Sehanine Moonbow]]
+<!-- vault-enrichment:end -->

@@ -6,7 +6,18 @@ tags:
   - setting/aylbyia
   - type/organization
   - category/organizations
+category: Organizations
+visibility: public
+description: "Shadow reputation: Abusing their monopoly"
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Factions/List of factions and organisations
+  - settings/Aylbyia/Organizations/The Coin
+  - settings/Aylbyia/Society/Silksteel
+  - settings/Aylbyia/Timeline
+  - settings/Aylbyia/Settlements/Junon, The Celestial City
 ---
+
 Mark: A sparrow
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -29,3 +40,14 @@ Gain reputation by:
 - Trading [[Silksteel]] with them
 
 This is the enterprise that has come up with the design for airships. They keep the secrets of its fabrication to themselves. They are composed mostly of tinkerers and woodworkers. The seat of the organization is located in [[Junon, The Celestial City]] and has another branch in the Hallowroost. They are made up of gnomes and halflings mostly.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]
+- [[settings/Aylbyia/Organizations/The Coin|The Coin]]
+- [[settings/Aylbyia/Society/Silksteel|Silksteel]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+- [[settings/Aylbyia/Settlements/Junon, The Celestial City|Junon, The Celestial City]]
+<!-- vault-enrichment:end -->

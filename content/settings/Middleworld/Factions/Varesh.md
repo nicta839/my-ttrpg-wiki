@@ -6,6 +6,11 @@ tags:
   - setting/middleworld
   - type/faction
 onenote_source: Worldbuilding 2/Factions/Varesh
+category: Factions
+visibility: public
+description: The desert is richer than it seems. These people have mastered both seafaring and extreme environments. Constantly ahead of everyone else in terms of innovation.
+related:
+  - settings/Middleworld/index
 ---
 
 The desert is richer than it seems. These people have mastered both seafaring and extreme environments. Constantly ahead of everyone else in terms of innovation.
@@ -24,3 +29,8 @@ The desert is richer than it seems. These people have mastered both seafaring an
 > [![varesh 6](../../../assets/middleworld/varesh/varesh-6-40a971ed27-800.webp)](../../../assets/middleworld/varesh/varesh-6-40a971ed27-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

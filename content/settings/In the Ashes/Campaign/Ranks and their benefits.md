@@ -6,6 +6,9 @@ tags:
   - setting/in-the-ashes
   - type/campaign
 onenote_source: In the ashes/campaign/Ranks and their benefits
+category: Campaign
+visibility: public
+description: The restrictions to each of these areas help you understand the flavor of what I want to get from them.
 ---
 
 Kingdom

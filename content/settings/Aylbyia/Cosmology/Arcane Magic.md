@@ -6,7 +6,20 @@ tags:
   - setting/aylbyia
   - type/cosmology
   - category/cosmology
+category: Cosmology
+visibility: public
+description: This is magic granted through the manipulation of the Natural flow and its understanding.
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Cosmology/The cosmos, gods and magic
+  - settings/Aylbyia/History/Founding myth
+  - settings/Aylbyia/Cosmology/The Planes/Natural flow
+  - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Cidias
+  - settings/Aylbyia/Cosmology/The Planes/Heavens
+  - settings/Aylbyia/Cosmology/The Planes/Plane of Flesh
+  - settings/Aylbyia/Cosmology/The Planes/ethereal plane
 ---
+
 This is magic granted through the manipulation of the [[Natural flow]] and its understanding. It manifests in the harnessing of the space within reach and touching the flow in that space. It is a dangerous effort where harnessing the chaotic energies of this flow is a task to be attempted only with the help of someone to guide you.
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -25,3 +38,16 @@ One must be careful when practicing arcane magic and planar transport in particu
 Some people manifest a powerful pull of the natural flow without any training. These people are taken in by [[Blue Council]] educators in order to teach them how to harness their powers. Some of them escape detection for a very long time and are then hunted down after proof has been obtained of the danger that they pose to the people.
 
 (Mechanically: For players wanting to go for a wild magic sorcerer, we will be using a homebrewed version I have found to be quite a bit more powerful than the PHB one, but can also backfire much more dramatically.)
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Cosmology/The cosmos, gods and magic|The cosmos, gods and magic]]
+- [[settings/Aylbyia/History/Founding myth|Founding myth]]
+- [[settings/Aylbyia/Cosmology/The Planes/Natural flow|Natural flow]]
+- [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Cidias|Cidias]]
+- [[settings/Aylbyia/Cosmology/The Planes/Heavens|Heavens]]
+- [[settings/Aylbyia/Cosmology/The Planes/Plane of Flesh|Plane of Flesh]]
+- [[settings/Aylbyia/Cosmology/The Planes/ethereal plane|ethereal plane]]
+<!-- vault-enrichment:end -->

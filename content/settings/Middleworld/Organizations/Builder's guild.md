@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/organization
 onenote_source: Worldbuilding 2/Organizations/Builder's guild
+category: Organizations
+visibility: public
+description: Established in Gildain, moved to Vallios, they have now undertaken a contract to try and save Tesagred from sinking into the surrounding marshes.
+related:
+  - settings/Middleworld/Organizations/index
+  - settings/Middleworld/index
 ---
 
 Established in Gildain, moved to Vallios, they have now undertaken a contract to try and save Tesagred from sinking into the surrounding marshes.
@@ -18,3 +24,9 @@ Established in Gildain, moved to Vallios, they have now undertaken a contract to
 > [![buildersguild 2](../../../assets/middleworld/builder-s-guild/buildersguild-2-e36799f7fa-800.webp)](../../../assets/middleworld/builder-s-guild/buildersguild-2-e36799f7fa-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Organizations/index|Organizations]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

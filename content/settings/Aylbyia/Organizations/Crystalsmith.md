@@ -6,7 +6,19 @@ tags:
   - setting/aylbyia
   - type/organization
   - category/organizations
+category: Organizations
+visibility: public
+description: "Honored reputation: Best artisans there are"
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Factions/List of factions and organisations
+  - settings/Aylbyia/Factions/Tall Peaks
+  - settings/Aylbyia/Settlements/Tower of a Thousand Stars
+  - settings/Aylbyia/Timeline
+  - settings/Aylbyia/Society/Ancestries/Mountain
+  - settings/Aylbyia/Society/Ancestries/Dwarves
 ---
+
 Mark: A simple green crystal
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -23,3 +35,15 @@ Gain reputation by:
 - Offering them gifts in the form of knowledge about stone
 
 They are an organization made up exclusively of [[Mountain]] [[Dwarves]]. Their headquarters is in the Tower of a Thousand Stars from where they ship their cargo. The cargo is escorted by one of their members until their location. They can be paid in goods or knowledge and lore about stone. They prefer to be paid upfront for their work. They stay mostly silent except for these rare trade transactions. They sometimes ask for people to procure them with rare goods and ingredients.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]
+- [[settings/Aylbyia/Factions/Tall Peaks|Tall Peaks]]
+- [[settings/Aylbyia/Settlements/Tower of a Thousand Stars|Tower of a Thousand Stars]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+- [[settings/Aylbyia/Society/Ancestries/Mountain|Mountain]]
+- [[settings/Aylbyia/Society/Ancestries/Dwarves|Dwarves]]
+<!-- vault-enrichment:end -->

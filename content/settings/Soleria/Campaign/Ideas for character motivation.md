@@ -6,6 +6,9 @@ tags:
   - setting/soleria
   - type/campaign
 onenote_source: SOleria/Session 0/Ideas for character motivation
+category: Campaign
+visibility: public
+description: There are several mysteries and lost knowledge that remain to be uncovered in the world
 ---
 
 There are several mysteries and lost knowledge that remain to be uncovered in the world

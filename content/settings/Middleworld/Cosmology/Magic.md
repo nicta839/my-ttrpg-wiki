@@ -6,6 +6,11 @@ tags:
   - setting/middleworld
   - type/cosmology
 onenote_source: Worldbuilding 2/The world/Magic
+category: Cosmology
+visibility: public
+description: Mana pools are wells/veins that go into the crust of the planet and spew magical energy.
+related:
+  - settings/Middleworld/index
 ---
 
 # Mana pools
@@ -41,3 +46,9 @@ This form of magic is obtained through the binding with some other creature or i
 This form of magic is practiced by those who excel in pushing the mana winds just what is needed to create a chain reaction that results in the spell wanted. Where divine and arcane magic require dedication and focus, this form of magic is best used by those who have good intuition.
 
 (Generally Druids, Rangers and some bards)
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

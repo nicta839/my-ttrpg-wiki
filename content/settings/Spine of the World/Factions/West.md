@@ -6,6 +6,9 @@ tags:
   - setting/spine-of-the-world
   - type/faction
 onenote_source: Spine of the world/Factions/West
+category: Factions
+visibility: public
+description: "Three towers stand outside of the city on the Western shores of Ebou Dar. They are respectively called from North to South : Circuit of Heaven, Circuit of the Sun and the Silver Circuit."
 ---
 
 Ebou Dar :

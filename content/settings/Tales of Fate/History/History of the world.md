@@ -6,6 +6,11 @@ tags:
   - setting/tales-of-fate
   - type/history
 onenote_source: Tales of Fate/World/History of the world
+category: History
+visibility: public
+description: The Delian Order fought death and served life. They hid the trinity artifacts from the world and disappeared.
+related:
+  - settings/Tales of Fate/History/index
 ---
 
 The Delian Order fought death and served life. They hid the trinity artifacts from the world and disappeared.
@@ -19,3 +24,9 @@ The world has known Crusades against areas where religions other than the one pr
 There was an ancient conflict between wizards and a thieve's guild. Kissa's grandmother was part of it.
 
 It was decided by the Council of Great Wizards that some forms of magic be outlawed if practiced away from licensed institutions and practitioners.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Tales of Fate/History/index|History]]
+<!-- vault-enrichment:end -->

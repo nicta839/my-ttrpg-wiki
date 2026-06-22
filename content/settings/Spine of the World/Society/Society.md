@@ -6,6 +6,9 @@ tags:
   - setting/spine-of-the-world
   - type/lore
 onenote_source: Spine of the world/World/Society
+category: Society
+visibility: public
+description: This is an ordered society with established rulers and those who are ruled.
 ---
 
 This is an ordered society with established rulers and those who are ruled.

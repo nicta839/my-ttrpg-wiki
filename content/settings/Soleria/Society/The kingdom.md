@@ -6,6 +6,9 @@ tags:
   - setting/soleria
   - type/lore
 onenote_source: SOleria/World/The kingdom
+category: Society
+visibility: public
+description: Big old machine that is built not on the success of Suriel, but on the disappearance of opposition to the cult of Suriel.
 ---
 
 Big old machine that is built not on the success of Suriel, but on the disappearance of opposition to the cult of Suriel.

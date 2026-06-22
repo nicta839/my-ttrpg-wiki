@@ -6,7 +6,18 @@ tags:
   - setting/aylbyia
   - type/organization
   - category/organizations
+category: Organizations
+visibility: public
+description: "Mark: A blue book with a golden eye on it"
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Cosmology/Arcane Magic
+  - settings/Aylbyia/Factions/List of factions and organisations
+  - settings/Aylbyia/Settlements/The great houses of Humanity/The House of Water
+  - settings/Aylbyia/Timeline
+  - settings/Aylbyia/Regions/great houses of humanity/The Great Houses of Humanity
 ---
+
 Mark: A blue book with a golden eye on it
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -30,3 +41,14 @@ Gain reputation by:
 - Bringing them live/dead magical creatures to experiment on.
 
 Their influence resides mostly within the [[settings/Aylbyia/Regions/great houses of humanity/The Great Houses of Humanity|The Great Houses of Humanity]] but they operate all throughout the land to find practitioners of magics
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Cosmology/Arcane Magic|Arcane Magic]]
+- [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]
+- [[settings/Aylbyia/Settlements/The great houses of Humanity/The House of Water|The House of Water]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+- [[settings/Aylbyia/Regions/great houses of humanity/The Great Houses of Humanity|The Great Houses of Humanity]]
+<!-- vault-enrichment:end -->

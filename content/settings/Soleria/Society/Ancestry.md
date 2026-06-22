@@ -6,6 +6,9 @@ tags:
   - setting/soleria
   - type/lore
 onenote_source: SOleria/World/Ancestry
+category: Society
+visibility: public
+description: Dwarves have been displaced to the western side of the continent, mostly in the Valor lands, Midlands, Fleurian Grasslands and Tempest Headlands.
 ---
 
 Dwarves have been displaced to the western side of the continent, mostly in the Valor lands, Midlands, Fleurian Grasslands and Tempest Headlands. They typically follow worship of Nerigoth even though no cleric of Nerigoth has ever been able to perform the magic of old since the "cleansing" of Xavian. They are entrepreneuring and audacious.

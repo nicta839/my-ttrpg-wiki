@@ -15,6 +15,7 @@ import {
   stageImport,
   summarizeDryRun,
 } from "./lib/onenote-import.mjs"
+import { enrichVault } from "./lib/vault-enrichment.mjs"
 
 const repoRoot = process.cwd()
 const defaults = {
@@ -31,6 +32,7 @@ Usage:
   npm run import:onenote -- --approve-all       # approve and resolve review entries
   npm run import:onenote -- --promote           # promote approved review entries
   npm run import:onenote -- --finalize           # repair preservation and private routing
+  npm run import:onenote -- --enrich-vault       # enrich metadata and related links
 
 Options:
   --source <path>       OneNote notebook export root
@@ -41,6 +43,7 @@ Options:
   --approve-all         Approve all pages/media and resolve conflicts safely
   --promote             Promote approved review.yaml entries
   --finalize            Repair media blocks and relocate private GM notes
+  --enrich-vault        Back up and enrich vault metadata and related links
   --keep-extraction     Keep temporary one2html output for debugging
   --help                Show this help
 
@@ -54,6 +57,7 @@ function parseArgs(argv) {
     approveAll: false,
     promote: false,
     finalize: false,
+    enrichVault: false,
     forceStage: false,
     keepExtraction: false,
   }
@@ -64,6 +68,7 @@ function parseArgs(argv) {
     else if (arg === "--approve-all") options.approveAll = true
     else if (arg === "--promote") options.promote = true
     else if (arg === "--finalize") options.finalize = true
+    else if (arg === "--enrich-vault") options.enrichVault = true
     else if (arg === "--force-stage") {
       options.stage = true
       options.forceStage = true
@@ -76,10 +81,17 @@ function parseArgs(argv) {
     } else throw new Error(`Unknown option: ${arg}`)
   }
   if (
-    [options.stage, options.approveAll, options.promote, options.finalize].filter(Boolean).length >
-    1
+    [
+      options.stage,
+      options.approveAll,
+      options.promote,
+      options.finalize,
+      options.enrichVault,
+    ].filter(Boolean).length > 1
   ) {
-    throw new Error("Choose one of --stage, --approve-all, --promote, or --finalize")
+    throw new Error(
+      "Choose one of --stage, --approve-all, --promote, --finalize, or --enrich-vault",
+    )
   }
   return options
 }
@@ -106,6 +118,10 @@ async function main() {
     const repaired = await repairExistingMediaFromBackup({ vaultRoot })
     const relocated = await relocatePrivateGmThoughts({ vaultRoot })
     console.log(JSON.stringify({ repaired, relocated }, null, 2))
+    return
+  }
+  if (options.enrichVault) {
+    console.log(JSON.stringify(await enrichVault({ vaultRoot, apply: true }), null, 2))
     return
   }
   const sourceRoot = path.resolve(options.source)

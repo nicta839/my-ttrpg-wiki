@@ -6,7 +6,13 @@ tags:
   - setting/aylbyia
   - type/society
   - category/society
+category: Society
+visibility: public
+description: I want to make languages more unique to what your character is able to do and how well they are able to converse with people.
+related:
+  - settings/Aylbyia/index
 ---
+
 I want to make languages more unique to what your character is able to do and how well they are able to converse with people. You choose the mother tongue of your character. Other languages learned come from your background. Other common languages can be understood when spoken, but you probably can't read or write them well if you are not proficient in them.
 
 Common:
@@ -25,3 +31,9 @@ Unusual:
 - Tavisian: Ancient language that has a written form but not spoken. This language is sometimes found on ancient ritual sites and magical rituals.
 - Naturespeak/Druidic: Language of natural elements in the world, mostly spoken by druids and creatures such as elementals.
 - Celestial: Language sang for those who travel through the celestial flow. Elaborate version of High Skal.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+<!-- vault-enrichment:end -->

@@ -6,6 +6,11 @@ tags:
   - setting/tales-of-fate
   - type/history
 onenote_source: Tales of Fate/World/Season 2
+category: History
+visibility: public
+description: The party arrives in the resplendent city of Barathia after a harrowing crossing of the desert.
+related:
+  - settings/Tales of Fate/History/index
 ---
 
 Episode 1: The Jewel of the desert
@@ -69,3 +74,9 @@ The group cures a diseased salamander and discover the device powering the forge
 Ueli explains that Orso is actually Nathaniel and is responsible for everything. The reactivation of the Hand, the crusades and every conflict imaginable. Ueli tried to outsmart him but was ultimately slayed and brought back as a lich. He was able to protect himself by binding his soul. However, he guesses that Ueli enforced a powerful enchantment over his body, split Ueli's soul and has the pieces contained/protected inside reanimated dragons. Noita receives the key to the tower and the heartfelt pride of her master. Her enchantment magic might be the only thing that would allow the mortals to sruvive the onslaught of the undead.
 
 The group is resolute to take control of the tower and go foward.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Tales of Fate/History/index|History]]
+<!-- vault-enrichment:end -->

@@ -6,6 +6,9 @@ tags:
   - setting/tales-of-fate
   - type/organization
 onenote_source: Tales of Fate/Organizations/Ministry of Magic
+category: Organizations
+visibility: public
+description: The Institution that delivers licences to practitioners of magic. Once registered, there probably is some kind of way for them to track you if needed.
 ---
 
 The Institution that delivers licences to practitioners of magic. Once registered, there probably is some kind of way for them to track you if needed.

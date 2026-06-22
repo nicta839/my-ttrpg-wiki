@@ -6,6 +6,11 @@ tags:
   - setting/middleworld
   - type/faction
 onenote_source: Worldbuilding 2/Factions/Vallios
+category: Factions
+visibility: public
+description: '"Mediterranean" city with a large mana well'
+related:
+  - settings/Middleworld/index
 ---
 
 "Mediterranean" city with a large mana well
@@ -21,3 +26,9 @@ onenote_source: Worldbuilding 2/Factions/Vallios
 <!-- onenote-media:end -->
 
 Huge port, very large cityscape that covers the entire island. All people mix in here. All is fair game in this city as long as you don't fall on the wrong side of the Guard and you don't cause trouble to the richer folks.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

@@ -6,6 +6,9 @@ tags:
   - setting/spine-of-the-world
   - type/lore
 onenote_source: Spine of the world/World/Structure of the Empire
+category: World
+visibility: public
+description: "Shuraz : Supreme Emperor of All the PLanes"
 ---
 
 Shuraz : Supreme Emperor of All the PLanes

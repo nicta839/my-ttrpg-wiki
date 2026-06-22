@@ -6,7 +6,20 @@ tags:
   - setting/aylbyia
   - type/region
   - category/regions
+category: Regions
+visibility: public
+description: "Most important city: Ziebglen, Seat of Aumogonne"
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Factions/Churches/Church of Light
+  - settings/Aylbyia/Factions/Kingdom
+  - settings/Aylbyia/NPCs/kingdom/Johan de Meyer
+  - settings/Aylbyia/Regions/Regions of the world
+  - settings/Aylbyia/Timeline
+  - settings/Aylbyia/Settlements/Ziebglen
+  - settings/Aylbyia/Regions/Orkunsteppes
 ---
+
 Most important city: [[Ziebglen]], Seat of Aumogonne
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -51,3 +64,16 @@ Important locations
 - Lesidia: Small mining village, sending their ore to Breytowne.
 
 - Breytowne: Port city focused on shipping goods to the [barronies](settings/Aylbyia/Regions/great%20houses%20of%20humanity/The%20Great%20Houses%20of%20Humanity.md).
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Factions/Churches/Church of Light|Church of Light]]
+- [[settings/Aylbyia/Factions/Kingdom|Kingdom]]
+- [[settings/Aylbyia/NPCs/kingdom/Johan de Meyer|Johan de Meyer]]
+- [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+- [[settings/Aylbyia/Settlements/Ziebglen|Ziebglen]]
+- [[settings/Aylbyia/Regions/Orkunsteppes|Orkunsteppes]]
+<!-- vault-enrichment:end -->

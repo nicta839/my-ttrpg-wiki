@@ -6,7 +6,25 @@ tags:
   - setting/aylbyia
   - type/history
   - category/history
+category: History
+visibility: public
+description: I cut this section into the founding myths of the world that explain the metaphysical origins of the world and then more known history of the people and the land.
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/History/Founding myth
+  - settings/Aylbyia/Cosmology/Religion
+  - settings/Aylbyia/Timeline
 ---
+
 I cut this section into the founding myths of the world that explain the metaphysical origins of the world and then more known history of the people and the land.
 
 You can explore the [[Founding myth]] of this world as thought by the Church in its [[Religion]] or have a look directly at the [[settings/Aylbyia/Timeline]].
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/History/Founding myth|Founding myth]]
+- [[settings/Aylbyia/Cosmology/Religion|Religion]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+<!-- vault-enrichment:end -->

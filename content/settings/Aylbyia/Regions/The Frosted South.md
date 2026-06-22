@@ -6,7 +6,17 @@ tags:
   - setting/aylbyia
   - type/region
   - category/regions
+category: Regions
+visibility: public
+description: "Most important city: South-of South Harbour The Citadel of Frozen Crystal"
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Regions/Regions of the world
+  - settings/Aylbyia/Timeline
+  - settings/Aylbyia/Settlements/The Frosted South/South-of South Harbour
+  - settings/Aylbyia/Settlements/The Frosted South/The Citadel of Frozen Crystal
 ---
+
 - Most important city: [[South-of South Harbour]]
 - [[The Citadel of Frozen Crystal]]
 <!-- onenote-media:start -->
@@ -31,3 +41,12 @@ Food: Fish and seal meat
 
 Lifestyle: Oriented towards fishing and trading with those who come here to seek fortune in exchange of shelter and material for their expedition.
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+- [[settings/Aylbyia/Settlements/The Frosted South/South-of South Harbour|South-of South Harbour]]
+- [[settings/Aylbyia/Settlements/The Frosted South/The Citadel of Frozen Crystal|The Citadel of Frozen Crystal]]
+<!-- vault-enrichment:end -->

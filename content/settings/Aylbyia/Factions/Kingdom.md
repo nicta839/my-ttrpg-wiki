@@ -7,7 +7,20 @@ tags:
   - setting/aylbyia
   - type/faction
   - category/factions
+category: Factions
+visibility: public
+description: "Leader: King Johan de Meyer, old veteran of the battlefield. He was maimed during a defense of Klett and was since then forced into taking a more serious hand into politics."
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Factions/List of factions and organisations
+  - settings/Aylbyia/NPCs/kingdom/Aralga Steelguard
+  - settings/Aylbyia/NPCs/kingdom/Johan de Meyer
+  - settings/Aylbyia/Organizations/Band of Blades
+  - settings/Aylbyia/Timeline
+  - settings/Aylbyia/Settlements/Ziebglen
+  - settings/Aylbyia/Regions/The Platsmoor
 ---
+
 Honored Nature: Courage
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -39,3 +52,16 @@ NPCs:
 - High Enlightened: [[Maeva Delmin]]
 - Archmage: [[Duran Selenor]]
 -  Merchant: [[Aralga Steelguard]]
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]
+- [[settings/Aylbyia/NPCs/kingdom/Aralga Steelguard|Aralga Steelguard]]
+- [[settings/Aylbyia/NPCs/kingdom/Johan de Meyer|Johan de Meyer]]
+- [[settings/Aylbyia/Organizations/Band of Blades|Band of Blades]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+- [[settings/Aylbyia/Settlements/Ziebglen|Ziebglen]]
+- [[settings/Aylbyia/Regions/The Platsmoor|The Platsmoor]]
+<!-- vault-enrichment:end -->

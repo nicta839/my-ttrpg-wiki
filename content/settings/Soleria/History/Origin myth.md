@@ -6,6 +6,9 @@ tags:
   - setting/soleria
   - type/history
 onenote_source: SOleria/World/Origin myth
+category: History
+visibility: public
+description: The world is thought to have been created by a single entity that split into what is now known as Suriel and Nerigoth.
 ---
 
 The world is thought to have been created by a single entity that split into what is now known as Suriel and Nerigoth. The two entities then started warring as they were the antitheiss of one another. After the destruction of the other continents of this world, they decided to not squander the existence of those they helped birth and removed themselves from the world. They left behind a piece of their essence to inhabit a chosen champion, a weapon and a beast of their own making to battle each other.

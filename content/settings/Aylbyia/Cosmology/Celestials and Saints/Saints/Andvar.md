@@ -6,5 +6,25 @@ tags:
   - setting/aylbyia
   - type/cosmology
   - category/cosmology
+category: Cosmology
+visibility: public
+description: "Andvar: Notorious knight who faught alone against overwhelming odds. They are the embodiement of courage and determination."
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials and Saints
+  - settings/Aylbyia/Cosmology/Celestials and Saints/Saints/Saints
+  - settings/Aylbyia/Cosmology/Religion
+  - settings/Aylbyia/Regions/The Older Brothers
 ---
+
 Andvar: Notorious knight who faught alone against overwhelming odds. They are the embodiement of courage and determination.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials and Saints|Celestials and Saints]]
+- [[settings/Aylbyia/Cosmology/Celestials and Saints/Saints/Saints|Saints]]
+- [[settings/Aylbyia/Cosmology/Religion|Religion]]
+- [[settings/Aylbyia/Regions/The Older Brothers|The Older Brothers]]
+<!-- vault-enrichment:end -->

@@ -4,7 +4,13 @@ type: rule
 tags:
   - running-the-game
   - type/rule
+category: Homebrew
+visibility: public
+description: The goal of this mechanic is to incentivise action rather than reaction from the players towards the setting as well as promote roleplaying between players.
+related:
+  - running-the-game/Homebrew/Homebrew rules
 ---
+
 The goal of this mechanic is to incentivise action rather than reaction from the players towards the setting as well as promote roleplaying between players. At the beginning or end of each session, you announce three objectives that your character wants to accomplish during the play session (“Conan wants to befriend the dwarves”, “Esmeralda wants to defeat the evil litch”, “Kitara wants to gain the trust of Delina”). At the end of the session we see together if those goals were accomplished or if you worked towards them.
 
 If your goal concerned a major event in the world, an NPC or a party member, you get 1 Bond Point (BP) if you succeeded or failed after a genuine attempt. If you worked towards it you get 0,5 BP.
@@ -44,3 +50,9 @@ Bond points can be banked. Bond points can "buy" you special abilities.
 |6|Put on the DM hat with your buddies. The players decide together what happens. The DM will step in if it completely breaks the universe... You can't murder a god. You could however make something incredible happen.<br><br>Example:<br><br>Players : "The thief didn't slip away with the McGuffin! Something happens to them and we catch up"<br><br>DM: "Okay, The thief is caught by Team Rocket who is also attempting to get the artifact for their own needs and the party happens to get to the thief at the same time than them"<br><br>Players: "Oh no, but Team Rocket is missing the big fighter guy and the mage guy this time around..that'll make combat easier"<br><br>DM: "Okay, roll initiative!"|
 
 This system is subject to change as we play.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[running-the-game/Homebrew/Homebrew rules|Homebrew rules]]
+<!-- vault-enrichment:end -->

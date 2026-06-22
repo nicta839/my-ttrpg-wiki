@@ -6,6 +6,9 @@ tags:
   - setting/soleria
   - type/region
 onenote_source: SOleria/World/World Map
+category: Regions
+visibility: public
+description: Shoutout to u/bavarianbayarean on reddit for the awesome map! All credits go to them.
 ---
 
 Shoutout to u/bavarianbayarean on reddit for the awesome map! All credits go to them.

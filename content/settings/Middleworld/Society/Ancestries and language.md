@@ -6,6 +6,11 @@ tags:
   - setting/middleworld
   - type/lore
 onenote_source: Worldbuilding 2/The world/Ancestries and language
+category: Society
+visibility: public
+description: "There are several ancestries that can be traced in this world: Fey folk, Giant Spawn, Plane Touched, Dragon influenced, Old Races, Short Folk and humans."
+related:
+  - settings/Middleworld/index
 ---
 
 Fey folk:
@@ -134,3 +139,9 @@ Dragonborn
 Lizardfolk
 
 S
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

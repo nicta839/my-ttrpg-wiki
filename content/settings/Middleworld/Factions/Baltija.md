@@ -6,6 +6,11 @@ tags:
   - setting/middleworld
   - type/faction
 onenote_source: Worldbuilding 2/Factions/Baltija
+category: Factions
+visibility: public
+description: Only known entrance built to head into the Shadow Range.
+related:
+  - settings/Middleworld/index
 ---
 
 Only known entrance built to head into the Shadow Range. Some speculate to reach the ruins of Gomnigan, others say it is to reach some old treasure or tomb. Experts in seafaring, they provided much in terms of troops and boats during the conflict with the Empire.
@@ -20,3 +25,8 @@ Only known entrance built to head into the Shadow Range. Some speculate to reach
 > [![baltija 1](../../../assets/middleworld/baltija/baltija-1-97ecedfdff-800.webp)](../../../assets/middleworld/baltija/baltija-1-97ecedfdff-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

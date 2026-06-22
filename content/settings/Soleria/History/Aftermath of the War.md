@@ -6,6 +6,9 @@ tags:
   - setting/soleria
   - type/history
 onenote_source: SOleria/World/Aftermath of the War
+category: History
+visibility: public
+description: The proxy war of Suriel and Nerigoth and the subsequent rampage of Alera put an immediate end to all enmities before the continent plunged into complete destruction.
 ---
 
 The proxy war of Suriel and Nerigoth and the subsequent rampage of Alera put an immediate end to all enmities before the continent plunged into complete destruction. As the people focused on rebuilding and managing the areas of destruction, issues of relocation, land ownership, writing of history started becoming issues.

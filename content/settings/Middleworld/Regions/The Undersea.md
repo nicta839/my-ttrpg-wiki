@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/The Undersea
+category: Regions
+visibility: public
+description: Home of the waterfolk and portal to the elemental plane of Water. They were pushed out when an ancient race was awoken and nearly drove them to extinction.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 Home of the waterfolk and portal to the elemental plane of Water. They were pushed out when an ancient race was awoken and nearly drove them to extinction.
@@ -18,3 +24,9 @@ Home of the waterfolk and portal to the elemental plane of Water. They were push
 > [![undersea 2](../../../assets/middleworld/the-undersea/undersea-2-012b7e6478-800.webp)](../../../assets/middleworld/the-undersea/undersea-2-012b7e6478-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

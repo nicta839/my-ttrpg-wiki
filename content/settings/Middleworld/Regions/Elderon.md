@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/Elderon
+category: Regions
+visibility: public
+description: A cursed location that has fallen into eternal darkness.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 A cursed location that has fallen into eternal darkness. A constant storm brews over it. Little is known of this location's situation and what lives in it. The plains of Oplana are mostly uninhabited although some records of these places are left.
@@ -18,3 +24,9 @@ A cursed location that has fallen into eternal darkness. A constant storm brews 
 > [![elderon 2](../../../assets/middleworld/elderon/elderon-2-5d1263a68b-800.webp)](../../../assets/middleworld/elderon/elderon-2-5d1263a68b-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

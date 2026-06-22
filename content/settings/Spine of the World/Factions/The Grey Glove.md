@@ -6,6 +6,9 @@ tags:
   - setting/spine-of-the-world
   - type/faction
 onenote_source: Spine of the world/Factions/The Grey Glove
+category: Factions
+visibility: public
+description: "This organization works throughout the continent very much like a mafia: organized racketeering, gambling, theft, prostitution but especially the smuggling of magical artifacts and other rarities in…"
 ---
 
 This organization works throughout the continent very much like a mafia: organized racketeering, gambling, theft, prostitution but especially the smuggling of magical artifacts and other rarities in and out of different cities.

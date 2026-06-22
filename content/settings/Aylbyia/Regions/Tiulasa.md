@@ -6,7 +6,17 @@ tags:
   - setting/aylbyia
   - type/region
   - category/regions
+category: Regions
+visibility: public
+description: "Region Flavor: Hilly green region where civilization has not threaded yet. Fishing villages inhabited by proud people."
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Regions/Regions of the world
+  - settings/Aylbyia/Society/Silksteel
+  - settings/Aylbyia/Timeline
+  - settings/Aylbyia/Settlements/Hatchaka
 ---
+
 Most important city: [[Hatchaka]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -40,3 +50,13 @@ Lifestyle: The people of this land live mostly isolated from the rest of the wor
 - Jothim: Fishing village that enjoys the relative safety of fishing within the boundaries of its bay and trade with Bruluxus
 
 - The Corrupted Tavik: Once the only mountain city of this island, Tavik has now fallen to a strange plague. Noone has threaded the road to Tavik in years and the dead fish in the bay of the Bitter Stream attest of the continuing hanging ominousness of the location.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
+- [[settings/Aylbyia/Society/Silksteel|Silksteel]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+- [[settings/Aylbyia/Settlements/Hatchaka|Hatchaka]]
+<!-- vault-enrichment:end -->

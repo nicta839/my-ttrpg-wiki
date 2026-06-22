@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/Osirios Wastes
+category: Regions
+visibility: public
+description: Blessed location, this shining sand desert is threaded only by the devout and is said to be the locations of portals towards the positive Energy plane.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 Blessed location, this shining sand desert is threaded only by the devout and is said to be the locations of portals towards the positive Energy plane.
@@ -18,3 +24,9 @@ Blessed location, this shining sand desert is threaded only by the devout and is
 > [![osirios 1](../../../assets/middleworld/osirios-wastes/osirios-1-0b9641fc41-800.webp)](../../../assets/middleworld/osirios-wastes/osirios-1-0b9641fc41-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

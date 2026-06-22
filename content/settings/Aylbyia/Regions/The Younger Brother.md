@@ -6,7 +6,15 @@ tags:
   - setting/aylbyia
   - type/region
   - category/regions
+category: Regions
+visibility: public
+description: Smaller and older mountains than the Older Brother, the Hill dwarves came tumbling down some 300 years ago from them and established towns and cities within the valley east of these mountains.
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Regions/Regions of the world
+  - settings/Aylbyia/Society/Ancestries/Hill
 ---
+
 Smaller and older mountains than the Older Brother, the [[Hill]] dwarves came tumbling down some 300 years ago from them and established towns and cities within the valley east of these mountains.
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -29,3 +37,11 @@ Smaller and older mountains than the Older Brother, the [[Hill]] dwarves came tu
 - Bugundhelm: Rich city that thrives on the extraction of precious stones that can be found flowing from the river.
 
 - Hachenford: City that has faired poorly thanks to the arrival of mining dwarves upstream. They are in tension with their northern neighbours and have had to rely on trade tariffs for goods passing through to make do.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
+- [[settings/Aylbyia/Society/Ancestries/Hill|Hill]]
+<!-- vault-enrichment:end -->

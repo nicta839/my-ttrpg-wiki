@@ -6,6 +6,9 @@ tags:
   - setting/in-the-ashes
   - type/campaign
 onenote_source: In the ashes/campaign/Liegedom management
+category: Campaign
+visibility: public
+description: This system should not distract from the characters being central.
 ---
 
 This system should not distract from the characters being central.

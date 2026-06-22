@@ -6,6 +6,9 @@ tags:
   - setting/in-the-ashes
   - type/campaign
 onenote_source: In the ashes/campaign/Homestones
+category: Campaign
+visibility: public
+description: Communities build around stones called Homestones.
 ---
 
 Communities build around stones called Homestones. Homestones run the gambit from skipping pebble to boulder. They burn anyone but their rightful "ruler" and only one person may be attuned to a stone, but a person may be attuned to many stones.

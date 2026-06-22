@@ -6,6 +6,11 @@ tags:
   - setting/middleworld
   - type/faction
 onenote_source: Worldbuilding 2/Factions/Gildain
+category: Factions
+visibility: public
+description: Old dwarven kingdom, extremely attached to traditions and boasts about being the rampart of the world against the Empire.
+related:
+  - settings/Middleworld/index
 ---
 
 Old dwarven kingdom, extremely attached to traditions and boasts about being the rampart of the world against the Empire. If you wish for something sturdy to be built and lots of them, these are the people to call. Heavy on mining and has access to exclusive resources.
@@ -25,3 +30,9 @@ Old dwarven kingdom, extremely attached to traditions and boasts about being the
 <!-- onenote-media:end -->
 
 The Voidlands are also ripe for refining or transforming certain ore.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

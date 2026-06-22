@@ -6,6 +6,9 @@ tags:
   - setting/spine-of-the-world
   - type/faction
 onenote_source: Spine of the world/Factions/Tar Valon
+category: Factions
+visibility: public
+description: Capital city and center of power for the Empire.
 ---
 
 Capital city and center of power for the Empire. The city is also called the Marble Spire. The city was built using magic. The roads are made of white marble stone. The houses seem to be made of single carved white stone.

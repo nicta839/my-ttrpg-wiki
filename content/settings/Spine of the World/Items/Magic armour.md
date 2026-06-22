@@ -6,6 +6,9 @@ tags:
   - setting/spine-of-the-world
   - type/item
 onenote_source: Spine of the world/Items/Magic armour
+category: Items
+visibility: public
+description: "Salix: Studded leather (+1) (requires attunement). May remove one magical effect on self using a bonus action. Similar mechanics to the Dispel Magic spell."
 ---
 
 - Salix: Studded leather (+1) (requires attunement). May remove one magical effect on self using a bonus action. Similar mechanics to the Dispel Magic spell.

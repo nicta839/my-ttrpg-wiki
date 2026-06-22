@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/Surnia and Numitorem
+category: Regions
+visibility: public
+description: Final and Westernmost province of the Empire. Poorer region of the Empire, they provide mostly stone and stoneworkd for the rest of the Empire.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 Final and Westernmost province of the Empire. Poorer region of the Empire, they provide mostly stone and stoneworkd for the rest of the Empire.
@@ -18,3 +24,9 @@ Final and Westernmost province of the Empire. Poorer region of the Empire, they 
 > [![surnia 1](../../../assets/middleworld/surnia-and-numitorem/surnia-1-234fc875ab-800.webp)](../../../assets/middleworld/surnia-and-numitorem/surnia-1-234fc875ab-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

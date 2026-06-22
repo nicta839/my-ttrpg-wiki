@@ -6,6 +6,9 @@ tags:
   - setting/spine-of-the-world
   - type/item
 onenote_source: Spine of the world/Items/Curse of Salidar
+category: Items
+visibility: public
+description: Curse set upon the city in some unholy ritual.
 ---
 
 Curse set upon the city in some unholy ritual.

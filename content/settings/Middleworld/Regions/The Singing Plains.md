@@ -6,8 +6,21 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/The Singing plains
+category: Regions
+visibility: public
+description: Extremely flat plains. The saying goes "If your pet runs away on the Singing plains, it will be a fortnight before you lose sight of it".
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 Extremely flat plains. The saying goes "If your pet runs away on the Singing plains, it will be a fortnight before you lose sight of it". The wind carries the sound from the Nevergreen forest. The leaves of this forest are close together and have little holes that produce a whistling sound when wind passes through them.
 
 Childern's stories claim that it actually is the sound of mirthful pixies or other fey.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

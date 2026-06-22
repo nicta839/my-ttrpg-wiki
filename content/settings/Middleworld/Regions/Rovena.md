@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/Rovena
+category: Regions
+visibility: public
+description: Northern Province of the Empire. It is mostly known for its export of wood and carpentry work.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 Northern Province of the Empire. It is mostly known for its export of wood and carpentry work. The main city of this province is Sarton. This city sports the oldest known wooden castle, rebuilt several times. It serves today as a meeting location for the local lords and merchants.
@@ -18,3 +24,9 @@ Northern Province of the Empire. It is mostly known for its export of wood and c
 > [![rovena 2](../../../assets/middleworld/rovena/rovena-2-99b0c9b219-800.webp)](../../../assets/middleworld/rovena/rovena-2-99b0c9b219-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

@@ -6,7 +6,15 @@ tags:
   - setting/aylbyia
   - type/faction
   - category/factions
+category: Factions
+visibility: public
+description: "Commerce: Trading through the Crystalsmith and contracting of people to gather materials for them."
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Factions/List of factions and organisations
+  - settings/Aylbyia/Organizations/Crystalsmith
 ---
+
 Honored Nature: Stoic
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -33,3 +41,11 @@ Politics: The "Decadent" have been driven out of their territory. They are thoug
 Shadow activities: ??
 
 NPCs: ??
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]
+- [[settings/Aylbyia/Organizations/Crystalsmith|Crystalsmith]]
+<!-- vault-enrichment:end -->

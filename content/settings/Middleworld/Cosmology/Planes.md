@@ -6,6 +6,11 @@ tags:
   - setting/middleworld
   - type/cosmology
 onenote_source: Worldbuilding 2/The world/Planes
+category: Cosmology
+visibility: public
+description: Planes are physical places on this plane of existence, little pocket dimensions that are close-by.
+related:
+  - settings/Middleworld/index
 ---
 
 Planes are  physical places on this plane of existence, little pocket dimensions that are close-by. Traveling to any of them is an arduous task only to be undertaken by the bravest. Portals to cross from a plane to another exist in various places and are sometimes marked or recorded in books.
@@ -29,3 +34,9 @@ Beyond the Planes of the Middleworld: The Space Beyond is unknown. Humans claim 
 Teleportation: The bending of space in the Middleworld leave a trace in their wake for a few hours. Good arcanists and some Plane-touched are able to retrace where the other end of that portal leads to.
 
 Moons: There are a total of 5 moons. Four of them have been measured being of similar size, the last and furthest one is thought to be significantly larger than the other ones
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

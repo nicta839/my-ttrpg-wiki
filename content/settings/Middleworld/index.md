@@ -6,6 +6,13 @@ tags:
   - setting/middleworld
   - type/lore
 onenote_source: Worldbuilding 2/The world/Introduction
+category: Setting
+visibility: public
+description: The world has gone through several renewals. Little is known about the times before.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/History/index
+  - settings/Middleworld/Organizations/index
 ---
 
 The world has gone through several renewals. Little is known about the times before.
@@ -15,3 +22,11 @@ The world underwent a great upheaval as a twisted celestial entity was created a
 As the world recovered, another calamity was to fall upon it. Conjuring powers from the dark beyond, Lura, The Godslayer, enticed many and sought to steal the essence of divinity from the gods. He raised armies and waged war upon the world, managing to even slay Salena (Godess of Magic). The gods overwhelmingly retaliated and created a realm for themselves away from Lura and the mortals, barring themselves behind inpenetrable gates. Lura vanished when he took in the essence of divinity and cursed the land of Elderon. It has now been 550 years since then.
 
 A new Empire has risen from the ashes of those events. However, momentus events are about to change the status quo.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/History/index|History]]
+- [[settings/Middleworld/Organizations/index|Organizations]]
+<!-- vault-enrichment:end -->

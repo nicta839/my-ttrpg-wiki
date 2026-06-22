@@ -6,6 +6,9 @@ tags:
   - setting/spine-of-the-world
   - type/item
 onenote_source: Spine of the world/Items/Magic weapon
+category: Items
+visibility: public
+description: "Mercy: (+2 dagger requires attunement) Tool of the one said to be the best assassin in service to a God (to be discovered through lore and investigation in order to determine who this god is)."
 ---
 
 Mercy: (+2 dagger requires attunement) Tool of the one said to be the best assassin in service to a God (to be discovered through lore and investigation in order to determine who this god is). It was said to have been wielded to relieve those of their lives of suffering.

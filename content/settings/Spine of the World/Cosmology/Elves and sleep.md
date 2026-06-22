@@ -6,6 +6,11 @@ tags:
   - setting/spine-of-the-world
   - type/cosmology
 onenote_source: Spine of the world/World/Elves and sleep
+category: Cosmology
+visibility: public
+description: Elves cannot sleep. They are gifted with being sparred the burden of reliving their past msitakes and fears in the form of dreams.
+related:
+  - settings/Spine of the World/Cosmology/index
 ---
 
 Elves cannot sleep. They are gifted with being sparred the burden of reliving their past msitakes and fears in the form of dreams.
@@ -19,3 +24,9 @@ Once allowed to dream, an elf may choose to dream or not. They are no longer imm
 Eladrin disappeared :
 
 The eladrin mysteriously vanished from the Prime Material plane from one day to the next nearly some 100 years ago. This was called the "Great Exodus". They are assumed to have travelled to the Feywild but the few remaining refuse to share this information.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Spine of the World/Cosmology/index|Religion]]
+<!-- vault-enrichment:end -->

@@ -6,6 +6,11 @@ tags:
   - setting/middleworld
   - type/faction
 onenote_source: Worldbuilding 2/Factions/Gerland
+category: Factions
+visibility: public
+description: Grainery of the bay. On the forefront of the war, they sent many soldiers to fight. They are stubborn and honest folk who do not shy away from work while leading a simple life.
+related:
+  - settings/Middleworld/index
 ---
 
 Grainery of the bay. On the forefront of the war, they sent many soldiers to fight. They are stubborn and honest folk who do not shy away from work while leading a simple life.
@@ -20,3 +25,8 @@ Grainery of the bay. On the forefront of the war, they sent many soldiers to fig
 > [![gerland 3](../../../assets/middleworld/gerland/gerland-3-f221352efb-800.webp)](../../../assets/middleworld/gerland/gerland-3-f221352efb-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

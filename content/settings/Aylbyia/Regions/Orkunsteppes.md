@@ -6,7 +6,17 @@ tags:
   - setting/aylbyia
   - type/region
   - category/regions
+category: Regions
+visibility: public
+description: "Most important city: Lor, The First City Unarchus"
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Regions/The Platsmoor
+  - settings/Aylbyia/Timeline
+  - settings/Aylbyia/Settlements/Orkunsteppes/Lor
+  - settings/Aylbyia/Settlements/Orkunsteppes/Unarchus
 ---
+
 - Most important city: [[Lor]], The First City
 - [[Unarchus]]
 <!-- onenote-media:start -->
@@ -30,3 +40,13 @@ Art: Paintings using earthy colors. They always depict intricate geometric shape
 Food: Lots of game and spices cooked on open flame. Fermented fruit juice is the safest source of water other than river water.
 
 Lifestyle: Unknown
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Regions/The Platsmoor|The Platsmoor]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+- [[settings/Aylbyia/Settlements/Orkunsteppes/Lor|Lor]]
+- [[settings/Aylbyia/Settlements/Orkunsteppes/Unarchus|Unarchus]]
+<!-- vault-enrichment:end -->

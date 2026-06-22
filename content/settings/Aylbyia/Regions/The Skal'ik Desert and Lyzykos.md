@@ -6,7 +6,18 @@ tags:
   - setting/aylbyia
   - type/region
   - category/regions
+category: Regions
+visibility: public
+description: "Most important city: Junon, The Celestial City"
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Regions/Regions of the world
+  - settings/Aylbyia/Settlements/Junon, The Celestial City
+  - settings/Aylbyia/Factions/The Great Houses of Humanity
+  - settings/Aylbyia/Regions/Fin's End
+  - settings/Aylbyia/Cosmology/The Planes/Heavens
 ---
+
 Most important city: [[Junon, The Celestial City]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -47,3 +58,13 @@ Food: Food comes from all over the continent to merge in this place for who has 
 
 Lifestyle: Life is largely organized by and through the church. People rely on the trade with the outside world for their livelihood. Nomads travel by camel or lizards. Most activities take place during the evening or early in the morning to avoid the heat.
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
+- [[settings/Aylbyia/Settlements/Junon, The Celestial City|Junon, The Celestial City]]
+- [[settings/Aylbyia/Factions/The Great Houses of Humanity|The Great Houses of Humanity]]
+- [[settings/Aylbyia/Regions/Fin's End|Fin's End]]
+- [[settings/Aylbyia/Cosmology/The Planes/Heavens|Heavens]]
+<!-- vault-enrichment:end -->

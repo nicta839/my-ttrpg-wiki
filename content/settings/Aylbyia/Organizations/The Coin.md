@@ -6,7 +6,17 @@ tags:
   - setting/aylbyia
   - type/organization
   - category/organizations
+category: Organizations
+visibility: public
+description: Trading with them Accomplishing tasks for them Protecting their members
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Factions/List of factions and organisations
+  - settings/Aylbyia/Factions/The Great Houses of Humanity
+  - settings/Aylbyia/Timeline
+  - settings/Aylbyia/Organizations/Sparrow Trading Company
 ---
+
 Mark: A golden coin
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -27,3 +37,13 @@ Gain reputation by:
 - Protecting their members
 
 This is the trading guild that was established long before [[Sparrow Trading Company ]](STC) came into play. They are now suffering due to their supply routes being undermined by  the STC. They are reputed for opening up shops and welcoming new businesses within their ranks. They serve both as a bank and trading organization. They have aggressively pursued the expansion of their influence in the baronnies.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]
+- [[settings/Aylbyia/Factions/The Great Houses of Humanity|The Great Houses of Humanity]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+- [[settings/Aylbyia/Organizations/Sparrow Trading Company|Sparrow Trading Company]]
+<!-- vault-enrichment:end -->

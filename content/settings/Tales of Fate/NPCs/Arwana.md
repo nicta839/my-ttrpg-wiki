@@ -6,6 +6,9 @@ tags:
   - setting/tales-of-fate
   - type/npc
 onenote_source: Tales of Fate/Characters met/Arwana
+category: NPCs
+visibility: public
+description: Old bearded gnomish woman who knew of Kissa's grandmother. She lives in a mushroom in a cave some ways away from Pelfort.
 ---
 
 Old bearded gnomish woman who knew of Kissa's grandmother. She lives in a mushroom in a cave some ways away from Pelfort.

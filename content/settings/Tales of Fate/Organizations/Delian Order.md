@@ -6,6 +6,9 @@ tags:
   - setting/tales-of-fate
   - type/organization
 onenote_source: Tales of Fate/Organizations/Delian Order
+category: Organizations
+visibility: public
+description: "Oath of the Delian order: I swear theDelian Oath. To serve Life, battle Death and strive to keep the Delian lore Secret."
 ---
 
 Enlightened One: leader of the order

@@ -6,7 +6,17 @@ tags:
   - setting/aylbyia
   - type/faction
   - category/factions
+category: Factions
+visibility: public
+description: Although it is a recognized organization with which trade is possible, they pose a problem to the Churches in that their heretical beliefs might entice people into joining them.
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Factions/List of factions and organisations
+  - settings/Aylbyia/Timeline
+  - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials
+  - settings/Aylbyia/Society/Redsteel
 ---
+
 Although it is a recognized organization with which trade is possible, they pose a problem to the Churches in that their heretical beliefs might entice people into joining them. They follow a different belief system but it is not well understood.
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -29,3 +39,13 @@ Gain reputation by:
 - ??
 
 Little is known of these people except that they have [rejected the worship](Worship%20of%20the%20Scaled%20Ones.md) of the [[Celestials]]. They mostly trade [[Redsteel]] which can only be bought there.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+- [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]]
+- [[settings/Aylbyia/Society/Redsteel|Redsteel]]
+<!-- vault-enrichment:end -->

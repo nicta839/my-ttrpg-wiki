@@ -4,7 +4,13 @@ type: rule
 tags:
   - running-the-game
   - type/rule
+category: Homebrew
+visibility: public
+description: "There are several ways of doing experience points. Here are some alternatives that we could explore in the game. We should decide this at session 0 and can of course be changed as we go:"
+related:
+  - running-the-game/Homebrew/Homebrew rules
 ---
+
 There are several ways of doing experience points. Here are some alternatives that we could explore in the game. We should decide this at session 0 and can of course be changed as we go:
 
 Milestone:
@@ -91,3 +97,9 @@ Their level*25 if: 
 - Undertook a perilous journey that took time to accomplish 
 - A character failed a roll that resulted in wasted resources or a negative relationship or an injury or some other major drawback 
 - A character took action that affected the world (local area) in a major way for better or for worse
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[running-the-game/Homebrew/Homebrew rules|Homebrew rules]]
+<!-- vault-enrichment:end -->

@@ -6,7 +6,18 @@ tags:
   - setting/aylbyia
   - type/region
   - category/regions
+category: Regions
+visibility: public
+description: "Region Flavor: Dangerous place where nature has retaken its hold over."
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Factions/Queendom
+  - settings/Aylbyia/Regions/Regions of the world
+  - settings/Aylbyia/Timeline
+  - settings/Aylbyia/Settlements/Tavik Nurlowk
+  - settings/Aylbyia/Factions/Orcs and Goblinoids
 ---
+
 Most important city: [[Tavik Nurlowk]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -35,3 +46,14 @@ Important locations
 - Cave of the Sun: A monastery dedicated to the worship of the sun. It is secluded and its members mostly stick to their temple. Some are seen at times in Pelcov to exchange medicinal services for supplies that they bring back. They speak little. Some stop here before journeying to the Unspoiled Garden
 
 - The Unspoiled Garden: A pristine forest that is unexplored. While the edge of the forest are documented and known, the inner parts of the forest have never been threaded. Those who venture in never come out.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Factions/Queendom|Queendom]]
+- [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+- [[settings/Aylbyia/Settlements/Tavik Nurlowk|Tavik Nurlowk]]
+- [[settings/Aylbyia/Factions/Orcs and Goblinoids|Orcs and Goblinoids]]
+<!-- vault-enrichment:end -->

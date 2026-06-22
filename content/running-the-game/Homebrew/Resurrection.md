@@ -4,7 +4,13 @@ type: rule
 tags:
   - running-the-game
   - type/rule
+category: Homebrew
+visibility: public
+description: There are a few direction we can go towards in terms of resurrection.
+related:
+  - running-the-game/Homebrew/Homebrew rules
 ---
+
 There are a few direction we can go towards in terms of resurrection. Either rules as written, something more like critical role or something like in Aerois/Court of Swords. This will be subject to a vote during session 0:
 
 Critical Role adaptation:
@@ -26,3 +32,9 @@ The base DC for the resurrection starts at 10 for everybody. For each consecutiv
 Aerois/Court of Swords:
 
 Coming back from the dead is harrowing for the soul. You are imparted a part of someone's soul when they bring you back. You can be resurrected ONCE by the same caster using the rules as written in the Player's Handbook.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[running-the-game/Homebrew/Homebrew rules|Homebrew rules]]
+<!-- vault-enrichment:end -->

@@ -6,6 +6,9 @@ tags:
   - setting/spine-of-the-world
   - type/faction
 onenote_source: Spine of the world/Factions/Center
+category: Factions
+visibility: public
+description: '"Den of thieves and murderers, this town is part of the Empire only in name.'
 ---
 
 Whitebridge:

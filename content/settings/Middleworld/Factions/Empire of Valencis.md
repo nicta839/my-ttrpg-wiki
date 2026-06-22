@@ -6,6 +6,11 @@ tags:
   - setting/middleworld
   - type/faction
 onenote_source: Worldbuilding 2/Factions/Empire of Valencis
+category: Factions
+visibility: public
+description: Meritocratic Empire where you climb echelons through enterprise and valor.
+related:
+  - settings/Middleworld/index
 ---
 
 Meritocratic Empire where you climb echelons through enterprise and valor. Clashes occur often between the different vassal states' cultures. Its rapid expansion throughout time and vast territories is leading to incredibly slow bureaucracy that fails more often than not to meet the needs of the population in terms of reform. Corruption grows…
@@ -20,3 +25,8 @@ Meritocratic Empire where you climb echelons through enterprise and valor. Clash
 > [![empire 3](../../../assets/middleworld/empire-of-valencis/empire-3-ffcbe8f0d8-800.webp)](../../../assets/middleworld/empire-of-valencis/empire-3-ffcbe8f0d8-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

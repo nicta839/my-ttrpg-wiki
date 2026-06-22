@@ -6,6 +6,9 @@ tags:
   - setting/spine-of-the-world
   - type/item
 onenote_source: Spine of the world/Items/Uke
+category: Items
+visibility: public
+description: Drug that has made an appearance in Ebou Dar as of late. It is suspected that the Grey Glove is responsible for smuggling this substance into town.
 ---
 
 Drug that has made an appearance in Ebou Dar as of late. It is suspected that the Grey Glove is responsible for smuggling this substance into town.

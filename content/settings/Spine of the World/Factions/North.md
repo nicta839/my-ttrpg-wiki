@@ -6,6 +6,9 @@ tags:
   - setting/spine-of-the-world
   - type/faction
 onenote_source: Spine of the world/Factions/North
+category: Factions
+visibility: public
+description: This is a dense tropical forest that has more than just orcs in it.
 ---
 
 This is a dense tropical forest that has more than just orcs in it.

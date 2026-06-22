@@ -6,7 +6,20 @@ tags:
   - setting/aylbyia
   - type/history
   - category/history
+category: History
+visibility: public
+description: The Primordial Fire of the Heavens was revealed to the Plane of Flesh by the Celestials.
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/History/History of the world
+  - settings/Aylbyia/Cosmology/The Planes/Primordial Fire
+  - settings/Aylbyia/Cosmology/The Planes/Heavens
+  - settings/Aylbyia/Cosmology/The Planes/Plane of Flesh
+  - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials
+  - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Betrayer
+  - settings/Aylbyia/Society/Ancestries/Elves
 ---
+
 The [[Primordial Fire]] of the [[Heavens]] was revealed to the [[Plane of Flesh]] by the [[Celestials]]. Their influence brought the Tavik civilization up and enabled this world-sprawling empire to thrive and create wonders of magic. The [[Heavens]] was the closest it had ever been to the plane of flesh, with [[Celestials]] walking the land and guiding the people.
 
 The Celestial whose name was struck from history, was consumed by greed and betrayed the other [[Celestials]]. The [[Betrayer]], as they would come to be known, wished for all power and domination over all that was on the [[Plane of Flesh]] and the [[Heavens]].
@@ -22,3 +35,16 @@ There, [[Junon]] died and burned her corporeal essence away to banish the [[Betr
 The Tavik empire crumbled, knowledge was lost and the rebuilding of civilization was difficult to come about. However 400 years ago, the [[Celestials]] re-established contact with the plane of flesh. They were here to redeem all of us and guide us to the [[Heavens]]. By "burning" their voices into the celestial flow, they are able to speak with a select number of us and guide us. Thus we have grown, rebuilt and learned things that were long forgotten. We are more mindful of our place and serve the [[Celestials]] once more so that we may not be tempted once again by another [[Betrayer]].
 
 - As taught by the Holy Prayer of the [[Church of the Flame]] of the [[Celestials]]
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/History/History of the world|History of the world]]
+- [[settings/Aylbyia/Cosmology/The Planes/Primordial Fire|Primordial Fire]]
+- [[settings/Aylbyia/Cosmology/The Planes/Heavens|Heavens]]
+- [[settings/Aylbyia/Cosmology/The Planes/Plane of Flesh|Plane of Flesh]]
+- [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]]
+- [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Betrayer|Betrayer]]
+- [[settings/Aylbyia/Society/Ancestries/Elves|Elves]]
+<!-- vault-enrichment:end -->

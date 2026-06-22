@@ -6,6 +6,11 @@ tags:
   - setting/middleworld
   - type/faction
 onenote_source: Worldbuilding 2/Factions/Askalia
+category: Factions
+visibility: public
+description: Working wood, forestry and hunting. Quiet people who tend to the land.
+related:
+  - settings/Middleworld/index
 ---
 
 Working wood, forestry and hunting. Quiet people who tend to the land. They enjoyed relative safety from the Empire during the conflict and thrived economically during the conflict while the other nations sent troops.
@@ -20,3 +25,8 @@ Working wood, forestry and hunting. Quiet people who tend to the land. They enjo
 > [![askalia 2](../../../assets/middleworld/askalia/askalia-2-a50c5eeee3-800.webp)](../../../assets/middleworld/askalia/askalia-2-a50c5eeee3-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

@@ -6,5 +6,21 @@ tags:
   - setting/aylbyia
   - type/region
   - category/regions
+category: Regions
+visibility: public
+description: Little is known about this landmass. Expeditions have either not returned, returned without finding a landing or sailors with missing memories.
+related:
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Regions/Regions of the world
+  - settings/Aylbyia/Timeline
 ---
+
 Little is known about this landmass. Expeditions have either not returned, returned without finding a landing or sailors with missing memories.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
+- [[settings/Aylbyia/Timeline|Timeline]]
+<!-- vault-enrichment:end -->

@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/Nulmerion Bay
+category: Regions
+visibility: public
+description: Unclaimed land due to the ground being very marsh-like and sinking. Some say groups of pirates and exiles have claimed it and live in small communities.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 Unclaimed land due to the ground being very marsh-like and sinking. Some say groups of pirates and exiles have claimed it and live in small communities.
@@ -20,3 +26,9 @@ Unclaimed land due to the ground being very marsh-like and sinking. Some say gro
 > [![nulmerion 3](../../../assets/middleworld/nulmerion-bay/nulmerion-3-f1a7b09fe8-800.webp)](../../../assets/middleworld/nulmerion-bay/nulmerion-3-f1a7b09fe8-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

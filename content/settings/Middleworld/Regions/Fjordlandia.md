@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/Fjordlandia
+category: Regions
+visibility: public
+description: Mountainous regions said to harbour small communities of cultists, it is also the location of a swirling maelstrom said to be the gateway to the plane of elemental Air.
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 Mountainous regions said to harbour small communities of cultists, it is also the location of a swirling maelstrom said to be the gateway to the plane of elemental Air.
@@ -18,3 +24,9 @@ Mountainous regions said to harbour small communities of cultists, it is also th
 > [![fjordlandia 1](../../../assets/middleworld/fjordlandia/fjordlandia-1-f9ebfee8bb-800.webp)](../../../assets/middleworld/fjordlandia/fjordlandia-1-f9ebfee8bb-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->

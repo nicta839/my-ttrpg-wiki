@@ -6,6 +6,12 @@ tags:
   - setting/middleworld
   - type/region
 onenote_source: Worldbuilding 2/Geography/Emberfell isles
+category: Regions
+visibility: public
+description: "These islands are said to be the gateway to different planes: Negative energy plane and the elemental plane of Fire"
+related:
+  - settings/Middleworld/Regions/index
+  - settings/Middleworld/index
 ---
 
 These islands are said to be the gateway to different planes: Negative energy plane and the elemental plane of Fire
@@ -20,3 +26,9 @@ These islands are said to be the gateway to different planes: Negative energy pl
 > [![emberfell 2](../../../assets/middleworld/emberfell-isles/emberfell-2-4d27edcd63-800.webp)](../../../assets/middleworld/emberfell-isles/emberfell-2-4d27edcd63-full.webp)
 <!-- onenote-media:end -->
 
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Middleworld/Regions/index|Geography]]
+- [[settings/Middleworld/index|Introduction]]
+<!-- vault-enrichment:end -->
