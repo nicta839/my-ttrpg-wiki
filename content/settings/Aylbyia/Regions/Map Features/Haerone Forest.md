@@ -1,0 +1,34 @@
+---
+title: Haerone Forest
+type: map-feature
+setting: Aylbyia
+tags:
+  - setting/aylbyia
+  - type/map-feature
+  - category/regions
+category: Regions
+visibility: public
+description: Named forest north of the Platsmoor.
+related:
+  - settings/Aylbyia/Regions/Map Features/index
+  - settings/Aylbyia/index
+  - settings/Aylbyia/Maps/index
+  - settings/Aylbyia/Regions/The Younger Brother
+  - settings/Aylbyia/Regions/The Platsmoor
+---
+
+# Haerone Forest
+
+Haerone Forest is a named forest on the [[settings/Aylbyia/Maps/index|Aylbyia world map]], north of [[settings/Aylbyia/Regions/The Platsmoor|the Platsmoor]].
+
+This is a public map stub so the interactive map has a stable article target. Add canon lore here when it is established.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Aylbyia/Regions/Map Features/index|Map Features]]
+- [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Maps/index|Maps]]
+- [[settings/Aylbyia/Regions/The Younger Brother|The Younger Brother]]
+- [[settings/Aylbyia/Regions/The Platsmoor|The Platsmoor]]
+<!-- vault-enrichment:end -->

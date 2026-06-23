@@ -10,18 +10,20 @@ category: Regions
 visibility: public
 description: "Most important city: Junon, The Celestial City"
 related:
+  - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
+  - settings/Aylbyia/Maps/index
+  - settings/Aylbyia/Regions/Map Features/Bay of Peril
   - settings/Aylbyia/Regions/Regions of the world
   - settings/Aylbyia/Settlements/Junon, The Celestial City
   - settings/Aylbyia/Factions/The Great Houses of Humanity
   - settings/Aylbyia/Regions/Fin's End
-  - settings/Aylbyia/Cosmology/The Planes/Heavens
 ---
 
-Most important city: [[Junon, The Celestial City]]
+Most important city: [[settings/Aylbyia/Settlements/Junon, The Celestial City|Junon, The Celestial City]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![city in the desert](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/city-in-the-desert-74259f2d97-1600.webp)](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/city-in-the-desert-74259f2d97-full.webp)
+> [![city in the desert](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/city-in-the-desert-74259f2d97-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-skal-ik-desert-and-lyzykos/city-in-the-desert-74259f2d97-full.webp)
 
 > [!onenote-gallery]
 > [![location in the desert](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/location-in-the-desert-f6ce09f0d1-800.webp)](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/location-in-the-desert-f6ce09f0d1-full.webp)
@@ -35,9 +37,9 @@ Important locations
 
 - The Wager: Castle and town controlling the passage from the desert to the rest of the world. It is a military stronghold.
 
-- Caslte Baghid: Southern point of control towards [[settings/Aylbyia/Factions/The Great Houses of Humanity|The Great Houses of Humanity]] and a lookout towards [[Fin's End]]
+- Caslte Baghid: Southern point of control towards [[settings/Aylbyia/Factions/The Great Houses of Humanity|The Great Houses of Humanity]] and a lookout towards [[settings/Aylbyia/Regions/Fin's End|Fin's End]]
 
-- Blacksand Keep: Fortress built to sustain a siege from the evils that might sprout from the Twilight.
+- Blacksand Keep: Fortress built to sustain a siege from the evils that might sprout from the [[settings/Aylbyia/Regions/Twilight|Twilight]].
 
 - Hallowroost: Dangerous location of Griffon rearing and secondary location for airship construction.
 
@@ -46,7 +48,7 @@ Important locations
 - Hivespines: Mountains that contain a lot of Dire creatures.
 
 
-Region Flavor: Harsh and unforgiving desert, under the watchful eye of the Sun, window onto our world from the [[Heavens]].
+Region Flavor: Harsh and unforgiving desert, under the watchful eye of the Sun, window onto our world from the [[settings/Aylbyia/Cosmology/The Planes/Heavens|Heavens]].
 
 Geography: Large sand dune desert. Permanent locales are found in cooler places or near places with access to water nearby.
 
@@ -61,10 +63,12 @@ Lifestyle: Life is largely organized by and through the church. People rely on t
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Aylbyia/Regions/index|Regions]]
 - [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Maps/index|Maps]]
+- [[settings/Aylbyia/Regions/Map Features/Bay of Peril|Bay of Peril]]
 - [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
 - [[settings/Aylbyia/Settlements/Junon, The Celestial City|Junon, The Celestial City]]
 - [[settings/Aylbyia/Factions/The Great Houses of Humanity|The Great Houses of Humanity]]
 - [[settings/Aylbyia/Regions/Fin's End|Fin's End]]
-- [[settings/Aylbyia/Cosmology/The Planes/Heavens|Heavens]]
 <!-- vault-enrichment:end -->

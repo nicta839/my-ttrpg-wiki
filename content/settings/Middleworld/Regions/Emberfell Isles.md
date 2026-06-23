@@ -12,6 +12,7 @@ description: "These islands are said to be the gateway to different planes: Nega
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
 ---
 
 These islands are said to be the gateway to different planes: Negative energy plane and the elemental plane of Fire
@@ -31,4 +32,5 @@ These islands are said to be the gateway to different planes: Negative energy pl
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

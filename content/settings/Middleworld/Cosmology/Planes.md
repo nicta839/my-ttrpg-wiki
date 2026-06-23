@@ -10,6 +10,7 @@ category: Cosmology
 visibility: public
 description: Planes are physical places on this plane of existence, little pocket dimensions that are close-by.
 related:
+  - settings/Middleworld/Cosmology/index
   - settings/Middleworld/index
 ---
 
@@ -38,5 +39,6 @@ Moons: There are a total of 5 moons. Four of them have been measured being of si
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Cosmology/index|Middleworld — Cosmology]]
 - [[settings/Middleworld/index|Introduction]]
 <!-- vault-enrichment:end -->

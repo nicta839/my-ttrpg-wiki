@@ -8,6 +8,7 @@ category: Homebrew
 visibility: public
 description: To avoid the yo-yo effect of falling to 0HP and being healed back up without any issue, I would like to introduce something that incentivizes keeping yourself and your allies up.
 related:
+  - running-the-game/Homebrew/index
   - running-the-game/Homebrew/Homebrew rules
 ---
 
@@ -148,5 +149,6 @@ We can add additional tools for you to thwart the effects of these injuries: hea
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[running-the-game/Homebrew/index|Homebrew]]
 - [[running-the-game/Homebrew/Homebrew rules|Homebrew rules]]
 <!-- vault-enrichment:end -->

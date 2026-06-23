@@ -10,7 +10,10 @@ category: Society
 visibility: public
 description: "There are several ancestries that can be traced in this world: Fey folk, Giant Spawn, Plane Touched, Dragon influenced, Old Races, Short Folk and humans."
 related:
+  - settings/Middleworld/Society/index
   - settings/Middleworld/index
+  - settings/Middleworld/Factions/Vallios
+  - settings/Middleworld/Society/The Empire
 ---
 
 Fey folk:
@@ -39,7 +42,7 @@ Plane Touched: (life span 70-90) Mana winds carried from planar portals have cha
 
 Dragon Influenced: (life span 150-200) Little is known as to where these people come from, but the influence of dragons is undeniable. No old skeletons of these people have been found. Their senses are keener when looking for very specific things. The reason of their senses' affinity for any particular item is unknwon.
 
-Old People: (life span 40-70) Skeletons of these people have been found in the ruins of Vallios and it is posited that these folks predate most other ancestral groups in the middleworld. They present features commonly found in animals. They are keenly more aware of spiritual influence.
+Old People: (life span 40-70) Skeletons of these people have been found in the ruins of [[settings/Middleworld/Factions/Vallios|Vallios]] and it is posited that these folks predate most other ancestral groups in the middleworld. They present features commonly found in animals. They are keenly more aware of spiritual influence.
 
 Short Folk: (life span 200-300) Smaller stature than other folk, these small people excel in the manipulation of tools and their environment. They are separated into two groups with the dwarves being slightly taller than the other folk.
 
@@ -55,7 +58,7 @@ Middlespeak: Most common language to all people
 
 Vallian: Legal language recovered from Vallios
 
-High Vallian: Simplified Vallian used throughout the Empire
+High Vallian: Simplified Vallian used throughout [[settings/Middleworld/Society/The Empire|the Empire]]
 
 Giant: Language spoken by its people
 
@@ -143,5 +146,8 @@ S
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Society/index|Middleworld — Society]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Factions/Vallios|Vallios]]
+- [[settings/Middleworld/Society/The Empire|The Empire]]
 <!-- vault-enrichment:end -->

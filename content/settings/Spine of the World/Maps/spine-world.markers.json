@@ -1,0 +1,127 @@
+{
+  "size": {
+    "w": 2198,
+    "h": 1703
+  },
+  "layers": [
+    {
+      "id": "regions",
+      "name": "Regions",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "settlements",
+      "name": "Settlements",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "factions",
+      "name": "Factions",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "id": "region-center",
+      "x": 0.56,
+      "y": 0.58,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Center",
+      "link": "settings/Spine of the World/Regions/Center",
+      "resolvedHref": "/settings/spine-of-the-world/regions/center"
+    },
+    {
+      "id": "region-north",
+      "x": 0.68,
+      "y": 0.2,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "North",
+      "link": "settings/Spine of the World/Regions/North",
+      "resolvedHref": "/settings/spine-of-the-world/regions/north"
+    },
+    {
+      "id": "region-west",
+      "x": 0.33,
+      "y": 0.7,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "West",
+      "link": "settings/Spine of the World/Regions/West",
+      "resolvedHref": "/settings/spine-of-the-world/regions/west"
+    },
+    {
+      "id": "settlement-tar-valon",
+      "x": 0.755,
+      "y": 0.395,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Tar Valon",
+      "link": "settings/Spine of the World/Settlements/Tar Valon",
+      "resolvedHref": "/settings/spine-of-the-world/settlements/tar-valon"
+    },
+    {
+      "id": "settlement-caemlyn",
+      "x": 0.69,
+      "y": 0.63,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Caemlyn",
+      "link": "settings/Spine of the World/Settlements/Caemlyn",
+      "resolvedHref": "/settings/spine-of-the-world/settlements/caemlyn"
+    },
+    {
+      "id": "settlement-whitebridge",
+      "x": 0.54,
+      "y": 0.62,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Whitebridge",
+      "link": "settings/Spine of the World/Settlements/Whitebridge",
+      "resolvedHref": "/settings/spine-of-the-world/settlements/whitebridge"
+    },
+    {
+      "id": "settlement-edmonds-field",
+      "x": 0.41,
+      "y": 0.57,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Edmond's Field",
+      "link": "settings/Spine of the World/Settlements/Edmond's Field",
+      "resolvedHref": "/settings/spine-of-the-world/settlements/edmond's-field"
+    },
+    {
+      "id": "settlement-ebou-dar",
+      "x": 0.43,
+      "y": 0.91,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Ebou Dar",
+      "link": "settings/Spine of the World/Settlements/Ebou Dar",
+      "resolvedHref": "/settings/spine-of-the-world/settlements/ebou-dar"
+    },
+    {
+      "id": "faction-salidar-kingdom",
+      "x": 0.47,
+      "y": 0.82,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Salidar Kingdom",
+      "link": "settings/Spine of the World/Factions/Salidar Kingdom",
+      "resolvedHref": "/settings/spine-of-the-world/factions/salidar-kingdom"
+    }
+  ]
+}

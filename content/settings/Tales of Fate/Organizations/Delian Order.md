@@ -9,6 +9,13 @@ onenote_source: Tales of Fate/Organizations/Delian Order
 category: Organizations
 visibility: public
 description: "Oath of the Delian order: I swear theDelian Oath. To serve Life, battle Death and strive to keep the Delian lore Secret."
+related:
+  - settings/Tales of Fate/Organizations/index
+  - settings/Tales of Fate/index
+  - settings/Tales of Fate/Campaign/Players/Anoin
+  - settings/Tales of Fate/History/History of the world
+  - settings/Tales of Fate/History/Season 1
+  - settings/Tales of Fate/Settlements/Barathia
 ---
 
 Enlightened One: leader of the order
@@ -26,3 +33,14 @@ The order is specifically not religious, they see themselves as the protectors o
 There is a legendary set of armor and weapon worn by the leader of the Delian order: Dawn (battleaxe), Zenith (armor) and Dusk (Shield). They reveal their true power when reunited.
 
 In order to make the world forget once again, there needs to be at least two people performing the ritual. One of the two will remember, the other(s) won't.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Tales of Fate/Organizations/index|Tales of Fate — Organizations]]
+- [[settings/Tales of Fate/index|Tales of Fate]]
+- [[settings/Tales of Fate/Campaign/Players/Anoin|Anoin]]
+- [[settings/Tales of Fate/History/History of the world|History of the world]]
+- [[settings/Tales of Fate/History/Season 1|Season 1]]
+- [[settings/Tales of Fate/Settlements/Barathia|Barathia]]
+<!-- vault-enrichment:end -->

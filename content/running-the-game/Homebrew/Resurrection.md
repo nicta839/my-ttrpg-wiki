@@ -8,6 +8,7 @@ category: Homebrew
 visibility: public
 description: There are a few direction we can go towards in terms of resurrection.
 related:
+  - running-the-game/Homebrew/index
   - running-the-game/Homebrew/Homebrew rules
 ---
 
@@ -36,5 +37,6 @@ Coming back from the dead is harrowing for the soul. You are imparted a part of 
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[running-the-game/Homebrew/index|Homebrew]]
 - [[running-the-game/Homebrew/Homebrew rules|Homebrew rules]]
 <!-- vault-enrichment:end -->

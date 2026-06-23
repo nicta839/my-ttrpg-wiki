@@ -10,18 +10,21 @@ category: Regions
 visibility: public
 description: "Most important city: South-of South Harbour The Citadel of Frozen Crystal"
 related:
+  - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
+  - settings/Aylbyia/Maps/index
+  - settings/Aylbyia/Regions/Map Features/The Roii
   - settings/Aylbyia/Regions/Regions of the world
   - settings/Aylbyia/Timeline
   - settings/Aylbyia/Settlements/The Frosted South/South-of South Harbour
   - settings/Aylbyia/Settlements/The Frosted South/The Citadel of Frozen Crystal
 ---
 
-- Most important city: [[South-of South Harbour]]
-- [[The Citadel of Frozen Crystal]]
+- Most important city: [[settings/Aylbyia/Settlements/The Frosted South/South-of South Harbour|South-of South Harbour]]
+- [[settings/Aylbyia/Settlements/The Frosted South/The Citadel of Frozen Crystal|The Citadel of Frozen Crystal]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![frosted south2](../../../assets/aylbyia/the-frosted-south/frosted-south2-aa579bf1ea-1600.webp)](../../../assets/aylbyia/the-frosted-south/frosted-south2-aa579bf1ea-full.webp)
+> [![frosted south2](../../../assets/aylbyia/the-frosted-south/frosted-south2-aa579bf1ea-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-frosted-south/frosted-south2-aa579bf1ea-full.webp)
 
 > [!onenote-gallery]
 > [![frosted south](../../../assets/aylbyia/the-frosted-south/frosted-south-8ef0c3e7c4-800.webp)](../../../assets/aylbyia/the-frosted-south/frosted-south-8ef0c3e7c4-full.webp)
@@ -44,7 +47,10 @@ Lifestyle: Oriented towards fishing and trading with those who come here to seek
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Aylbyia/Regions/index|Regions]]
 - [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Maps/index|Maps]]
+- [[settings/Aylbyia/Regions/Map Features/The Roii|The Roii]]
 - [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
 - [[settings/Aylbyia/Timeline|Timeline]]
 - [[settings/Aylbyia/Settlements/The Frosted South/South-of South Harbour|South-of South Harbour]]

@@ -10,7 +10,13 @@ category: Factions
 visibility: public
 description: '"Mediterranean" city with a large mana well'
 related:
+  - settings/Middleworld/Factions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Cosmology/Religion
+  - settings/Middleworld/History/index
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Organizations/Builder's guild
+  - settings/Middleworld/Society/Ancestries and language
 ---
 
 "Mediterranean" city with a large mana well
@@ -30,5 +36,11 @@ Huge port, very large cityscape that covers the entire island. All people mix in
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Factions/index|Middleworld — Factions]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Cosmology/Religion|Religion]]
+- [[settings/Middleworld/History/index|History]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Organizations/Builder's guild|Builder's guild]]
+- [[settings/Middleworld/Society/Ancestries and language|Ancestries and language]]
 <!-- vault-enrichment:end -->

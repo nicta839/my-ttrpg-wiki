@@ -9,6 +9,15 @@ onenote_source: Tales of Fate/Players/Kissa
 category: Campaign
 visibility: public
 description: Fugitive because of her heirloom. Kissa is now on a quest to find out more about this strange gift given to her by her grandmother.
+related:
+  - settings/Tales of Fate/Campaign/Players/index
+  - settings/Tales of Fate/index
+  - settings/Tales of Fate/Campaign/Players/Noita
+  - settings/Tales of Fate/Campaign/index
+  - settings/Tales of Fate/History/History of the world
+  - settings/Tales of Fate/History/Season 1
+  - settings/Tales of Fate/NPCs/Arwana
+  - settings/Tales of Fate/Settlements/Barathia
 ---
 
 Fugitive because of her heirloom. Kissa is now on a quest to find out more about this strange gift given to her by her grandmother. The secret of the conflict between the wizards and the thieves guild could be the beginning of something even more dangerous than escaping Orso and the circus.
@@ -35,3 +44,16 @@ Each foretelling roll can be used only once. When you finish a long rest, you lo
 Wookie circus
 
 Wicka assassins
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Tales of Fate/Campaign/Players/index|Players]]
+- [[settings/Tales of Fate/index|Tales of Fate]]
+- [[settings/Tales of Fate/Campaign/Players/Noita|Noita]]
+- [[settings/Tales of Fate/Campaign/index|Tales of Fate — Campaign]]
+- [[settings/Tales of Fate/History/History of the world|History of the world]]
+- [[settings/Tales of Fate/History/Season 1|Season 1]]
+- [[settings/Tales of Fate/NPCs/Arwana|Arwana]]
+- [[settings/Tales of Fate/Settlements/Barathia|Barathia]]
+<!-- vault-enrichment:end -->

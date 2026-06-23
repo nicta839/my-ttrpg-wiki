@@ -9,6 +9,10 @@ onenote_source: In the ashes/campaign/Liegedom management
 category: Campaign
 visibility: public
 description: This system should not distract from the characters being central.
+related:
+  - settings/In the Ashes/Campaign/index
+  - settings/In the Ashes/index
+  - settings/In the Ashes/Campaign/The idea of this campaign
 ---
 
 This system should not distract from the characters being central.
@@ -30,3 +34,11 @@ The goal or mechanic to build here is that not everything can be done at the sam
 | Stability | Anyone | Appropriate for the check |
 
 Can increase these stats for the Liegedom when obtained. They go from Rank 0 to 7. Each rank gives access to different perks per Stat.
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/In the Ashes/Campaign/index|In the Ashes — Campaign]]
+- [[settings/In the Ashes/index|In the Ashes]]
+- [[settings/In the Ashes/Campaign/The idea of this campaign|The idea of this campaign]]
+<!-- vault-enrichment:end -->

@@ -10,10 +10,14 @@ category: Factions
 visibility: public
 description: Only known entrance built to head into the Shadow Range.
 related:
+  - settings/Middleworld/Factions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Regions/Ruins Of Gomnigan
+  - settings/Middleworld/Society/The Empire
 ---
 
-Only known entrance built to head into the Shadow Range. Some speculate to reach the ruins of Gomnigan, others say it is to reach some old treasure or tomb. Experts in seafaring, they provided much in terms of troops and boats during the conflict with the Empire.
+Only known entrance built to head into the Shadow Range. Some speculate to reach the [[settings/Middleworld/Regions/Ruins Of Gomnigan|ruins of Gomnigan]], others say it is to reach some old treasure or tomb. Experts in seafaring, they provided much in terms of troops and boats during the conflict with [[settings/Middleworld/Society/The Empire|the Empire]].
 
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -28,5 +32,9 @@ Only known entrance built to head into the Shadow Range. Some speculate to reach
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Factions/index|Middleworld — Factions]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Regions/Ruins Of Gomnigan|Ruins of Gomnigan]]
+- [[settings/Middleworld/Society/The Empire|The Empire]]
 <!-- vault-enrichment:end -->

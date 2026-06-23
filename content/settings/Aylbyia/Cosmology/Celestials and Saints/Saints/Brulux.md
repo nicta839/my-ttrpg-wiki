@@ -17,7 +17,7 @@ related:
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Betrayer
 ---
 
-Healer of those afflicted by the [[Betrayer]] and his forces.
+Healer of those afflicted by the [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Betrayer|Betrayer]] and his forces.
 
 <!-- vault-enrichment:start -->
 ## Related

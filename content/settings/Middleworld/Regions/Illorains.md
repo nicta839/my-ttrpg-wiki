@@ -12,6 +12,7 @@ description: Western and Eastern Illorain were the first provinces conquered by 
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
 ---
 
 Western and Eastern Illorain were the first provinces conquered by the 1st Emperor. They are known for their refined goods such as wine, jewely work, enchantments and tailoring.
@@ -35,4 +36,5 @@ Laroix is the brithplace of the current Empress whereas Val Soine is home to one
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

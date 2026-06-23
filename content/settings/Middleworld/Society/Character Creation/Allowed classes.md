@@ -12,6 +12,7 @@ description: All classes officially published are allowed.
 related:
   - settings/Middleworld/Society/Character Creation/index
   - settings/Middleworld/index
+  - settings/Middleworld/Society/index
 ---
 
 All classes officially published are allowed. Some care should be taken for the description of sources of magic and the like as those are tied to the way the world works even if it's just fluff. There are some "fixes" that can be operated on spells and abilities in order to make some subclasses more attractive if you're willing to look into it. I'm open to discuss those changes that are needed in order for your character to be as cool as you want them to be.
@@ -27,4 +28,5 @@ Other Homebrews are welcome, but will most probably involve a longer discussion 
 
 - [[settings/Middleworld/Society/Character Creation/index|Character creation]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Society/index|Middleworld — Society]]
 <!-- vault-enrichment:end -->

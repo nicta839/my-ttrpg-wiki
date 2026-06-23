@@ -8,6 +8,7 @@ category: Homebrew
 visibility: public
 description: This is a variant on character creation inspired by the one used in Pathfinder second edition.
 related:
+  - running-the-game/Homebrew/Character creation/index
   - running-the-game/Homebrew/Character creation/character creation variant rules
 ---
 
@@ -280,5 +281,6 @@ Kohteesta <[https://www.reddit.com/r/dndnext/comments/cw2d89/building_ability_sc
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[running-the-game/Homebrew/Character creation/index|Character creation]]
 - [[running-the-game/Homebrew/Character creation/character creation variant rules|character creation variant rules]]
 <!-- vault-enrichment:end -->

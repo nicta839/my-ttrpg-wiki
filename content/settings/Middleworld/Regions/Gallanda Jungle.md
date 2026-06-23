@@ -12,6 +12,7 @@ description: Mostly unexplored land. An unexperienced teleporter stranded themse
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
 ---
 
 Mostly unexplored land. An unexperienced teleporter stranded themselves in the middle of it and have reported that there is a forest of trees made of glass in the middle of it. Sadly the teleporter disappeared after reporting this.
@@ -31,4 +32,5 @@ Mostly unexplored land. An unexperienced teleporter stranded themselves in the m
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

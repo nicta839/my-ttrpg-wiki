@@ -10,15 +10,16 @@ category: Factions
 visibility: public
 description: They have displaced the Orcs and Goblinoids from their steppes. They are formidable in great number. This threat is even greater.
 related:
+  - settings/Aylbyia/Factions/index
   - settings/Aylbyia/index
   - settings/Aylbyia/Factions/List of factions and organisations
   - settings/Aylbyia/Factions/Orcs and Goblinoids
 ---
 
-They have displaced the [[Orcs and Goblinoids]] from their steppes. They are formidable in great number. This threat is even greater.
+They have displaced the [[settings/Aylbyia/Factions/Orcs and Goblinoids|Orcs and Goblinoids]] from their steppes. They are formidable in great number. This threat is even greater.
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![orkunsteppe](../../../assets/aylbyia/orkunsteppes/orkunsteppe-3dd46ea33c-1600.webp)](../../../assets/aylbyia/orkunsteppes/orkunsteppe-3dd46ea33c-full.webp)
+> [![orkunsteppe](../../../assets/aylbyia/orkunsteppes/orkunsteppe-3dd46ea33c-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/[[settings/Aylbyia/Regions/Orkunsteppes|orkunsteppes]]/orkunsteppe-3dd46ea33c-full.webp)
 
 > [!onenote-gallery]
 > [![orkunsteppes](../../../assets/aylbyia/the-threat-from-the-north/orkunsteppes-af4a25e27d-800.webp)](../../../assets/aylbyia/the-threat-from-the-north/orkunsteppes-af4a25e27d-full.webp)
@@ -27,6 +28,7 @@ They have displaced the [[Orcs and Goblinoids]] from their steppes. They are for
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Aylbyia/Factions/index|Factions]]
 - [[settings/Aylbyia/index|Aylbyia]]
 - [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]
 - [[settings/Aylbyia/Factions/Orcs and Goblinoids|Orcs and Goblinoids]]

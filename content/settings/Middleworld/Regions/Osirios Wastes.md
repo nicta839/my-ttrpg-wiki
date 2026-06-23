@@ -12,6 +12,7 @@ description: Blessed location, this shining sand desert is threaded only by the 
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
 ---
 
 Blessed location, this shining sand desert is threaded only by the devout and is said to be the locations of portals towards the positive Energy plane.
@@ -29,4 +30,5 @@ Blessed location, this shining sand desert is threaded only by the devout and is
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

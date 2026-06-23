@@ -10,6 +10,7 @@ category: Regions
 visibility: public
 related:
   - settings/Tales of Fate/Regions/index
+  - settings/Tales of Fate/index
 ---
 
 <!-- onenote-media:start -->
@@ -21,4 +22,5 @@ related:
 ## Related
 
 - [[settings/Tales of Fate/Regions/index|Geography]]
+- [[settings/Tales of Fate/index|Tales of Fate]]
 <!-- vault-enrichment:end -->

@@ -1,0 +1,413 @@
+{
+  "size": {
+    "w": 3722,
+    "h": 2533
+  },
+  "layers": [
+    {
+      "id": "regions",
+      "name": "Regions",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "factions",
+      "name": "Factions and realms",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "seas",
+      "name": "Seas and map features",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "id": "region-meridios",
+      "x": 0.335,
+      "y": 0.205,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Meridios",
+      "link": "settings/Middleworld/Regions/Meridios",
+      "resolvedHref": "/settings/middleworld/regions/meridios"
+    },
+    {
+      "id": "region-the-everfrost",
+      "x": 0.56,
+      "y": 0.035,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "The Everfrost",
+      "link": "settings/Middleworld/Regions/The Everfrost",
+      "resolvedHref": "/settings/middleworld/regions/the-everfrost"
+    },
+    {
+      "id": "region-fjordlandia",
+      "x": 0.82,
+      "y": 0.225,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Fjordlandia",
+      "link": "settings/Middleworld/Regions/Fjordlandia",
+      "resolvedHref": "/settings/middleworld/regions/fjordlandia"
+    },
+    {
+      "id": "region-the-nordlands",
+      "x": 0.665,
+      "y": 0.31,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "The Nordlands",
+      "link": "settings/Middleworld/Regions/The Nordlands",
+      "resolvedHref": "/settings/middleworld/regions/the-nordlands"
+    },
+    {
+      "id": "region-bay-of-skulls",
+      "x": 0.63,
+      "y": 0.445,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Bay Of Skulls",
+      "link": "settings/Middleworld/Regions/Bay Of Skulls",
+      "resolvedHref": "/settings/middleworld/regions/bay-of-skulls"
+    },
+    {
+      "id": "region-elderon",
+      "x": 0.765,
+      "y": 0.385,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Elderon",
+      "link": "settings/Middleworld/Regions/Elderon",
+      "resolvedHref": "/settings/middleworld/regions/elderon"
+    },
+    {
+      "id": "region-rovena",
+      "x": 0.665,
+      "y": 0.505,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Rovena",
+      "link": "settings/Middleworld/Regions/Rovena",
+      "resolvedHref": "/settings/middleworld/regions/rovena"
+    },
+    {
+      "id": "region-dolan",
+      "x": 0.775,
+      "y": 0.505,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Dolan",
+      "link": "settings/Middleworld/Regions/Dolan",
+      "resolvedHref": "/settings/middleworld/regions/dolan"
+    },
+    {
+      "id": "region-eastern-borderlands",
+      "x": 0.895,
+      "y": 0.49,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Eastern Borderlands",
+      "link": "settings/Middleworld/Regions/Eastern Borderlands",
+      "resolvedHref": "/settings/middleworld/regions/eastern-borderlands"
+    },
+    {
+      "id": "region-eastern-plains",
+      "x": 0.96,
+      "y": 0.59,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Eastern Plains",
+      "link": "settings/Middleworld/Regions/Eastern Plains",
+      "resolvedHref": "/settings/middleworld/regions/eastern-plains"
+    },
+    {
+      "id": "region-illorains",
+      "x": 0.715,
+      "y": 0.67,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Illorains",
+      "link": "settings/Middleworld/Regions/Illorains",
+      "resolvedHref": "/settings/middleworld/regions/illorains"
+    },
+    {
+      "id": "region-terria",
+      "x": 0.865,
+      "y": 0.665,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Terria",
+      "link": "settings/Middleworld/Regions/Terria",
+      "resolvedHref": "/settings/middleworld/regions/terria"
+    },
+    {
+      "id": "region-the-singing-plains",
+      "x": 0.785,
+      "y": 0.735,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "The Singing Plains",
+      "link": "settings/Middleworld/Regions/The Singing Plains",
+      "resolvedHref": "/settings/middleworld/regions/the-singing-plains"
+    },
+    {
+      "id": "region-vesna-and-iskara",
+      "x": 0.705,
+      "y": 0.77,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Vesna And Iskara",
+      "link": "settings/Middleworld/Regions/Vesna And Iskara",
+      "resolvedHref": "/settings/middleworld/regions/vesna-and-iskara"
+    },
+    {
+      "id": "region-orvion-wildlands",
+      "x": 0.68,
+      "y": 0.845,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Orvion Wildlands",
+      "link": "settings/Middleworld/Regions/Orvion Wildlands",
+      "resolvedHref": "/settings/middleworld/regions/orvion-wildlands"
+    },
+    {
+      "id": "region-ursa",
+      "x": 0.855,
+      "y": 0.82,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Ursa",
+      "link": "settings/Middleworld/Regions/Ursa",
+      "resolvedHref": "/settings/middleworld/regions/ursa"
+    },
+    {
+      "id": "region-the-narthos",
+      "x": 0.965,
+      "y": 0.79,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "The Narthos",
+      "link": "settings/Middleworld/Regions/The Narthos",
+      "resolvedHref": "/settings/middleworld/regions/the-narthos"
+    },
+    {
+      "id": "region-osirios-wastes",
+      "x": 0.97,
+      "y": 0.905,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Osirios Wastes",
+      "link": "settings/Middleworld/Regions/Osirios Wastes",
+      "resolvedHref": "/settings/middleworld/regions/osirios-wastes"
+    },
+    {
+      "id": "region-surnia-and-numitorem",
+      "x": 0.57,
+      "y": 0.765,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Surnia And Numitorem",
+      "link": "settings/Middleworld/Regions/Surnia And Numitorem",
+      "resolvedHref": "/settings/middleworld/regions/surnia-and-numitorem"
+    },
+    {
+      "id": "region-nulmerion-bay",
+      "x": 0.485,
+      "y": 0.83,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Nulmerion Bay",
+      "link": "settings/Middleworld/Regions/Nulmerion Bay",
+      "resolvedHref": "/settings/middleworld/regions/nulmerion-bay"
+    },
+    {
+      "id": "region-gallanda-jungle",
+      "x": 0.315,
+      "y": 0.94,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Gallanda Jungle",
+      "link": "settings/Middleworld/Regions/Gallanda Jungle",
+      "resolvedHref": "/settings/middleworld/regions/gallanda-jungle"
+    },
+    {
+      "id": "region-drauva",
+      "x": 0.39,
+      "y": 0.72,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Drauva",
+      "link": "settings/Middleworld/Regions/Drauva",
+      "resolvedHref": "/settings/middleworld/regions/drauva"
+    },
+    {
+      "id": "region-desert-of-korrvain",
+      "x": 0.35,
+      "y": 0.845,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Desert Of Korrvain",
+      "link": "settings/Middleworld/Regions/Desert Of Korrvain",
+      "resolvedHref": "/settings/middleworld/regions/desert-of-korrvain"
+    },
+    {
+      "id": "region-emberfell-isles",
+      "x": 0.315,
+      "y": 0.51,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Emberfell Isles",
+      "link": "settings/Middleworld/Regions/Emberfell Isles",
+      "resolvedHref": "/settings/middleworld/regions/emberfell-isles"
+    },
+    {
+      "id": "region-ruins-of-gomnigan",
+      "x": 0.43,
+      "y": 0.55,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Ruins Of Gomnigan",
+      "link": "settings/Middleworld/Regions/Ruins Of Gomnigan",
+      "resolvedHref": "/settings/middleworld/regions/ruins-of-gomnigan"
+    },
+    {
+      "id": "region-the-undersea",
+      "x": 0.175,
+      "y": 0.49,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "The Undersea",
+      "link": "settings/Middleworld/Regions/The Undersea",
+      "resolvedHref": "/settings/middleworld/regions/the-undersea"
+    },
+    {
+      "id": "faction-askalia",
+      "x": 0.548,
+      "y": 0.535,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Askalia",
+      "link": "settings/Middleworld/Factions/Askalia",
+      "resolvedHref": "/settings/middleworld/factions/askalia"
+    },
+    {
+      "id": "faction-baltija",
+      "x": 0.5,
+      "y": 0.565,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Baltija",
+      "link": "settings/Middleworld/Factions/Baltija",
+      "resolvedHref": "/settings/middleworld/factions/baltija"
+    },
+    {
+      "id": "faction-gerland",
+      "x": 0.505,
+      "y": 0.64,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Gerland",
+      "link": "settings/Middleworld/Factions/Gerland",
+      "resolvedHref": "/settings/middleworld/factions/gerland"
+    },
+    {
+      "id": "faction-gildain",
+      "x": 0.56,
+      "y": 0.68,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Gildain",
+      "link": "settings/Middleworld/Factions/Gildain",
+      "resolvedHref": "/settings/middleworld/factions/gildain"
+    },
+    {
+      "id": "faction-vallios",
+      "x": 0.605,
+      "y": 0.545,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Vallios",
+      "link": "settings/Middleworld/Factions/Vallios",
+      "resolvedHref": "/settings/middleworld/factions/vallios"
+    },
+    {
+      "id": "faction-empire-of-valencis",
+      "x": 0.705,
+      "y": 0.625,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Empire of Valencis",
+      "link": "settings/Middleworld/Factions/Empire of Valencis",
+      "resolvedHref": "/settings/middleworld/factions/empire-of-valencis"
+    },
+    {
+      "id": "faction-the-sovereign-cities",
+      "x": 0.815,
+      "y": 0.59,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "The Sovereign Cities",
+      "link": "settings/Middleworld/Factions/The Sovereign Cities",
+      "resolvedHref": "/settings/middleworld/factions/the-sovereign-cities"
+    },
+    {
+      "id": "faction-veilin-fae-folk",
+      "x": 0.86,
+      "y": 0.63,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Veilin Fae Folk",
+      "link": "settings/Middleworld/Factions/Veilin Fae Folk",
+      "resolvedHref": "/settings/middleworld/factions/veilin-fae-folk"
+    },
+    {
+      "id": "faction-varesh",
+      "x": 0.79,
+      "y": 0.9,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Varesh",
+      "link": "settings/Middleworld/Factions/Varesh",
+      "resolvedHref": "/settings/middleworld/factions/varesh"
+    }
+  ]
+}

@@ -10,7 +10,9 @@ category: Cosmology
 visibility: public
 description: The Gods exist in a dimension/plane of their own making. It is cut mostly from mortals through a Veil. This can only be crossed by those who die or seen by Humans in their dreams.
 related:
+  - settings/Middleworld/Cosmology/index
   - settings/Middleworld/index
+  - settings/Middleworld/Regions/Elderon
 ---
 
 The Gods exist in a dimension/plane of their own making. It is cut mostly from mortals through a Veil. This can only be crossed by those who die or seen by Humans in their dreams.
@@ -35,10 +37,12 @@ Walkov: (Domain: Nature/ Tempest) He keeps the land fertile and wild, brings the
 
 Hildaria: (Domain: Redemption) Those who cannot find the way are not lost. Those in prison, those who heal soldiers from either side after the battle call upon Hildaria for guidance and to find a purpose to turn things around. She does not carry any particular symbol as anyone may worship her in their own way.
 
-Salena: (Domain: Magic) The Goddess of Magic was slayed and caused the fall of Elderon in a magical storm and miasma. Although she held the domain of magic, it is still accessible today and the mana wells seem to be a geological feature of the world. It is thought that she could control all the mana winds and that they are now free to blow through the world. She is/was symbolized by large waves. She still has worshippers across the world.
+Salena: (Domain: Magic) The Goddess of Magic was slayed and caused the fall of [[settings/Middleworld/Regions/Elderon|Elderon]] in a magical storm and miasma. Although she held the domain of magic, it is still accessible today and the mana wells seem to be a geological feature of the world. It is thought that she could control all the mana winds and that they are now free to blow through the world. She is/was symbolized by large waves. She still has worshippers across the world.
 
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Cosmology/index|Middleworld — Cosmology]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Regions/Elderon|Elderon]]
 <!-- vault-enrichment:end -->

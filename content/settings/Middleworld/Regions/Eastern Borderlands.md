@@ -12,6 +12,7 @@ description: Untamed lands filled with monsters, it is said that those brave eno
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
 ---
 
 Untamed lands filled with monsters, it is said that those brave enough to thread these lands eventually reach the Sea of Visions where they may perform a ritual to have their future foretold.
@@ -31,4 +32,5 @@ Untamed lands filled with monsters, it is said that those brave enough to thread
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

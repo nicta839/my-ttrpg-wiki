@@ -1,0 +1,281 @@
+{
+  "size": {
+    "w": 4096,
+    "h": 2304
+  },
+  "layers": [
+    {
+      "id": "regions",
+      "name": "Regions",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "factions",
+      "name": "Factions and organizations",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "settlements",
+      "name": "Settlements and sites",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "id": "region-tempest-headlands",
+      "x": 0.18,
+      "y": 0.49,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Tempest Headlands",
+      "link": "settings/Soleria/Regions/Map Features/Tempest Headlands",
+      "resolvedHref": "/settings/soleria/regions/map-features/tempest-headlands"
+    },
+    {
+      "id": "region-fleurian-grasslands",
+      "x": 0.37,
+      "y": 0.47,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Fleurian Grasslands",
+      "link": "settings/Soleria/Regions/Map Features/Fleurian Grasslands",
+      "resolvedHref": "/settings/soleria/regions/map-features/fleurian-grasslands"
+    },
+    {
+      "id": "region-midlands",
+      "x": 0.42,
+      "y": 0.65,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Midlands",
+      "link": "settings/Soleria/Regions/Map Features/Midlands",
+      "resolvedHref": "/settings/soleria/regions/map-features/midlands"
+    },
+    {
+      "id": "region-night-reach",
+      "x": 0.63,
+      "y": 0.8,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Night's Reach",
+      "link": "settings/Soleria/Regions/Map Features/Night's Reach",
+      "resolvedHref": "/settings/soleria/regions/map-features/night's-reach"
+    },
+    {
+      "id": "region-shattered-lands",
+      "x": 0.28,
+      "y": 0.84,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Shattered Lands",
+      "link": "settings/Soleria/Regions/Map Features/Shattered Lands",
+      "resolvedHref": "/settings/soleria/regions/map-features/shattered-lands"
+    },
+    {
+      "id": "region-ethereal-plains",
+      "x": 0.53,
+      "y": 0.84,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Ethereal Plains",
+      "link": "settings/Soleria/Regions/Map Features/Ethereal Plains",
+      "resolvedHref": "/settings/soleria/regions/map-features/ethereal-plains"
+    },
+    {
+      "id": "region-noblerlands",
+      "x": 0.74,
+      "y": 0.65,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Noblerlands",
+      "link": "settings/Soleria/Regions/Map Features/Noblerlands",
+      "resolvedHref": "/settings/soleria/regions/map-features/noblerlands"
+    },
+    {
+      "id": "region-natures-reign",
+      "x": 0.8,
+      "y": 0.49,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Nature's Reign",
+      "link": "settings/Soleria/Regions/Map Features/Nature's Reign",
+      "resolvedHref": "/settings/soleria/regions/map-features/nature's-reign"
+    },
+    {
+      "id": "region-elderbourne-forest",
+      "x": 0.76,
+      "y": 0.32,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Elderbourne Forest",
+      "link": "settings/Soleria/Regions/Map Features/Elderbourne Forest",
+      "resolvedHref": "/settings/soleria/regions/map-features/elderbourne-forest"
+    },
+    {
+      "id": "region-silver-wardens",
+      "x": 0.69,
+      "y": 0.2,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Silver Wardens",
+      "link": "settings/Soleria/Regions/Map Features/Silver Wardens",
+      "resolvedHref": "/settings/soleria/regions/map-features/silver-wardens"
+    },
+    {
+      "id": "region-dwarven-homeland",
+      "x": 0.39,
+      "y": 0.2,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Dwarven homeland",
+      "link": "settings/Soleria/Regions/Map Features/Dwarven Homeland",
+      "resolvedHref": "/settings/soleria/regions/map-features/dwarven-homeland"
+    },
+    {
+      "id": "region-valoralands",
+      "x": 0.58,
+      "y": 0.3,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Valoralands",
+      "link": "settings/Soleria/Regions/Map Features/Valoralands",
+      "resolvedHref": "/settings/soleria/regions/map-features/valoralands"
+    },
+    {
+      "id": "region-park-coast",
+      "x": 0.8,
+      "y": 0.38,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Park Coast",
+      "link": "settings/Soleria/Regions/Map Features/Park Coast",
+      "resolvedHref": "/settings/soleria/regions/map-features/park-coast"
+    },
+    {
+      "id": "region-firelands",
+      "x": 0.91,
+      "y": 0.58,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Firelands",
+      "link": "settings/Soleria/Regions/Map Features/Firelands",
+      "resolvedHref": "/settings/soleria/regions/map-features/firelands"
+    },
+    {
+      "id": "faction-dwarven-holds",
+      "x": 0.36,
+      "y": 0.18,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Dwarven Holds",
+      "link": "settings/Soleria/Factions/Dwarven Holds",
+      "resolvedHref": "/settings/soleria/factions/dwarven-holds"
+    },
+    {
+      "id": "faction-kingdom",
+      "x": 0.58,
+      "y": 0.49,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Kingdom",
+      "link": "settings/Soleria/Factions/Kingdom",
+      "resolvedHref": "/settings/soleria/factions/kingdom"
+    },
+    {
+      "id": "faction-night-guard",
+      "x": 0.64,
+      "y": 0.78,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Night Guard",
+      "link": "settings/Soleria/Factions/Night Guard",
+      "resolvedHref": "/settings/soleria/factions/night-guard"
+    },
+    {
+      "id": "faction-pyreborn",
+      "x": 0.91,
+      "y": 0.66,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Pyreborn",
+      "link": "settings/Soleria/Factions/Pyreborn",
+      "resolvedHref": "/settings/soleria/factions/pyreborn"
+    },
+    {
+      "id": "faction-woodfolk",
+      "x": 0.76,
+      "y": 0.32,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Woodfolk",
+      "link": "settings/Soleria/Factions/Woodfolk",
+      "resolvedHref": "/settings/soleria/factions/woodfolk"
+    },
+    {
+      "id": "organization-guardian-druid",
+      "x": 0.79,
+      "y": 0.39,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Guardian Druid",
+      "link": "settings/Soleria/Organizations/Guardian Druid",
+      "resolvedHref": "/settings/soleria/organizations/guardian-druid"
+    },
+    {
+      "id": "organization-kaerndal",
+      "x": 0.53,
+      "y": 0.64,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Kaern'Dal",
+      "link": "settings/Soleria/Organizations/Kaern'Dal",
+      "resolvedHref": "/settings/soleria/organizations/kaern'dal"
+    },
+    {
+      "id": "organization-obsidian-army",
+      "x": 0.9,
+      "y": 0.62,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Obsidian Army",
+      "link": "settings/Soleria/Organizations/Obsidian Army",
+      "resolvedHref": "/settings/soleria/organizations/obsidian-army"
+    },
+    {
+      "id": "organization-empyrean-guard",
+      "x": 0.96,
+      "y": 0.7,
+      "layer": "factions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Empyrean Guard",
+      "link": "settings/Soleria/Organizations/Empyrean Guard",
+      "resolvedHref": "/settings/soleria/organizations/empyrean-guard"
+    }
+  ]
+}

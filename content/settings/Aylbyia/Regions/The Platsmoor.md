@@ -10,20 +10,20 @@ category: Regions
 visibility: public
 description: "Most important city: Ziebglen, Seat of Aumogonne"
 related:
+  - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
   - settings/Aylbyia/Factions/Churches/Church of Light
   - settings/Aylbyia/Factions/Kingdom
+  - settings/Aylbyia/Maps/index
   - settings/Aylbyia/NPCs/kingdom/Johan de Meyer
-  - settings/Aylbyia/Regions/Regions of the world
-  - settings/Aylbyia/Timeline
-  - settings/Aylbyia/Settlements/Ziebglen
-  - settings/Aylbyia/Regions/Orkunsteppes
+  - settings/Aylbyia/Regions/Map Features/Haerone Forest
+  - settings/Aylbyia/Regions/Map Features/Lake Koral
 ---
 
-Most important city: [[Ziebglen]], Seat of Aumogonne
+Most important city: [[settings/Aylbyia/Settlements/Ziebglen|Ziebglen]], Seat of [[settings/Aylbyia/Cosmology/Celestials and Saints/Saints/Aumogonne|Aumogonne]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![platsmoor](../../../assets/aylbyia/the-platsmoor/platsmoor-55702d5f0c-1600.webp)](../../../assets/aylbyia/the-platsmoor/platsmoor-55702d5f0c-full.webp)
+> [![platsmoor](../../../assets/aylbyia/the-platsmoor/platsmoor-55702d5f0c-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-platsmoor/platsmoor-55702d5f0c-full.webp)
 
 > [!onenote-gallery]
 > [![platsmoor 3](../../../assets/aylbyia/the-platsmoor/platsmoor-3-9e9cfc04c1-800.webp)](../../../assets/aylbyia/the-platsmoor/platsmoor-3-9e9cfc04c1-full.webp)
@@ -43,9 +43,9 @@ Lifestyle: Strong military and seafaring tradition that is being threatened by t
 
 
 Important locations
-- Klett: Border castle to the [[Orkunsteppes]].
+- Klett: Border castle to the [[settings/Aylbyia/Regions/Orkunsteppes|Orkunsteppes]].
 
-- Pale Gate: Military shipyard used to control the bay.
+- [[settings/Aylbyia/Regions/Map Features/Pale Gate|Pale Gate]]: Military shipyard used to control the bay.
 
 - Tavik Dejonder: Location of a ruin with a circle of teleportation. It is a town built upon the ruins of the ancient city.
 
@@ -63,17 +63,17 @@ Important locations
 
 - Lesidia: Small mining village, sending their ore to Breytowne.
 
-- Breytowne: Port city focused on shipping goods to the [barronies](settings/Aylbyia/Regions/great%20houses%20of%20humanity/The%20Great%20Houses%20of%20Humanity.md).
+- Breytowne: Port city focused on shipping goods to the [[settings/Aylbyia/Regions/great houses of humanity/The Great Houses of Humanity|barronies]].
 
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Aylbyia/Regions/index|Regions]]
 - [[settings/Aylbyia/index|Aylbyia]]
 - [[settings/Aylbyia/Factions/Churches/Church of Light|Church of Light]]
 - [[settings/Aylbyia/Factions/Kingdom|Kingdom]]
+- [[settings/Aylbyia/Maps/index|Maps]]
 - [[settings/Aylbyia/NPCs/kingdom/Johan de Meyer|Johan de Meyer]]
-- [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
-- [[settings/Aylbyia/Timeline|Timeline]]
-- [[settings/Aylbyia/Settlements/Ziebglen|Ziebglen]]
-- [[settings/Aylbyia/Regions/Orkunsteppes|Orkunsteppes]]
+- [[settings/Aylbyia/Regions/Map Features/Haerone Forest|Haerone Forest]]
+- [[settings/Aylbyia/Regions/Map Features/Lake Koral|Lake Koral]]
 <!-- vault-enrichment:end -->

@@ -10,10 +10,16 @@ category: Factions
 visibility: public
 description: Old dwarven kingdom, extremely attached to traditions and boasts about being the rampart of the world against the Empire.
 related:
+  - settings/Middleworld/Factions/index
   - settings/Middleworld/index
+  - settings/Middleworld/History/index
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Organizations/Builder's guild
+  - settings/Middleworld/Regions/Drauva
+  - settings/Middleworld/Society/The Empire
 ---
 
-Old dwarven kingdom, extremely attached to traditions and boasts about being the rampart of the world against the Empire. If you wish for something sturdy to be built and lots of them, these are the people to call. Heavy on mining and has access to exclusive resources.
+Old dwarven kingdom, extremely attached to traditions and boasts about being the rampart of the world against [[settings/Middleworld/Society/The Empire|the Empire]]. If you wish for something sturdy to be built and lots of them, these are the people to call. Heavy on mining and has access to exclusive resources.
 
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -34,5 +40,11 @@ The Voidlands are also ripe for refining or transforming certain ore.
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Factions/index|Middleworld — Factions]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/History/index|History]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Organizations/Builder's guild|Builder's guild]]
+- [[settings/Middleworld/Regions/Drauva|Drauva]]
+- [[settings/Middleworld/Society/The Empire|The Empire]]
 <!-- vault-enrichment:end -->

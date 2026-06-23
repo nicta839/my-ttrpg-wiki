@@ -16,11 +16,11 @@ related:
   - settings/Aylbyia/Cosmology/The Planes/Celestial flow
   - settings/Aylbyia/Cosmology/The Planes/The Planes
   - settings/Aylbyia/Factions/Churches/Church of Light
+  - settings/Aylbyia/Factions/Queendom
   - settings/Aylbyia/History/Founding myth
-  - settings/Aylbyia/Regions/The Skal'ik Desert and Lyzykos
 ---
 
-The [[Heavens]] are a place of eternal bliss that can be reached by being reincarnated and reaching a state of enlightenment. In this place, one's soul may serve and enjoy an eternal life. Once enlightened in this way, the soul is returned to the [[Primordial Fire]] that gave birth to the world.
+The [[settings/Aylbyia/Cosmology/The Planes/Heavens|Heavens]] are a place of eternal bliss that can be reached by being reincarnated and reaching a state of enlightenment. In this place, one's soul may serve and enjoy an eternal life. Once enlightened in this way, the soul is returned to the [[settings/Aylbyia/Cosmology/The Planes/Primordial Fire|Primordial Fire]] that gave birth to the world.
 
 <!-- vault-enrichment:start -->
 ## Related
@@ -31,6 +31,6 @@ The [[Heavens]] are a place of eternal bliss that can be reached by being reinca
 - [[settings/Aylbyia/Cosmology/The Planes/Celestial flow|Celestial flow]]
 - [[settings/Aylbyia/Cosmology/The Planes/The Planes|The Planes]]
 - [[settings/Aylbyia/Factions/Churches/Church of Light|Church of Light]]
+- [[settings/Aylbyia/Factions/Queendom|Queendom]]
 - [[settings/Aylbyia/History/Founding myth|Founding myth]]
-- [[settings/Aylbyia/Regions/The Skal'ik Desert and Lyzykos|The Skal'ik Desert and Lyzykos]]
 <!-- vault-enrichment:end -->

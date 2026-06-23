@@ -9,6 +9,13 @@ onenote_source: Spine of the world/World/The Story so far
 category: History
 visibility: public
 description: "Season 0: The Inquisition Implication of the Blackwood in a nefarious experiment involving crystals similar the the Circuits Establishment of the Inquisition by orders of the Archon of Stone…"
+related:
+  - settings/Spine of the World/index
+  - settings/Spine of the World/Settlements/Tar Valon
+  - settings/Spine of the World/Factions/Ris'san Dameno
+  - settings/Spine of the World/Items/Curse of Salidar
+  - settings/Spine of the World/Factions/The Drow
+  - settings/Spine of the World/Organizations/The Grey Glove
 ---
 
 - Season 0: The Inquisition
@@ -18,10 +25,10 @@ description: "Season 0: The Inquisition Implication of the Blackwood in a nefari
 - Training of new levies and heavy costs in equipment for the Empire
 - The Southern part of the Empire is stirring, Inquisitors are sent to find the Elven noble responsible for the rebellious propaganda but they disappear.
 - The navy is split and sent West and South to reinforce any local authority.
-- Assassination of a High profile figure in Tar Valon
-- Aggressive raids and territory conquering happens in the North from the Ris'san Dameno. Open warfare is now happening.
+- Assassination of a High profile figure in [[settings/Spine of the World/Settlements/Tar Valon|Tar Valon]]
+- Aggressive raids and territory conquering happens in the North from the [[settings/Spine of the World/Factions/Ris'san Dameno|Ris'san Dameno]]. Open warfare is now happening.
 
-- Season 1: Curse of Salidar
+- Season 1: [[settings/Spine of the World/Items/Curse of Salidar|Curse of Salidar]]
 - Arrival in Salidar to lift Salix curse
 - Sherrick has visions of things that have yet come to pass
 - Death is released and some of the hidden history of the Empire is discovered
@@ -40,7 +47,7 @@ description: "Season 0: The Inquisition Implication of the Blackwood in a nefari
 
 - Season 3: Sun-eating spider
 - The origin of the weakening of the Tree is investigated
-- The party finds a camp of drow and manages to escape
+- The party finds a camp of [[settings/Spine of the World/Factions/The Drow|drow]] and manages to escape
 - The druid keeper is kidnapped and the party goes to try and rescue him.
 - The party finds the Vale of Frost and more information about the hidden history of the Empire
 - The party allies with the Undead of the Vale and head back to Kuldahar before it's too late
@@ -123,7 +130,7 @@ Season 7: Back home
 Season7.1: Tar Valon
 
 - The party heads for Tar Valon and tries to get their finger on the pulse of the city: between assassinations and news traveling slowly about the events of the fields near Lugard, the party tries to keep a low profile.
-- They come to the attention of two factions in particular: the Grey glove who propose them to get access to the lab or Orrick in exchange of their supervision, as well as the Ris'san Dameno who seem to have infiltrated the city.
+- They come to the attention of two factions in particular: [[settings/Spine of the World/Organizations/The Grey Glove|the Grey glove]] who propose them to get access to the lab or Orrick in exchange of their supervision, as well as the Ris'san Dameno who seem to have infiltrated the city.
 - Thal heads home and has uncomfortable discussions with their mother about the burden of their family being exposed to the scorn of the elven nobility at large
 - The party learns that the elven nobility are trying to uncover more information about the archmagister and all have different opinions about the Empire.
 - There is a new group of elven women meeting regularly. The topics of these meetings are shrouded in mystery
@@ -149,3 +156,14 @@ Season 8: Shadowfell
 - A siege is underway on a city that is now very much on fire
 - The group rests under one of the abandonned siege engines.
 -
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Spine of the World/index|Spine of the World]]
+- [[settings/Spine of the World/Settlements/Tar Valon|Tar Valon]]
+- [[settings/Spine of the World/Factions/Ris'san Dameno|Ris'san Dameno]]
+- [[settings/Spine of the World/Items/Curse of Salidar|Curse of Salidar]]
+- [[settings/Spine of the World/Factions/The Drow|The Drow]]
+- [[settings/Spine of the World/Organizations/The Grey Glove|The Grey Glove]]
+<!-- vault-enrichment:end -->

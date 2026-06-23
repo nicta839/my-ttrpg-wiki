@@ -5,18 +5,19 @@ setting: Middleworld
 tags:
   - setting/middleworld
   - type/organization
+  - type/index
+  - category/factions
 onenote_source: Worldbuilding 2/Organizations/Threats
 category: Factions
 visibility: public
 description: We will add here antagonists to the party or elements that pose a threat to a certain location or population
-related:
-  - settings/Middleworld/index
+related: []
 ---
+
+# Threats
 
 We will add here antagonists to the party or elements that pose a threat to a certain location or population
 
-<!-- vault-enrichment:start -->
-## Related
+<!-- vault-folder-index:start -->
 
-- [[settings/Middleworld/index|Introduction]]
-<!-- vault-enrichment:end -->
+<!-- vault-folder-index:end -->

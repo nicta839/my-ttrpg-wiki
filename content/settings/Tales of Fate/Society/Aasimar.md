@@ -11,6 +11,7 @@ visibility: public
 description: Mortals imbued witha spark of divinity. They seem to all hear different voices in dreams or while awake. These voices advice them throughout their adulthood.
 related:
   - settings/Tales of Fate/Society/index
+  - settings/Tales of Fate/index
 ---
 
 Mortals imbued witha  spark of divinity. They seem to all hear different voices in dreams or while awake. These voices advice them throughout their adulthood.
@@ -19,4 +20,5 @@ Mortals imbued witha  spark of divinity. They seem to all hear different voices 
 ## Related
 
 - [[settings/Tales of Fate/Society/index|The People]]
+- [[settings/Tales of Fate/index|Tales of Fate]]
 <!-- vault-enrichment:end -->

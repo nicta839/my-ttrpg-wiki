@@ -10,7 +10,9 @@ category: Settlements
 visibility: public
 description: "The Citadel of Frozen Crystal: Fabled city of old Tavik. Said to hide powerful relics."
 related:
+  - settings/Aylbyia/Settlements/The Frosted South/index
   - settings/Aylbyia/index
+  - settings/Aylbyia/Maps/index
   - settings/Aylbyia/Regions/The Frosted South
 ---
 
@@ -19,6 +21,8 @@ The Citadel of Frozen Crystal: Fabled city of old Tavik. Said to hide powerful r
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Aylbyia/Settlements/The Frosted South/index|The Frosted South]]
 - [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Maps/index|Maps]]
 - [[settings/Aylbyia/Regions/The Frosted South|The Frosted South]]
 <!-- vault-enrichment:end -->

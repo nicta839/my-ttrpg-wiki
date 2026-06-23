@@ -11,6 +11,8 @@ visibility: public
 description: All officially published classes are allowed from the PHB and Xanathar's.
 related:
   - settings/Soleria/Society/Character Creation/index
+  - settings/Soleria/index
+  - settings/Soleria/Society/index
 ---
 
 All officially published classes are allowed from the PHB and Xanathar's. Unearthed Arcana and other homebrews might be allowed but require DM approval first. Don't feel shy about coming forward with some homebrewed classes
@@ -23,4 +25,6 @@ Examples of changes to classes or spells are things like: arcane shots for fight
 ## Related
 
 - [[settings/Soleria/Society/Character Creation/index|Character creation]]
+- [[settings/Soleria/index|Soleria]]
+- [[settings/Soleria/Society/index|Soleria — Society]]
 <!-- vault-enrichment:end -->

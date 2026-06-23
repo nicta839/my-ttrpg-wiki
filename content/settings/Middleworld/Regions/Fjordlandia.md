@@ -12,6 +12,7 @@ description: Mountainous regions said to harbour small communities of cultists, 
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
 ---
 
 Mountainous regions said to harbour small communities of cultists, it is also the location of a swirling maelstrom said to be the gateway to the plane of elemental Air.
@@ -29,4 +30,5 @@ Mountainous regions said to harbour small communities of cultists, it is also th
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

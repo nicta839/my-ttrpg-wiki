@@ -10,10 +10,13 @@ category: Factions
 visibility: public
 description: Meritocratic Empire where you climb echelons through enterprise and valor.
 related:
+  - settings/Middleworld/Factions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Society/The Empire
 ---
 
-Meritocratic Empire where you climb echelons through enterprise and valor. Clashes occur often between the different vassal states' cultures. Its rapid expansion throughout time and vast territories is leading to incredibly slow bureaucracy that fails more often than not to meet the needs of the population in terms of reform. Corruption grows…
+Meritocratic [[settings/Middleworld/Society/The Empire|Empire]] where you climb echelons through enterprise and valor. Clashes occur often between the different vassal states' cultures. Its rapid expansion throughout time and vast territories is leading to incredibly slow bureaucracy that fails more often than not to meet the needs of the population in terms of reform. Corruption grows…
 
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -28,5 +31,8 @@ Meritocratic Empire where you climb echelons through enterprise and valor. Clash
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Factions/index|Middleworld — Factions]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Society/The Empire|The Empire]]
 <!-- vault-enrichment:end -->

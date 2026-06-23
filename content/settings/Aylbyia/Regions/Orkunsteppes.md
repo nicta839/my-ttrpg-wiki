@@ -10,18 +10,21 @@ category: Regions
 visibility: public
 description: "Most important city: Lor, The First City Unarchus"
 related:
+  - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
+  - settings/Aylbyia/Maps/index
   - settings/Aylbyia/Regions/The Platsmoor
+  - settings/Aylbyia/Society/Languages
   - settings/Aylbyia/Timeline
   - settings/Aylbyia/Settlements/Orkunsteppes/Lor
   - settings/Aylbyia/Settlements/Orkunsteppes/Unarchus
 ---
 
-- Most important city: [[Lor]], The First City
-- [[Unarchus]]
+- Most important city: [[settings/Aylbyia/Settlements/Orkunsteppes/Lor|Lor]], The First City
+- [[settings/Aylbyia/Settlements/Orkunsteppes/Unarchus|Unarchus]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![orkunsteppe](../../../assets/aylbyia/orkunsteppes/orkunsteppe-3dd46ea33c-1600.webp)](../../../assets/aylbyia/orkunsteppes/orkunsteppe-3dd46ea33c-full.webp)
+> [![orkunsteppe](../../../assets/aylbyia/orkunsteppes/orkunsteppe-3dd46ea33c-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/orkunsteppes/orkunsteppe-3dd46ea33c-full.webp)
 
 > [!onenote-gallery]
 > [![orc city](../../../assets/aylbyia/orkunsteppes/orc-city-5671825993-800.webp)](../../../assets/aylbyia/orkunsteppes/orc-city-5671825993-full.webp)
@@ -33,7 +36,7 @@ Region Flavor: Untamed land except for a select few cities, the whole region has
 
 Geography: Tall grasslands, dry with bouts of heavy rainfall. Currently under a persistent giant unmoving dark cloud.
 
-Clothing: Tall boots that prevent snakebites, the orcs seen wear gear that is very practical for rapid movement and riding. Deep baryton tunes and bass rythmic and repetitive sounds.
+Clothing: Tall boots that prevent snakebites, the [[settings/Aylbyia/Society/Ancestries/Orcs|orcs]] seen wear gear that is very practical for rapid movement and riding. Deep baryton tunes and bass rythmic and repetitive sounds.
 
 Art: Paintings using earthy colors. They always depict intricate geometric shapes. The technique for producing these paintings is not understood.
 
@@ -44,8 +47,11 @@ Lifestyle: Unknown
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Aylbyia/Regions/index|Regions]]
 - [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Maps/index|Maps]]
 - [[settings/Aylbyia/Regions/The Platsmoor|The Platsmoor]]
+- [[settings/Aylbyia/Society/Languages|Languages]]
 - [[settings/Aylbyia/Timeline|Timeline]]
 - [[settings/Aylbyia/Settlements/Orkunsteppes/Lor|Lor]]
 - [[settings/Aylbyia/Settlements/Orkunsteppes/Unarchus|Unarchus]]

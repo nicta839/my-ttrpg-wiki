@@ -11,9 +11,11 @@ visibility: public
 description: Personification of three elven goddesses (Aerdrie Faenya, Hanali Celanil and Sehanine Moonbow) she is cconsidered the consort of Corellon in some clerical circles.
 related:
   - settings/Spine of the World/Cosmology/index
+  - settings/Spine of the World/index
+  - settings/Spine of the World/Cosmology/Sehanine Moonbow
 ---
 
-Personification of three elven goddesses (Aerdrie Faenya, Hanali Celanil and Sehanine Moonbow) she is cconsidered the consort of Corellon in some clerical circles. She is the Goddess who guides to Arvandor, Home to the halls built by Corellon for his children to bask in his presence.
+Personification of three elven goddesses (Aerdrie Faenya, Hanali Celanil and [[settings/Spine of the World/Cosmology/Sehanine Moonbow|Sehanine Moonbow]]) she is cconsidered the consort of Corellon in some clerical circles. She is the Goddess who guides to Arvandor, Home to the halls built by Corellon for his children to bask in his presence.
 
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -30,4 +32,6 @@ The uncertain and changing nature of the three also plays into the "Reincarnatio
 ## Related
 
 - [[settings/Spine of the World/Cosmology/index|Religion]]
+- [[settings/Spine of the World/index|Spine of the World]]
+- [[settings/Spine of the World/Cosmology/Sehanine Moonbow|Sehanine Moonbow]]
 <!-- vault-enrichment:end -->

@@ -10,17 +10,20 @@ category: Regions
 visibility: public
 description: "Region Flavor: Hilly green region where civilization has not threaded yet. Fishing villages inhabited by proud people."
 related:
+  - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
+  - settings/Aylbyia/Maps/index
+  - settings/Aylbyia/Regions/Map Features/The Shell
   - settings/Aylbyia/Regions/Regions of the world
   - settings/Aylbyia/Society/Silksteel
   - settings/Aylbyia/Timeline
   - settings/Aylbyia/Settlements/Hatchaka
 ---
 
-Most important city: [[Hatchaka]]
+Most important city: [[settings/Aylbyia/Settlements/Hatchaka|Hatchaka]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![tiulasa people](../../../assets/aylbyia/tiulasa/tiulasa-people-24c5aa2596-1600.webp)](../../../assets/aylbyia/tiulasa/tiulasa-people-24c5aa2596-full.webp)
+> [![tiulasa people](../../../assets/aylbyia/tiulasa/tiulasa-people-24c5aa2596-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/tiulasa/tiulasa-people-24c5aa2596-full.webp)
 
 > [!onenote-gallery]
 > [![tiulasa](../../../assets/aylbyia/tiulasa/tiulasa-59325c8b68-800.webp)](../../../assets/aylbyia/tiulasa/tiulasa-59325c8b68-full.webp)
@@ -54,7 +57,10 @@ Lifestyle: The people of this land live mostly isolated from the rest of the wor
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Aylbyia/Regions/index|Regions]]
 - [[settings/Aylbyia/index|Aylbyia]]
+- [[settings/Aylbyia/Maps/index|Maps]]
+- [[settings/Aylbyia/Regions/Map Features/The Shell|The Shell]]
 - [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
 - [[settings/Aylbyia/Society/Silksteel|Silksteel]]
 - [[settings/Aylbyia/Timeline|Timeline]]

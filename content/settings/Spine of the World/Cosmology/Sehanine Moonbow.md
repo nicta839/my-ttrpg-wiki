@@ -11,6 +11,8 @@ visibility: public
 description: Goddess of Moonlight, The Mystic Seer, The Luminous Cloud and the Lady of Dreams is a central figure of the Seldarine Pantheon and one who is highly regarded as a wise guide for its chief.
 related:
   - settings/Spine of the World/Cosmology/index
+  - settings/Spine of the World/index
+  - settings/Spine of the World/Cosmology/Aangarahd
 ---
 
 Goddess of Moonlight, The Mystic Seer, The Luminous Cloud and the Lady of Dreams is a central figure of the Seldarine Pantheon and one who is highly regarded as a wise guide for its chief.
@@ -32,4 +34,6 @@ If she is Death and Corellon is life, could they be the two faces of a coin? Thi
 ## Related
 
 - [[settings/Spine of the World/Cosmology/index|Religion]]
+- [[settings/Spine of the World/index|Spine of the World]]
+- [[settings/Spine of the World/Cosmology/Aangarahd|Aangarahd]]
 <!-- vault-enrichment:end -->

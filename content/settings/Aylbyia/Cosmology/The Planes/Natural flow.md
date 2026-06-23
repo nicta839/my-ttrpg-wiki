@@ -18,7 +18,7 @@ related:
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Cidias
 ---
 
-The natural flow is that which enables time to pass and creatures to be born, grow and die. It is also the source of arcane magic in the world. It was tainted when the [[Betrayer]] slayed [[Cidias]]. It is now more chaotic than it was during the blessed times.
+The natural flow is that which enables time to pass and creatures to be born, grow and die. It is also the source of [[settings/Aylbyia/Cosmology/Arcane Magic|arcane magic]] in the world. It was tainted when the [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Betrayer|Betrayer]] slayed [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Cidias|Cidias]]. It is now more chaotic than it was during the blessed times.
 
 <!-- vault-enrichment:start -->
 ## Related

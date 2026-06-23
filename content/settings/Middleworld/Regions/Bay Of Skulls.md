@@ -12,6 +12,8 @@ description: Said to the the location of the castle of the Lord of Pirates.
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/History/index
+  - settings/Middleworld/Maps/index
 ---
 
 Said to the the location of the castle of the Lord of Pirates. They wear many faces (most probably after the previous ones are assassinated) but the legend of the untakable "Floating Black Citadel" remains and ensures that all pirates feel safe from the grasp of law in these waters.
@@ -29,4 +31,6 @@ Said to the the location of the castle of the Lord of Pirates. They wear many fa
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/History/index|History]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

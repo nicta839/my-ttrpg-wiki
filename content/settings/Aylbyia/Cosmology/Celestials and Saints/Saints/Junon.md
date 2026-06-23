@@ -15,12 +15,12 @@ related:
   - settings/Aylbyia/Cosmology/Celestials and Saints/Saints/Saints
   - settings/Aylbyia/Cosmology/Religion
   - settings/Aylbyia/History/Founding myth
+  - settings/Aylbyia/Settlements/Junon, The Celestial City
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials
   - settings/Aylbyia/Regions/Twilight
-  - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Betrayer
 ---
 
- Junon: Was invested with the powers of the [[Celestials]]. She led the armies of Light into the [[Twilight]] to banish the [[Betrayer]].
+ Junon: Was invested with the powers of the [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]]. She led the armies of Light into the [[settings/Aylbyia/Regions/Twilight|Twilight]] to banish the [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Betrayer|Betrayer]].
 
 <!-- vault-enrichment:start -->
 ## Related
@@ -30,7 +30,7 @@ related:
 - [[settings/Aylbyia/Cosmology/Celestials and Saints/Saints/Saints|Saints]]
 - [[settings/Aylbyia/Cosmology/Religion|Religion]]
 - [[settings/Aylbyia/History/Founding myth|Founding myth]]
+- [[settings/Aylbyia/Settlements/Junon, The Celestial City|Junon, The Celestial City]]
 - [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]]
 - [[settings/Aylbyia/Regions/Twilight|Twilight]]
-- [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Betrayer|Betrayer]]
 <!-- vault-enrichment:end -->

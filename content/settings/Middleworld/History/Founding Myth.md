@@ -12,6 +12,9 @@ description: The world was birthed through song, created as the Singer saw fit. 
 related:
   - settings/Middleworld/History/index
   - settings/Middleworld/index
+  - settings/Middleworld/Regions/The Narthos
+  - settings/Middleworld/Society/The Empire
+  - settings/Middleworld/Regions/Meridios
 ---
 
 First Song:
@@ -24,7 +27,7 @@ Second Song:
 
 Time passed and the Singer was forgotten by most.
 
-The first pantheon grew emboldened during their tenure and prepared themselves to overthrow the Singer upon Her  return. They gathered their followers, empowered mortals and prepared for the clash. The Singer returned and was disappointed by the hubris of the Gods she had appointed. They were no match for Her mighty song and were destroyed and most of the planet was left bleeding in a state named the Narthos. The black pillars of the Narthos are thought to be pieces of those gods.
+The first pantheon grew emboldened during their tenure and prepared themselves to overthrow the Singer upon Her  return. They gathered their followers, empowered mortals and prepared for the clash. The Singer returned and was disappointed by the hubris of the Gods she had appointed. They were no match for Her mighty song and were destroyed and most of the planet was left bleeding in a state named [[settings/Middleworld/Regions/The Narthos|the Narthos]]. The black pillars of the Narthos are thought to be pieces of those gods.
 
 The Singer appointed new gods and changed the rules of them acquiring power. They would channel power through their worshippers. Should they falter or not have the best interestsof their people in mind, they would vanish.
 
@@ -46,7 +49,7 @@ Fourth Song:
 
 Time passed and the Singer was forgotten by most.
 
-The Pantheon changed hands many times during the years. Artifacts were created, armies raised, mortals ascended and wars were waged against the gods to take their place in the pantheon. The Singer returned, found only chaos and was discontent. She tipped the balance in favor of the ascending gods and plagued their Empire: Gromnigan was no more. The people were now free to worship whoever was left in the pantheon while the gods battled amongst the newly arrived and the older ones.
+The Pantheon changed hands many times during the years. Artifacts were created, armies raised, mortals ascended and wars were waged against the gods to take their place in the pantheon. The Singer returned, found only chaos and was discontent. She tipped the balance in favor of the ascending gods and plagued their [[settings/Middleworld/Society/The Empire|Empire]]: Gromnigan was no more. The people were now free to worship whoever was left in the pantheon while the gods battled amongst the newly arrived and the older ones.
 
 Once the Singer was content with the world, she departed. The Singer foretold her return in 10,000 years.
 
@@ -56,7 +59,7 @@ Time passed and the Singer was forgotten by most.
 
 As the world settled into a new status quo, it learned once more to wield magic. The gods settled but grew old and weary. Some decided to coalesce into a single entity that woudl allow them to finally rest. The disaster that ensued was born of the mixing of contradictory portfolios. This new being was in pain and sought to deal part of it back onto the world and the gods. The Voidlands were created.
 
-The Singer returned to witness this creature rampaging. She inspired the people and punished the gods for not intervening. The Gods once more walked the planet instead of their own Plane. The Meridios Obelisks were built.
+The Singer returned to witness this creature rampaging. She inspired the people and punished the gods for not intervening. The Gods once more walked the planet instead of their own Plane. The [[settings/Middleworld/Regions/Meridios|Meridios]] Obelisks were built.
 
 Once the Singer was content with the world, she departed. The Singer foretold her return in 10,000 years.
 
@@ -71,4 +74,7 @@ The world succeeded in sealing the creature away but it was not yet to have a mo
 
 - [[settings/Middleworld/History/index|History]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Regions/The Narthos|The Narthos]]
+- [[settings/Middleworld/Society/The Empire|The Empire]]
+- [[settings/Middleworld/Regions/Meridios|Meridios]]
 <!-- vault-enrichment:end -->

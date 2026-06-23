@@ -11,12 +11,13 @@ visibility: public
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Society/Ancestries/Ancestries
+  - settings/Aylbyia/Timeline
 ---
-
 
 <!-- vault-enrichment:start -->
 ## Related
 
 - [[settings/Aylbyia/index|Aylbyia]]
 - [[settings/Aylbyia/Society/Ancestries/Ancestries|Ancestries]]
+- [[settings/Aylbyia/Timeline|Timeline]]
 <!-- vault-enrichment:end -->

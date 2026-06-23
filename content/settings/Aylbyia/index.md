@@ -9,39 +9,82 @@ category: Setting
 visibility: public
 description: The world is a large and unstable place. The big movers and shakers of the world are going forward with their plots.
 related:
-  - index
-  - settings/Aylbyia/Cosmology/The cosmos, gods and magic
-  - settings/Aylbyia/Factions/List of factions and organisations
-  - settings/Aylbyia/History/History of the world
-  - settings/Aylbyia/Regions/Regions of the world
-  - settings/Aylbyia/Timeline
-  - settings/Aylbyia/to-remember-notes
+  - settings/Aylbyia/History/index
+  - settings/Aylbyia/Regions/index
+  - settings/Aylbyia/Settlements/index
+  - settings/Aylbyia/Cosmology/index
+  - settings/Aylbyia/Society/index
+  - settings/Aylbyia/Factions/index
+  - settings/Aylbyia/Organizations/index
+  - settings/Aylbyia/NPCs/index
+  - settings/Aylbyia/Mysteries/index
+  - settings/Aylbyia/Quests/index
+  - settings/Aylbyia/Rumors/index
+  - settings/Aylbyia/Maps/index
 ---
 
 # Aylbyia
-<!-- onenote-media:start -->
-> [!onenote-hero]
-> [![cool open world](../../assets/aylbyia/index/cool-open-world-244aa8afac-1600.webp)](../../assets/aylbyia/index/cool-open-world-244aa8afac-full.webp)
-<!-- onenote-media:end -->
 
-The world is a large and unstable place. The big movers and shakers of the world are going forward with their plots. The dwarves have split and are at each others' throats. The baronnies have fallen under the influence of the greedy. The Queendom is still reeling from the loss of most of the members of their royal bloodline. Wherever the elves come from must be bad, why are there so many of them coming out of the Great Forest? The land of the Orcs have gone silent. Refugees without a land, they strive to try and carve a space for themselves. The now named Deadlands harbour horrors that are waiting for the right time to spring.
+<section class="setting-portal" data-setting="aylbyia">
+  <div class="portal-hero portal-hero-image" style="--portal-hero-image: url('../../assets/aylbyia/index/cool-open-world-244aa8afac-1600.webp')">
+    <p class="portal-kicker">Campaign setting</p>
+    <h1>Aylbyia</h1>
+    <p>A large and unstable world where dwarven fractures, greedy baronies, a shaken queendom, strange elven migrations, silent orc lands, and deadland horrors all move at once.</p>
+    <div class="portal-hero-actions">
+      <a class="portal-button" href="settings/Aylbyia/Maps/index">World map</a>
+      <a class="portal-button portal-button-secondary" href="settings/Aylbyia/Regions/index">Regions</a>
+    </div>
+  </div>
 
-Aylbiya is a rich world with many moving pieces. Here is a handy-dandy menu to navigate some of these things:
+<!-- portal-meta:start -->
+  <div class="portal-meta" aria-label="Setting orientation">
+    <span><strong>Tone</strong>Volatile high fantasy</span>
+    <span><strong>Best for</strong>Wide-world lore and faction play</span>
+    <span><strong>Start with</strong><a href="settings/Aylbyia/Maps/index">Maps</a></span>
+    <span><strong>Core routes</strong><a href="settings/Aylbyia/Regions/index">Regions</a>, <a href="settings/Aylbyia/Factions/index">Factions</a>, <a href="settings/Aylbyia/Cosmology/index">Cosmology</a></span>
+  </div>
+<!-- portal-meta:end -->
 
-- [[List of factions and organisations]]
-- [[The cosmos, gods and magic]]
-- [[History of the world]]
-- [[Regions of the world]]
--
+  <div class="portal-section-heading">
+    <p class="portal-kicker">Explore Aylbyia</p>
+    <h2>Indexes and anchors</h2>
+    <p>Start with the world map and broad history, then move into factions, regions, settlements, organizations, and live campaign hooks.</p>
+  </div>
 
-<!-- vault-enrichment:start -->
-## Related
+  <div class="portal-nav-grid">
+    <a class="portal-card" href="settings/Aylbyia/History/index"><span class="portal-card-kicker">Past</span><strong>History</strong><span>Founding myths, timelines, and the shape of old conflicts.</span></a>
+    <a class="portal-card" href="settings/Aylbyia/Regions/index"><span class="portal-card-kicker">Geography</span><strong>Regions</strong><span>The world's continents, borders, strange lands, and named map features.</span></a>
+    <a class="portal-card" href="settings/Aylbyia/Settlements/index"><span class="portal-card-kicker">Places</span><strong>Settlements</strong><span>Cities, towers, ports, castles, and smaller local anchors.</span></a>
+    <a class="portal-card" href="settings/Aylbyia/Cosmology/index"><span class="portal-card-kicker">Metaphysics</span><strong>Cosmology</strong><span>Gods, magic, planes, saints, celestials, and supernatural laws.</span></a>
+    <a class="portal-card" href="settings/Aylbyia/Society/index"><span class="portal-card-kicker">People</span><strong>Society</strong><span>Languages, ancestries, materials, customs, and social structure.</span></a>
+    <a class="portal-card" href="settings/Aylbyia/Factions/index"><span class="portal-card-kicker">Power</span><strong>Factions</strong><span>Kingdoms, churches, peoples, houses, threats, and political blocs.</span></a>
+    <a class="portal-card" href="settings/Aylbyia/Organizations/index"><span class="portal-card-kicker">Groups</span><strong>Organizations</strong><span>Guilds, councils, companies, orders, masks, coins, and hidden hands.</span></a>
+    <a class="portal-card" href="settings/Aylbyia/NPCs/index"><span class="portal-card-kicker">Cast</span><strong>NPCs</strong><span>Named figures connected to houses, kingdoms, queendoms, and campaigns.</span></a>
+    <a class="portal-card" href="settings/Aylbyia/Mysteries/index"><span class="portal-card-kicker">Unknowns</span><strong>Mysteries</strong><span>Open questions and strange elements waiting for the table.</span></a>
+    <a class="portal-card" href="settings/Aylbyia/Quests/index"><span class="portal-card-kicker">Hooks</span><strong>Quests</strong><span>Adventure leads and active opportunities.</span></a>
+    <a class="portal-card" href="settings/Aylbyia/Rumors/index"><span class="portal-card-kicker">Signals</span><strong>Rumors</strong><span>Loose truths, whispers, and things people say.</span></a>
+    <a class="portal-card" href="settings/Aylbyia/Timeline"><span class="portal-card-kicker">Chronology</span><strong>Timeline</strong><span>A direct route through dated events.</span></a>
+  </div>
+</section>
 
-- [[index|The Vault]]
-- [[settings/Aylbyia/Cosmology/The cosmos, gods and magic|The cosmos, gods and magic]]
-- [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]
-- [[settings/Aylbyia/History/History of the world|History of the world]]
-- [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
+<!-- vault-folder-index:start -->
+## Folders
+
+- [[settings/Aylbyia/History/index|History]]
+- [[settings/Aylbyia/Regions/index|Regions]]
+- [[settings/Aylbyia/Settlements/index|Settlements]]
+- [[settings/Aylbyia/Cosmology/index|Cosmology]]
+- [[settings/Aylbyia/Society/index|Society]]
+- [[settings/Aylbyia/Factions/index|Factions]]
+- [[settings/Aylbyia/Organizations/index|Organizations]]
+- [[settings/Aylbyia/NPCs/index|NPCs]]
+- [[settings/Aylbyia/Mysteries/index|Mysteries]]
+- [[settings/Aylbyia/Quests/index|Quests]]
+- [[settings/Aylbyia/Rumors/index|Rumors]]
+- [[settings/Aylbyia/Maps/index|Maps]]
+
+## Pages
+
 - [[settings/Aylbyia/Timeline|Timeline]]
 - [[settings/Aylbyia/to-remember-notes|to-remember-notes]]
-<!-- vault-enrichment:end -->
+<!-- vault-folder-index:end -->

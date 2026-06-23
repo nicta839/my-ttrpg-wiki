@@ -9,6 +9,11 @@ onenote_source: Spine of the world/Factions/Ris'san Dameno
 category: Factions
 visibility: public
 description: The name that the rebellious movement has given itself.
+related:
+  - settings/Spine of the World/Factions/index
+  - settings/Spine of the World/index
+  - settings/Spine of the World/History/History
+  - settings/Spine of the World/History/The Story so far
 ---
 
 The name that the rebellious movement has given itself.
@@ -27,3 +32,12 @@ Rise up Free People!
 Too long have the elves oppressed us and denied us our rights! Their leader is nowhere to be seen, fighting wars that do not concern us. It is time for us to reclaim what is ours! Rise! Rise and join us!
 
 The folks without Masters! Ris'san Dameno!
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Spine of the World/Factions/index|Spine of the World — Factions]]
+- [[settings/Spine of the World/index|Spine of the World]]
+- [[settings/Spine of the World/History/History|History]]
+- [[settings/Spine of the World/History/The Story so far|The Story so far]]
+<!-- vault-enrichment:end -->

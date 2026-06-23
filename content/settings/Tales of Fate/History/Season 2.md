@@ -11,35 +11,14 @@ visibility: public
 description: The party arrives in the resplendent city of Barathia after a harrowing crossing of the desert.
 related:
   - settings/Tales of Fate/History/index
+  - settings/Tales of Fate/index
+  - settings/Tales of Fate/Settlements/Barathia
+  - settings/Tales of Fate/Settlements/Ueli's Tower
 ---
 
-Episode 1: The Jewel of the desert
+Episodes 1-3: Barathia, Barath, and the Beast
 
-The party arrives in the resplendent city of Barathia after a harrowing crossing of the desert. The opulent city houses people from all walks of the desert and seems to be thriving. The party does some shopping and meet the mysterious Shere-Khan, magic item salesman. The group also discovers that Pricia  is angry at Anoin for having left her behind. The group also leaves Bianca with Bronzebeard for an upgrade.
-
-While trying to find Pricia, the group encounters a terrifying creature fusing magic, metal and flesh!
-
-Episode 2: Barath the God-king
-
-The party manages to run away from the creature with the group of strangers battling it. They discover that this group is a resistance group within the city trying to save the population from the creature that has been rampaging since their arrival.
-
-Anoin manages to maintain a friendship with Pricia, Noita learns more about the means of apporaching the God-king and about the creature while Kissa learns about her family history.
-
-Her grandmother was part of an assassins group hiding within circuses. She had a contract to steal the Divine Eye necklace to Orso. She reneged and in order to buy her way out of Grimbergen, she sold the cape of 9 lives to Ueli, knowing that it would end in the right hands (this hints to the party that the grandmother could use fully the Eye).
-
-The group manages to gain audience with Barath by staging Noita's recovery as a miracle performed by him. He accepts to provide the means to track the tower in exchange of the party slaying the Beast's body. The Beast is Barath's guide who fell from Heaven for having rebelled against it because of it considering Heaven of being unfair to mortals. Barath created a body for the guide becasue he was sick of sharing with him, but the guide went berserk and is rampaging through the town. Barath wishes for the Beast to return to him but it only appears when he sleeps.
-
-Barath refuses to give the cape away, but he promises to help the party when war will be waged against the King in Red. He also offers the information about a necromancer moving through the desert and going to Hoegarden Oasis.
-
-The party prepares to set a trap for the Beast.
-
-Episode 3: The Beast within.
-
-Preparing for the trap, the party visits again Shere-Khan to equip themselves. They share their plans with him and Anoin's Divine sense reveals that he is a devil: a Rakhshasa. He is a creature whose race was twisted into becoming devils after being interplanar mercenaries. He proposes to use Anoin as bait to lure the creature, his inner divine essence is a surefire bait for the Heaven-hating beast. He has a way of getting rid of the Beast for good: trapping its essence in a special dagger after weakening it. The group takes the dagger and prepare for the fight.
-
-With an upgraded Bianca and the means to trap the creature, the battle rages with the three different aspects of the body of the guide. Several members of the group go down as well as John and Pricia. In a revealing moment, Anoin decides to let Noita come into harms way under the guidance of his own divine guide for an oportunity to strike his enemy. Kissa plunges the dagger in the Beast and seals its essence in the dagger.
-
-The battle is over and the party lick their wounds as Shere-Khan comes to collect his dagger and offers boutiful loot for the party. He tells them that he will not harm them directly and that with this dagger, his business can be brought elsewhere in the multiverse. The party must now decide what to do next: leave the town now before Barath becomes aware of their stealing of the essence of the Guide or stay for final goodbyes before leaving for the Tomb of the Delian order knight in Hoegarden Oasis.
+The party's arrival in [[settings/Tales of Fate/Settlements/Barathia|Barathia]], their dealings with Barath the God-king, and the battle against the Beast are tracked on the Barathia location page.
 
 Episode 4: All alone
 
@@ -55,28 +34,15 @@ The group delves with a sense of urgency into the tomb. They learn that the trap
 
 They enter the room, closer to each other than ever. Mummy Septim challenges them to a fight to prove themselves. They overcome their opponent and get Zenith.
 
-Episode 6: Ueli's tower
+Episodes 6-8: Ueli's Tower
 
-Time skip: the party goes to Barathia to stock up on items and magic items before heading to Ueli's tower
-
-In the tower, the group discovers the extend of Ueli's craft: botched epxeriments, living spells, a luxurious bedroom with a bed of hay, an astrolabe that can peer into the exterior of the Universe, extensive research into necromancy, enchantement and talk of a powerful necromantic energy signature appearing.
-
-They continue until faced with some kind of guardian construct
-
-Episode 7: Delving deeper
-
-The group fights off the guardians but in the next chamber they bite off more than they can chew. An antimagic golem assaults them and they escape thanks to their boon from the unicorn. The party pushes further in and discovers the forge from which the golems are built. They believe finding the control board for the sentient tower is their best chance of exploring unhindered. They move through the next portal and land on an island in a sea of fire and magma: welcome to the plane of Fire.
-
-Episode 8: Revelations
-
-The group cures a diseased salamander and discover the device powering the forge and the kitchen. Anoin gets a boon protecting him from fire. The party finally finds the study after wandering into Ueli's garden area. In the study, they find many answers to their questions as well as a recording of Ueli's thoughts and feelings in a small dark marble. Noita and he have a heatfelt moment.
-
-Ueli explains that Orso is actually Nathaniel and is responsible for everything. The reactivation of the Hand, the crusades and every conflict imaginable. Ueli tried to outsmart him but was ultimately slayed and brought back as a lich. He was able to protect himself by binding his soul. However, he guesses that Ueli enforced a powerful enchantment over his body, split Ueli's soul and has the pieces contained/protected inside reanimated dragons. Noita receives the key to the tower and the heartfelt pride of her master. Her enchantment magic might be the only thing that would allow the mortals to sruvive the onslaught of the undead.
-
-The group is resolute to take control of the tower and go foward.
+The party's delve through [[settings/Tales of Fate/Settlements/Ueli's Tower|Ueli's Tower]], discoveries about Ueli's craft, and later revelations about Orso and Nathaniel are tracked on the tower location page.
 
 <!-- vault-enrichment:start -->
 ## Related
 
 - [[settings/Tales of Fate/History/index|History]]
+- [[settings/Tales of Fate/index|Tales of Fate]]
+- [[settings/Tales of Fate/Settlements/Barathia|Barathia]]
+- [[settings/Tales of Fate/Settlements/Ueli's Tower|Ueli's Tower]]
 <!-- vault-enrichment:end -->

@@ -10,18 +10,20 @@ category: Regions
 visibility: public
 description: "Region Flavor: Dangerous place where nature has retaken its hold over."
 related:
+  - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
   - settings/Aylbyia/Factions/Queendom
+  - settings/Aylbyia/Maps/index
   - settings/Aylbyia/Regions/Regions of the world
   - settings/Aylbyia/Timeline
   - settings/Aylbyia/Settlements/Tavik Nurlowk
-  - settings/Aylbyia/Factions/Orcs and Goblinoids
+  - settings/Aylbyia/Regions/Map Features/Cobalt Bay
 ---
 
-Most important city: [[Tavik Nurlowk]]
+Most important city: [[settings/Aylbyia/Settlements/Tavik Nurlowk|Tavik Nurlowk]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![realm of vuuch2](../../../assets/aylbyia/the-realm-of-vuuch/realm-of-vuuch2-6e1c62a06e-1600.webp)](../../../assets/aylbyia/the-realm-of-vuuch/realm-of-vuuch2-6e1c62a06e-full.webp)
+> [![realm of vuuch2](../../../assets/aylbyia/the-realm-of-vuuch/realm-of-vuuch2-6e1c62a06e-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-realm-of-vuuch/realm-of-vuuch2-6e1c62a06e-full.webp)
 
 > [!onenote-gallery]
 > [![realm of vuuch](../../../assets/aylbyia/the-realm-of-vuuch/realm-of-vuuch-ad106581b7-800.webp)](../../../assets/aylbyia/the-realm-of-vuuch/realm-of-vuuch-ad106581b7-full.webp)
@@ -29,7 +31,7 @@ Most important city: [[Tavik Nurlowk]]
 
 Region Flavor: Dangerous place where nature has retaken its hold over. Old ruins are covered by vegetation and wild animals are rampant. Small communities of treasure seekers roam the land if they are brave enough. Others come here to study the vegetation and go to the Unspoiled Garden to get samples for their work.
 
-Geography: Tall grassland, very humid, almost no wind. Swamplands closer to the Cobalt Bay.
+Geography: Tall grassland, very humid, almost no wind. Swamplands closer to the [[settings/Aylbyia/Regions/Map Features/Cobalt Bay|Cobalt Bay]].
 
 Clothing: Covering oneself to prevent insects from biting is paramount. Those living in the wilds will wear clothes that cling tighter to themselves while traveling while preferring looser clothing when resting. People's heads are usually covered in protective veil. The colors vary, bright when traveling to scare away predators, green and brown when hunting.
 
@@ -41,7 +43,7 @@ Lifestyle: The denizens of this area are few and they mostly stick to their town
 
 Important locations
 
-- Pelcov: Small town that was the preferred stop for traders and supply lines to [[Tavik Nurlowk]]. Now inhabited by veterans of [[Tavik Nurlowk]], the town sees little trade and is under pressure of the newly arrived [[Orcs and Goblinoids]] warbands. Where are they? Why haven't they come yet? Are they preparing something?
+- Pelcov: Small town that was the preferred stop for traders and supply lines to [[settings/Aylbyia/Settlements/Tavik Nurlowk|Tavik Nurlowk]]. Now inhabited by veterans of [[settings/Aylbyia/Settlements/Tavik Nurlowk|Tavik Nurlowk]], the town sees little trade and is under pressure of the newly arrived [[settings/Aylbyia/Factions/Orcs and Goblinoids|Orcs and Goblinoids]] warbands. Where are they? Why haven't they come yet? Are they preparing something?
 
 - Cave of the Sun: A monastery dedicated to the worship of the sun. It is secluded and its members mostly stick to their temple. Some are seen at times in Pelcov to exchange medicinal services for supplies that they bring back. They speak little. Some stop here before journeying to the Unspoiled Garden
 
@@ -50,10 +52,12 @@ Important locations
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Aylbyia/Regions/index|Regions]]
 - [[settings/Aylbyia/index|Aylbyia]]
 - [[settings/Aylbyia/Factions/Queendom|Queendom]]
+- [[settings/Aylbyia/Maps/index|Maps]]
 - [[settings/Aylbyia/Regions/Regions of the world|Regions of the world]]
 - [[settings/Aylbyia/Timeline|Timeline]]
 - [[settings/Aylbyia/Settlements/Tavik Nurlowk|Tavik Nurlowk]]
-- [[settings/Aylbyia/Factions/Orcs and Goblinoids|Orcs and Goblinoids]]
+- [[settings/Aylbyia/Regions/Map Features/Cobalt Bay|Cobalt Bay]]
 <!-- vault-enrichment:end -->

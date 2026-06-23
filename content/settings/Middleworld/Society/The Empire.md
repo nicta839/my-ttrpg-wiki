@@ -10,7 +10,14 @@ category: Society
 visibility: public
 description: The Empire is the first known instance of a meritocracy.
 related:
+  - settings/Middleworld/Society/index
   - settings/Middleworld/index
+  - settings/Middleworld/Cosmology/Religion
+  - settings/Middleworld/Factions/Askalia
+  - settings/Middleworld/Factions/Baltija
+  - settings/Middleworld/Factions/Empire of Valencis
+  - settings/Middleworld/Factions/Gildain
+  - settings/Middleworld/Factions/The Sovereign Cities
 ---
 
 The Empire is the first known instance of a meritocracy. The Emperor is chosen by a vote through councils that spring from the various regions of its influence. People's stance towards the Empire greatly vary depending on how they were affected by it during the conflicts that arose from its expansion.
@@ -22,5 +29,12 @@ Dragons are very present within the confines of the Empire. They are revered as 
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Society/index|Middleworld — Society]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Cosmology/Religion|Religion]]
+- [[settings/Middleworld/Factions/Askalia|Askalia]]
+- [[settings/Middleworld/Factions/Baltija|Baltija]]
+- [[settings/Middleworld/Factions/Empire of Valencis|Empire of Valencis]]
+- [[settings/Middleworld/Factions/Gildain|Gildain]]
+- [[settings/Middleworld/Factions/The Sovereign Cities|The Sovereign Cities]]
 <!-- vault-enrichment:end -->

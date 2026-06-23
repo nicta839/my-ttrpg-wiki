@@ -10,8 +10,9 @@ category: Mysteries
 visibility: public
 description: These fields of anti-magic are randomly strewn about, differ in size and their origin is unknown
 related:
+  - settings/Godshand/Mysteries/index
   - settings/Godshand/index
-  - settings/Godshand/Rumors/Shape of a Hand
+  - settings/Godshand/Campaign/Rumors/Shape of a Hand
 ---
 
 These fields of anti-magic are randomly strewn about, differ in size and their origin is unknown
@@ -19,6 +20,7 @@ These fields of anti-magic are randomly strewn about, differ in size and their o
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Godshand/Mysteries/index|Godshand — Mysteries]]
 - [[settings/Godshand/index|Godshand]]
-- [[settings/Godshand/Rumors/Shape of a Hand|Shape of a Hand]]
+- [[settings/Godshand/Campaign/Rumors/Shape of a Hand|Shape of a Hand]]
 <!-- vault-enrichment:end -->

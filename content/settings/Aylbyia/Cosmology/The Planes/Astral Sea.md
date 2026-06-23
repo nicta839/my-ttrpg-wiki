@@ -19,7 +19,7 @@ related:
   - settings/Aylbyia/Cosmology/Celestials and Saints/Saints/Saints
 ---
 
-This is the location beyond the circle of the [[ethereal plane]]. Here the dead await to be allowed back in by the [[Celestials]] on the shores of reality. Some scholars have posited that the [[Astral Sea]] is a location beyond what is imaginable and where the power of the [[Celestials]] is weaker. Here can be heard all kinds of voices, the tempting voices of the vile agents of the [[Betrayer]] or the soothing voices of the [[Celestials]] and their [[Saints]].
+This is the location beyond the circle of the [[settings/Aylbyia/Cosmology/The Planes/ethereal plane|ethereal plane]]. Here the dead await to be allowed back in by the [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]] on the shores of reality. Some scholars have posited that the [[settings/Aylbyia/Cosmology/The Planes/Astral Sea|Astral Sea]] is a location beyond what is imaginable and where the power of the [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]] is weaker. Here can be heard all kinds of voices, the tempting voices of the vile agents of the [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Betrayer|Betrayer]] or the soothing voices of the [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]] and their [[settings/Aylbyia/Cosmology/Celestials and Saints/Saints/Saints|Saints]].
 
 <!-- vault-enrichment:start -->
 ## Related

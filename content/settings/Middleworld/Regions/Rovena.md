@@ -12,9 +12,12 @@ description: Northern Province of the Empire. It is mostly known for its export 
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/History/index
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Society/The Empire
 ---
 
-Northern Province of the Empire. It is mostly known for its export of wood and carpentry work. The main city of this province is Sarton. This city sports the oldest known wooden castle, rebuilt several times. It serves today as a meeting location for the local lords and merchants.
+Northern Province of [[settings/Middleworld/Society/The Empire|the Empire]]. It is mostly known for its export of wood and carpentry work. The main city of this province is Sarton. This city sports the oldest known wooden castle, rebuilt several times. It serves today as a meeting location for the local lords and merchants.
 
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -29,4 +32,7 @@ Northern Province of the Empire. It is mostly known for its export of wood and c
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/History/index|History]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Society/The Empire|The Empire]]
 <!-- vault-enrichment:end -->

@@ -12,6 +12,7 @@ description: Unclaimed land due to the ground being very marsh-like and sinking.
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
 ---
 
 Unclaimed land due to the ground being very marsh-like and sinking. Some say groups of pirates and exiles have claimed it and live in small communities.
@@ -31,4 +32,5 @@ Unclaimed land due to the ground being very marsh-like and sinking. Some say gro
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

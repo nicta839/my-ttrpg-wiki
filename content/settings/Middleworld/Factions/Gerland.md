@@ -10,7 +10,9 @@ category: Factions
 visibility: public
 description: Grainery of the bay. On the forefront of the war, they sent many soldiers to fight. They are stubborn and honest folk who do not shy away from work while leading a simple life.
 related:
+  - settings/Middleworld/Factions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
 ---
 
 Grainery of the bay. On the forefront of the war, they sent many soldiers to fight. They are stubborn and honest folk who do not shy away from work while leading a simple life.
@@ -28,5 +30,7 @@ Grainery of the bay. On the forefront of the war, they sent many soldiers to fig
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Factions/index|Middleworld — Factions]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

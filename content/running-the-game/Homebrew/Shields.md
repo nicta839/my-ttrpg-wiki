@@ -8,6 +8,7 @@ category: Homebrew
 visibility: public
 description: Shields just giving a +2 can be boring. Here's what I found as an alternative for a little bit more modular shielding for your characters.
 related:
+  - running-the-game/Homebrew/index
   - running-the-game/Homebrew/Homebrew rules
 ---
 
@@ -24,5 +25,6 @@ The buckler is more useful for a caster to have a free hand to cast spells that 
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[running-the-game/Homebrew/index|Homebrew]]
 - [[running-the-game/Homebrew/Homebrew rules|Homebrew rules]]
 <!-- vault-enrichment:end -->

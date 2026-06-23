@@ -16,7 +16,7 @@ related:
   - settings/Aylbyia/Regions/The Dracopeaks
 ---
 
-Thought to have been tainted by the arrival of dragons. Small communities that fled  [[The Dracopeaks]] have established themselves everywhere but are viewed with suspicion these days.
+Thought to have been tainted by the arrival of dragons. Small communities that fled  [[settings/Aylbyia/Regions/The Dracopeaks|The Dracopeaks]] have established themselves everywhere but are viewed with suspicion these days.
 
 <!-- vault-enrichment:start -->
 ## Related

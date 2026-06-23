@@ -11,6 +11,7 @@ visibility: public
 description: Elves cannot sleep. They are gifted with being sparred the burden of reliving their past msitakes and fears in the form of dreams.
 related:
   - settings/Spine of the World/Cosmology/index
+  - settings/Spine of the World/index
 ---
 
 Elves cannot sleep. They are gifted with being sparred the burden of reliving their past msitakes and fears in the form of dreams.
@@ -29,4 +30,5 @@ The eladrin mysteriously vanished from the Prime Material plane from one day to 
 ## Related
 
 - [[settings/Spine of the World/Cosmology/index|Religion]]
+- [[settings/Spine of the World/index|Spine of the World]]
 <!-- vault-enrichment:end -->

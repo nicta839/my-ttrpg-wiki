@@ -12,6 +12,7 @@ description: Mostly unspoiled wildlands and forest, this area is prime for ore p
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
 ---
 
 Mostly unspoiled wildlands and forest, this area is prime for ore prospectors and Far Coldshore is a good location from which to prepare expeditions towards the Northcap.
@@ -29,4 +30,5 @@ Mostly unspoiled wildlands and forest, this area is prime for ore prospectors an
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

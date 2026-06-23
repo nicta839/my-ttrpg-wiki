@@ -9,6 +9,8 @@ export const ENRICHMENT_START = "<!-- vault-enrichment:start -->"
 export const ENRICHMENT_END = "<!-- vault-enrichment:end -->"
 const MEDIA_START = "<!-- onenote-media:start -->"
 const MEDIA_END = "<!-- onenote-media:end -->"
+const FOLDER_INDEX_START = "<!-- vault-folder-index:start -->"
+const FOLDER_INDEX_END = "<!-- vault-folder-index:end -->"
 const WORKING_ROOTS = ["index.md", "settings", "running-the-game", "GM-thoughts"]
 const MAX_RELATED = 8
 
@@ -61,7 +63,7 @@ function removeOwnedBlock(body, start, end) {
 
 function contentBody(body) {
   return removeOwnedBlock(
-    removeOwnedBlock(body, MEDIA_START, MEDIA_END),
+    removeOwnedBlock(removeOwnedBlock(body, MEDIA_START, MEDIA_END), FOLDER_INDEX_START, FOLDER_INDEX_END),
     ENRICHMENT_START,
     ENRICHMENT_END,
   )
@@ -189,7 +191,8 @@ function renderNote(frontmatter, body, block) {
     .replace(/^(?:\r?\n)+/, "")
     .trimEnd()
   const yaml = YAML.stringify(frontmatter, { lineWidth: 0 }).trimEnd()
-  return `---\n${yaml}\n---\n${clean ? `\n${clean}` : ""}${block ? `\n\n${block}` : ""}\n`
+  const sections = [clean, block].filter(Boolean)
+  return `---\n${yaml}\n---\n${sections.length > 0 ? `\n${sections.join("\n\n")}` : ""}\n`
 }
 
 function uniqueNotes(values, current) {
@@ -258,6 +261,7 @@ export async function enrichVault({ vaultRoot, apply = false }) {
   let aliasesAdded = 0
   let relatedLinksAdded = 0
   for (const note of notes) {
+    if (note.body.includes(FOLDER_INDEX_START)) continue
     const frontmatter = { ...note.frontmatter }
     frontmatter.category ??= categoryFor(note.relative)
     frontmatter.visibility ??= note.public ? "public" : "private"

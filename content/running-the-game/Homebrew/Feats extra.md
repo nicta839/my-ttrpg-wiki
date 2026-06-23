@@ -8,6 +8,7 @@ category: Homebrew
 visibility: public
 description: I am thinking about introducing feats to accomodate for character concepts that you could come up with.
 related:
+  - running-the-game/Homebrew/index
   - running-the-game/Homebrew/Homebrew rules
 ---
 
@@ -20,5 +21,6 @@ There will be restrictions at the beginning and I'm looking for some willingness
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[running-the-game/Homebrew/index|Homebrew]]
 - [[running-the-game/Homebrew/Homebrew rules|Homebrew rules]]
 <!-- vault-enrichment:end -->

@@ -8,6 +8,7 @@ category: Homebrew
 visibility: public
 description: The goal of this mechanic is to incentivise action rather than reaction from the players towards the setting as well as promote roleplaying between players.
 related:
+  - running-the-game/Homebrew/index
   - running-the-game/Homebrew/Homebrew rules
 ---
 
@@ -54,5 +55,6 @@ This system is subject to change as we play.
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[running-the-game/Homebrew/index|Homebrew]]
 - [[running-the-game/Homebrew/Homebrew rules|Homebrew rules]]
 <!-- vault-enrichment:end -->

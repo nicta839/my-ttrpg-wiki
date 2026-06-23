@@ -10,6 +10,7 @@ category: Organizations
 visibility: public
 description: "Mark: A blue book with a golden eye on it"
 related:
+  - settings/Aylbyia/Organizations/index
   - settings/Aylbyia/index
   - settings/Aylbyia/Cosmology/Arcane Magic
   - settings/Aylbyia/Factions/List of factions and organisations
@@ -21,7 +22,7 @@ related:
 Mark: A blue book with a golden eye on it
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![blue council wizard](../../../assets/aylbyia/blue-council/blue-council-wizard-47ef7b4ec8-1600.webp)](../../../assets/aylbyia/blue-council/blue-council-wizard-47ef7b4ec8-full.webp)
+> [![blue council wizard](../../../assets/aylbyia/blue-council/blue-council-wizard-47ef7b4ec8-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/blue-council/blue-council-wizard-47ef7b4ec8-full.webp)
 
 > [!onenote-gallery]
 > [![넣추寸\](../../../assets/aylbyia/blue-council/blue-wizard-female-2cda80f883-800.webp)](../../../assets/aylbyia/blue-council/blue-wizard-female-2cda80f883-full.webp)
@@ -45,6 +46,7 @@ Their influence resides mostly within the [[settings/Aylbyia/Regions/great house
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Aylbyia/Organizations/index|Organizations]]
 - [[settings/Aylbyia/index|Aylbyia]]
 - [[settings/Aylbyia/Cosmology/Arcane Magic|Arcane Magic]]
 - [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]

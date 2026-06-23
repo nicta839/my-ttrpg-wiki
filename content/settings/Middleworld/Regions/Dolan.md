@@ -12,6 +12,8 @@ description: Small province stuck in the valley of the wolven mountains.
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/History/index
+  - settings/Middleworld/Maps/index
 ---
 
 Small province stuck in the valley of the wolven mountains. Cromer is the seat of the greatest known order of monster slayer. The Province was struck by a plague that left the work of monster slaying mostly unfulfilled for a long while. Dangerous monsters still roam.
@@ -33,4 +35,6 @@ Small province stuck in the valley of the wolven mountains. Cromer is the seat o
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/History/index|History]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

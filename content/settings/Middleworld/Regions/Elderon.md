@@ -12,6 +12,10 @@ description: A cursed location that has fallen into eternal darkness.
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Cosmology/Pantheon
+  - settings/Middleworld/History/index
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Society/The people
 ---
 
 A cursed location that has fallen into eternal darkness. A constant storm brews over it. Little is known of this location's situation and what lives in it. The plains of Oplana are mostly uninhabited although some records of these places are left.
@@ -29,4 +33,8 @@ A cursed location that has fallen into eternal darkness. A constant storm brews 
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Cosmology/Pantheon|Pantheon]]
+- [[settings/Middleworld/History/index|History]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Society/The people|The people]]
 <!-- vault-enrichment:end -->

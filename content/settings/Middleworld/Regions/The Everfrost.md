@@ -12,6 +12,7 @@ description: "Frozen wasteland that hosues the largest manawell on this plane of
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
 ---
 
 Frozen wasteland that hosues the largest manawell on this plane of existence: The Frostwell. However due to the remoteness of this location and thickness of the ice, it is difficult to find documentation about this place.
@@ -29,4 +30,5 @@ Frozen wasteland that hosues the largest manawell on this plane of existence: Th
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

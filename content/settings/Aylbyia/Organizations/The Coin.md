@@ -10,6 +10,7 @@ category: Organizations
 visibility: public
 description: Trading with them Accomplishing tasks for them Protecting their members
 related:
+  - settings/Aylbyia/Organizations/index
   - settings/Aylbyia/index
   - settings/Aylbyia/Factions/List of factions and organisations
   - settings/Aylbyia/Factions/The Great Houses of Humanity
@@ -20,7 +21,7 @@ related:
 Mark: A golden coin
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![the coin](../../../assets/aylbyia/the-coin/the-coin-fea9f382cc-1600.webp)](../../../assets/aylbyia/the-coin/the-coin-fea9f382cc-full.webp)
+> [![the coin](../../../assets/aylbyia/the-coin/the-coin-fea9f382cc-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-coin/the-coin-fea9f382cc-full.webp)
 
 > [!onenote-gallery]
 > [![the coin 2](../../../assets/aylbyia/the-coin/the-coin-2-3057278c06-800.webp)](../../../assets/aylbyia/the-coin/the-coin-2-3057278c06-full.webp)
@@ -36,11 +37,12 @@ Gain reputation by:
 - Accomplishing tasks for them
 - Protecting their members
 
-This is the trading guild that was established long before [[Sparrow Trading Company ]](STC) came into play. They are now suffering due to their supply routes being undermined by  the STC. They are reputed for opening up shops and welcoming new businesses within their ranks. They serve both as a bank and trading organization. They have aggressively pursued the expansion of their influence in the baronnies.
+This is the trading guild that was established long before [[settings/Aylbyia/Organizations/Sparrow Trading Company|Sparrow Trading Company]](STC) came into play. They are now suffering due to their supply routes being undermined by  the STC. They are reputed for opening up shops and welcoming new businesses within their ranks. They serve both as a bank and trading organization. They have aggressively pursued the expansion of their influence in the baronnies.
 
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Aylbyia/Organizations/index|Organizations]]
 - [[settings/Aylbyia/index|Aylbyia]]
 - [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]
 - [[settings/Aylbyia/Factions/The Great Houses of Humanity|The Great Houses of Humanity]]

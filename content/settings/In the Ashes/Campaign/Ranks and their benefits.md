@@ -9,6 +9,9 @@ onenote_source: In the ashes/campaign/Ranks and their benefits
 category: Campaign
 visibility: public
 description: The restrictions to each of these areas help you understand the flavor of what I want to get from them.
+related:
+  - settings/In the Ashes/Campaign/index
+  - settings/In the Ashes/index
 ---
 
 Kingdom
@@ -48,3 +51,10 @@ Standard Bearer
 Purger
 
 Keeper of records/ Contract Mediator
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/In the Ashes/Campaign/index|In the Ashes — Campaign]]
+- [[settings/In the Ashes/index|In the Ashes]]
+<!-- vault-enrichment:end -->

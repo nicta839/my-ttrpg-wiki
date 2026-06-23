@@ -16,7 +16,6 @@ related:
   - settings/Aylbyia/History/Founding myth
 ---
 
-
 <!-- vault-enrichment:start -->
 ## Related
 

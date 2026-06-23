@@ -10,7 +10,13 @@ category: Factions
 visibility: public
 description: The desert is richer than it seems. These people have mastered both seafaring and extreme environments. Constantly ahead of everyone else in terms of innovation.
 related:
+  - settings/Middleworld/Factions/index
   - settings/Middleworld/index
+  - settings/Middleworld/History/index
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Regions/Desert Of Korrvain
+  - settings/Middleworld/Regions/Orvion Wildlands
+  - settings/Middleworld/Regions/Vesna And Iskara
 ---
 
 The desert is richer than it seems. These people have mastered both seafaring and extreme environments. Constantly ahead of everyone else in terms of innovation.
@@ -32,5 +38,11 @@ The desert is richer than it seems. These people have mastered both seafaring an
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Factions/index|Middleworld — Factions]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/History/index|History]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Regions/Desert Of Korrvain|Desert of Korrvain]]
+- [[settings/Middleworld/Regions/Orvion Wildlands|Orvion wildlands]]
+- [[settings/Middleworld/Regions/Vesna And Iskara|Vesna and Iskara]]
 <!-- vault-enrichment:end -->

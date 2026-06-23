@@ -8,6 +8,7 @@ category: Homebrew
 visibility: public
 description: "In order for you to make a background of your own you need to:"
 related:
+  - running-the-game/Homebrew/Character creation/index
   - running-the-game/Homebrew/Character creation/character creation variant rules
 ---
 
@@ -22,5 +23,6 @@ In order for you to make a background of your own you need to:
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[running-the-game/Homebrew/Character creation/index|Character creation]]
 - [[running-the-game/Homebrew/Character creation/character creation variant rules|character creation variant rules]]
 <!-- vault-enrichment:end -->

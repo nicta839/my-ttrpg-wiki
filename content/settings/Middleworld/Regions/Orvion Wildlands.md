@@ -12,9 +12,11 @@ description: Wildlands that have the only road to the Varesh desert. This flatla
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Factions/Varesh
 ---
 
-Wildlands that have the only road to the Varesh desert. This flatland is home to a sleeping volcano called the Obsidian Mountain. It is said this mountain is a gateway to the elemental plane of Earth
+Wildlands that have the only road to the [[settings/Middleworld/Factions/Varesh|Varesh]] desert. This flatland is home to a sleeping volcano called the Obsidian Mountain. It is said this mountain is a gateway to the elemental plane of Earth
 
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -29,4 +31,6 @@ Wildlands that have the only road to the Varesh desert. This flatland is home to
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Factions/Varesh|Varesh]]
 <!-- vault-enrichment:end -->

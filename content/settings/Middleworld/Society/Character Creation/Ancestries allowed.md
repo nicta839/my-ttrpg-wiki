@@ -12,6 +12,7 @@ description: All ancestries presented in the world section are allowed.
 related:
   - settings/Middleworld/Society/Character Creation/index
   - settings/Middleworld/index
+  - settings/Middleworld/Society/index
 ---
 
 All ancestries presented in the world section are allowed.
@@ -37,4 +38,5 @@ Fey Folk: Your affinity with mana winds allows you to understand and manipulate 
 
 - [[settings/Middleworld/Society/Character Creation/index|Character creation]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Society/index|Middleworld — Society]]
 <!-- vault-enrichment:end -->

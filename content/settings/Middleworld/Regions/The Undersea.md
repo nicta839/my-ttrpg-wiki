@@ -12,6 +12,8 @@ description: Home of the waterfolk and portal to the elemental plane of Water. T
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/History/index
+  - settings/Middleworld/Maps/index
 ---
 
 Home of the waterfolk and portal to the elemental plane of Water. They were pushed out when an ancient race was awoken and nearly drove them to extinction.
@@ -29,4 +31,6 @@ Home of the waterfolk and portal to the elemental plane of Water. They were push
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/History/index|History]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

@@ -12,6 +12,9 @@ description: Point of impact of tall crimson menhirs. It has now corrupted the l
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/History/Founding Myth
+  - settings/Middleworld/History/index
+  - settings/Middleworld/Maps/index
 ---
 
 Point of impact of tall crimson menhirs. It has now corrupted the land and some suspect Lake menthis as well. It spreads slowly and little is known as to how to stop it. It covers a great surface of the planet.
@@ -33,4 +36,7 @@ Point of impact of tall crimson menhirs. It has now corrupted the land and some 
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/History/Founding Myth|Founding Myth]]
+- [[settings/Middleworld/History/index|History]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

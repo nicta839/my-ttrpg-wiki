@@ -12,9 +12,12 @@ description: Eastern province of the Empire, this marshland is rich in a variety
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Society/The Empire
+  - settings/Middleworld/Organizations/Builder's guild
 ---
 
-Eastern province of the Empire, this marshland is rich in a variety of herbs and insects used for medicinal, magical or esthetical pruposes. The main town of Tesagred is now suffering of a sinking problem. It is the Builder's guild most outstanding project to this day
+Eastern province of [[settings/Middleworld/Society/The Empire|the Empire]], this marshland is rich in a variety of herbs and insects used for medicinal, magical or esthetical pruposes. The main town of Tesagred is now suffering of a sinking problem. It is the [[settings/Middleworld/Organizations/Builder's guild|Builder's guild]] most outstanding project to this day
 
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -29,4 +32,7 @@ Eastern province of the Empire, this marshland is rich in a variety of herbs and
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Society/The Empire|The Empire]]
+- [[settings/Middleworld/Organizations/Builder's guild|Builder's guild]]
 <!-- vault-enrichment:end -->

@@ -10,7 +10,10 @@ category: Factions
 visibility: public
 description: Attached to nature and traditions, golden trees grow above their manawells. They enjoy a mana-rich environement that may be the cause of their affinity for magic.
 related:
+  - settings/Middleworld/Factions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Regions/Meridios
 ---
 
 Attached to nature and traditions, golden trees grow above their manawells. They enjoy a mana-rich environement that may be the cause of their affinity for magic.
@@ -25,10 +28,13 @@ Attached to nature and traditions, golden trees grow above their manawells. They
 > [![veilin 3](../../../assets/middleworld/veilin-fae-folk/veilin-3-a127110550-800.webp)](../../../assets/middleworld/veilin-fae-folk/veilin-3-a127110550-full.webp)
 <!-- onenote-media:end -->
 
-Separated for hundreds of years from their compatriotes in the Nevergreen forest and those that went to Meridios.
+Separated for hundreds of years from their compatriotes in the Nevergreen forest and those that went to [[settings/Middleworld/Regions/Meridios|Meridios]].
 
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Factions/index|Middleworld — Factions]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Regions/Meridios|Meridios]]
 <!-- vault-enrichment:end -->

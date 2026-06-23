@@ -10,6 +10,7 @@ category: Cosmology
 visibility: public
 description: Mana pools are wells/veins that go into the crust of the planet and spew magical energy.
 related:
+  - settings/Middleworld/Cosmology/index
   - settings/Middleworld/index
 ---
 
@@ -50,5 +51,6 @@ This form of magic is practiced by those who excel in pushing the mana winds jus
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Cosmology/index|Middleworld — Cosmology]]
 - [[settings/Middleworld/index|Introduction]]
 <!-- vault-enrichment:end -->

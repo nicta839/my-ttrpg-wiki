@@ -8,7 +8,7 @@ category: Running the Game
 visibility: public
 description: Here are notes about how I want to run the game, dealing with Agency, Dm-ing style and some Homebrew rules that we can discuss during session 0
 related:
-  - index
+  - running-the-game/index
   - running-the-game/DM-ing/Agency
   - running-the-game/DM-ing/Dm-ing
   - running-the-game/Homebrew/Homebrew rules
@@ -25,7 +25,7 @@ Note: These are some general notes that mostly are still relevant for DnD 5e 201
 <!-- vault-enrichment:start -->
 ## Related
 
-- [[index|The Vault]]
+- [[running-the-game/index|Running the game]]
 - [[running-the-game/DM-ing/Agency|Agency]]
 - [[running-the-game/DM-ing/Dm-ing|Dm-ing]]
 - [[running-the-game/Homebrew/Homebrew rules|Homebrew rules]]

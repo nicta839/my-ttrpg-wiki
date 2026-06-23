@@ -11,6 +11,8 @@ visibility: public
 description: There are some lore restrictions vis-à-vis the origins and background that are accessible to your character.
 related:
   - settings/Soleria/Society/Character Creation/index
+  - settings/Soleria/index
+  - settings/Soleria/Society/index
 ---
 
 There are some lore restrictions vis-à-vis the origins and background that are accessible to your character. If the race you would like to play isn't part of the list, then we can talk about where it would make sense to have those people.
@@ -19,4 +21,6 @@ There are some lore restrictions vis-à-vis the origins and background that are 
 ## Related
 
 - [[settings/Soleria/Society/Character Creation/index|Character creation]]
+- [[settings/Soleria/index|Soleria]]
+- [[settings/Soleria/Society/index|Soleria — Society]]
 <!-- vault-enrichment:end -->

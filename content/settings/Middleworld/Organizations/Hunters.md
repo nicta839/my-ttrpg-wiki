@@ -12,6 +12,7 @@ description: Used to go around killing dangerous creatures for people. Reduced t
 related:
   - settings/Middleworld/Organizations/index
   - settings/Middleworld/index
+  - settings/Middleworld/History/index
 ---
 
 Used to go around killing dangerous creatures for people. Reduced to barely just a few members after the great Lycan incident.
@@ -33,4 +34,5 @@ They are sometimes hired to hunt for monsters far away from their own lands (Wol
 
 - [[settings/Middleworld/Organizations/index|Organizations]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/History/index|History]]
 <!-- vault-enrichment:end -->

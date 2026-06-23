@@ -12,9 +12,12 @@ description: Grainery and bridge to the western provinces of the Empire. They al
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Society/The Empire
+  - settings/Middleworld/Factions/Varesh
 ---
 
-Grainery and bridge to the western provinces of the Empire. They also control land and sea trading routes with the Varesh.
+Grainery and bridge to the western provinces of [[settings/Middleworld/Society/The Empire|the Empire]]. They also control land and sea trading routes with the [[settings/Middleworld/Factions/Varesh|Varesh]].
 
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -31,4 +34,7 @@ Grainery and bridge to the western provinces of the Empire. They also control la
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Society/The Empire|The Empire]]
+- [[settings/Middleworld/Factions/Varesh|Varesh]]
 <!-- vault-enrichment:end -->

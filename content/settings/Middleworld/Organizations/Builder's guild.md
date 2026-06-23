@@ -12,9 +12,12 @@ description: Established in Gildain, moved to Vallios, they have now undertaken 
 related:
   - settings/Middleworld/Organizations/index
   - settings/Middleworld/index
+  - settings/Middleworld/Regions/Terria
+  - settings/Middleworld/Factions/Gildain
+  - settings/Middleworld/Factions/Vallios
 ---
 
-Established in Gildain, moved to Vallios, they have now undertaken a contract to try and save Tesagred from sinking into the surrounding marshes.
+Established in [[settings/Middleworld/Factions/Gildain|Gildain]], moved to [[settings/Middleworld/Factions/Vallios|Vallios]], they have now undertaken a contract to try and save Tesagred from sinking into the surrounding marshes.
 
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -29,4 +32,7 @@ Established in Gildain, moved to Vallios, they have now undertaken a contract to
 
 - [[settings/Middleworld/Organizations/index|Organizations]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Regions/Terria|Terria]]
+- [[settings/Middleworld/Factions/Gildain|Gildain]]
+- [[settings/Middleworld/Factions/Vallios|Vallios]]
 <!-- vault-enrichment:end -->

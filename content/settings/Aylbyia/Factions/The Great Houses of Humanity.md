@@ -10,6 +10,7 @@ category: Factions
 visibility: public
 description: This faction is made up of several baronies
 related:
+  - settings/Aylbyia/Factions/index
   - settings/Aylbyia/index
   - settings/Aylbyia/Factions/List of factions and organisations
   - settings/Aylbyia/Regions/The Skal'ik Desert and Lyzykos
@@ -17,13 +18,12 @@ related:
   - settings/Aylbyia/Settlements/The great houses of Humanity/The House of Water
   - settings/Aylbyia/NPCs/Great houses/Overstar/Helena Filiva
   - settings/Aylbyia/NPCs/Great houses/Coral/Jocelyn Ria
-  - settings/Aylbyia/NPCs/Great houses/Water/Naruun Nierdil Ferop Dagusta XII
 ---
 
 This faction is made up of several baronies
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![house of water](../../../assets/aylbyia/the-great-houses-of-humanity/house-of-water-5b9b19c80b-1600.webp)](../../../assets/aylbyia/the-great-houses-of-humanity/house-of-water-5b9b19c80b-full.webp)
+> [![house of water](../../../assets/aylbyia/the-great-houses-of-humanity/house-of-water-5b9b19c80b-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-great-houses-of-humanity/house-of-water-5b9b19c80b-full.webp)
 
 > [!onenote-gallery]
 > [![great houses 4](../../../assets/aylbyia/the-great-houses-of-humanity/great-houses-4-c714bdd742-800.webp)](../../../assets/aylbyia/the-great-houses-of-humanity/great-houses-4-c714bdd742-full.webp)
@@ -41,14 +41,14 @@ Honored Nature: Wisdom
 
 Shadow Nature: Aloofness
 
-"Capital": [[The House of Water]]
+"Capital": [[settings/Aylbyia/Settlements/The great houses of Humanity/The House of Water|The House of Water]]
 
 Barony leaders:
 
-- Overstar: [[Helena Filiva]]
-- Coral: [[Jocelyn Ria]]
-- Water: [[Naruun Nierdil Ferop Dagusta XII]]
-- Sinder: [[Fergus Ironglove]]
+- Overstar: [[settings/Aylbyia/NPCs/Great houses/Overstar/Helena Filiva|Helena Filiva]]
+- Coral: [[settings/Aylbyia/NPCs/Great houses/Coral/Jocelyn Ria|Jocelyn Ria]]
+- Water: [[settings/Aylbyia/NPCs/Great houses/Water/Naruun Nierdil Ferop Dagusta XII|Naruun Nierdil Ferop Dagusta XII]]
+- Sinder: [[settings/Aylbyia/NPCs/Great houses/Sinder/Fergus Ironglove|Fergus Ironglove]]
 
 War: Excel in guerilla tactics and control of their environment. Unpredictable and autonomous units.
 
@@ -59,11 +59,12 @@ bing state.
 
 Shadow activities: Assassinations!!!!!!! So many!!!!! Piracy and money laundering opportunities.
 
-All baronesses make a pilgrimmage to [[Junon, The Celestial City]] to receive their blessing once a year. They would live to a long ripe age of 200 if not for the constant poisoning and assassination. The Baronnies are thought to now be under the effective control of [[The Coin]].
+All baronesses make a pilgrimmage to [[settings/Aylbyia/Settlements/Junon, The Celestial City|Junon, The Celestial City]] to receive their blessing once a year. They would live to a long ripe age of 200 if not for the constant poisoning and assassination. The Baronnies are thought to now be under the effective control of [[settings/Aylbyia/Organizations/The Coin|The Coin]].
 
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Aylbyia/Factions/index|Factions]]
 - [[settings/Aylbyia/index|Aylbyia]]
 - [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]
 - [[settings/Aylbyia/Regions/The Skal'ik Desert and Lyzykos|The Skal'ik Desert and Lyzykos]]
@@ -71,5 +72,4 @@ All baronesses make a pilgrimmage to [[Junon, The Celestial City]] to receive th
 - [[settings/Aylbyia/Settlements/The great houses of Humanity/The House of Water|The House of Water]]
 - [[settings/Aylbyia/NPCs/Great houses/Overstar/Helena Filiva|Helena Filiva]]
 - [[settings/Aylbyia/NPCs/Great houses/Coral/Jocelyn Ria|Jocelyn Ria]]
-- [[settings/Aylbyia/NPCs/Great houses/Water/Naruun Nierdil Ferop Dagusta XII|Naruun Nierdil Ferop Dagusta XII]]
 <!-- vault-enrichment:end -->

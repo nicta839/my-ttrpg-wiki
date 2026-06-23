@@ -4,12 +4,16 @@ type: guide
 tags:
   - running-the-game
   - type/guide
+  - type/index
+  - category/dm-ing
 category: DM-ing
 visibility: public
 description: Hey everyone, I am maybe your future DM or your current one.
 related:
-  - running-the-game/How the game is and can be run
+  - running-the-game/DM-ing/Agency
 ---
+
+# Dm-ing
 
 Hey everyone, I am maybe your future DM or your current one.
 
@@ -21,8 +25,18 @@ As far as pet peeves go, I don’t very much like players who are suspicious of 
 
 The game I wish to run is a homebrewed world and a homebrewed story or something more open world (in the sense that the "main driving force" is a bulldozer coming for the doll house and you've got to save the day). I want to introduce some mechanics that help elevate the stakes, involve the player more in the world and encourage inter-party interactions. For this to work, I stole a bunch of mechanics from other games and tried to implement them into DnD 5e. They have so far worked without too much tweaking. What I require from the player is a willingness to learn if you’re new, be a team player and respectful person, have a consistent timetable that enables regular play.
 
-<!-- vault-enrichment:start -->
-## Related
+<!-- curated-index:start -->
+<section class="index-guide">
+  <p class="index-guide-kicker">DM-ing</p>
+  <p class="index-guide-purpose">Hey everyone, I am maybe your future DM or your current one.</p>
+  <div class="index-empty-state">
+    <a href="/running-the-game/dm-ing/agency">Agency</a>
+  </div>
+</section>
+<!-- curated-index:end -->
 
-- [[running-the-game/How the game is and can be run|How the game is and can be run]]
-<!-- vault-enrichment:end -->
+<!-- vault-folder-index:start -->
+## Pages
+
+- [[running-the-game/DM-ing/Agency|Agency]]
+<!-- vault-folder-index:end -->

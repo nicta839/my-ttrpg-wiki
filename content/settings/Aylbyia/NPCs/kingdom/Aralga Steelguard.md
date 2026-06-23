@@ -10,15 +10,17 @@ category: NPCs
 visibility: public
 description: "Merchant: Aralga Steelguard, dwarven merchant who has taken over surpervising the merchantile affairs of the Kingdom."
 related:
+  - settings/Aylbyia/NPCs/kingdom/index
   - settings/Aylbyia/index
   - settings/Aylbyia/Factions/Kingdom
 ---
 
-Merchant: Aralga Steelguard, dwarven merchant who has taken over surpervising the merchantile affairs of the [[Kingdom]].
+Merchant: Aralga Steelguard, dwarven merchant who has taken over surpervising the merchantile affairs of the [[settings/Aylbyia/Factions/Kingdom|Kingdom]].
 
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Aylbyia/NPCs/kingdom/index|kingdom]]
 - [[settings/Aylbyia/index|Aylbyia]]
 - [[settings/Aylbyia/Factions/Kingdom|Kingdom]]
 <!-- vault-enrichment:end -->

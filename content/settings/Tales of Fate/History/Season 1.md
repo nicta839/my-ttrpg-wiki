@@ -11,27 +11,34 @@ visibility: public
 description: Kissa escapes from the circus after meeting Orso. He gave her the impression that he was after the necklace she inherited from her grandmother.
 related:
   - settings/Tales of Fate/History/index
+  - settings/Tales of Fate/index
+  - settings/Tales of Fate/Settlements/Granalin
+  - settings/Tales of Fate/Campaign/Players/Kissa
+  - settings/Tales of Fate/Campaign/Players/Noita
+  - settings/Tales of Fate/Campaign/Players/Anoin
+  - settings/Tales of Fate/NPCs/Peter
+  - settings/Tales of Fate/Settlements/Pelfort
 ---
 
-Episode 1: Escape from Granalin
+Episode 1: Escape from [[settings/Tales of Fate/Settlements/Granalin|Granalin]]
 
-Kissa escapes from the circus after meeting Orso. He gave her the impression that he was after the necklace she inherited from her grandmother.
+[[settings/Tales of Fate/Campaign/Players/Kissa|Kissa]] escapes from the circus after meeting Orso. He gave her the impression that he was after the necklace she inherited from her grandmother.
 
-The group meets in Granalin with Noita interested in the possible connection between that necklace and her now dead master and Anoin searching for answers to the reading he received from Kissa. A group of mercenaries enter the inn where the party is staying and seek to enter their room.
+The group meets in Granalin with [[settings/Tales of Fate/Campaign/Players/Noita|Noita]] interested in the possible connection between that necklace and her now dead master and [[settings/Tales of Fate/Campaign/Players/Anoin|Anoin]] searching for answers to the reading he received from Kissa. A group of mercenaries enter the inn where the party is staying and seek to enter their room.
 
-The group escapes into the town and attract the attention of a roaming group of undead skeletons. They have been recently armored and given weapons as they enter houses and cut through any living being. The group escapes, taking Peter (mercenary) with them.
+The group escapes into the town and attract the attention of a roaming group of undead skeletons. They have been recently armored and given weapons as they enter houses and cut through any living being. The group escapes, taking [[settings/Tales of Fate/NPCs/Peter|Peter]] (mercenary) with them.
 
-The party have a new reading about their immediate situation and future as they head to the monastery of Pelfort. The objectives they set for themselves are clear: warn the people about the undead army, get stronger and find information about the necklace before heading to Grimbergen…also, convert Peter?
+The party have a new reading about their immediate situation and future as they head to the monastery of [[settings/Tales of Fate/Settlements/Pelfort|Pelfort]]. The objectives they set for themselves are clear: warn the people about the undead army, get stronger and find information about the necklace before heading to [[settings/Tales of Fate/Settlements/Grimbergen|Grimbergen]]…also, convert Peter?
 
-The group gets to the monastery and Father Anthony welcomes them: "Anoin, tell me what brings that look of worry to your face?"
+The group gets to the monastery and Father [[settings/Tales of Fate/NPCs/Anthony|Anthony]] welcomes them: "Anoin, tell me what brings that look of worry to your face?"
 
 Episode 2: Peril in the well
 
-The party finds some information about an ancient order called the Delian Order who were bound to protect the world and followed a religion with many similarities to those in place in the world.
+The party finds some information about an ancient order called the [[settings/Tales of Fate/Organizations/Delian Order|Delian Order]] who were bound to protect the world and followed a religion with many similarities to those in place in the world.
 
 They also learn that there are 3 artifacts of legend (illusion, divination and necromancy). Most knowledge of these artifacts seem to have vanished fromt the world.
 
-800 years ago a momentus event changed the Council of the Great Wizards and caused Ueli to flee Grimbergen.
+800 years ago a momentus event changed the [[settings/Tales of Fate/Organizations/Council of Great Wizards|Council of the Great Wizards]] and caused Ueli to flee Grimbergen.
 
 The group decides that it is time to make some money to buy equipment to better prepare their trip to Grimbergen. They decide to help out the town by investigating the change in taste of the water coming from the well. In doing so, they are faced with rust monster that miss destroying the party's metallic equipment. The dangerous foes are vanquished, but what is worrying is that they would not have come this high up without something chaing them.
 
@@ -47,11 +54,11 @@ The group finds a tomb dedicated to this Delian Order…there is an ogre in fron
 
 They find traps and a riddle that demands they speak the Delian oath if they are to have access to the secret lore of this order. As tehy step into the tomb of sextus varius, they are tested once more by 4 ghosts. Once the battle is over, the party talks to the Ghost of Sextus Varius about the undead, the three artifacts and the task undertaken by the order. They are to find the three artifacts and make them once more forgotten from the world before someone with nefarious intent uses them for their own needs. Kissa is in posession of the Divine Eye The group picks up some sweet loot and head back towards Pelfort.
 
-On their way back, they are surprised by a thunderstorm. It seems unnatural, Noita's familiar informs them that the army of undead have arrived and that the two scouts sent by anthony precede the horde by an hour at most. The party heads towards the town, helping the villagers escape as fast as they can. A group of templar knights of the Spiral Church are buying as much time as they can at a choke point.
+On their way back, they are surprised by a thunderstorm. It seems unnatural, Noita's familiar informs them that the army of undead have arrived and that the two scouts sent by anthony precede the horde by an hour at most. The party heads towards the town, helping the villagers escape as fast as they can. A group of templar knights of the [[settings/Tales of Fate/Organizations/Church of Spiral|Spiral Church]] are buying as much time as they can at a choke point.
 
 The group sets the town on fire to slow the advance of the undead army. A portion of the wall of flames is blown away as a powerful lich enters into view: A jagged crown atop its head with spiralling red orbs about, holding a withered charred forearm and hand, red robbed with a golden embroidered scarf and flaming beads of green in its eye sockets. Noita is dumbstruck. Her master might have done the unthinkable and attained lichdom. A brief exchange is had and she believes he was coerced into this situation as the group flees.
 
-In the mountains, taking a break from this terrible ordeal, the group collects itself and formulates their next step: Find Arwana and get the last unicorn to guide them to another plane to obtain answers about the three artifacts. Kissa makes a reading about the past, present and future of Noita and Anoin. Kissa feels her understanding and control of fate increase:
+In the mountains, taking a break from this terrible ordeal, the group collects itself and formulates their next step: Find [[settings/Tales of Fate/NPCs/Arwana|Arwana]] and get the last unicorn to guide them to another plane to obtain answers about the three artifacts. Kissa makes a reading about the past, present and future of Noita and Anoin. Kissa feels her understanding and control of fate increase:
 
 The World (reversed), past: your success was not preordained , you lack confidence, too concerned about the price to pay rather than the goal itself
 
@@ -112,4 +119,11 @@ Barath, an old friend of Anoin, self proclaimed himself as god king of the deser
 ## Related
 
 - [[settings/Tales of Fate/History/index|History]]
+- [[settings/Tales of Fate/index|Tales of Fate]]
+- [[settings/Tales of Fate/Settlements/Granalin|Granalin]]
+- [[settings/Tales of Fate/Campaign/Players/Kissa|Kissa]]
+- [[settings/Tales of Fate/Campaign/Players/Noita|Noita]]
+- [[settings/Tales of Fate/Campaign/Players/Anoin|Anoin]]
+- [[settings/Tales of Fate/NPCs/Peter|Peter]]
+- [[settings/Tales of Fate/Settlements/Pelfort|Pelfort]]
 <!-- vault-enrichment:end -->

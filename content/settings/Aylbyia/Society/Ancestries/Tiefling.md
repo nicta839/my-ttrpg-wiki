@@ -14,9 +14,10 @@ related:
   - settings/Aylbyia/Regions/Twilight
   - settings/Aylbyia/Society/Ancestries/Ancestries
   - settings/Aylbyia/Timeline
+  - settings/Aylbyia/Factions/Shaïdin
 ---
 
-Humanoids touched by the corrupted aura of the [[Twilight]]. Some are suspected of being [twilight worshippers](Shaïdin.md) although most are veterans of the bordering castles that have been retired when the first signs of transformation happened. They are considered as tainted for the greater good. They are "disgusting" or martyrs depending on where they are. Their descendants can sometimes be Tieflings.
+Humanoids touched by the corrupted aura of the [[settings/Aylbyia/Regions/Twilight|Twilight]]. Some are suspected of being [[settings/Aylbyia/Factions/Shaïdin|twilight worshippers]] although most are veterans of the bordering castles that have been retired when the first signs of transformation happened. They are considered as tainted for the greater good. They are "disgusting" or martyrs depending on where they are. Their descendants can sometimes be Tieflings.
 
 <!-- vault-enrichment:start -->
 ## Related
@@ -25,4 +26,5 @@ Humanoids touched by the corrupted aura of the [[Twilight]]. Some are suspected 
 - [[settings/Aylbyia/Regions/Twilight|Twilight]]
 - [[settings/Aylbyia/Society/Ancestries/Ancestries|Ancestries]]
 - [[settings/Aylbyia/Timeline|Timeline]]
+- [[settings/Aylbyia/Factions/Shaïdin|Shaïdin]]
 <!-- vault-enrichment:end -->

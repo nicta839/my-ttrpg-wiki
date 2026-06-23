@@ -10,10 +10,14 @@ category: Factions
 visibility: public
 description: Group of mining cities that exploit the troubles in the Empire to gather more resources.
 related:
+  - settings/Middleworld/Factions/index
   - settings/Middleworld/index
+  - settings/Middleworld/History/index
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Society/The Empire
 ---
 
-Group of mining cities that exploit the troubles in the Empire to gather more resources. Looking to expand to the East. Boisterous, fiercely independent from each other. They will however come to the aid of their neighbour if they feel their lifetsyles may be in danger.
+Group of mining cities that exploit the troubles in [[settings/Middleworld/Society/The Empire|the Empire]] to gather more resources. Looking to expand to the East. Boisterous, fiercely independent from each other. They will however come to the aid of their neighbour if they feel their lifetsyles may be in danger.
 
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -26,5 +30,9 @@ Group of mining cities that exploit the troubles in the Empire to gather more re
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Factions/index|Middleworld — Factions]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/History/index|History]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Society/The Empire|The Empire]]
 <!-- vault-enrichment:end -->

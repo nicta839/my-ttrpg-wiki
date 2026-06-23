@@ -12,6 +12,9 @@ description: Ruins of an ancient kingdom.
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Factions/Baltija
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Regions/Drauva
 ---
 
 Ruins of an ancient kingdom.
@@ -33,4 +36,7 @@ Ruins of an ancient kingdom.
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Factions/Baltija|Baltija]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Regions/Drauva|Drauva]]
 <!-- vault-enrichment:end -->

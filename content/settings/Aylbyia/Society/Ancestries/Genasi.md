@@ -16,7 +16,7 @@ related:
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials
 ---
 
-Considered as the last step before enlightenment and final cycling through. They are thought to be bound to join the [[Heavens]] and the [[Celestials]].
+Considered as the last step before enlightenment and final cycling through. They are thought to be bound to join the [[settings/Aylbyia/Cosmology/The Planes/Heavens|Heavens]] and the [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]].
 
 <!-- vault-enrichment:start -->
 ## Related

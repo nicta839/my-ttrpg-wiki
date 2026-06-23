@@ -1,0 +1,99 @@
+{
+  "size": {
+    "w": 1920,
+    "h": 1080
+  },
+  "layers": [
+    {
+      "id": "settlements",
+      "name": "Settlements",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "map-features",
+      "name": "Map features",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "id": "settlement-hoegarden-oasis",
+      "x": 0.055,
+      "y": 0.115,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Hoegarden Oasis",
+      "link": "settings/Tales of Fate/Settlements/Hoegarden Oasis",
+      "resolvedHref": "/settings/tales-of-fate/settlements/hoegarden-oasis"
+    },
+    {
+      "id": "settlement-barathia",
+      "x": 0.045,
+      "y": 0.275,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Barathia",
+      "link": "settings/Tales of Fate/Settlements/Barathia",
+      "resolvedHref": "/settings/tales-of-fate/settlements/barathia"
+    },
+    {
+      "id": "settlement-kriek",
+      "x": 0.185,
+      "y": 0.405,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Kriek",
+      "link": "settings/Tales of Fate/Settlements/Kriek",
+      "resolvedHref": "/settings/tales-of-fate/settlements/kriek"
+    },
+    {
+      "id": "settlement-pelfort",
+      "x": 0.17,
+      "y": 0.59,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Pelfort",
+      "link": "settings/Tales of Fate/Settlements/Pelfort",
+      "resolvedHref": "/settings/tales-of-fate/settlements/pelfort"
+    },
+    {
+      "id": "settlement-granalin",
+      "x": 0.08,
+      "y": 0.68,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Granalin",
+      "link": "settings/Tales of Fate/Settlements/Granalin",
+      "resolvedHref": "/settings/tales-of-fate/settlements/granalin"
+    },
+    {
+      "id": "settlement-uelis-tower",
+      "x": 0.535,
+      "y": 0.255,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Ueli's Tower",
+      "link": "settings/Tales of Fate/Settlements/Ueli's Tower",
+      "resolvedHref": "/settings/tales-of-fate/settlements/ueli's-tower"
+    },
+    {
+      "id": "settlement-grimbergen",
+      "x": 0.82,
+      "y": 0.42,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Grimbergen",
+      "link": "settings/Tales of Fate/Settlements/Grimbergen",
+      "resolvedHref": "/settings/tales-of-fate/settlements/grimbergen"
+    }
+  ]
+}

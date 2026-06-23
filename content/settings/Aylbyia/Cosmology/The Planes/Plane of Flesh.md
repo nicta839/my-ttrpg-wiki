@@ -15,10 +15,9 @@ related:
   - settings/Aylbyia/Cosmology/Religion
   - settings/Aylbyia/Cosmology/The Planes/The Planes
   - settings/Aylbyia/Factions/Churches/Church of Light
+  - settings/Aylbyia/Factions/Churches/Church of the Flame
   - settings/Aylbyia/History/Founding myth
-  - settings/Aylbyia/Organizations/Golden Mask
 ---
-
 
 <!-- vault-enrichment:start -->
 ## Related
@@ -29,6 +28,6 @@ related:
 - [[settings/Aylbyia/Cosmology/Religion|Religion]]
 - [[settings/Aylbyia/Cosmology/The Planes/The Planes|The Planes]]
 - [[settings/Aylbyia/Factions/Churches/Church of Light|Church of Light]]
+- [[settings/Aylbyia/Factions/Churches/Church of the Flame|Church of the Flame]]
 - [[settings/Aylbyia/History/Founding myth|Founding myth]]
-- [[settings/Aylbyia/Organizations/Golden Mask|Golden Mask]]
 <!-- vault-enrichment:end -->

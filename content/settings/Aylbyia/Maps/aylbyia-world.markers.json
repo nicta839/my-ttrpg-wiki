@@ -1,0 +1,570 @@
+{
+  "size": {
+    "w": 4096,
+    "h": 3072
+  },
+  "layers": [
+    {
+      "id": "regions",
+      "name": "Regions",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "subregions",
+      "name": "Great House subregions",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "settlements",
+      "name": "Settlements",
+      "visible": true,
+      "locked": false
+    },
+    {
+      "id": "map-features",
+      "name": "Map features",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "id": "region-orkunsteppes",
+      "x": 0.455,
+      "y": 0.145,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Orkunsteppes — Most important city: Lor, The First City Unarchus",
+      "link": "settings/Aylbyia/Regions/Orkunsteppes",
+      "resolvedHref": "/settings/aylbyia/regions/orkunsteppes"
+    },
+    {
+      "id": "region-younger-brother",
+      "x": 0.49,
+      "y": 0.26,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "The Younger Brother — Smaller and older mountains east of the main range.",
+      "link": "settings/Aylbyia/Regions/The Younger Brother",
+      "resolvedHref": "/settings/aylbyia/regions/the-younger-brother"
+    },
+    {
+      "id": "region-platsmoor",
+      "x": 0.675,
+      "y": 0.185,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "The Platsmoor — Most important city: Ziebglen, Seat of Aumogonne.",
+      "link": "settings/Aylbyia/Regions/The Platsmoor",
+      "resolvedHref": "/settings/aylbyia/regions/the-platsmoor"
+    },
+    {
+      "id": "region-older-brothers",
+      "x": 0.66,
+      "y": 0.365,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "The Older Brothers — Inhabited by the Mountain dwarves.",
+      "link": "settings/Aylbyia/Regions/The Older Brothers",
+      "resolvedHref": "/settings/aylbyia/regions/the-older-brothers"
+    },
+    {
+      "id": "region-realm-of-vuuch",
+      "x": 0.44939239501953127,
+      "y": 0.38807617187500004,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "The Realm of Vuuch — Dangerous place where nature has retaken its hold.",
+      "link": "settings/Aylbyia/Regions/The Realm of Vuuch",
+      "resolvedHref": "/settings/aylbyia/regions/the-realm-of-vuuch"
+    },
+    {
+      "id": "region-skalik-desert-lyzykos",
+      "x": 0.345,
+      "y": 0.52,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "The Skal'ik Desert and Lyzykos — Desert lands around Lyzykos and Junon, The Celestial City.",
+      "link": "settings/Aylbyia/Regions/The Skal'ik Desert and Lyzykos",
+      "resolvedHref": "/settings/aylbyia/regions/the-skal'ik-desert-and-lyzykos"
+    },
+    {
+      "id": "region-great-houses-humanity",
+      "x": 0.56,
+      "y": 0.47,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "The Great Houses of Humanity — Mountain-bordered region turned toward the sea.",
+      "link": "settings/Aylbyia/Regions/great houses of humanity/The Great Houses of Humanity",
+      "resolvedHref": "/settings/aylbyia/regions/great-houses-of-humanity/the-great-houses-of-humanity"
+    },
+    {
+      "id": "region-fins-end",
+      "x": 0.43,
+      "y": 0.665,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Fin's End — Immense forest thought to be the home of elves.",
+      "link": "settings/Aylbyia/Regions/Fin's End",
+      "resolvedHref": "/settings/aylbyia/regions/fin's-end"
+    },
+    {
+      "id": "region-twilight",
+      "x": 0.31,
+      "y": 0.675,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Twilight — Final battlefield of the war against the Heavens.",
+      "link": "settings/Aylbyia/Regions/Twilight",
+      "resolvedHref": "/settings/aylbyia/regions/twilight"
+    },
+    {
+      "id": "region-dracopeaks",
+      "x": 0.12,
+      "y": 0.665,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "The Dracopeaks — Dragonborn lands where strangers are watched closely.",
+      "link": "settings/Aylbyia/Regions/The Dracopeaks",
+      "resolvedHref": "/settings/aylbyia/regions/the-dracopeaks"
+    },
+    {
+      "id": "region-tiulasa",
+      "x": 0.69,
+      "y": 0.77,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "Tiulasa — Hilly green region of proud fishing villages.",
+      "link": "settings/Aylbyia/Regions/Tiulasa",
+      "resolvedHref": "/settings/aylbyia/regions/tiulasa"
+    },
+    {
+      "id": "region-frosted-south",
+      "x": 0.305,
+      "y": 0.945,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "The Frosted South — Frozen southern land of old Tavik legends.",
+      "link": "settings/Aylbyia/Regions/The Frosted South",
+      "resolvedHref": "/settings/aylbyia/regions/the-frosted-south"
+    },
+    {
+      "id": "region-eastern-continent",
+      "x": 0.95,
+      "y": 0.625,
+      "layer": "regions",
+      "type": "pin",
+      "iconKey": "pin-blue",
+      "tooltip": "The Eastern Continent — Little is known; expeditions rarely return whole.",
+      "link": "settings/Aylbyia/Regions/The Eastern Continent",
+      "resolvedHref": "/settings/aylbyia/regions/the-eastern-continent"
+    },
+    {
+      "id": "region-northfangs",
+      "x": 0.68,
+      "y": 0.555,
+      "layer": "subregions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Northfangs — Northern great-house lands.",
+      "link": "settings/Aylbyia/Regions/great houses of humanity/Northfangs",
+      "resolvedHref": "/settings/aylbyia/regions/great-houses-of-humanity/northfangs"
+    },
+    {
+      "id": "region-sinderealms",
+      "x": 0.705,
+      "y": 0.735,
+      "layer": "subregions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Sinderealms — Great-house lands on the southern island.",
+      "link": "settings/Aylbyia/Regions/great houses of humanity/Sinderealms",
+      "resolvedHref": "/settings/aylbyia/regions/great-houses-of-humanity/sinderealms"
+    },
+    {
+      "id": "region-southfang",
+      "x": 0.655,
+      "y": 0.85,
+      "layer": "subregions",
+      "type": "pin",
+      "iconKey": "pin-green",
+      "tooltip": "Southfang — Southern great-house lands.",
+      "link": "settings/Aylbyia/Regions/great houses of humanity/Southfang",
+      "resolvedHref": "/settings/aylbyia/regions/great-houses-of-humanity/southfang"
+    },
+    {
+      "id": "settlement-lor",
+      "x": 0.405,
+      "y": 0.14,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Lor — Lost first city of the orcs.",
+      "link": "settings/Aylbyia/Settlements/Orkunsteppes/Lor",
+      "resolvedHref": "/settings/aylbyia/settlements/orkunsteppes/lor"
+    },
+    {
+      "id": "settlement-unarchus",
+      "x": 0.523,
+      "y": 0.035,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Unarchus — Large city constructed by the orcs on the road to Lor.",
+      "link": "settings/Aylbyia/Settlements/Orkunsteppes/Unarchus",
+      "resolvedHref": "/settings/aylbyia/settlements/orkunsteppes/unarchus"
+    },
+    {
+      "id": "settlement-tavik-nurlowk",
+      "x": 0.4,
+      "y": 0.19,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Tavik Nurlowk — Fortified castle meant to stop Orcish warbands.",
+      "link": "settings/Aylbyia/Settlements/Tavik Nurlowk",
+      "resolvedHref": "/settings/aylbyia/settlements/tavik-nurlowk"
+    },
+    {
+      "id": "settlement-ziebglen",
+      "x": 0.6929867666820825,
+      "y": 0.17397425887399923,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Ziebglen — Seat of Aumogonne.",
+      "link": "settings/Aylbyia/Settlements/Ziebglen",
+      "resolvedHref": "/settings/aylbyia/settlements/ziebglen"
+    },
+    {
+      "id": "settlement-junon",
+      "x": 0.39,
+      "y": 0.515,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Junon, The Celestial City — Most important city of the Skal'ik Desert and Lyzykos.",
+      "link": "settings/Aylbyia/Settlements/Junon, The Celestial City",
+      "resolvedHref": "/settings/aylbyia/settlements/junon,-the-celestial-city"
+    },
+    {
+      "id": "settlement-castle-bleakunpine",
+      "x": 0.365,
+      "y": 0.685,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Castle Bleakunpine — Reinforced citadel on the edge of the Twilight.",
+      "link": "settings/Aylbyia/Settlements/Fin's end/Castle Bleakunpine",
+      "resolvedHref": "/settings/aylbyia/settlements/fin's-end/castle-bleakunpine"
+    },
+    {
+      "id": "settlement-castle-sobet",
+      "x": 0.43,
+      "y": 0.52,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Castle Sobet — Small castle overseeing the rivers exiting Fin's End.",
+      "link": "settings/Aylbyia/Settlements/Fin's end/Castle Sobet",
+      "resolvedHref": "/settings/aylbyia/settlements/fin's-end/castle-sobet"
+    },
+    {
+      "id": "settlement-tritonya",
+      "x": 0.51,
+      "y": 0.645,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Tritonya — Controls the Silent Promise sea and the river from Fin's End.",
+      "link": "settings/Aylbyia/Settlements/Fin's end/Tritonya",
+      "resolvedHref": "/settings/aylbyia/settlements/fin's-end/tritonya"
+    },
+    {
+      "id": "settlement-south-harbour",
+      "x": 0.165,
+      "y": 0.735,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "South Harbour — Only reliable harbour into the Dracopeaks region.",
+      "link": "settings/Aylbyia/Settlements/Drakopeaks/South Harbour",
+      "resolvedHref": "/settings/aylbyia/settlements/drakopeaks/south-harbour"
+    },
+    {
+      "id": "settlement-house-of-water",
+      "x": 0.59,
+      "y": 0.66,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "The House of Water — Neutral meeting place and seat of knowledge.",
+      "link": "settings/Aylbyia/Settlements/The great houses of Humanity/The House of Water",
+      "resolvedHref": "/settings/aylbyia/settlements/the-great-houses-of-humanity/the-house-of-water"
+    },
+    {
+      "id": "settlement-port-shockdark",
+      "x": 0.61,
+      "y": 0.64,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Port Shockdark — New seat of power of the House of Water.",
+      "link": "settings/Aylbyia/Settlements/The great houses of Humanity/Southfang/Port Shockdark",
+      "resolvedHref": "/settings/aylbyia/settlements/the-great-houses-of-humanity/southfang/port-shockdark"
+    },
+    {
+      "id": "settlement-tavik-southfang",
+      "x": 0.66,
+      "y": 0.54,
+      "layer": "settlements",
+      "type": "pin",
+      "iconKey": "castle",
+      "tooltip": "Tavik Southfang — Ancient ruined location allowing travel to similar places.",
+      "link": "settings/Aylbyia/Settlements/The great houses of Humanity/Southfang/Tavik Southfang",
+      "resolvedHref": "/settings/aylbyia/settlements/the-great-houses-of-humanity/southfang/tavik-southfang"
+    },
+    {
+      "id": "feature-advenza",
+      "x": 0.075,
+      "y": 0.105,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "Advenza — Named island feature west of the main Aylbyia landmasses.",
+      "link": "settings/Aylbyia/Regions/Map Features/Advenza",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/advenza"
+    },
+    {
+      "id": "feature-oarm-sea",
+      "x": 0.145,
+      "y": 0.06,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "Oarm Sea — Named sea northwest of the central Aylbyia landmasses.",
+      "link": "settings/Aylbyia/Regions/Map Features/Oarm Sea",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/oarm-sea"
+    },
+    {
+      "id": "feature-blazing-straits",
+      "x": 0.235,
+      "y": 0.24,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "The Blazing Straits — Named straits between the western islands and central waters.",
+      "link": "settings/Aylbyia/Regions/Map Features/The Blazing Straits",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/the-blazing-straits"
+    },
+    {
+      "id": "feature-goblin-bay",
+      "x": 0.34,
+      "y": 0.26,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "Goblin Bay — Named bay on the western side of the central Aylbyia map.",
+      "link": "settings/Aylbyia/Regions/Map Features/Goblin Bay",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/goblin-bay"
+    },
+    {
+      "id": "feature-cobalt-bay",
+      "x": 0.385,
+      "y": 0.275,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "Cobalt Bay — Named bay between the western lands and the central continent.",
+      "link": "settings/Aylbyia/Regions/Map Features/Cobalt Bay",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/cobalt-bay"
+    },
+    {
+      "id": "feature-haerone-forest",
+      "x": 0.595,
+      "y": 0.13,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "Haerone Forest — Named forest north of the Platsmoor.",
+      "link": "settings/Aylbyia/Regions/Map Features/Haerone Forest",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/haerone-forest"
+    },
+    {
+      "id": "feature-pale-gate",
+      "x": 0.89,
+      "y": 0.185,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "Pale Gate — Named passage on the northeastern edge of the known lands.",
+      "link": "settings/Aylbyia/Regions/Map Features/Pale Gate",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/pale-gate"
+    },
+    {
+      "id": "feature-black-mountain",
+      "x": 0.493,
+      "y": 0.31,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "Black Mountain — Prominent named mountain in the Younger Brother range.",
+      "link": "settings/Aylbyia/Regions/Map Features/Black Mountain",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/black-mountain"
+    },
+    {
+      "id": "feature-lake-koral",
+      "x": 0.515,
+      "y": 0.292,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "Lake Koral — Named lake between the Younger Brother and the Platsmoor.",
+      "link": "settings/Aylbyia/Regions/Map Features/Lake Koral",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/lake-koral"
+    },
+    {
+      "id": "feature-bay-of-peril",
+      "x": 0.378,
+      "y": 0.444,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "Bay of Peril — Named bay near Junon and the western edge of Lyzykos.",
+      "link": "settings/Aylbyia/Regions/Map Features/Bay of Peril",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/bay-of-peril"
+    },
+    {
+      "id": "feature-smoulderspine",
+      "x": 0.23,
+      "y": 0.495,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "The Smoulderspine — Named volcanic landmark near the western edge of the Twilight.",
+      "link": "settings/Aylbyia/Regions/Map Features/The Smoulderspine",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/the-smoulderspine"
+    },
+    {
+      "id": "feature-silent-promise",
+      "x": 0.558,
+      "y": 0.604,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "The Silent Promise — Named sea east of Fin's End and west of the Great Houses waters.",
+      "link": "settings/Aylbyia/Regions/Map Features/The Silent Promise",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/the-silent-promise"
+    },
+    {
+      "id": "feature-shell",
+      "x": 0.665,
+      "y": 0.595,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "The Shell — Named sea around Tiulasa and the southern Great Houses waters.",
+      "link": "settings/Aylbyia/Regions/Map Features/The Shell",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/the-shell"
+    },
+    {
+      "id": "feature-court-of-mer",
+      "x": 0.65,
+      "y": 0.62,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "Court of Mer — Named sea feature near The Shell and the Great Houses waters.",
+      "link": "settings/Aylbyia/Regions/Map Features/Court of Mer",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/court-of-mer"
+    },
+    {
+      "id": "feature-mouth-of-creation",
+      "x": 0.235,
+      "y": 0.6,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "Mouth of Creation — Named waterway between the Dracopeaks and the Twilight.",
+      "link": "settings/Aylbyia/Regions/Map Features/Mouth of Creation",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/mouth-of-creation"
+    },
+    {
+      "id": "feature-unholy-sepulcher",
+      "x": 0.315,
+      "y": 0.61,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "The Unholy Sepulcher — Named landmark in the Twilight.",
+      "link": "settings/Aylbyia/Regions/Map Features/The Unholy Sepulcher",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/the-unholy-sepulcher"
+    },
+    {
+      "id": "feature-hanging-tree",
+      "x": 0.32,
+      "y": 0.665,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "The Hanging Tree — Named landmark in the Twilight.",
+      "link": "settings/Aylbyia/Regions/Map Features/The Hanging Tree",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/the-hanging-tree"
+    },
+    {
+      "id": "feature-roii",
+      "x": 0.36,
+      "y": 0.83,
+      "layer": "map-features",
+      "type": "pin",
+      "iconKey": "pin-yellow",
+      "tooltip": "The Roii — Named southern sea on the Aylbyia world map.",
+      "link": "settings/Aylbyia/Regions/Map Features/The Roii",
+      "resolvedHref": "/settings/aylbyia/regions/map-features/the-roii"
+    }
+  ],
+  "bases": [
+    {
+      "path": "assets/aylbyia/index/cool-open-world-244aa8afac-full.webp",
+      "name": "Aylbyia World Map"
+    }
+  ],
+  "activeBase": "assets/aylbyia/index/cool-open-world-244aa8afac-full.webp",
+  "panClamp": true,
+  "iconSizes": {
+    "pin-blue": 34,
+    "pin-green": 32,
+    "pin-yellow": 32,
+    "castle": 36
+  },
+  "overlays": [],
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "drawLayers": [],
+  "drawings": [],
+  "grids": [],
+  "textLayers": [],
+  "secondScreen": {
+    "showGrids": true
+  }
+}

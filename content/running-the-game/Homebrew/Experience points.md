@@ -8,6 +8,7 @@ category: Homebrew
 visibility: public
 description: "There are several ways of doing experience points. Here are some alternatives that we could explore in the game. We should decide this at session 0 and can of course be changed as we go:"
 related:
+  - running-the-game/Homebrew/index
   - running-the-game/Homebrew/Homebrew rules
 ---
 
@@ -101,5 +102,6 @@ Their level*25 if: 
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[running-the-game/Homebrew/index|Homebrew]]
 - [[running-the-game/Homebrew/Homebrew rules|Homebrew rules]]
 <!-- vault-enrichment:end -->

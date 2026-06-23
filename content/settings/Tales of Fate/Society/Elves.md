@@ -11,6 +11,7 @@ visibility: public
 description: Elves have no known lifespan. They live for as long as they do not fall sick or struck by a weapon/spell.
 related:
   - settings/Tales of Fate/Society/index
+  - settings/Tales of Fate/index
 ---
 
 Elves have no known lifespan. They live for as long as they do not fall sick or struck by a weapon/spell.
@@ -19,4 +20,5 @@ Elves have no known lifespan. They live for as long as they do not fall sick or 
 ## Related
 
 - [[settings/Tales of Fate/Society/index|The People]]
+- [[settings/Tales of Fate/index|Tales of Fate]]
 <!-- vault-enrichment:end -->

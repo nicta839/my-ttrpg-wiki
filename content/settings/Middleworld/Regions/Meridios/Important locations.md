@@ -10,6 +10,7 @@ category: Regions
 visibility: public
 description: "Melvern: Location of the third obelisk, village of devout eladrins."
 related:
+  - settings/Middleworld/Regions/Meridios/index
   - settings/Middleworld/index
 ---
 
@@ -24,5 +25,6 @@ Saeras: Location of the 4th obelisk, this deep green forest is the home of small
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Regions/Meridios/index|Meridios]]
 - [[settings/Middleworld/index|Introduction]]
 <!-- vault-enrichment:end -->

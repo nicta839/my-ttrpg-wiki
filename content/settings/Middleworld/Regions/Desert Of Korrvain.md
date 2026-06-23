@@ -12,9 +12,11 @@ description: The city of Jaloss boasts an inexplicably large amount of Gems and 
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Factions/Varesh
 ---
 
-The city of Jaloss boasts an inexplicably large amount of Gems and Jewels that they trade with the Varesh. The people of this place all wear masks at all times.
+The city of Jaloss boasts an inexplicably large amount of Gems and Jewels that they trade with the [[settings/Middleworld/Factions/Varesh|Varesh]]. The people of this place all wear masks at all times.
 
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -31,4 +33,6 @@ The city of Jaloss boasts an inexplicably large amount of Gems and Jewels that t
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Factions/Varesh|Varesh]]
 <!-- vault-enrichment:end -->

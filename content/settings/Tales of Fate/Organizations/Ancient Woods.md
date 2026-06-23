@@ -9,6 +9,9 @@ onenote_source: Tales of Fate/Organizations/Ancient Woods
 category: Organizations
 visibility: public
 description: "Nature oriented: plants, water, minerals, animals"
+related:
+  - settings/Tales of Fate/Organizations/index
+  - settings/Tales of Fate/index
 ---
 
 Polytheistic: godesses
@@ -18,3 +21,10 @@ Nature oriented: plants, water, minerals, animals
 Neutral oriented
 
 Theme of harmony
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Tales of Fate/Organizations/index|Tales of Fate — Organizations]]
+- [[settings/Tales of Fate/index|Tales of Fate]]
+<!-- vault-enrichment:end -->

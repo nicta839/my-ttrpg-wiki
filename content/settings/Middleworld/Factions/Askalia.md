@@ -10,10 +10,13 @@ category: Factions
 visibility: public
 description: Working wood, forestry and hunting. Quiet people who tend to the land.
 related:
+  - settings/Middleworld/Factions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
+  - settings/Middleworld/Society/The Empire
 ---
 
-Working wood, forestry and hunting. Quiet people who tend to the land. They enjoyed relative safety from the Empire during the conflict and thrived economically during the conflict while the other nations sent troops.
+Working wood, forestry and hunting. Quiet people who tend to the land. They enjoyed relative safety from [[settings/Middleworld/Society/The Empire|the Empire]] during the conflict and thrived economically during the conflict while the other nations sent troops.
 
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -28,5 +31,8 @@ Working wood, forestry and hunting. Quiet people who tend to the land. They enjo
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Middleworld/Factions/index|Middleworld — Factions]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
+- [[settings/Middleworld/Society/The Empire|The Empire]]
 <!-- vault-enrichment:end -->

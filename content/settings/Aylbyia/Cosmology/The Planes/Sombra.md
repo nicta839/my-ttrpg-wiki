@@ -15,7 +15,7 @@ related:
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials
 ---
 
-These planes are the energy sources that allow magic to happen as well as permit the flow of time, life and death. The [[Celestials]] warn us against the creatures that may come out from them. Creatures of pure life force and creatures carrying death about them are dangers that are hypothesized to live in there.
+These planes are the energy sources that allow magic to happen as well as permit the flow of time, life and death. The [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]] warn us against the creatures that may come out from them. Creatures of pure life force and creatures carrying death about them are dangers that are hypothesized to live in there.
 
 <!-- vault-enrichment:start -->
 ## Related

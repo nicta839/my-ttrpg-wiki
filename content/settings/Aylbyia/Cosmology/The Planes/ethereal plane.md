@@ -15,7 +15,6 @@ related:
   - settings/Aylbyia/Cosmology/The Planes/The Planes
 ---
 
-
 <!-- vault-enrichment:start -->
 ## Related
 

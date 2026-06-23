@@ -9,6 +9,9 @@ onenote_source: SOleria/World/World Map
 category: Regions
 visibility: public
 description: Shoutout to u/bavarianbayarean on reddit for the awesome map! All credits go to them.
+related:
+  - settings/Soleria/Regions/index
+  - settings/Soleria/index
 ---
 
 Shoutout to u/bavarianbayarean on reddit for the awesome map! All credits go to them.
@@ -19,3 +22,10 @@ Shoutout to u/bavarianbayarean on reddit for the awesome map! All credits go to 
 <!-- onenote-media:end -->
 
 À partir de l’adresse <https://www.reddit.com/user/bavarianbayarean/>
+
+<!-- vault-enrichment:start -->
+## Related
+
+- [[settings/Soleria/Regions/index|Soleria — Regions]]
+- [[settings/Soleria/index|Soleria]]
+<!-- vault-enrichment:end -->

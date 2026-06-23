@@ -10,8 +10,10 @@ category: Organizations
 visibility: public
 description: These are a group of people groomed to become assassins and thieves.
 related:
+  - settings/Aylbyia/Organizations/index
   - settings/Aylbyia/index
   - settings/Aylbyia/Factions/List of factions and organisations
+  - settings/Aylbyia/Regions/great houses of humanity/Sinderealms
   - settings/Aylbyia/Regions/great houses of humanity/The Great Houses of Humanity
   - settings/Aylbyia/Society/Ancestries/Elves
   - settings/Aylbyia/Timeline
@@ -20,7 +22,7 @@ related:
 Mark: ??
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![shadowhand](../../../assets/aylbyia/shadowhand/shadowhand-187fc6aa52-1600.webp)](../../../assets/aylbyia/shadowhand/shadowhand-187fc6aa52-full.webp)
+> [![shadowhand](../../../assets/aylbyia/shadowhand/shadowhand-187fc6aa52-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/shadowhand/shadowhand-187fc6aa52-full.webp)
 
 > [!onenote-gallery]
 > [![shadowhand mage](../../../assets/aylbyia/shadowhand/shadowhand-mage-8eea689a51-800.webp)](../../../assets/aylbyia/shadowhand/shadowhand-mage-8eea689a51-full.webp)
@@ -37,8 +39,10 @@ Something terrible has happened there and the various chapters have trouble keep
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Aylbyia/Organizations/index|Organizations]]
 - [[settings/Aylbyia/index|Aylbyia]]
 - [[settings/Aylbyia/Factions/List of factions and organisations|List of factions]]
+- [[settings/Aylbyia/Regions/great houses of humanity/Sinderealms|Sinderealms]]
 - [[settings/Aylbyia/Regions/great houses of humanity/The Great Houses of Humanity|The Great Houses of Humanity]]
 - [[settings/Aylbyia/Society/Ancestries/Elves|Elves]]
 - [[settings/Aylbyia/Timeline|Timeline]]

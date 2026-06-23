@@ -10,18 +10,19 @@ category: Settlements
 visibility: public
 description: "Most important city: Junon, The Celestial City"
 related:
+  - settings/Aylbyia/Settlements/index
   - settings/Aylbyia/index
-  - settings/Aylbyia/Factions/The Great Houses of Humanity
-  - settings/Aylbyia/Organizations/Sparrow Trading Company
-  - settings/Aylbyia/Regions/The Skal'ik Desert and Lyzykos
-  - settings/Aylbyia/Timeline
-  - settings/Aylbyia/Factions/Churches/Church of the Flame
   - settings/Aylbyia/Factions/Queendom
+  - settings/Aylbyia/Factions/The Great Houses of Humanity
+  - settings/Aylbyia/Maps/index
+  - settings/Aylbyia/Organizations/Sparrow Trading Company
+  - settings/Aylbyia/Regions/Map Features/Bay of Peril
+  - settings/Aylbyia/Regions/The Skal'ik Desert and Lyzykos
 ---
 
-Most important city: Junon, The Celestial City
+Most important city: [[settings/Aylbyia/Cosmology/Celestials and Saints/Saints/Junon|Junon]], The Celestial City
 
-The Holy seat of the [[Church of the Flame]] and the heart of the [[Queendom]]. It is a sprawling city that spans along the Coast. All manner of goods can be found here. There is a saying "if you can't find what you look for in Junon, then you don't need it".
+The Holy seat of the [[settings/Aylbyia/Factions/Churches/Church of the Flame|Church of the Flame]] and the heart of the [[settings/Aylbyia/Factions/Queendom|Queendom]]. It is a sprawling city that spans along the Coast. All manner of goods can be found here. There is a saying "if you can't find what you look for in Junon, then you don't need it".
 
 Important locations:
 
@@ -34,11 +35,12 @@ Important locations:
 <!-- vault-enrichment:start -->
 ## Related
 
+- [[settings/Aylbyia/Settlements/index|Settlements]]
 - [[settings/Aylbyia/index|Aylbyia]]
-- [[settings/Aylbyia/Factions/The Great Houses of Humanity|The Great Houses of Humanity]]
-- [[settings/Aylbyia/Organizations/Sparrow Trading Company|Sparrow Trading Company]]
-- [[settings/Aylbyia/Regions/The Skal'ik Desert and Lyzykos|The Skal'ik Desert and Lyzykos]]
-- [[settings/Aylbyia/Timeline|Timeline]]
-- [[settings/Aylbyia/Factions/Churches/Church of the Flame|Church of the Flame]]
 - [[settings/Aylbyia/Factions/Queendom|Queendom]]
+- [[settings/Aylbyia/Factions/The Great Houses of Humanity|The Great Houses of Humanity]]
+- [[settings/Aylbyia/Maps/index|Maps]]
+- [[settings/Aylbyia/Organizations/Sparrow Trading Company|Sparrow Trading Company]]
+- [[settings/Aylbyia/Regions/Map Features/Bay of Peril|Bay of Peril]]
+- [[settings/Aylbyia/Regions/The Skal'ik Desert and Lyzykos|The Skal'ik Desert and Lyzykos]]
 <!-- vault-enrichment:end -->

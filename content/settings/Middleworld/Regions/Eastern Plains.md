@@ -12,6 +12,7 @@ description: Plains that evolve into an unending and uncharted desert. Some peop
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
+  - settings/Middleworld/Maps/index
 ---
 
 Plains that evolve into an unending and uncharted desert. Some people claim some nomads walk this desert from oasis to oasis, but no record has been found.
@@ -31,4 +32,5 @@ Plains that evolve into an unending and uncharted desert. Some people claim some
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
+- [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

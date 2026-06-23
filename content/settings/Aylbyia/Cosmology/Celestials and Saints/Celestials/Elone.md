@@ -14,13 +14,14 @@ related:
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials and Saints
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials
   - settings/Aylbyia/Cosmology/Religion
+  - settings/Aylbyia/Regions/Twilight
 ---
 
 Elone:
 
 - Portfolio: compassion, tradition
 - Symbols: A tree with green antlers
-- Care for others if you also wish to be cared for in your time of need. A strong community is your best safeguard against the Twilight.
+- Care for others if you also wish to be cared for in your time of need. A strong community is your best safeguard against the [[settings/Aylbyia/Regions/Twilight|Twilight]].
 
 <!-- vault-enrichment:start -->
 ## Related
@@ -29,4 +30,5 @@ Elone:
 - [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials and Saints|Celestials and Saints]]
 - [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]]
 - [[settings/Aylbyia/Cosmology/Religion|Religion]]
+- [[settings/Aylbyia/Regions/Twilight|Twilight]]
 <!-- vault-enrichment:end -->
