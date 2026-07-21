@@ -17,6 +17,16 @@ related:
 
 # History
 
+```wiki-timeline
+source: current
+variant: frise
+density: clustered
+```
+
+<!-- wiki-explore:start -->
+<div class="relation-explorer" data-scope="current"></div>
+<!-- wiki-explore:end -->
+
 - -5000
 - Arrival of the Elves on the Prime Material
 - Elves mercilessly push the Orcs from the land
@@ -72,6 +82,7 @@ Legend:
   </div>
 </section>
 <!-- curated-index:end -->
+
 
 <!-- vault-folder-index:start -->
 ## Pages

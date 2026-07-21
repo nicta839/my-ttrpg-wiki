@@ -19,9 +19,9 @@ related:
 
 This is an ordered society with established rulers and those who are ruled.
 
-Elves enjoy the advantages granted to them by their inherited wealth and social status throughout the Empire and before the end of slavery. This established order is now questionned by the rapid rise in number and wealth of other races.
+Elves enjoy the advantages granted to them by their inherited wealth and social status throughout the Empire and before the end of slavery. This established order is now questioned by the rapid rise in number and wealth of other races.
 
-The establishment of the Inquisition puts an official and legal in charge of stopping acts of corruption and trying maintaining the skeleton that makes up Empirial authority. The nobles are unhappy, but the Empire can hopefully survive that.
+The establishment of the Inquisition puts an official and legal in charge of stopping acts of corruption and trying maintaining the skeleton that makes up Imperial authority. The nobles are unhappy, but the Empire can hopefully survive that.
 
 <!-- curated-index:start -->
 <section class="index-guide">
@@ -32,6 +32,10 @@ The establishment of the Inquisition puts an official and legal in charge of sto
   </div>
 </section>
 <!-- curated-index:end -->
+
+<!-- wiki-explore:start -->
+<div class="relation-explorer" data-scope="current"></div>
+<!-- wiki-explore:end -->
 
 <!-- vault-folder-index:start -->
 ## Pages

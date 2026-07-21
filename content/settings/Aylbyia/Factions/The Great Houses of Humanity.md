@@ -50,7 +50,7 @@ Barony leaders:
 - Water: [[settings/Aylbyia/NPCs/Great houses/Water/Naruun Nierdil Ferop Dagusta XII|Naruun Nierdil Ferop Dagusta XII]]
 - Sinder: [[settings/Aylbyia/NPCs/Great houses/Sinder/Fergus Ironglove|Fergus Ironglove]]
 
-War: Excel in guerilla tactics and control of their environment. Unpredictable and autonomous units.
+War: Excel in guerrilla tactics and control of their environment. Unpredictable and autonomous units.
 
 Commerce: Heavy trade of produce of the land and wines.
 
@@ -59,7 +59,7 @@ bing state.
 
 Shadow activities: Assassinations!!!!!!! So many!!!!! Piracy and money laundering opportunities.
 
-All baronesses make a pilgrimmage to [[settings/Aylbyia/Settlements/Junon, The Celestial City|Junon, The Celestial City]] to receive their blessing once a year. They would live to a long ripe age of 200 if not for the constant poisoning and assassination. The Baronnies are thought to now be under the effective control of [[settings/Aylbyia/Organizations/The Coin|The Coin]].
+All baronesses make a pilgrimage to [[settings/Aylbyia/Settlements/Junon, The Celestial City|Junon, The Celestial City]] to receive their blessing once a year. They would live to a long ripe age of 200 if not for the constant poisoning and assassination. The Baronnies are thought to now be under the effective control of [[settings/Aylbyia/Organizations/The Coin|The Coin]].
 
 <!-- vault-enrichment:start -->
 ## Related

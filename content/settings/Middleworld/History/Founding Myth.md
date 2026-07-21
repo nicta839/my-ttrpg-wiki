@@ -57,7 +57,7 @@ Fifth Song:
 
 Time passed and the Singer was forgotten by most.
 
-As the world settled into a new status quo, it learned once more to wield magic. The gods settled but grew old and weary. Some decided to coalesce into a single entity that woudl allow them to finally rest. The disaster that ensued was born of the mixing of contradictory portfolios. This new being was in pain and sought to deal part of it back onto the world and the gods. The Voidlands were created.
+As the world settled into a new status quo, it learned once more to wield magic. The gods settled but grew old and weary. Some decided to coalesce into a single entity that would allow them to finally rest. The disaster that ensued was born of the mixing of contradictory portfolios. This new being was in pain and sought to deal part of it back onto the world and the gods. The Voidlands were created.
 
 The Singer returned to witness this creature rampaging. She inspired the people and punished the gods for not intervening. The Gods once more walked the planet instead of their own Plane. The [[settings/Middleworld/Regions/Meridios|Meridios]] Obelisks were built.
 

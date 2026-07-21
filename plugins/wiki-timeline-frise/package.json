@@ -1,0 +1,14 @@
+{
+  "name": "@local/wiki-timeline-frise",
+  "version": "0.1.0",
+  "description": "Shared Obsidian and Quartz timeline frise renderer for the TTRPG wiki.",
+  "main": "main.js",
+  "type": "commonjs",
+  "private": true,
+  "files": [
+    "main.js",
+    "manifest.json",
+    "styles.css",
+    "shared"
+  ]
+}

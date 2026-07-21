@@ -27,7 +27,7 @@ related:
 	1. tourism <> religion creates cult like behavior (tribalism around divinity, is the hand part of a body)
 	2. Everybody wants to claim and everybody has temples at the bottom
 	3. Yearly festival of religious argument: also an opportunity of healing: The Hand Debate
-	4. Naturally occuring anti-magic circle (maybe it's just antimagic mushrooms)
+	4. Naturally occurring anti-magic circle (maybe it's just antimagic mushrooms)
 4. Name and describe a place that exists here? (landmark)
 	1. Cliff/waterfall/hand-of-god/
 	2. some way to make it weird
@@ -36,7 +36,7 @@ related:
 	5. deserty around
 5. What are some things around? (problems, other ominous areas, etc...)
 	1. Why is it that the pointer finger grows, breaks and regrows (happens during an [[settings/Godshand/Campaign/Rumors/Eclipse|eclipse]]: the sun sits in the hand)
-	2. Why does the town seem like it changes everytime an eclipse occurs
+	2. Why does the town seem like it changes every time an eclipse occurs
 	3. Why do I keep finding these weird metal things in my vegetable fields
 	4. bandits or something that burrows (ants or sandworm). THIS IS AUSTRALIA!!!
 	5. Extra extra extra wildlife danger (plants and animal)

@@ -92,7 +92,7 @@ Their level*25 if: 
 
 - Attuned to a new magical item 
 - Invoke bond, ideal or flaw to make a meaningful impact 
-- Developped an new or existing relationship in a meaningful way 
+- Developed an new or existing relationship in a meaningful way 
 - Use a skill or spell to solve a problem in an interesting or meaningful way 
 - A character discovered a piece of interesting or useful lore about the world or an NPC 
 - Undertook a perilous journey that took time to accomplish 

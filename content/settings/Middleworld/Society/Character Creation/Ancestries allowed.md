@@ -19,7 +19,7 @@ All ancestries presented in the world section are allowed.
 
 When picking up a particular ancestry you also gain the following bonuses depending on which group your ancestry belongs to, how these enter into play mechanically will probably be an advantage on a related check:
 
-Humans: You are able to peer into somebody's future in your dreams (only one person). The further you push, the greater the reward, but so is the toll to be payed.
+Humans: You are able to peer into somebody's future in your dreams (only one person). The further you push, the greater the reward, but so is the toll to be paid.
 
 Short Folk: You are more easily inspired to create things from your environment than other people. You have a knack for crafting your own luck as well
 

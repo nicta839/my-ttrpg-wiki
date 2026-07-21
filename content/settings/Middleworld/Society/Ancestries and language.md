@@ -34,19 +34,19 @@ The diagram to the right presents how (mechanical aspects of each) ancestries ar
 
 Some ancestral groups present members that have notable differences with the others (marked by a spacing within the group).
 
-Fey Folk: (life span 200-500 years) Standing taller and much thinner than most humans, they present notable features that make it hard to hide their ancestries. Their ears are greatly longer and more pointed than humans. They also posess an ease to channel and manipulate mana compared to other ancestral groups. They are said to be descending from Fey.
+Fey Folk: (life span 200-500 years) Standing taller and much thinner than most humans, they present notable features that make it hard to hide their ancestries. Their ears are greatly longer and more pointed than humans. They also possess an ease to channel and manipulate mana compared to other ancestral groups. They are said to be descending from Fey.
 
 Giant Spawn: (life span 100-150) Even taller than the Fey Folk, they present usually tougher skin and are more resilient to harsher environments. They resist better effects of mana poisoning than other people. This ancestry group is separated into two with those that present more fur.
 
 Plane Touched: (life span 70-90) Mana winds carried from planar portals have changed the physiology of some humans and Giant Spawn. It is believed that dragons also had a hand in helping this process happen. The physiology of these people are vastly different to each other, but they all carry a keen sense for openings to other planes.
 
-Dragon Influenced: (life span 150-200) Little is known as to where these people come from, but the influence of dragons is undeniable. No old skeletons of these people have been found. Their senses are keener when looking for very specific things. The reason of their senses' affinity for any particular item is unknwon.
+Dragon Influenced: (life span 150-200) Little is known as to where these people come from, but the influence of dragons is undeniable. No old skeletons of these people have been found. Their senses are keener when looking for very specific things. The reason of their senses' affinity for any particular item is unknown.
 
 Old People: (life span 40-70) Skeletons of these people have been found in the ruins of [[settings/Middleworld/Factions/Vallios|Vallios]] and it is posited that these folks predate most other ancestral groups in the middleworld. They present features commonly found in animals. They are keenly more aware of spiritual influence.
 
 Short Folk: (life span 200-300) Smaller stature than other folk, these small people excel in the manipulation of tools and their environment. They are separated into two groups with the dwarves being slightly taller than the other folk.
 
-Humans: (life span 80-100) Used as a reference and most numerous race accross the Middleworld, they are a testament to resilience and adaptability. Some are gifted with visions of the future (most often someone else's) while all of them hear a single note being sang in their dreams.
+Humans: (life span 80-100) Used as a reference and most numerous race across the Middleworld, they are a testament to resilience and adaptability. Some are gifted with visions of the future (most often someone else's) while all of them hear a single note being sang in their dreams.
 
 ## Language:
 

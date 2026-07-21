@@ -1,0 +1,9 @@
+{
+  "id": "wiki-timeline-frise",
+  "name": "Wiki Timeline Frise",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Renders draggable horizontal timeline frises from wiki timeline notes.",
+  "author": "Nicolas Tababajeux",
+  "isDesktopOnly": false
+}

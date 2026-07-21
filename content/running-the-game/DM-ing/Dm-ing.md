@@ -35,6 +35,10 @@ The game I wish to run is a homebrewed world and a homebrewed story or something
 </section>
 <!-- curated-index:end -->
 
+<!-- wiki-explore:start -->
+<div class="relation-explorer" data-scope="current"></div>
+<!-- wiki-explore:end -->
+
 <!-- vault-folder-index:start -->
 ## Pages
 

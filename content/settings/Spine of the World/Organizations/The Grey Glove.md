@@ -24,7 +24,7 @@ This organization works throughout the continent very much like a mafia: organiz
 > [![grey glove](../../../assets/spine-of-the-world/the-grey-glove/grey-glove-217d197eac-1600.webp)](../../../assets/spine-of-the-world/the-grey-glove/grey-glove-217d197eac-full.webp)
 <!-- onenote-media:end -->
 
-They seem to have access to some magical means that are considered to be powerful by the authorities. It is rumored that the Grey Glove is led by an individual only known as The Palm. The inner workings of this group are unknown to those who don't belong or assosciate with them.
+They seem to have access to some magical means that are considered to be powerful by the authorities. It is rumored that the Grey Glove is led by an individual only known as The Palm. The inner workings of this group are unknown to those who don't belong or associate with them.
 
 <!-- vault-enrichment:start -->
 ## Related

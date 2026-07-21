@@ -18,6 +18,18 @@ related:
   - settings/Aylbyia/Regions/Twilight
   - settings/Aylbyia/Settlements/Ziebglen
 ---
+```wiki-timeline
+source: current
+variant: frise
+density: clustered
+```
+
+<!-- wiki-explore:start -->
+<section class="wiki-explore-shell">
+  <div class="relation-explorer" data-scope="current"></div>
+</section>
+<!-- wiki-explore:end -->
+
 
 - Year 0
 

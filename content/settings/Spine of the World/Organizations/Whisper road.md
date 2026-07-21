@@ -8,14 +8,14 @@ tags:
 onenote_source: Spine of the world/Factions/Whisper road
 category: Organizations
 visibility: public
-description: The organized guild of dwarven merchants accross the continent. They hire non-humans to work for them. Their influence has grown tremendously since the emancipation of Shems and the rebellion.
+description: The organized guild of dwarven merchants across the continent. They hire non-humans to work for them. Their influence has grown tremendously since the emancipation of Shems and the rebellion.
 related:
   - settings/Spine of the World/Organizations/index
   - settings/Spine of the World/index
   - settings/Spine of the World/History/History
 ---
 
-The organized guild of dwarven merchants accross the continent. They hire non-humans to work for them. Their influence has grown tremendously since the emancipation of Shems and the rebellion.
+The organized guild of dwarven merchants across the continent. They hire non-humans to work for them. Their influence has grown tremendously since the emancipation of Shems and the rebellion.
 
 <!-- onenote-media:start -->
 > [!onenote-hero]

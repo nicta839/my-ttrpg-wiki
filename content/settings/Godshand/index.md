@@ -45,6 +45,14 @@ related:
   </div>
 <!-- portal-meta:end -->
 
+<!-- wiki-explore:start -->
+<section class="wiki-explore-shell">
+  <div class="random-discovery" data-scope="setting" data-setting="Godshand"></div>
+  <div class="timeline-explorer" data-setting="Godshand" data-compact="true"></div>
+  <div class="relation-explorer" data-scope="current"></div>
+</section>
+<!-- wiki-explore:end -->
+
   <div class="portal-section-heading">
     <p class="portal-kicker">Explore Godshand</p>
     <h2>Oasis, desert, and rumors</h2>

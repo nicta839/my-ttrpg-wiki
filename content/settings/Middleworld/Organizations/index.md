@@ -43,6 +43,10 @@ Will add different organizations that exist within factions as we go
 </section>
 <!-- curated-index:end -->
 
+<!-- wiki-explore:start -->
+<div class="relation-explorer" data-scope="current"></div>
+<!-- wiki-explore:end -->
+
 <!-- vault-folder-index:start -->
 ## Pages
 

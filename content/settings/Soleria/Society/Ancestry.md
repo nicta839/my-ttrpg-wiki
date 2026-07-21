@@ -26,7 +26,7 @@ Elves/half elves are very few these days. Many have left this plane for another 
 
 Tiefling, also called Cursed-people, are the people who can trace their ancestry to the armies or bystanders who lived in the [[settings/Soleria/Regions/Map Features/Shattered Lands|Shattered Lands]] at the time of Alera's curse. These people have been asking for generations to be given a piece of land by [[settings/Soleria/Society/The kingdom|the Kingdom]] of [[settings/Soleria/index|Soleria]] in order to thrive after their service to the crown during the God War.
 
-Gnomes live on the eastern parts of the Kingdom. They boast the oldest structures of this continent and the local hsitorians and clerical order posit that they are linked in a particular way to the gods.
+Gnomes live on the eastern parts of the Kingdom. They boast the oldest structures of this continent and the local historians and clerical order posit that they are linked in a particular way to the gods.
 
 Dragonborn are the humanoids chosen by the dragons who did not participate in the God War. They were gifted with knowledge of technology that goes beyond what is taught in the lowlands. During the containment of  Magnar's expansion, a single gigantic skyship was seen as well as the use of firearms.
 
@@ -34,7 +34,7 @@ Halflings are the people originally living in the western part of the continent.
 
 Genasi are invariably people who follow Magnar and make up most of his armies.
 
-Goliath are the descendants of the soldiers who retreated when the [[settings/Soleria/Regions/Map Features/Silver Wardens|Silver Wardens]] mountain chain were raised. They usualy keep to themselves.
+Goliath are the descendants of the soldiers who retreated when the [[settings/Soleria/Regions/Map Features/Silver Wardens|Silver Wardens]] mountain chain were raised. They usually keep to themselves.
 
 Orcs/half orcs are descendants of Xavian's army when he "cleansed" the halls of the dwarves. They are touched by the radiance of the shattering of the glaive of light and all have invariably red-toned skin complexion.
 

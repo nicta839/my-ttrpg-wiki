@@ -69,6 +69,13 @@ related:
   </div>
 <!-- atlas-strip:end -->
 
+<!-- wiki-explore:start -->
+<section class="wiki-explore-shell">
+  <div class="atlas-explorer"></div>
+  <div class="random-discovery" data-scope="global"></div>
+</section>
+<!-- wiki-explore:end -->
+
 </section>
 
 <!-- vault-folder-index:start -->

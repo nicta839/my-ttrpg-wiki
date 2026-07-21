@@ -14,7 +14,7 @@ related:
   - settings/Tales of Fate/index
 ---
 
-Polytheistic: godesses
+Polytheistic: goddesses
 
 Nature oriented: plants, water, minerals, animals
 

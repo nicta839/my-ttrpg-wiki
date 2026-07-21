@@ -42,6 +42,14 @@ related:
   </div>
 <!-- portal-meta:end -->
 
+<!-- wiki-explore:start -->
+<section class="wiki-explore-shell">
+  <div class="random-discovery" data-scope="setting" data-setting="Spine of the World"></div>
+  <div class="atlas-explorer" data-setting="Spine of the World" data-compact="true"></div>
+  <div class="relation-explorer" data-scope="current"></div>
+</section>
+<!-- wiki-explore:end -->
+
   <div class="portal-section-heading">
     <p class="portal-kicker">Explore Spine of the World</p>
     <h2>Frontiers and factions</h2>

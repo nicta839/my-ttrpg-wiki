@@ -8,7 +8,7 @@ tags:
   - type/lore
 category: Society
 visibility: public
-description: Raising one's hand in front of their face (back of the hand towards the intended target) is the out-og-game euqivalent of showing the finger
+description: Raising one's hand in front of their face (back of the hand towards the intended target) is the out-og-game equivalent of showing the finger
 related:
   - settings/Godshand/Society/index
   - settings/Godshand/index
@@ -16,7 +16,7 @@ related:
   - settings/Godshand/to-remember-notes
 ---
 
-Raising one's hand in front of their face (back of the hand towards the intended target) is the out-og-game euqivalent of showing the finger
+Raising one's hand in front of their face (back of the hand towards the intended target) is the out-og-game equivalent of showing the finger
 
 <!-- vault-enrichment:start -->
 ## Related

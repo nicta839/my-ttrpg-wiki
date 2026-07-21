@@ -21,6 +21,10 @@ related: []
 ## Complete index
 <!-- curated-index:end -->
 
+<!-- wiki-explore:start -->
+<div class="relation-explorer" data-scope="current"></div>
+<!-- wiki-explore:end -->
+
 <!-- vault-folder-index:start -->
 
 <!-- vault-folder-index:end -->

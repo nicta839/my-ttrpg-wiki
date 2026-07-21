@@ -88,6 +88,10 @@ This section started getting too large to stay just within the World-tab so I de
 </section>
 <!-- curated-index:end -->
 
+<!-- wiki-explore:start -->
+<div class="relation-explorer" data-scope="current"></div>
+<!-- wiki-explore:end -->
+
 <!-- vault-folder-index:start -->
 ## Folders
 

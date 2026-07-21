@@ -42,7 +42,7 @@ Food: Lots of game, fish and roots cooked in stews.
 Lifestyle: The people of this land live mostly isolated from the rest of the world. They fish, farm and hunt for their food. The dangerous animals that inhabit the plain usually prevent them from straying far from towns. They are people of few words.
 
 
-- Mount Tiulasa: Impossibly tall and steep peak that erupted from the ground at a time forgotten from any living memory. It is a location of pilgrimmage for the devout who go there to meditate after braving the plains and the ascension of the peak.
+- Mount Tiulasa: Impossibly tall and steep peak that erupted from the ground at a time forgotten from any living memory. It is a location of pilgrimage for the devout who go there to meditate after braving the plains and the ascension of the peak.
 
 - Bruluxus: Small fishing village that sometimes have brave young people head to Advena to seek fortune and adventure.
 
@@ -52,7 +52,7 @@ Lifestyle: The people of this land live mostly isolated from the rest of the wor
 
 - Jothim: Fishing village that enjoys the relative safety of fishing within the boundaries of its bay and trade with Bruluxus
 
-- The Corrupted Tavik: Once the only mountain city of this island, Tavik has now fallen to a strange plague. Noone has threaded the road to Tavik in years and the dead fish in the bay of the Bitter Stream attest of the continuing hanging ominousness of the location.
+- The Corrupted Tavik: Once the only mountain city of this island, Tavik has now fallen to a strange plague. No one has threaded the road to Tavik in years and the dead fish in the bay of the Bitter Stream attest of the continuing hanging ominousness of the location.
 
 <!-- vault-enrichment:start -->
 ## Related

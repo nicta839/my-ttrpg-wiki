@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: "Andvar: Notorious knight who faught alone against overwhelming odds. They are the embodiement of courage and determination."
+description: "Andvar: Notorious knight who fought alone against overwhelming odds. They are the embodiment of courage and determination."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials and Saints
@@ -17,7 +17,7 @@ related:
   - settings/Aylbyia/Regions/The Older Brothers
 ---
 
-Andvar: Notorious knight who faught alone against overwhelming odds. They are the embodiement of courage and determination.
+Andvar: Notorious knight who fought alone against overwhelming odds. They are the embodiment of courage and determination.
 
 <!-- vault-enrichment:start -->
 ## Related

@@ -27,7 +27,7 @@ Ueli's Tower is a named tower landmark on the [[settings/Tales of Fate/Maps/inde
 
 Time skip: the party goes to [[settings/Tales of Fate/Settlements/Barathia|Barathia]] to stock up on items and magic items before heading to Ueli's tower
 
-In the tower, the group discovers the extend of Ueli's craft: botched epxeriments, living spells, a luxurious bedroom with a bed of hay, an astrolabe that can peer into the exterior of the Universe, extensive research into necromancy, enchantement and talk of a powerful necromantic energy signature appearing.
+In the tower, the group discovers the extent of Ueli's craft: botched experiments, living spells, a luxurious bedroom with a bed of hay, an astrolabe that can peer into the exterior of the Universe, extensive research into necromancy, enchantment and talk of a powerful necromantic energy signature appearing.
 
 They continue until faced with some kind of guardian construct
 
@@ -37,7 +37,7 @@ The group cures a diseased salamander and discover the device powering the forge
 
 Ueli explains that Orso is actually Nathaniel and is responsible for everything. The reactivation of the Hand, the crusades and every conflict imaginable. Ueli tried to outsmart him but was ultimately slayed and brought back as a lich. He was able to protect himself by binding his soul. However, he guesses that Ueli enforced a powerful enchantment over his body, split Ueli's soul and has the pieces contained/protected inside reanimated dragons. Noita receives the key to the tower and the heartfelt pride of her master. Her enchantment magic might be the only thing that would allow the mortals to sruvive the onslaught of the undead.
 
-The group is resolute to take control of the tower and go foward.
+The group is resolute to take control of the tower and go forward.
 
 <!-- vault-enrichment:start -->
 ## Related

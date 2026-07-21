@@ -45,6 +45,15 @@ related:
   </div>
 <!-- portal-meta:end -->
 
+<!-- wiki-explore:start -->
+<section class="wiki-explore-shell">
+  <div class="random-discovery" data-scope="setting" data-setting="Aylbyia"></div>
+  <div class="atlas-explorer" data-setting="Aylbyia" data-compact="true"></div>
+  <div class="timeline-explorer" data-setting="Aylbyia" data-compact="true"></div>
+  <div class="relation-explorer" data-scope="current"></div>
+</section>
+<!-- wiki-explore:end -->
+
   <div class="portal-section-heading">
     <p class="portal-kicker">Explore Aylbyia</p>
     <h2>Indexes and anchors</h2>
@@ -57,7 +66,7 @@ related:
     <a class="portal-card" href="settings/Aylbyia/Settlements/index"><span class="portal-card-kicker">Places</span><strong>Settlements</strong><span>Cities, towers, ports, castles, and smaller local anchors.</span></a>
     <a class="portal-card" href="settings/Aylbyia/Cosmology/index"><span class="portal-card-kicker">Metaphysics</span><strong>Cosmology</strong><span>Gods, magic, planes, saints, celestials, and supernatural laws.</span></a>
     <a class="portal-card" href="settings/Aylbyia/Society/index"><span class="portal-card-kicker">People</span><strong>Society</strong><span>Languages, ancestries, materials, customs, and social structure.</span></a>
-    <a class="portal-card" href="settings/Aylbyia/Factions/index"><span class="portal-card-kicker">Power</span><strong>Factions</strong><span>Kingdoms, churches, peoples, houses, threats, and political blocs.</span></a>
+    <a class="portal-card" href="settings/Aylbyia/Factions/index"><span class="portal-card-kicker">Power</span><strong>Factions</strong><span>Kingdoms, churches, peoples, houses, threats, and political blocks.</span></a>
     <a class="portal-card" href="settings/Aylbyia/Organizations/index"><span class="portal-card-kicker">Groups</span><strong>Organizations</strong><span>Guilds, councils, companies, orders, masks, coins, and hidden hands.</span></a>
     <a class="portal-card" href="settings/Aylbyia/NPCs/index"><span class="portal-card-kicker">Cast</span><strong>NPCs</strong><span>Named figures connected to houses, kingdoms, queendoms, and campaigns.</span></a>
     <a class="portal-card" href="settings/Aylbyia/Mysteries/index"><span class="portal-card-kicker">Unknowns</span><strong>Mysteries</strong><span>Open questions and strange elements waiting for the table.</span></a>

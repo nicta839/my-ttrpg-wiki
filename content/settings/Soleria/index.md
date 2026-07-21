@@ -41,6 +41,14 @@ related:
   </div>
 <!-- portal-meta:end -->
 
+<!-- wiki-explore:start -->
+<section class="wiki-explore-shell">
+  <div class="random-discovery" data-scope="setting" data-setting="Soleria"></div>
+  <div class="atlas-explorer" data-setting="Soleria" data-compact="true"></div>
+  <div class="relation-explorer" data-scope="current"></div>
+</section>
+<!-- wiki-explore:end -->
+
   <div class="portal-section-heading">
     <p class="portal-kicker">Explore Soleria</p>
     <h2>Kingdom, war, and corruption</h2>

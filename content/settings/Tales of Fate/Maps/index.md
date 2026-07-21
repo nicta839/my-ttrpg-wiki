@@ -32,6 +32,13 @@ classes:
   - tales-world-map
 ```
 
+<!-- wiki-explore:start -->
+<section class="wiki-explore-shell">
+  <div class="atlas-explorer" data-setting="Tales of Fate"></div>
+  <div class="relation-explorer" data-scope="current"></div>
+</section>
+<!-- wiki-explore:end -->
+
 <!-- map-marker-links:start -->
 ## Mapped locations
 

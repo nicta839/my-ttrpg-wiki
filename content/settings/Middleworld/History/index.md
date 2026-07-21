@@ -17,6 +17,19 @@ related:
 
 # History
 
+```wiki-timeline
+source: current
+variant: frise
+density: clustered
+```
+
+<!-- wiki-explore:start -->
+<section class="wiki-explore-shell">
+  <div class="relation-explorer" data-scope="current"></div>
+</section>
+<!-- wiki-explore:end -->
+
+
 - -500
   - [[settings/Middleworld/Factions/Vallios|Vallios]] rediscovered and rebuilt by Western Factions
 - -300
@@ -34,7 +47,7 @@ related:
   - Spreading of [[settings/Middleworld/Society/The Empire|the Empire]]
   - Ilorains fall to the Empire
   - The [[settings/Middleworld/Factions/Varesh|Varesh]] map the south of the continent and the outskirts of the Jungle to the West
-  - Vallios becomes the seat of diplomatic exchange and negociations
+  - Vallios becomes the seat of diplomatic exchange and negotiations
 - 200
   - Great battles of [[settings/Middleworld/Regions/The Singing Plains|the Singing plains]]
   - Iskara and Vesna become Empire territory

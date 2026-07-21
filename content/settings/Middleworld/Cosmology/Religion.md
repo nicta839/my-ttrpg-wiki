@@ -16,7 +16,7 @@ related:
   - settings/Middleworld/Society/The Empire
 ---
 
-There is an understanding that some Gods are newer than others. Something about cycles, difficult to peer through. When one dies, the soul departs on a journey guided by Light and then the soul may choose to be dissipated and forgotten or fuel the Gods so that they may be empowered to keep on guiding the people. The process of creation of new souls is unknown. Maybe we are reborn? Maybe new souls crystalize in us? Maybe the Gods push into us the material necessary to make up a soul?
+There is an understanding that some Gods are newer than others. Something about cycles, difficult to peer through. When one dies, the soul departs on a journey guided by Light and then the soul may choose to be dissipated and forgotten or fuel the Gods so that they may be empowered to keep on guiding the people. The process of creation of new souls is unknown. Maybe we are reborn? Maybe new souls crystallize in us? Maybe the Gods push into us the material necessary to make up a soul?
 
 - [[settings/Middleworld/Factions/Vallios|Vallios]] Pantheon Archivist, footnotes scribbled in the 2nd edition of "On Gods and the Afterlife"
 

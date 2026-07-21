@@ -36,11 +36,11 @@ Episode 2: Peril in the well
 
 The party finds some information about an ancient order called the [[settings/Tales of Fate/Organizations/Delian Order|Delian Order]] who were bound to protect the world and followed a religion with many similarities to those in place in the world.
 
-They also learn that there are 3 artifacts of legend (illusion, divination and necromancy). Most knowledge of these artifacts seem to have vanished fromt the world.
+They also learn that there are 3 artifacts of legend (illusion, divination and necromancy). Most knowledge of these artifacts seem to have vanished from the world.
 
-800 years ago a momentus event changed the [[settings/Tales of Fate/Organizations/Council of Great Wizards|Council of the Great Wizards]] and caused Ueli to flee Grimbergen.
+800 years ago a momentous event changed the [[settings/Tales of Fate/Organizations/Council of Great Wizards|Council of the Great Wizards]] and caused Ueli to flee Grimbergen.
 
-The group decides that it is time to make some money to buy equipment to better prepare their trip to Grimbergen. They decide to help out the town by investigating the change in taste of the water coming from the well. In doing so, they are faced with rust monster that miss destroying the party's metallic equipment. The dangerous foes are vanquished, but what is worrying is that they would not have come this high up without something chaing them.
+The group decides that it is time to make some money to buy equipment to better prepare their trip to Grimbergen. They decide to help out the town by investigating the change in taste of the water coming from the well. In doing so, they are faced with rust monster that miss destroying the party's metallic equipment. The dangerous foes are vanquished, but what is worrying is that they would not have come this high up without something chain them.
 
 The party ventures deeper and now have to face a gelatinous cube! They vanquish it by the skin of their teeth. An unconscious Anoin hears a  voice telling him that it is not yet time for him to fall.
 
@@ -48,11 +48,11 @@ The party heads back to the safety of the surface and enjoy the reward of their 
 
 Episode 3: Flames of change and chaos
 
-Tipped bythe mayor, the party investigate the nearby mountains for goblin infestation. They ambush a patrol and get a prisonner to guide them towards the place the goblins have holed themselves into.
+Tipped by the mayor, the party investigate the nearby mountains for goblin infestation. They ambush a patrol and get a prisoner to guide them towards the place the goblins have holed themselves into.
 
 The group finds a tomb dedicated to this Delian Order…there is an ogre in front of the entrance. A quick thinking and powerful suggestion spell of Noita enables the group to overcome this obstacle while they head into the tomb. A fight rapidly ensues with the bugbears and goblins within. After a few foes are eliminated, the party manages to scare off the remaining goblins and can rest before continuing and investigating this tomb.
 
-They find traps and a riddle that demands they speak the Delian oath if they are to have access to the secret lore of this order. As tehy step into the tomb of sextus varius, they are tested once more by 4 ghosts. Once the battle is over, the party talks to the Ghost of Sextus Varius about the undead, the three artifacts and the task undertaken by the order. They are to find the three artifacts and make them once more forgotten from the world before someone with nefarious intent uses them for their own needs. Kissa is in posession of the Divine Eye The group picks up some sweet loot and head back towards Pelfort.
+They find traps and a riddle that demands they speak the Delian oath if they are to have access to the secret lore of this order. As they step into the tomb of sextus various, they are tested once more by 4 ghosts. Once the battle is over, the party talks to the Ghost of Sextus Various about the undead, the three artifacts and the task undertaken by the order. They are to find the three artifacts and make them once more forgotten from the world before someone with nefarious intent uses them for their own needs. Kissa is in possession of the Divine Eye The group picks up some sweet loot and head back towards Pelfort.
 
 On their way back, they are surprised by a thunderstorm. It seems unnatural, Noita's familiar informs them that the army of undead have arrived and that the two scouts sent by anthony precede the horde by an hour at most. The party heads towards the town, helping the villagers escape as fast as they can. A group of templar knights of the [[settings/Tales of Fate/Organizations/Church of Spiral|Spiral Church]] are buying as much time as they can at a choke point.
 
@@ -80,13 +80,13 @@ Things that the party has to do:
 
 Episode 5: Witches and deals
 
-After a night's rest, the party gathers materials and heads for the forest to get their friend Nina as well as. They find a strange hut with a painting of two young beautiful woemn doing some strange things. The group is confronted by one of the witches who propose them to strike a deal. "No way, amigo!" says the party as they attack her. She vanishes and lets her minions try to destroy the party. After a timely call to the light by a guardian angel of Anoin, the tide of battle shifts and the party is able to barely destroy their enemies. Wounded and isolated in enemy territory, the party must make now make a diffcult choice.
+After a night's rest, the party gathers materials and heads for the forest to get their friend Nina as well as. They find a strange hut with a painting of two young beautiful women doing some strange things. The group is confronted by one of the witches who propose them to strike a deal. "No way, amigo!" says the party as they attack her. She vanishes and lets her minions try to destroy the party. After a timely call to the light by a guardian angel of Anoin, the tide of battle shifts and the party is able to barely destroy their enemies. Wounded and isolated in enemy territory, the party must make now make a difficult choice.
 
 Episode 6: The Library
 
-To make a deal or not? This is where the party is at. Seeing that they may gain more from this, the party finally decides to call out the witches and propose a deal to them. They will retrieve a mirror from the "Library". It is a repository of all knowledge of the universe. They must also temporarily pay for with one of Noita's eyes and a flock of hair from Anoin. As Noita attempts to bravely cast a spell on a witch, she is cursed to loose all her hair. The party gets Nina back from the witches and head into a portal towards the Library.
+To make a deal or not? This is where the party is at. Seeing that they may gain more from this, the party finally decides to call out the witches and propose a deal to them. They will retrieve a mirror from the "Library". It is a repository of all knowledge of the universe. They must also temporarily pay for with one of Noita's eyes and a lock of hair from Anoin. As Noita attempts to bravely cast a spell on a witch, she is cursed to lose all her hair. The party gets Nina back from the witches and head into a portal towards the Library.
 
-On this desertic new plane the party arrives at, the unmoving sun beats against their skin and fur as they make their way towards a gigantic tower. This must be the library. They decide to climb the tower in order to find a way in. Inside, they are met with the Librarian: a gigantic owl that speaks to them of times past, an unwlecome guest and his distaste for simple minded mortals. He is ready to offer them a chance to get answers to their questions. They are not free to get though. They must first solve a series of riddles and pass trials.
+On this desert-like new plane the party arrives at, the unmoving sun beats against their skin and fur as they make their way towards a gigantic tower. This must be the library. They decide to climb the tower in order to find a way in. Inside, they are met with the Librarian: a gigantic owl that speaks to them of times past, an unwelcome guest and his distaste for simple minded mortals. He is ready to offer them a chance to get answers to their questions. They are not free to get though. They must first solve a series of riddles and pass trials.
 
 Questions that the party wants answered:
 

@@ -57,7 +57,7 @@ Important locations
 
 - Kingsport: Port city that is looking to use the wood from the eldergrove to get the upperhand on the competition with Passabel.
 
-- Eltegrove: Grove of pilgrimmage for druids. It has significance in the belief that night gives way to day thanks to their ritual.
+- Eltegrove: Grove of pilgrimage for druids. It has significance in the belief that night gives way to day thanks to their ritual.
 
 - Kynslia: Small village of druids who keep the grove and surrounding forest.
 

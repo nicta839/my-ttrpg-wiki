@@ -35,6 +35,13 @@ related:
   </div>
 <!-- portal-meta:end -->
 
+<!-- wiki-explore:start -->
+<section class="wiki-explore-shell">
+  <div class="random-discovery" data-scope="setting" data-setting="In the Ashes"></div>
+  <div class="relation-explorer" data-scope="current"></div>
+</section>
+<!-- wiki-explore:end -->
+
   <div class="portal-section-heading">
     <p class="portal-kicker">Explore In the Ashes</p>
     <h2>Rule the recovery</h2>

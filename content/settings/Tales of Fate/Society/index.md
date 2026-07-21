@@ -30,6 +30,10 @@ What we learn about the people and the culture of the places the party goes in.
 </section>
 <!-- curated-index:end -->
 
+<!-- wiki-explore:start -->
+<div class="relation-explorer" data-scope="current"></div>
+<!-- wiki-explore:end -->
+
 <!-- vault-folder-index:start -->
 ## Pages
 

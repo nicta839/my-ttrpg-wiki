@@ -47,7 +47,7 @@ Weakened by the exertion of magicks required to accomplish such a feat, Corellon
 
 # Establishment of the Empire
 
-The mighty forces of the Empire of Shuraz came to the Prime material plane 3 Yellow Star cycles ago (about 1 millenium). They set out to pacify the mortal races of the plane, drove back the barbaric humans, the cunning gnomes, the stoic dwarves and the wretched orcs.
+The mighty forces of the Empire of Shuraz came to the Prime material plane 3 Yellow Star cycles ago (about 1 millennium). They set out to pacify the mortal races of the plane, drove back the barbaric humans, the cunning gnomes, the stoic dwarves and the wretched orcs.
 
 The orcs proved difficult to deal with but were eventually wiped out mostly and pushed back North in the jungle forests. The remaining races needed guidance to be brought into the righteous light of Corellon and the Seldarine pantheon.
 
@@ -88,6 +88,10 @@ If they are right though... No, I shall continue banishing these heretical thoug
   </div>
 </section>
 <!-- curated-index:end -->
+
+<!-- wiki-explore:start -->
+<div class="relation-explorer" data-scope="current"></div>
+<!-- wiki-explore:end -->
 
 <!-- vault-folder-index:start -->
 ## Pages

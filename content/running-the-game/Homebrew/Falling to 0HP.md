@@ -144,7 +144,7 @@ Very Severe: lasts 1d10 weeks
 
 20. A Fighting Chance - no effect
 
-We can add additional tools for you to thwart the effects of these injuries: healer feat with more benefitial effects such as helping reduce medicine check DCs and helping cure/reduce up to major injuries, adding additonal spells such as "cure minor injury" and "cure major injury" and potions specifically geared towards healing injuries and not HP and as such increase the value of herbalism kit proficiencies and the like.
+We can add additional tools for you to thwart the effects of these injuries: healer feat with more beneficial effects such as helping reduce medicine check DCs and helping cure/reduce up to major injuries, adding additional spells such as "cure minor injury" and "cure major injury" and potions specifically geared towards healing injuries and not HP and as such increase the value of herbalism kit proficiencies and the like.
 
 <!-- vault-enrichment:start -->
 ## Related

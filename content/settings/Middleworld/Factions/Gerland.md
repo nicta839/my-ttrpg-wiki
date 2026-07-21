@@ -8,14 +8,14 @@ tags:
 onenote_source: Worldbuilding 2/Factions/Gerland
 category: Factions
 visibility: public
-description: Grainery of the bay. On the forefront of the war, they sent many soldiers to fight. They are stubborn and honest folk who do not shy away from work while leading a simple life.
+description: Granary of the bay. On the forefront of the war, they sent many soldiers to fight. They are stubborn and honest folk who do not shy away from work while leading a simple life.
 related:
   - settings/Middleworld/Factions/index
   - settings/Middleworld/index
   - settings/Middleworld/Maps/index
 ---
 
-Grainery of the bay. On the forefront of the war, they sent many soldiers to fight. They are stubborn and honest folk who do not shy away from work while leading a simple life.
+Granary of the bay. On the forefront of the war, they sent many soldiers to fight. They are stubborn and honest folk who do not shy away from work while leading a simple life.
 
 <!-- onenote-media:start -->
 > [!onenote-hero]

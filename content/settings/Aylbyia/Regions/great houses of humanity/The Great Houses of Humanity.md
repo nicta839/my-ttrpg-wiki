@@ -45,7 +45,7 @@ Lifestyle: Blessed by good weather, the commoners of this place take each day on
 
 - The Coral Rooks: Seat of the Coral House
 
-- Carinhold: Ancient castle now abandonned but the surrounding lands are being used for agriculture
+- Carinhold: Ancient castle now abandoned but the surrounding lands are being used for agriculture
 
 - Sarmenhall: Lesser temple of the Church
 

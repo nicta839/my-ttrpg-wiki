@@ -41,6 +41,15 @@ related:
   </div>
 <!-- portal-meta:end -->
 
+<!-- wiki-explore:start -->
+<section class="wiki-explore-shell">
+  <div class="random-discovery" data-scope="setting" data-setting="Middleworld"></div>
+  <div class="atlas-explorer" data-setting="Middleworld" data-compact="true"></div>
+  <div class="timeline-explorer" data-setting="Middleworld" data-compact="true"></div>
+  <div class="relation-explorer" data-scope="current"></div>
+</section>
+<!-- wiki-explore:end -->
+
   <div class="portal-section-heading">
     <p class="portal-kicker">Explore Middleworld</p>
     <h2>Empire, curse, and renewal</h2>

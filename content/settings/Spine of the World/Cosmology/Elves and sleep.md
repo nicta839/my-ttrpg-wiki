@@ -18,7 +18,7 @@ Elves cannot sleep. They are gifted with being sparred the burden of reliving th
 
 Information only privy to the party:
 
-A potion can be concocted to allow elves to dream. One was found in the Old Lady of the Forest's house, the other method is acceptingthe beverage of the Spider Queen as stated by an eladrin prisonner before his execution.
+A potion can be concocted to allow elves to dream. One was found in the Old Lady of the Forest's house, the other method is accepting the beverage of the Spider Queen as stated by an eladrin prisoner before his execution.
 
 Once allowed to dream, an elf may choose to dream or not. They are no longer immune to the sleep spell.
 

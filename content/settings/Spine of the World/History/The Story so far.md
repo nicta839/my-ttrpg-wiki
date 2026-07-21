@@ -87,11 +87,11 @@ related:
 - The party splits to prepare for Hrothgar's trial.
 - Callie helps out healing people while Salix tries to get more information about the Goldfoot, Kastryd finds a lead towards the vault of the Axekeepers, Dolgrim recovers a the clan brooch of Knute on his own.
 - Kastryd gives the Mithrilchest items of value in exchange for them pushing their weight around so that Hrothgar may have a fair trial. Dolgrim has spread the truth about what happened to Knute in the Cinderstride Way.
-- Callie learns of Una's feelings for Hrothgar, Salix gets the people hyped up for Hrothgar. The group is interrupted by Axekeeper "police" supressing local discontent meetings. They are aiming for the Kuldahar outsiders under this guise
+- Callie learns of Una's feelings for Hrothgar, Salix gets the people hyped up for Hrothgar. The group is interrupted by Axekeeper "police" suppressing local discontent meetings. They are aiming for the Kuldahar outsiders under this guise
 - Salix gets arrested, the party heads for the prison to talk to both Hrothgar and Salix before their impending trial.
 - The party talk to Hrothgar and Salix on the eve of the trial. Hrothgar's resolve seems to form after Dolgrimm talks about duty and things promised.
 - The party insures salix's slap on the wrist sentence.
-- Hrothgar gains a new Stonefang clan and vows to help dwarves everywhere to stop loosing what is theirs.
+- Hrothgar gains a new Stonefang clan and vows to help dwarves everywhere to stop losing what is theirs.
 - The party defuses the situation and prepares to head to Umdrumkaz'ad.
 
 Season 6: Umdrumkaz'ad
@@ -119,7 +119,7 @@ Season 6: Umdrumkaz'ad
 Season 7: Back home
 
 - The party spends a month on the road moving towards Lugard. Salix carries a scroll telling that the dwarves are beaking off from the empire.
-- On the way, Dolgrim shivers and hears voice in the wind. Shaking him to the core, the distorted voice of Hrothgar comes. It is clear but deeper. The moutain has been freed, the children of the earth are freed, they are called back home to rebuild and take shelter against the storm to come.
+- On the way, Dolgrim shivers and hears voice in the wind. Shaking him to the core, the distorted voice of Hrothgar comes. It is clear but deeper. The mountain has been freed, the children of the earth are freed, they are called back home to rebuild and take shelter against the storm to come.
 - Caravans of dwarves are seen on the road, headed in the direction the party came from.
 - The three arrive in Lugard. A weird space distortion is afoot. All those who can cast spells can feel it. Something has taken a hold of the Weave in this place. This effect intensifies as the party heads for the military camp where an army is being levied.
 - Dolgrim and Salix head into the tent, Callie waits outside
@@ -154,7 +154,7 @@ Season 8: Shadowfell
 - The group parleys with the woman and learn that she is waiting for her husband to come back to her from the other side of a portal that she guards.
 - The group goes into the portal and find themselves in a desert battered by a sandstorm
 - A siege is underway on a city that is now very much on fire
-- The group rests under one of the abandonned siege engines.
+- The group rests under one of the abandoned siege engines.
 -
 
 <!-- vault-enrichment:start -->

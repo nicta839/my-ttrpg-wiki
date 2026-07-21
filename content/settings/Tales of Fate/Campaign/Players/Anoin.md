@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/Players/Anoin
 category: Campaign
 visibility: public
-description: Crusade veteran, he was foretold of a great future in which he will have a crucial part ot play.
+description: Crusade veteran, he was foretold of a great future in which he will have a crucial part to play.
 related:
   - settings/Tales of Fate/Campaign/Players/index
   - settings/Tales of Fate/index
@@ -20,7 +20,7 @@ related:
   - settings/Tales of Fate/Settlements/Pelfort
 ---
 
-Crusade veteran, he was foretold of a great future in which he will have a crucial part ot play.
+Crusade veteran, he was foretold of a great future in which he will have a crucial part to play.
 
 <!-- onenote-media:start -->
 > [!onenote-hero]
@@ -34,7 +34,7 @@ Fortune reading: Wheel of fortune (inverted) an omen of bad luck, failure and ut
 
 Orphan raised in the monastery by [[settings/Tales of Fate/NPCs/Anthony|Anthony]]. Left at the door
 
-Oprhans from [[settings/Tales of Fate/Settlements/Pelfort|Pelfort]]: Nina
+Orphans from [[settings/Tales of Fate/Settlements/Pelfort|Pelfort]]: Nina
 
 Knight of the [[settings/Tales of Fate/Organizations/Delian Order|Delian Order]], has the axe called Dawn
 

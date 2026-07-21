@@ -25,7 +25,7 @@ A patch of land with an unusually warm climate. The obelisks that dot this part 
 > [![meridios](../../../assets/middleworld/meridios/meridios-eedbc20fad-1600.webp)](../../../assets/middleworld/meridios/meridios-eedbc20fad-full.webp)
 <!-- onenote-media:end -->
 
-The people living in this part of the world live in a self sustaining environment and hear little from the outside world. Some scholars come here to study these obelisks, others come here to make a pilgrimmage through roads and ferryways that allow for travel through this area.
+The people living in this part of the world live in a self sustaining environment and hear little from the outside world. Some scholars come here to study these obelisks, others come here to make a pilgrimage through roads and ferryways that allow for travel through this area.
 
 This area should be ruled by a king, but their bloodline has run out a long time ago.
 

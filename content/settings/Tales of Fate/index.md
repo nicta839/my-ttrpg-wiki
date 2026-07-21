@@ -41,6 +41,14 @@ related:
   </div>
 <!-- portal-meta:end -->
 
+<!-- wiki-explore:start -->
+<section class="wiki-explore-shell">
+  <div class="random-discovery" data-scope="setting" data-setting="Tales of Fate"></div>
+  <div class="atlas-explorer" data-setting="Tales of Fate" data-compact="true"></div>
+  <div class="relation-explorer" data-scope="current"></div>
+</section>
+<!-- wiki-explore:end -->
+
   <div class="portal-section-heading">
     <p class="portal-kicker">Explore Tales of Fate</p>
     <h2>Seasons, heroes, and places</h2>

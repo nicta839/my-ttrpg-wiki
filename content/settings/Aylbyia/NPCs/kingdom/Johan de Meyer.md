@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: "King Johan de Meyer: Leader of The Platsmoor Kingdom. Seems straigthforward and tends to hide his tactical mind behind the outward appearance of his handicap."
+description: "King Johan de Meyer: Leader of The Platsmoor Kingdom. Seems straightforward and tends to hide his tactical mind behind the outward appearance of his handicap."
 related:
   - settings/Aylbyia/NPCs/kingdom/index
   - settings/Aylbyia/index
@@ -16,7 +16,7 @@ related:
   - settings/Aylbyia/Regions/The Platsmoor
 ---
 
-King Johan de Meyer: Leader of [[settings/Aylbyia/Regions/The Platsmoor|The Platsmoor]] [[settings/Aylbyia/Factions/Kingdom|Kingdom]]. Seems straigthforward and tends to hide his tactical mind behind the outward appearance of his handicap.
+King Johan de Meyer: Leader of [[settings/Aylbyia/Regions/The Platsmoor|The Platsmoor]] [[settings/Aylbyia/Factions/Kingdom|Kingdom]]. Seems straightforward and tends to hide his tactical mind behind the outward appearance of his handicap.
 
 <!-- vault-enrichment:start -->
 ## Related

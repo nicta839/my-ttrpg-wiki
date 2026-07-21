@@ -27,7 +27,7 @@ Fractured people after the loss of their last queen to an assassin. The royal bl
 
 The tunnels of the mountains are now filled with elementals, [[settings/Spine of the World/Factions/The Drow|drow]] and devils. The city of Umdrummkaz'ad was lost after an uprising of elementals deeper in the mountain.
 
-** Information the party posesses**
+** Information the party possesses**
 
 - It seems Hrothgar is the last rightful heir to the throne. Unwilling and ashamed of his past actions, his time away from the dwarves might prove to be either an asset or a hindrance if the party is to do something about it.
 - The Drow are making Uke in the depths, are somehow involved with the plans of some devil

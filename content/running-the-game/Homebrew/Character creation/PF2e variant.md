@@ -14,7 +14,7 @@ related:
 
 This is a variant on character creation inspired by the one used in Pathfinder second edition. It gets rid of stat rolling or using an array to shape what you want how you want it by giving more importance to things like class chosen and background.
 
-Possible charater creation process to be decided during session 0
+Possible character creation process to be decided during session 0
 
 With the recent discourse around rolling for stats in various editions of D&D, I'm increasingly driven to consider alternate methods of ability score generation. I've tried 4d6, 4d6 with rerolls, 24d6 assigned, 2d6+6, 27 point buy, and 32 point buy, but there's always something lacking. Rolled stats usually result in one player being gimped, and the point buy systems still pressure one towards certain class and race combos.
 
@@ -148,7 +148,7 @@ Mephistopheles: +2 INT, -2 CON, mage hand, burning hands, flame blade
 
 Zariel: +2 STR, -2 INT, thaumaturgy, searing smite, branding smite
 
-Additionally, there's an optinal rule one can use here. You may take an additional -2 and -1 penalty to ability scores to gain an extra +2 boost to a score of your choice. Remember, you can't have a score lower than 8 or higher than 12 after you've done this.
+Additionally, there's an optional rule one can use here. You may take an additional -2 and -1 penalty to ability scores to gain an extra +2 boost to a score of your choice. Remember, you can't have a score lower than 8 or higher than 12 after you've done this.
 
 Step Two: Background:
 

@@ -17,6 +17,12 @@ related:
   - settings/Tales of Fate/Campaign/Players/Kissa
   - settings/Tales of Fate/Organizations/Council of Great Wizards
 ---
+```wiki-timeline
+source: current
+variant: frise
+density: clustered
+```
+
 
 The [[settings/Tales of Fate/Organizations/Delian Order|Delian Order]] fought death and served life. They hid the trinity artifacts from the world and disappeared.
 

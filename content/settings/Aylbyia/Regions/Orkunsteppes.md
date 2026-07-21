@@ -36,7 +36,7 @@ Region Flavor: Untamed land except for a select few cities, the whole region has
 
 Geography: Tall grasslands, dry with bouts of heavy rainfall. Currently under a persistent giant unmoving dark cloud.
 
-Clothing: Tall boots that prevent snakebites, the [[settings/Aylbyia/Society/Ancestries/Orcs|orcs]] seen wear gear that is very practical for rapid movement and riding. Deep baryton tunes and bass rythmic and repetitive sounds.
+Clothing: Tall boots that prevent snakebites, the [[settings/Aylbyia/Society/Ancestries/Orcs|orcs]] seen wear gear that is very practical for rapid movement and riding. Deep baryton tunes and bass rhythmic and repetitive sounds.
 
 Art: Paintings using earthy colors. They always depict intricate geometric shapes. The technique for producing these paintings is not understood.
 

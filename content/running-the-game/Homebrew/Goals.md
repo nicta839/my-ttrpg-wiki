@@ -27,14 +27,14 @@ Make up a sentence that establishes your relationship (bond) with members of you
 - ____ Does not trust me, and for good reason
 - ____ is in constant danger, I will keep them safe.
 - The spirits spoke to me of a great danger that follows ____
-- ___ owes me their life, wether they admit it or not.
+- ___ owes me their life, whether they admit it or not.
 - ___ is soft but I will make them hard like me.
 - I will teach ___ the true meaning of sacrifice.
 - ___ has stood by me in battle and can be trusted completely
 - I respect the beliefs of ___ . I hope they will someday see the true way.
 - ____ Has my back when things go wrong.
 - I want to discover a secret of the Library of the Mages
-- I want to be aknowledged by the villagers as a trustworthy individual.
+- I want to be acknowledged by the villagers as a trustworthy individual.
 
 Note these down on your character sheet. You can have up to 3 bonds on your sheet. The bonds needn't be about different people.
 

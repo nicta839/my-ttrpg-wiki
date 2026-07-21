@@ -43,7 +43,7 @@ Politics: Currently rules over the desert areas, [[settings/Aylbyia/Regions/The 
 
 Shadow activities: Inquisitions and political elimination through slandering
 
-All noble women are blessed with twice the normal lifespan of a human. They do a pilgrimmage once a year to the [[settings/Aylbyia/Factions/Churches/Church of the Flame|Church of the Flame]] to perpetuate their blessing and as a sign of reverence to the church.
+All noble women are blessed with twice the normal lifespan of a human. They do a pilgrimage once a year to the [[settings/Aylbyia/Factions/Churches/Church of the Flame|Church of the Flame]] to perpetuate their blessing and as a sign of reverence to the church.
 
 NPCs:
 

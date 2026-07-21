@@ -24,9 +24,9 @@ The ritual requires the soul of the dead creature to be willing and you to sacri
 
 If you wish to participate in the ritual, you must show a meaningful gesture towards the fallen. This can be a moving speech, a call-back to something you have done together, a call to something that still needs to be done, presenting an item of sentimental value as an offering or calling directly to higher powers.
 
-The DM will then ask you to roll a certain skill check. This will reduce the resurrection DC by 2 if it's a success. The DC to succeed on the skill check depends on the gesture (calling your god buddies "cunts" because they let their warrior fall is a difficult check, having tears well up when looking at the teddy bear of the fallen character's brother who is now imprisonned in the Evil Guy's dungeon and calling out to get back here to help the party save the brother is an easy check.)
+The DM will then ask you to roll a certain skill check. This will reduce the resurrection DC by 2 if it's a success. The DC to succeed on the skill check depends on the gesture (calling your god buddies "cunts" because they let their warrior fall is a difficult check, having tears well up when looking at the teddy bear of the fallen character's brother who is now imprisoned in the Evil Guy's dungeon and calling out to get back here to help the party save the brother is an easy check.)
 
-Ressurection DC
+Resurrection DC
 
 The base DC for the resurrection starts at 10 for everybody. For each consecutive deaths, the DC is increased by 2. When the moment comes, the DM rolls a d20. If the roll is equal or higher than the resurrection DC, the player character is revived, else the ritual fails and death finally can claim its prize
 

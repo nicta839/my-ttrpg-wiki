@@ -31,6 +31,10 @@ A plaza was created to have all the different zealots argue between each other a
 </section>
 <!-- curated-index:end -->
 
+<!-- wiki-explore:start -->
+<div class="relation-explorer" data-scope="current"></div>
+<!-- wiki-explore:end -->
+
 <!-- vault-folder-index:start -->
 
 <!-- vault-folder-index:end -->

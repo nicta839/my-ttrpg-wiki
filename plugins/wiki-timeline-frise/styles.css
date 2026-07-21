@@ -1,0 +1,177 @@
+.wiki-timeline-frise {
+  --timeline-surface: var(--background-primary);
+  --timeline-border: var(--background-modifier-border);
+  --timeline-muted: var(--text-muted);
+  --timeline-accent: var(--interactive-accent);
+  background: var(--background-secondary);
+  border: 1px solid var(--timeline-border);
+  border-radius: 8px;
+  box-sizing: border-box;
+  display: grid;
+  gap: 0.85rem;
+  margin: 1rem 0;
+  overflow: hidden;
+  padding: 1rem;
+}
+
+.wiki-timeline-frise .wiki-explore-kicker {
+  color: var(--text-accent);
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.wiki-timeline-frise .wiki-explore-description {
+  color: var(--timeline-muted);
+  font-size: 0.92rem;
+  line-height: 1.4;
+  margin: 0;
+}
+
+.wiki-timeline-frise .timeline-controls,
+.wiki-timeline-frise .wiki-explore-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.wiki-timeline-frise .explore-chip {
+  align-items: center;
+  background: var(--timeline-surface);
+  border: 1px solid var(--timeline-border);
+  border-radius: 999px;
+  color: var(--text-normal);
+  cursor: pointer;
+  display: inline-flex;
+  font: inherit;
+  font-size: 0.84rem;
+  font-weight: 600;
+  justify-content: center;
+  min-height: 2rem;
+  padding: 0.35rem 0.68rem;
+  text-decoration: none;
+}
+
+.wiki-timeline-frise .timeline-viewport {
+  cursor: grab;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 1.5rem 0 2.6rem;
+  scrollbar-width: thin;
+}
+
+.wiki-timeline-frise .timeline-viewport.is-dragging {
+  cursor: grabbing;
+}
+
+.wiki-timeline-frise .timeline-rail {
+  height: 8rem;
+  min-width: 100%;
+  position: relative;
+}
+
+.wiki-timeline-frise .timeline-rail-line {
+  background: linear-gradient(90deg, transparent, var(--timeline-accent) 8%, var(--timeline-accent) 92%, transparent);
+  height: 3px;
+  left: 0;
+  position: absolute;
+  right: 1.5rem;
+  top: 3.7rem;
+}
+
+.wiki-timeline-frise .timeline-rail-arrow {
+  border-bottom: 8px solid transparent;
+  border-left: 14px solid var(--timeline-accent);
+  border-top: 8px solid transparent;
+  position: absolute;
+  right: 0;
+  top: calc(3.7rem - 6px);
+}
+
+.wiki-timeline-frise .timeline-pin {
+  background: transparent;
+  border: 0;
+  color: var(--text-normal);
+  cursor: pointer;
+  min-width: 5rem;
+  padding: 0;
+  position: absolute;
+  top: 2.1rem;
+  transform: translateX(-50%);
+}
+
+.wiki-timeline-frise .timeline-pin-dot {
+  background: var(--timeline-surface);
+  border: 3px solid var(--timeline-accent);
+  border-radius: 999px;
+  box-shadow: 0 0 0 4px color-mix(in srgb, var(--timeline-accent) 16%, transparent);
+  display: block;
+  height: 1rem;
+  margin: 0 auto 0.42rem;
+  width: 1rem;
+}
+
+.wiki-timeline-frise .timeline-pin-label {
+  display: block;
+  font-size: 0.82rem;
+  font-weight: 700;
+  line-height: 1.15;
+  white-space: nowrap;
+}
+
+.wiki-timeline-frise .timeline-pin-count {
+  color: var(--timeline-muted);
+  display: block;
+  font-size: 0.72rem;
+  margin-top: 0.2rem;
+}
+
+.wiki-timeline-frise .timeline-popover {
+  background: var(--timeline-surface);
+  border: 1px solid var(--timeline-border);
+  border-radius: 8px;
+  display: grid;
+  gap: 0.6rem;
+  max-height: 24rem;
+  overflow: auto;
+  padding: 0.9rem;
+}
+
+.wiki-timeline-frise .timeline-popover[hidden] {
+  display: none;
+}
+
+.wiki-timeline-frise .timeline-popover-date {
+  color: var(--text-accent);
+  font-size: 0.8rem;
+  font-weight: 700;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.wiki-timeline-frise .timeline-popover-events {
+  display: grid;
+  gap: 0.7rem;
+}
+
+.wiki-timeline-frise .timeline-popover-event {
+  border-top: 1px solid var(--timeline-border);
+  display: grid;
+  gap: 0.35rem;
+  padding-top: 0.7rem;
+}
+
+.wiki-timeline-frise .timeline-status {
+  color: var(--timeline-muted);
+  font-size: 0.82rem;
+  margin: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wiki-timeline-frise * {
+    scroll-behavior: auto !important;
+    transition: none !important;
+  }
+}

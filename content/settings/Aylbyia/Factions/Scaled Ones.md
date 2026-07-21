@@ -34,7 +34,7 @@ Mark: white dragon on teal field
 
 Honored reputation: ??
 
-Shadow reputation: Worshippers of fasle idols
+Shadow reputation: Worshippers of false idols
 
 Gain reputation by:
 

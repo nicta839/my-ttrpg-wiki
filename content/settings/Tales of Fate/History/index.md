@@ -43,6 +43,10 @@ What we learn about the [[settings/Tales of Fate/History/History of the world|hi
 </section>
 <!-- curated-index:end -->
 
+<!-- wiki-explore:start -->
+<div class="relation-explorer" data-scope="current"></div>
+<!-- wiki-explore:end -->
+
 <!-- vault-folder-index:start -->
 ## Pages
 

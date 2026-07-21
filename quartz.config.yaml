@@ -277,7 +277,7 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
-  - source: github:quartz-community/obsidian-plugin-ttrpg-tools-maps
+  - source: ./plugins/obsidian-plugin-ttrpg-tools-maps
     enabled: true
     options:
       blockLanguage: zoommap
