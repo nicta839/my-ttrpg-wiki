@@ -409,5 +409,29 @@
       "link": "settings/Middleworld/Factions/Varesh",
       "resolvedHref": "/settings/middleworld/factions/varesh"
     }
-  ]
+  ],
+  "bases": [
+    {
+      "path": "assets/middleworld/world-map/the-middleworld-309a65bbae-full.webp",
+      "name": "Middleworld Map"
+    }
+  ],
+  "activeBase": "assets/middleworld/world-map/the-middleworld-309a65bbae-full.webp",
+  "overlays": [],
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "grids": [],
+  "textLayers": [],
+  "secondScreen": {
+    "showGrids": true
+  }
 }

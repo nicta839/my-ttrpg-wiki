@@ -25,7 +25,7 @@ related:
   <div class="portal-hero portal-hero-image" style="--portal-hero-image: url('assets/aylbyia/index/cool-open-world-244aa8afac-1600.webp')">
     <p class="portal-kicker">Campaign archive</p>
     <h1>The Vault</h1>
-    <p>Worlds, maps, factions, mysteries, rules, and table references gathered into one public doorway.</p>
+    <p>Worlds, maps, factions, mysteries, rules, and table references gathered into one unified gateway. I have built this website so that I could gather my TTRPG story and the one currently being built.</p>
     <div class="portal-hero-actions">
       <a class="portal-button" href="settings/">Browse settings</a>
       <a class="portal-button portal-button-secondary" href="running-the-game/">Running the game</a>
@@ -127,7 +127,7 @@ related:
 
 - [[settings/Aylbyia/index|Aylbyia]]
 - [[settings/Godshand/index|Godshand]]
-- [[settings/In the Ashes/index|In the Ashes]]
+- [[GM-thoughts/In the Ashes/In the Ashes 1/index|In the Ashes]]
 - [[settings/Middleworld/index|Middleworld]]
 - [[settings/Soleria/index|Soleria]]
 - [[settings/Spine of the World/index|Spine of the World]]

@@ -36,7 +36,7 @@ Point of impact of tall crimson menhirs. It has now corrupted the land and some 
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
-- [[settings/Middleworld/History/Founding Myth|Founding Myth]]
+- [[GM-thoughts/Middleworld/Founding Myth|Founding Myth]]
 - [[settings/Middleworld/History/index|History]]
 - [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

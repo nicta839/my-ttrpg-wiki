@@ -92,5 +92,5 @@ density: clustered
 <!-- vault-folder-index:start -->
 ## Pages
 
-- [[settings/Middleworld/History/Founding Myth|Founding Myth]]
+- [[GM-thoughts/Middleworld/Founding Myth|Founding Myth]]
 <!-- vault-folder-index:end -->

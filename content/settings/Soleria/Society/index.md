@@ -61,5 +61,5 @@ related:
 
 - [[settings/Soleria/Society/Ancestry|Ancestry]]
 - [[settings/Soleria/Society/Language|Language]]
-- [[settings/Soleria/Society/The kingdom|The kingdom]]
+- [[settings/Soleria/Organizations/The kingdom|The kingdom]]
 <!-- vault-folder-index:end -->

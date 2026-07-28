@@ -24,7 +24,7 @@ Dwarves have been displaced to the western side of the continent, mostly in the 
 
 Elves/half elves are very few these days. Many have left this plane for another less violent. It is a one-way trip as none have come back. The ones who remain tend to Tor'Enveilun, the Ancestral Forest from which it is thought they were born or are fervent fighters in the [[settings/Soleria/Organizations/Obsidian Army|Obsidian army]] that fight Magnar's forces.
 
-Tiefling, also called Cursed-people, are the people who can trace their ancestry to the armies or bystanders who lived in the [[settings/Soleria/Regions/Map Features/Shattered Lands|Shattered Lands]] at the time of Alera's curse. These people have been asking for generations to be given a piece of land by [[settings/Soleria/Society/The kingdom|the Kingdom]] of [[settings/Soleria/index|Soleria]] in order to thrive after their service to the crown during the God War.
+Tiefling, also called Cursed-people, are the people who can trace their ancestry to the armies or bystanders who lived in the [[settings/Soleria/Regions/Map Features/Shattered Lands|Shattered Lands]] at the time of Alera's curse. These people have been asking for generations to be given a piece of land by [[settings/Soleria/Organizations/The kingdom|the Kingdom]] of [[settings/Soleria/index|Soleria]] in order to thrive after their service to the crown during the God War.
 
 Gnomes live on the eastern parts of the Kingdom. They boast the oldest structures of this continent and the local historians and clerical order posit that they are linked in a particular way to the gods.
 
@@ -50,5 +50,5 @@ Shadar-kai/drow/duergar/snirfneblin/dark human (human with mark of passage flavo
 - [[settings/Soleria/Regions/Map Features/Tempest Headlands|Tempest Headlands]]
 - [[settings/Soleria/Organizations/Obsidian Army|Obsidian Army]]
 - [[settings/Soleria/Regions/Map Features/Shattered Lands|Shattered Lands]]
-- [[settings/Soleria/Society/The kingdom|The kingdom]]
+- [[settings/Soleria/Organizations/The kingdom|The kingdom]]
 <!-- vault-enrichment:end -->

@@ -20,7 +20,7 @@ There is an understanding that some Gods are newer than others. Something about 
 
 - [[settings/Middleworld/Factions/Vallios|Vallios]] Pantheon Archivist, footnotes scribbled in the 2nd edition of "On Gods and the Afterlife"
 
-Dragons exist as singular entities. There exist 1 Red Dragon, 1 Gold Dragon and so on. They do grow in time and some records exist of smaller and larger dragons of different kinds and size. There seems to have always been dragons going around. It has been impossible to get an answer from the known friendly dragons about this topic. We may not even know how many types of dragons exist.
+Dragons exist as singular entities. There is exactly 1 Red Dragon, 1 Gold Dragon and so on. They do grow in time and some records exist of smaller and larger dragons of different kinds and size. There seems to have always been dragons going around. It has been impossible to get an answer from the known friendly dragons about this topic. We may not even know how many types of dragons exist.
 
 - Unknown, "Dragons, a permanent existence?"
 

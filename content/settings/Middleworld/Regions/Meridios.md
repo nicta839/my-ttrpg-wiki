@@ -35,7 +35,7 @@ This area should be ruled by a king, but their bloodline has run out a long time
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
 - [[settings/Middleworld/Factions/Veilin Fae Folk|Veilin Fae Folk]]
-- [[settings/Middleworld/History/Founding Myth|Founding Myth]]
+- [[GM-thoughts/Middleworld/Founding Myth|Founding Myth]]
 - [[settings/Middleworld/History/index|History]]
 - [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

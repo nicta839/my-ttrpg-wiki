@@ -22,9 +22,9 @@ related:
   - settings/Soleria/Organizations/Obsidian Army
 ---
 
-The proxy war of Suriel and Nerigoth and the subsequent rampage of Alera put an immediate end to all enmities before the continent plunged into complete destruction. As the people focused on rebuilding and managing the areas of destruction, issues of relocation, land ownership, writing of history started becoming issues.
+The war of Suriel and Nerigoth and the subsequent rampage of Alera put an immediate end to all enmities before the continent plunged into complete destruction. As the people focused on rebuilding and managing the areas from the destruction, relocation of people, land ownership and taking stock of the history that unfolded, new conflicts arose.
 
-[[settings/Soleria/Society/The kingdom|The kingdom]] established itself as the main political power throughout the land. The dwarves were relocated to the regions near their destroyed ancestral home, while the elves returned to tend to their forest. Much to the dislike of the native halflings, the dwarves have started establishing their trade, mining and building. Many of the elves have gone into a slumber called the "Crossing" that allowed their essence to cross to another plane.
+[[settings/Soleria/Organizations/The kingdom|The kingdom]] established itself as the main political power throughout the land. The dwarves were relocated to the regions near their destroyed ancestral home, while the elves returned to tend to their forest. Much to the dislike of the native halflings, the dwarves have started establishing their trade, mining and building. Many of the elves have gone into a slumber called the "Crossing" that allowed their essence to cross to another plane.
 
 The people of [[settings/Soleria/Regions/Map Features/Night's Reach|Night's Reach]] slowly started to change, becoming more attuned to those who have passed and the darkness of their region. West of Night's Reach, the tieflings have demanded new lands from the kingdom. There is only so much to go around according to the kingdom and they have been kept in the wastes. Their appearance doesn't help with their integration.
 
@@ -38,7 +38,7 @@ This was the first and last time that the skyship Atmos, manned by the dragonbor
 - [[settings/Soleria/History/index|Soleria — History]]
 - [[settings/Soleria/index|Soleria]]
 - [[settings/Soleria/Cosmology/Magic|Magic]]
-- [[settings/Soleria/Society/The kingdom|The kingdom]]
+- [[settings/Soleria/Organizations/The kingdom|The kingdom]]
 - [[settings/Soleria/Regions/Map Features/Night's Reach|Night's Reach]]
 - [[settings/Soleria/Factions/Pyreborn|Pyreborn]]
 - [[settings/Soleria/Organizations/Empyrean Guard|Empyrean Guard]]

@@ -16,7 +16,7 @@ related:
   - settings/Soleria/Maps/index
 ---
 
-Armed collective of Dragonborn and dragons who wield mighhty weapons of advanced technology. They have retreated and have decided to stay away from the affairs of the world.
+Armed collective of Dragonborn and dragons who wield mighty weapons of advanced technology. They have retreated and have decided to stay away from the affairs of the world.
 
 <!-- vault-enrichment:start -->
 ## Related

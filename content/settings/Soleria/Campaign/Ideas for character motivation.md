@@ -20,7 +20,7 @@ There are several mysteries and lost knowledge that remain to be uncovered in th
 
 Mysteries of the world:
 
-- Can the darkness be erased in [[settings/Soleria/Regions/Map Features/Night's Reach|Night's Reach]]?
+- Can the darkness be dispelled over [[settings/Soleria/Regions/Map Features/Night's Reach|Night's Reach]]?
 - Who is Magnar and what are the [[settings/Soleria/Factions/Pyreborn|Pyreborn]]?
 - Can the Maelstrom be dispersed?
 - Why did the Sunwell dim?

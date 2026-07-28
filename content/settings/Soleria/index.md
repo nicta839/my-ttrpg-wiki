@@ -25,7 +25,7 @@ related:
   <div class="portal-hero portal-hero-image" style="--portal-hero-image: url('../../assets/soleria/world-map/soleria-newest-ba4b78d518-1600.webp')">
     <p class="portal-kicker">Campaign setting</p>
     <h1>Soleria</h1>
-    <p>A mapped realm of kingdoms, factions, old wars, corruption, faith, and dangerous borders waiting to be turned into campaign motion.</p>
+    <p>A mapped realm of kingdoms, factions, old wars, corruption, faith, and dangerous borders waiting for adventures to happen.</p>
     <div class="portal-hero-actions">
       <a class="portal-button" href="settings/Soleria/Maps/index">World map</a>
       <a class="portal-button portal-button-secondary" href="settings/Soleria/Factions/index">Factions</a>

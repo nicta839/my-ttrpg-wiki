@@ -95,5 +95,29 @@
       "link": "settings/Tales of Fate/Settlements/Grimbergen",
       "resolvedHref": "/settings/tales-of-fate/settlements/grimbergen"
     }
-  ]
+  ],
+  "bases": [
+    {
+      "path": "assets/tales-of-fate/map-of-the-world/campaign-map-1-1-d4ce86b214-full.webp",
+      "name": "Tales of Fate World Map"
+    }
+  ],
+  "activeBase": "assets/tales-of-fate/map-of-the-world/campaign-map-1-1-d4ce86b214-full.webp",
+  "overlays": [],
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "grids": [],
+  "textLayers": [],
+  "secondScreen": {
+    "showGrids": true
+  }
 }

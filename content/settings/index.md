@@ -83,7 +83,7 @@ related:
 
 - [[settings/Aylbyia/index|Aylbyia]]
 - [[settings/Godshand/index|Godshand]]
-- [[settings/In the Ashes/index|In the Ashes]]
+- [[GM-thoughts/In the Ashes/In the Ashes 1/index|In the Ashes]]
 - [[settings/Middleworld/index|Middleworld]]
 - [[settings/Soleria/index|Soleria]]
 - [[settings/Spine of the World/index|Spine of the World]]
