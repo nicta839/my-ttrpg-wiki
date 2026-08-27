@@ -28,14 +28,17 @@ density: clustered
 This is a living timeline that has elements added to it as the game continues to be played in time:
 
 
-Some short time before the Festival of Master Debate
+A few weeks before the Festival of Master Debate
 - [[settings/Godshand/Campaign/Quests/wildsheep chase|wildsheep chase]]:
-	- The party Crimp (Padfoot, RoBeert, Peter Copperpot, Liana) help a transmuter turn back from a sheep into an elf.
+	- The party Crimp Padfoot, RoBeert, Peter Copperpot, Liana help a transmuter turn back from a sheep into an elf.
 	- All main characters survived including those who committed the crime (Gus and Noke)
-	- They ask from their rescuee (Finebrith Shinebright) to be compensated properly (under some duress)
+	- They ask from their rescuee (Finebrith Shinebright) to be compensated properly (under some duress). They receive compensation in the form of: 100GP per head, Favors, Influence, Some firebreath potions
 
-It is almost time for the Festival of Master Debate
-- New One/two shot:
+
+CSI godshand happens at more or less the same time than the Great Popcorn disappearance
+
+
+
 
 <!-- vault-enrichment:start -->
 ## Related
