@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: The Great Houses of Humanity Fin's End The Dracopeaks The Eastern Continent The Frosted South The Older Brothers The Platsmoor The Realm of Vuuch The Skal'ik Desert and Lyzykos The Younger Brother…
+description: "Regions of the world: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index

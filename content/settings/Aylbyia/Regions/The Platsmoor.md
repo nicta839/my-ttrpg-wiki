@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: "Most important city: Ziebglen, Seat of Aumogonne"
+description: "The Platsmoor: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ related:
 Most important city: [[settings/Aylbyia/Settlements/Ziebglen|Ziebglen]], Seat of [[settings/Aylbyia/Cosmology/Celestials and Saints/Saints/Aumogonne|Aumogonne]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![platsmoor](../../../assets/aylbyia/the-platsmoor/platsmoor-55702d5f0c-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-platsmoor/platsmoor-55702d5f0c-full.webp)
+> [![platsmoor](../../../assets/aylbyia/the-platsmoor/platsmoor-55702d5f0c-1600.webp)](../../../assets/aylbyia/the-platsmoor/platsmoor-55702d5f0c-full.webp)
 
 > [!onenote-gallery]
 > [![platsmoor 3](../../../assets/aylbyia/the-platsmoor/platsmoor-3-9e9cfc04c1-800.webp)](../../../assets/aylbyia/the-platsmoor/platsmoor-3-9e9cfc04c1-full.webp)

@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Corrupt town that is part of the Empire only in name.
+description: "Whitebridge: Settlements entry for Spine of the World."
 related:
   - settings/Spine of the World/Settlements/index
   - settings/Spine of the World/index

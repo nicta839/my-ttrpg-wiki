@@ -8,7 +8,7 @@ tags:
   - category/maps
 category: Maps
 visibility: public
-description: Interactive maps for the Tales of Fate setting.
+description: "Index of maps material for Tales of Fate."
 related: []
 ---
 
@@ -64,7 +64,6 @@ These visible labels are not mapped yet because they need a clearer article targ
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Maps</p>
-  <p class="index-guide-purpose">Interactive maps for the Tales of Fate setting.</p>
   <div class="index-route-grid index-route-grid-compact">
     <a class="index-route-card" href="#mapped-locations"><span>Mapped links</span><strong>Mapped locations</strong><em>Jump to linked regions, settlements, and map features.</em></a>
     <a class="index-route-card" href="#map-label-audit"><span>Audit</span><strong>Map label audit</strong><em>See labels that still need article or position decisions.</em></a>

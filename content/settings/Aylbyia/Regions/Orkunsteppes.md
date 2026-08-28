@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: "Most important city: Lor, The First City Unarchus"
+description: "Orkunsteppes: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
@@ -24,7 +24,7 @@ related:
 - [[settings/Aylbyia/Settlements/Orkunsteppes/Unarchus|Unarchus]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![orkunsteppe](../../../assets/aylbyia/orkunsteppes/orkunsteppe-3dd46ea33c-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/orkunsteppes/orkunsteppe-3dd46ea33c-full.webp)
+> [![orkunsteppe](../../../assets/aylbyia/orkunsteppes/orkunsteppe-3dd46ea33c-1600.webp)](../../../assets/aylbyia/orkunsteppes/orkunsteppe-3dd46ea33c-full.webp)
 
 > [!onenote-gallery]
 > [![orc city](../../../assets/aylbyia/orkunsteppes/orc-city-5671825993-800.webp)](../../../assets/aylbyia/orkunsteppes/orc-city-5671825993-full.webp)

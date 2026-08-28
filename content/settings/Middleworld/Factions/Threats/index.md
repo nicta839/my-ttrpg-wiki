@@ -10,7 +10,7 @@ tags:
 onenote_source: Worldbuilding 2/Organizations/Threats
 category: Factions
 visibility: public
-description: We will add here antagonists to the party or elements that pose a threat to a certain location or population
+description: "Threats: Factions entry for Middleworld."
 related: []
 ---
 

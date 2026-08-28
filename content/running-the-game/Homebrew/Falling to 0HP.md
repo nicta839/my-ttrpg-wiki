@@ -6,7 +6,7 @@ tags:
   - type/rule
 category: Homebrew
 visibility: public
-description: To avoid the yo-yo effect of falling to 0HP and being healed back up without any issue, I would like to introduce something that incentivizes keeping yourself and your allies up.
+description: "Falling to 0HP: Homebrew entry."
 related:
   - running-the-game/Homebrew/index
   - running-the-game/Homebrew/Homebrew rules

@@ -8,7 +8,7 @@ tags:
   - category/campaign
 category: Campaign
 visibility: public
-description: Index for Players.
+description: "Index of campaign material for Tales of Fate."
 related:
   - settings/Tales of Fate/Campaign/Players/Anoin
   - settings/Tales of Fate/Campaign/Players/DnD info for spells and things your character can do

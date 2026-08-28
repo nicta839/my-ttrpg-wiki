@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Dolan
 category: Regions
 visibility: public
-description: Small province stuck in the valley of the wolven mountains.
+description: "Dolan: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

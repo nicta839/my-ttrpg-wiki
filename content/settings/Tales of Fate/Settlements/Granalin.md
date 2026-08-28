@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/World/Granalin
 category: Settlements
 visibility: public
-description: Town that got overtaken by undead skeletons.
+description: "Granalin: Settlements entry for Tales of Fate."
 related:
   - settings/Tales of Fate/Settlements/index
   - settings/Tales of Fate/index

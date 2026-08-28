@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/Factions/Kingdom
 category: Factions
 visibility: public
-description: The human kingdom used to watch for the return of Suriel and his phoenix, Omael.
+description: "Kingdom: Factions entry for Soleria."
 related:
   - settings/Soleria/Factions/index
   - settings/Soleria/index

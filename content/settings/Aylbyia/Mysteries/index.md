@@ -8,7 +8,7 @@ tags:
   - category/mysteries
 category: Mysteries
 visibility: public
-description: Index for Mysteries.
+description: "Index of mysteries material for Aylbyia."
 related: []
 ---
 # Mysteries
@@ -16,7 +16,6 @@ related: []
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Mysteries</p>
-  <p class="index-guide-purpose">Browse mysteries material for Aylbyia.</p>
   <div class="index-empty-state">No public entries are listed here yet.</div>
 </section>
 

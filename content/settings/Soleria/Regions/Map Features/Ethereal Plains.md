@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Named plains region on the Soleria world map.
+description: "Ethereal Plains: Regions entry for Soleria."
 related:
   - settings/Soleria/Regions/Map Features/index
   - settings/Soleria/index

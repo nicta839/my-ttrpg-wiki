@@ -8,7 +8,7 @@ tags:
 onenote_source: Spine of the world/Factions/Center
 category: Regions
 visibility: public
-description: Central plains region containing Whitebridge, Caemlyn, and Edmond's Field.
+description: "Center: Regions entry for Spine of the World."
 related:
   - settings/Spine of the World/Regions/index
   - settings/Spine of the World/index

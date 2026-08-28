@@ -8,7 +8,7 @@ tags:
   - category/organizations
 category: Organizations
 visibility: public
-description: "Mark: a blade with a hilt clutching a lightning bolt"
+description: "Band of Blades: Organizations entry for Aylbyia."
 related:
   - settings/Aylbyia/Organizations/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ related:
 Mark: a blade with a hilt clutching a lightning bolt
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![band of blades](../../../assets/aylbyia/band-of-blades/band-of-blades-d6182b6e95-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/band-of-blades/band-of-blades-d6182b6e95-full.webp)
+> [![band of blades](../../../assets/aylbyia/band-of-blades/band-of-blades-d6182b6e95-1600.webp)](../../../assets/aylbyia/band-of-blades/band-of-blades-d6182b6e95-full.webp)
 <!-- onenote-media:end -->
 
 Honored reputation: Will accomplish a task no matter what

@@ -10,7 +10,7 @@ tags:
 onenote_source: SOleria/Character creation/Character creation
 category: Society
 visibility: public
-description: Characters will be created together during session 0, but it doesn't hurt to do some work beforehand.
+description: "Character creation: Society entry for Soleria."
 related:
   - settings/Soleria/Society/Character Creation/Allowed classes
   - settings/Soleria/Society/Character Creation/Ancestries allowed

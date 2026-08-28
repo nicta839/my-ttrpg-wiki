@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/World/Hoegarden Oasis
 category: Settlements
 visibility: public
-description: The old desert capital. Built around an oasis, the town was built into the stone and from stones that were brought here by various nomadic group deciding to work together to build a meeting location.
+description: "Hoegarden Oasis: Settlements entry for Tales of Fate."
 related:
   - settings/Tales of Fate/Settlements/index
   - settings/Tales of Fate/index

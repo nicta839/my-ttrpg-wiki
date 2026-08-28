@@ -1,5 +1,6 @@
 ---
 title: Helena Filiva
+description: "Helena Filiva: NPCs entry for Aylbyia."
 type: npc
 setting: Aylbyia
 tags:

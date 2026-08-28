@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: They are less stocky than their compatriotes.
+description: "Hill: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Factions/Orcs and Goblinoids

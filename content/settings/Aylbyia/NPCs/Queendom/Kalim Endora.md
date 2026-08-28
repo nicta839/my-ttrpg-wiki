@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: "Speaker of the Word: Kalim Endora, spymaster. His role is known to all and he trades information with mercenaries directly."
+description: "Kalim Endora: NPCs entry for Aylbyia."
 related:
   - settings/Aylbyia/NPCs/Queendom/index
   - settings/Aylbyia/index

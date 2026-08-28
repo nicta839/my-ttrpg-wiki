@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Named passage on the northeastern edge of the Aylbyia world map.
+description: "Pale Gate: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/Map Features/index
   - settings/Aylbyia/index

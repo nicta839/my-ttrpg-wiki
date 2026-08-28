@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: "Most important city: South-of South Harbour"
+description: "South-of South Harbour: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/The Frosted South/index
   - settings/Aylbyia/index

@@ -10,7 +10,7 @@ tags:
 onenote_source: Tales of Fate/World/Geography
 category: Regions
 visibility: public
-description: Map of the world that will be updated as we play best I can.
+description: "Geography: Regions entry for Tales of Fate."
 related:
   - settings/Tales of Fate/Regions/Map of the world
 ---
@@ -22,7 +22,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Regions</p>
-  <p class="index-guide-purpose">Map of the world that will be updated as we play best I can.</p>
   <div class="index-empty-state">
     <a href="/settings/tales-of-fate/regions/map-of-the-world">Map of the world</a>
   </div>

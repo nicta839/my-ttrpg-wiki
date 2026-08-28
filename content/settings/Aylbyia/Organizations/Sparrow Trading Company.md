@@ -8,7 +8,7 @@ tags:
   - category/organizations
 category: Organizations
 visibility: public
-description: "Shadow reputation: Abusing their monopoly"
+description: "Sparrow Trading Company: Organizations entry for Aylbyia."
 related:
   - settings/Aylbyia/Organizations/index
   - settings/Aylbyia/index
@@ -22,7 +22,7 @@ related:
 Mark: A sparrow
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![sparrow trading](../../../assets/aylbyia/sparrow-trading-company/sparrow-trading-b6fd58d301-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/sparrow-trading-company/sparrow-trading-b6fd58d301-full.webp)
+> [![sparrow trading](../../../assets/aylbyia/sparrow-trading-company/sparrow-trading-b6fd58d301-1600.webp)](../../../assets/aylbyia/sparrow-trading-company/sparrow-trading-b6fd58d301-full.webp)
 
 > [!onenote-gallery]
 > [![sparrow trading 2](../../../assets/aylbyia/sparrow-trading-company/sparrow-trading-2-27e05bf488-800.webp)](../../../assets/aylbyia/sparrow-trading-company/sparrow-trading-2-27e05bf488-full.webp)

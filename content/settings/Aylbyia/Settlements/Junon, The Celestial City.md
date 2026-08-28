@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: "Most important city: Junon, The Celestial City"
+description: "Junon, The Celestial City: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/index
   - settings/Aylbyia/index

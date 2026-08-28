@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: Healer of those afflicted by the Betrayer and his forces.
+description: "Brulux: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials and Saints

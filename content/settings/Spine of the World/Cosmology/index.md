@@ -10,7 +10,7 @@ tags:
 onenote_source: Spine of the world/World/Religion
 category: Cosmology
 visibility: public
-description: At first, the universe was but chaos as magical energies, matter, and space moved around wildly.
+description: "Religion: Cosmology entry for Spine of the World."
 related:
   - settings/Spine of the World/Cosmology/Aangarahd
   - settings/Spine of the World/Cosmology/Elves and sleep
@@ -70,7 +70,6 @@ If they are right though... No, I shall continue banishing these heretical thoug
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Cosmology</p>
-  <p class="index-guide-purpose">At first, the universe was but chaos as magical energies, matter, and space moved around wildly.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/spine-of-the-world/cosmology/aangarahd"><span>Core concepts</span><strong>Aangarahd</strong><em>Open this entry.</em></a>
     <a class="index-route-card" href="/settings/spine-of-the-world/cosmology/elves-and-sleep"><span>Core concepts</span><strong>Elves and sleep</strong><em>Open this entry.</em></a>

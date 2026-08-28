@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: "Aumogonne: Defended the Celestials with her followers, offering her life so that they may have the time to finish the ritual."
+description: "Aumogonne: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials and Saints

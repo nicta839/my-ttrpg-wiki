@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Organizations/Mana Mining Merchants
 category: Organizations
 visibility: public
-description: These merchants are loosely connected and bound to each other through the business of mining and trading of mana stones.
+description: "Mana Mining Merchants: Organizations entry for Middleworld."
 related:
   - settings/Middleworld/Organizations/index
   - settings/Middleworld/index

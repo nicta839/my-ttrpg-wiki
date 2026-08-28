@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Neutral location, meeting place for the houses, The greatest seat of knowledge, place of birth of the Blue Council.
+description: "The House of Water: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/The great houses of Humanity/index
   - settings/Aylbyia/index

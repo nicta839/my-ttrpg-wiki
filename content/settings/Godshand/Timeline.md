@@ -7,7 +7,7 @@ tags:
   - type/timeline
 category: Setting
 visibility: public
-description: "This is a living timeline that has elements added to it as the game continues to be played in time:"
+description: "Timeline: Setting entry for Godshand."
 related:
   - settings/Godshand/index
   - settings/Godshand/Campaign/Quests/wildsheep chase

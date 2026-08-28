@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/World/Grimbergen
 category: Settlements
 visibility: public
-description: Sprawling capital city of this region, the town is the seat of the Council of Great Wizards as well as the Ministry of Magic that gives out the licences.
+description: "Grimbergen: Settlements entry for Tales of Fate."
 related:
   - settings/Tales of Fate/Settlements/index
   - settings/Tales of Fate/index

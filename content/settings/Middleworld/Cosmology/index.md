@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: Index of cosmology material for the Middleworld setting.
+description: "Index of cosmology material for Middleworld."
 related:
   - settings/Middleworld/Cosmology/Magic
   - settings/Middleworld/Cosmology/Pantheon
@@ -20,7 +20,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Cosmology</p>
-  <p class="index-guide-purpose">Browse cosmology material for Middleworld.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/middleworld/cosmology/magic"><span>Core concepts</span><strong>Magic</strong><em>Open this entry.</em></a>
     <a class="index-route-card" href="/settings/middleworld/cosmology/pantheon"><span>Planes and powers</span><strong>Pantheon</strong><em>Open this entry.</em></a>

@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: "Sinder: Seat of power of House Sinder. It boasts a large harbour from which large freight ships leave."
+description: "Sinderealms: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/great houses of humanity/index
   - settings/Aylbyia/index

@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Named lake between the Younger Brother and the Platsmoor.
+description: "Lake Koral: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/Map Features/index
   - settings/Aylbyia/index

@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: "Telkinn wood and lake: Ancient woods said to be inhabited by wood spirits."
+description: "Telkinn wood and lake: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/The great houses of Humanity/Southfang/index
   - settings/Aylbyia/index

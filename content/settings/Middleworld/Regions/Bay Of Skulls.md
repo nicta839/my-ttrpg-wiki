@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Bay of Skulls
 category: Regions
 visibility: public
-description: Said to the the location of the castle of the Lord of Pirates.
+description: "Bay of Skulls: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

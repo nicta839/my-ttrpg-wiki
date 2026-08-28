@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Desert of Korrvain
 category: Regions
 visibility: public
-description: The city of Jaloss boasts an inexplicably large amount of Gems and Jewels that they trade with the Varesh. The people of this place all wear masks at all times.
+description: "Desert of Korrvain: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

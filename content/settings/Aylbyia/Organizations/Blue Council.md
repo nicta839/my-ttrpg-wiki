@@ -8,7 +8,7 @@ tags:
   - category/organizations
 category: Organizations
 visibility: public
-description: "Mark: A blue book with a golden eye on it"
+description: "Blue Council: Organizations entry for Aylbyia."
 related:
   - settings/Aylbyia/Organizations/index
   - settings/Aylbyia/index
@@ -22,7 +22,7 @@ related:
 Mark: A blue book with a golden eye on it
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![blue council wizard](../../../assets/aylbyia/blue-council/blue-council-wizard-47ef7b4ec8-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/blue-council/blue-council-wizard-47ef7b4ec8-full.webp)
+> [![blue council wizard](../../../assets/aylbyia/blue-council/blue-council-wizard-47ef7b4ec8-1600.webp)](../../../assets/aylbyia/blue-council/blue-council-wizard-47ef7b4ec8-full.webp)
 
 > [!onenote-gallery]
 > [![넣추寸\](../../../assets/aylbyia/blue-council/blue-wizard-female-2cda80f883-800.webp)](../../../assets/aylbyia/blue-council/blue-wizard-female-2cda80f883-full.webp)

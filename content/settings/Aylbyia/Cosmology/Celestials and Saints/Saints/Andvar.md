@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: "Andvar: Notorious knight who fought alone against overwhelming odds. They are the embodiment of courage and determination."
+description: "Andvar: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials and Saints

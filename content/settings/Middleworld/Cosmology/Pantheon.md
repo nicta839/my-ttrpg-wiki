@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/The world/Pantheon
 category: Cosmology
 visibility: public
-description: The Gods exist in a dimension/plane of their own making. It is cut mostly from mortals through a Veil. This can only be crossed by those who die or seen by Humans in their dreams.
+description: "Pantheon: Cosmology entry for Middleworld."
 related:
   - settings/Middleworld/Cosmology/index
   - settings/Middleworld/index

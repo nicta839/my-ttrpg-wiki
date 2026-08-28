@@ -6,7 +6,7 @@ tags:
   - category/homebrew
 category: Homebrew
 visibility: public
-description: Index for Homebrew.
+description: "Index of homebrew material."
 related:
   - running-the-game/Homebrew/Character creation/index
   - running-the-game/Homebrew/Attacking with variants
@@ -24,7 +24,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Homebrew</p>
-  <p class="index-guide-purpose">House rules and table options gathered for quick use during play.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/running-the-game/homebrew/attacking-with-variants"><span>Rules and options</span><strong>Attacking with variants</strong><em>Open this play reference.</em></a>
     <a class="index-route-card" href="/running-the-game/homebrew/experience-points"><span>Rules and options</span><strong>Experience points</strong><em>Open this play reference.</em></a>

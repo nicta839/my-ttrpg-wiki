@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/World/Ancestry
 category: Society
 visibility: public
-description: Dwarves have been displaced to the western side of the continent, mostly in the Valor lands, Midlands, Fleurian Grasslands and Tempest Headlands.
+description: "Ancestry: Society entry for Soleria."
 related:
   - settings/Soleria/Society/index
   - settings/Soleria/index
@@ -17,7 +17,7 @@ related:
   - settings/Soleria/Regions/Map Features/Tempest Headlands
   - settings/Soleria/Organizations/Obsidian Army
   - settings/Soleria/Regions/Map Features/Shattered Lands
-  - settings/Soleria/Society/The kingdom
+  - settings/Soleria/Organizations/The kingdom
 ---
 
 Dwarves have been displaced to the western side of the continent, mostly in the Valor lands, [[settings/Soleria/Regions/Map Features/Midlands|Midlands]], [[settings/Soleria/Regions/Map Features/Fleurian Grasslands|Fleurian Grasslands]] and [[settings/Soleria/Regions/Map Features/Tempest Headlands|Tempest Headlands]]. They typically follow worship of Nerigoth even though no cleric of Nerigoth has ever been able to perform the magic of old since the "cleansing" of Xavian. They are entrepreneuring and audacious.

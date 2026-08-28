@@ -1,5 +1,6 @@
 ---
 title: ethereal plane
+description: "ethereal plane: Cosmology entry for Aylbyia."
 type: cosmology
 setting: Aylbyia
 tags:

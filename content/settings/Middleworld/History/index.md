@@ -10,9 +10,8 @@ tags:
 onenote_source: Worldbuilding 2/The world/History
 category: History
 visibility: public
-description: -500 Vallios rediscovered and rebuilt by Western Factions -300 Meridios lands in the North are colonized by devout worshippers of the Lord of the Grave and Salena Mapping of the North Rise of Lura,…
+description: "History: History entry for Middleworld."
 related:
-  - settings/Middleworld/History/Founding Myth
 ---
 
 # History
@@ -82,15 +81,10 @@ density: clustered
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">History</p>
-  <p class="index-guide-purpose">-500 Vallios rediscovered and rebuilt by Western Factions -300 Meridios lands in the North are colonized by devout worshippers of the Lord of the Grave and Salena Mapping of the North Rise of Lura,…</p>
-  <div class="index-empty-state">
-    <a href="/settings/middleworld/history/founding-myth">Founding Myth</a>
-  </div>
 </section>
 <!-- curated-index:end -->
 
 <!-- vault-folder-index:start -->
 ## Pages
 
-- [[GM-thoughts/Middleworld/Founding Myth|Founding Myth]]
 <!-- vault-folder-index:end -->

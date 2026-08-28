@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Named bay between the western lands and the central continent.
+description: "Cobalt Bay: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/Map Features/index
   - settings/Aylbyia/index

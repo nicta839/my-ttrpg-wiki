@@ -8,7 +8,7 @@ tags:
   - category/organizations
 category: Organizations
 visibility: public
-description: "Honored reputation: Defenders of the realms"
+description: "Golden Mask: Organizations entry for Aylbyia."
 related:
   - settings/Aylbyia/Organizations/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ related:
 Mark: A golden Mask
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![golden mask 2](../../../assets/aylbyia/golden-mask/golden-mask-2-4cb07bd400-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/golden-mask/golden-mask-2-4cb07bd400-full.webp)
+> [![golden mask 2](../../../assets/aylbyia/golden-mask/golden-mask-2-4cb07bd400-1600.webp)](../../../assets/aylbyia/golden-mask/golden-mask-2-4cb07bd400-full.webp)
 
 > [!onenote-gallery]
 > [![golden mask](../../../assets/aylbyia/golden-mask/golden-mask-782f363333-800.webp)](../../../assets/aylbyia/golden-mask/golden-mask-782f363333-full.webp)

@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Western-shore city with three military-controlled crystal towers.
+description: "Ebou Dar: Settlements entry for Spine of the World."
 related:
   - settings/Spine of the World/Settlements/index
   - settings/Spine of the World/index

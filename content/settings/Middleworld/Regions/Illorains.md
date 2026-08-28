@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Illorains
 category: Regions
 visibility: public
-description: Western and Eastern Illorain were the first provinces conquered by the 1st Emperor. They are known for their refined goods such as wine, jewely work, enchantments and tailoring.
+description: "Illorains: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

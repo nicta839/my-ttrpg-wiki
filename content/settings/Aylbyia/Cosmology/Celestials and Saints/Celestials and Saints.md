@@ -9,7 +9,7 @@ tags:
   - type/index
 category: Cosmology
 visibility: public
-description: Here is a list of the Celestials and their Saints during their confrontation with the Betrayer
+description: "Celestials and Saints: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials
   - settings/Aylbyia/Cosmology/Celestials and Saints/Saints/Saints

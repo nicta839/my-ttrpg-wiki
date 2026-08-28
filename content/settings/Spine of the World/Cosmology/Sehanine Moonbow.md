@@ -8,7 +8,7 @@ tags:
 onenote_source: Spine of the world/World/Sehanine Moonbow
 category: Cosmology
 visibility: public
-description: Goddess of Moonlight, The Mystic Seer, The Luminous Cloud and the Lady of Dreams is a central figure of the Seldarine Pantheon and one who is highly regarded as a wise guide for its chief.
+description: "Sehanine Moonbow: Cosmology entry for Spine of the World."
 related:
   - settings/Spine of the World/Cosmology/index
   - settings/Spine of the World/index

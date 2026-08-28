@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Factions/Varesh
 category: Factions
 visibility: public
-description: The desert is richer than it seems. These people have mastered both seafaring and extreme environments. Constantly ahead of everyone else in terms of innovation.
+description: "Varesh: Factions entry for Middleworld."
 related:
   - settings/Middleworld/Factions/index
   - settings/Middleworld/index

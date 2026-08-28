@@ -8,7 +8,7 @@ tags:
 onenote_source: Spine of the world/Factions/Ris'san Dameno
 category: Factions
 visibility: public
-description: The name that the rebellious movement has given itself.
+description: "Ris'san Dameno: Factions entry for Spine of the World."
 related:
   - settings/Spine of the World/Factions/index
   - settings/Spine of the World/index

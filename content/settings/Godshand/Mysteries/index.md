@@ -8,7 +8,7 @@ tags:
   - category/mysteries
 category: Mysteries
 visibility: public
-description: Index of mysteries material for the Godshand setting.
+description: "Index of mysteries material for Godshand."
 related:
   - settings/Godshand/Mysteries/Anti-magic fields
   - settings/Godshand/Mysteries/Strange metal shards in the ground
@@ -18,7 +18,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Mysteries</p>
-  <p class="index-guide-purpose">Browse mysteries material for Godshand.</p>
   <div class="index-empty-state">
     <a href="/settings/godshand/mysteries/anti-magic-fields">Anti-magic fields</a> · <a href="/settings/godshand/mysteries/strange-metal-shards-in-the-ground">Strange metal shards in the ground</a>
   </div>

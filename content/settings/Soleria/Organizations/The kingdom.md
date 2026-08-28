@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/World/The kingdom
 category: Society
 visibility: public
-description: Big old machine that is built not on the success of Suriel, but on the disappearance of opposition to the cult of Suriel.
+description: "The kingdom: Society entry for Soleria."
 related:
   - settings/Soleria/Society/index
   - settings/Soleria/index

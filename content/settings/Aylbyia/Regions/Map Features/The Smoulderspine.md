@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Named volcanic landmark near the western edge of the Twilight.
+description: "The Smoulderspine: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/Map Features/index
   - settings/Aylbyia/index

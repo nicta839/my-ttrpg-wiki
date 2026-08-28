@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Ursa
 category: Regions
 visibility: public
-description: Dusty plains that hide several ore deposits. Prisoners of the Empire and people who need to be forgotten are sent to this location.
+description: "Ursa: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

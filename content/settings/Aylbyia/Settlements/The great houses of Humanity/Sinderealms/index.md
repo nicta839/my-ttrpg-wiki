@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Index for Sinderealms.
+description: "Index of settlements material for Aylbyia."
 related: []
 ---
 

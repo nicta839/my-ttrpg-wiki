@@ -8,7 +8,7 @@ tags:
   - category/mysteries
 category: Mysteries
 visibility: public
-description: There are strange metal shards in the ground. They can sometimes be found in vegetables that grow in the fields
+description: "Strange metal shards in the ground: Mysteries entry for Godshand."
 related:
   - settings/Godshand/Mysteries/index
   - settings/Godshand/index

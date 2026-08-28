@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/Players/Kissa
 category: Campaign
 visibility: public
-description: Fugitive because of her heirloom. Kissa is now on a quest to find out more about this strange gift given to her by her grandmother.
+description: "Kissa: Campaign entry for Tales of Fate."
 related:
   - settings/Tales of Fate/Campaign/Players/index
   - settings/Tales of Fate/index

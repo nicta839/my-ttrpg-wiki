@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: Index of npcs material for the Tales of Fate setting.
+description: "Index of npcs material for Tales of Fate."
 related:
   - settings/Tales of Fate/NPCs/Anthony
   - settings/Tales of Fate/NPCs/Arwana
@@ -19,7 +19,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">NPCs</p>
-  <p class="index-guide-purpose">Browse npcs material for Tales of Fate.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/tales-of-fate/npcs/anthony"><span>Cast</span><strong>Anthony</strong><em>Open this character entry.</em></a>
     <a class="index-route-card" href="/settings/tales-of-fate/npcs/arwana"><span>Cast</span><strong>Arwana</strong><em>Open this character entry.</em></a>

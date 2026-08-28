@@ -8,7 +8,7 @@ tags:
   - category/history
 category: History
 visibility: public
-description: Index for History.
+description: "Index of history material for Aylbyia."
 related:
   - settings/Aylbyia/History/Founding myth
   - settings/Aylbyia/History/History of the world
@@ -18,7 +18,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">History</p>
-  <p class="index-guide-purpose">Browse history material for Aylbyia.</p>
   <div class="index-empty-state">
     <a href="/settings/aylbyia/history/history-of-the-world">History of the world</a> · <a href="/settings/aylbyia/history/founding-myth">Founding myth</a>
   </div>

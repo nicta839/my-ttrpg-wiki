@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/World/Elves
 category: Society
 visibility: public
-description: Elves have no known lifespan. They live for as long as they do not fall sick or struck by a weapon/spell.
+description: "Elves: Society entry for Tales of Fate."
 related:
   - settings/Tales of Fate/Society/index
   - settings/Tales of Fate/index

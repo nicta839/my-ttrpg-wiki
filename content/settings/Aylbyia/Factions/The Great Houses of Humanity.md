@@ -8,7 +8,7 @@ tags:
   - category/factions
 category: Factions
 visibility: public
-description: This faction is made up of several baronies
+description: "The Great Houses of Humanity: Factions entry for Aylbyia."
 related:
   - settings/Aylbyia/Factions/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ related:
 This faction is made up of several baronies
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![house of water](../../../assets/aylbyia/the-great-houses-of-humanity/house-of-water-5b9b19c80b-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-great-houses-of-humanity/house-of-water-5b9b19c80b-full.webp)
+> [![house of water](../../../assets/aylbyia/the-great-houses-of-humanity/house-of-water-5b9b19c80b-1600.webp)](../../../assets/aylbyia/the-great-houses-of-humanity/house-of-water-5b9b19c80b-full.webp)
 
 > [!onenote-gallery]
 > [![great houses 4](../../../assets/aylbyia/the-great-houses-of-humanity/great-houses-4-c714bdd742-800.webp)](../../../assets/aylbyia/the-great-houses-of-humanity/great-houses-4-c714bdd742-full.webp)

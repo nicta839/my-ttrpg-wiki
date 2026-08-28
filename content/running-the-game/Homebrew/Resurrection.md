@@ -6,7 +6,7 @@ tags:
   - type/rule
 category: Homebrew
 visibility: public
-description: There are a few direction we can go towards in terms of resurrection.
+description: "Resurrection: Homebrew entry."
 related:
   - running-the-game/Homebrew/index
   - running-the-game/Homebrew/Homebrew rules

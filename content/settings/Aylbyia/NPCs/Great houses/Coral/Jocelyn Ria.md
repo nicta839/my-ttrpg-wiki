@@ -1,5 +1,6 @@
 ---
 title: Jocelyn Ria
+description: "Jocelyn Ria: NPCs entry for Aylbyia."
 type: npc
 setting: Aylbyia
 tags:

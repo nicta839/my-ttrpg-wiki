@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Rovena
 category: Regions
 visibility: public
-description: Northern Province of the Empire. It is mostly known for its export of wood and carpentry work.
+description: "Rovena: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

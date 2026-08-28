@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: I want to make languages more unique to what your character is able to do and how well they are able to converse with people.
+description: "Languages: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/Society/index
   - settings/Aylbyia/index

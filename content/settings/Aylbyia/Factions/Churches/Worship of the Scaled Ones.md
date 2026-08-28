@@ -1,5 +1,6 @@
 ---
 title: Worship of the Scaled Ones
+description: "Worship of the Scaled Ones: Factions entry for Aylbyia."
 type: faction
 setting: Aylbyia
 tags:

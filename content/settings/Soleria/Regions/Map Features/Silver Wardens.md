@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Named mountain range on the Soleria world map.
+description: "Silver Wardens: Regions entry for Soleria."
 related:
   - settings/Soleria/Regions/Map Features/index
   - settings/Soleria/index

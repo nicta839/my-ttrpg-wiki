@@ -10,7 +10,7 @@ tags:
 onenote_source: Tales of Fate/World/History
 category: History
 visibility: public
-description: What we learn about the history of the world as we play. I'll try to keep it ordered
+description: "History: History entry for Tales of Fate."
 related:
   - settings/Tales of Fate/History/History of the world
   - settings/Tales of Fate/History/Season 1
@@ -24,7 +24,6 @@ What we learn about the [[settings/Tales of Fate/History/History of the world|hi
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">History</p>
-  <p class="index-guide-purpose">What we learn about the history of the world as we play. I'll try to keep it ordered</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/tales-of-fate/history/history-of-the-world"><span>Chronology</span><strong>History of the world</strong><em>Open this entry.</em></a>
     <a class="index-route-card" href="/settings/tales-of-fate/history/season-1"><span>Chronology</span><strong>Season 1</strong><em>Open this entry.</em></a>

@@ -8,12 +8,11 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Meridios
 category: Regions
 visibility: public
-description: A patch of land with an unusually warm climate.
+description: "Meridios: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
   - settings/Middleworld/Factions/Veilin Fae Folk
-  - settings/Middleworld/History/Founding Myth
   - settings/Middleworld/History/index
   - settings/Middleworld/Maps/index
 ---
@@ -35,7 +34,6 @@ This area should be ruled by a king, but their bloodline has run out a long time
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
 - [[settings/Middleworld/Factions/Veilin Fae Folk|Veilin Fae Folk]]
-- [[GM-thoughts/Middleworld/Founding Myth|Founding Myth]]
 - [[settings/Middleworld/History/index|History]]
 - [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

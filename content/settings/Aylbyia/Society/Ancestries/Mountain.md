@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: These dwarves rarely go out and those seen make up the majority of the Crystal Smiths organisation.
+description: "Mountain: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Organizations/Crystalsmith

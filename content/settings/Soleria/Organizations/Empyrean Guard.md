@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/Organization/Empyrean Guard
 category: Organizations
 visibility: public
-description: Armed collective of Dragonborn and dragons who wield mighhty weapons of advanced technology. They have retreated and have decided to stay away from the affairs of the world.
+description: "Empyrean Guard: Organizations entry for Soleria."
 related:
   - settings/Soleria/Organizations/index
   - settings/Soleria/index

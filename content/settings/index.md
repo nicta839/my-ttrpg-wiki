@@ -5,11 +5,10 @@ tags:
   - type/index
 category: Settings
 visibility: public
-description: Browse the public campaign settings.
+description: "Index of settings material."
 related:
   - settings/Aylbyia/index
   - settings/Godshand/index
-  - settings/In the Ashes/index
   - settings/Middleworld/index
   - settings/Soleria/index
   - settings/Spine of the World/index
@@ -32,9 +31,6 @@ related:
     </a>
     <a class="portal-card portal-card-accent portal-card-desert" href="settings/Godshand/index">
       <span class="portal-card-copy"><span class="portal-card-kicker">Setting</span><strong>Godshand</strong><span>An oasis town beneath a landmark whose fingers reach into the sky.</span></span>
-    </a>
-    <a class="portal-card portal-card-accent portal-card-ashes" href="settings/In the Ashes/index">
-      <span class="portal-card-copy"><span class="portal-card-kicker">Setting</span><strong>In the Ashes</strong><span>Domain play, liegedom rebuilding, and a campaign born from collapse.</span></span>
     </a>
     <a class="portal-card portal-card-image" href="settings/Middleworld/index">
       <span class="portal-card-copy"><span class="portal-card-kicker">Setting</span><strong>Middleworld</strong><span>Divine calamity, sealed gods, imperial ambition, and cursed lands.</span></span>
@@ -83,7 +79,6 @@ related:
 
 - [[settings/Aylbyia/index|Aylbyia]]
 - [[settings/Godshand/index|Godshand]]
-- [[GM-thoughts/In the Ashes/In the Ashes 1/index|In the Ashes]]
 - [[settings/Middleworld/index|Middleworld]]
 - [[settings/Soleria/index|Soleria]]
 - [[settings/Spine of the World/index|Spine of the World]]

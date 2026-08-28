@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/Character creation/Ancestries allowed
 category: Society
 visibility: public
-description: There are some lore restrictions vis-à-vis the origins and background that are accessible to your character.
+description: "Ancestries allowed: Society entry for Soleria."
 related:
   - settings/Soleria/Society/Character Creation/index
   - settings/Soleria/index

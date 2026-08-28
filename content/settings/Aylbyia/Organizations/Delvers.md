@@ -8,7 +8,7 @@ tags:
   - category/organizations
 category: Organizations
 visibility: public
-description: "Shadow reputation: Bite more than they can chew"
+description: "Delvers: Organizations entry for Aylbyia."
 related:
   - settings/Aylbyia/Organizations/index
   - settings/Aylbyia/index
@@ -19,7 +19,7 @@ related:
 Mark: A pickaxe in a lamp
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![delvers](../../../assets/aylbyia/delvers/delvers-f79742bd8e-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/delvers/delvers-f79742bd8e-full.webp)
+> [![delvers](../../../assets/aylbyia/delvers/delvers-f79742bd8e-1600.webp)](../../../assets/aylbyia/delvers/delvers-f79742bd8e-full.webp)
 
 > [!onenote-gallery]
 > [![delvers 2](../../../assets/aylbyia/delvers/delvers-2-bb0108fe61-800.webp)](../../../assets/aylbyia/delvers/delvers-2-bb0108fe61-full.webp)

@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Fjordlandia
 category: Regions
 visibility: public
-description: Mountainous regions said to harbour small communities of cultists, it is also the location of a swirling maelstrom said to be the gateway to the plane of elemental Air.
+description: "Fjordlandia: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

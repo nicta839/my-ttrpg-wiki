@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/World/Cèpe
 category: Settlements
 visibility: public
-description: Village of Arwana. Houses are made of giant mushrooms or carved inside trees. The closest representation would be something between medium creature sized smurf village and Ewok village of Endor.
+description: "Cèpe: Settlements entry for Tales of Fate."
 related:
   - settings/Tales of Fate/Settlements/index
   - settings/Tales of Fate/index

@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/The Singing plains
 category: Regions
 visibility: public
-description: Extremely flat plains. The saying goes "If your pet runs away on the Singing plains, it will be a fortnight before you lose sight of it".
+description: "The Singing plains: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

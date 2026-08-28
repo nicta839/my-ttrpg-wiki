@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: "Portfolio: ingenuity, Luck Symbols: Dice You might never know what strikes you when you turn around the corner: Weal or Woe"
+description: "Olan: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials and Saints

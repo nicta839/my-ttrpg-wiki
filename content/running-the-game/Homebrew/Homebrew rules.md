@@ -6,7 +6,7 @@ tags:
   - type/rule
 category: Homebrew
 visibility: public
-description: These notes here will say a bit more about the rules that I wish to introduce in the game and how I handle them.
+description: "Homebrew rules: Homebrew entry."
 related:
   - running-the-game/Homebrew/index
   - running-the-game/How the game is and can be run

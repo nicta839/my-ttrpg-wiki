@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Location of control of the Silent Promise sea and the river coming from Fin's End.
+description: "Tritonya: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/Fin's end/index
   - settings/Aylbyia/index

@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: The orcish communities harbour some humans, their spawn sometimes wish to have another life and seek it within the limits of other territories.
+description: "Half-orc: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Society/Ancestries/Ancestries

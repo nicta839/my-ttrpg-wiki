@@ -9,7 +9,7 @@ tags:
   - category/factions
 category: Factions
 visibility: public
-description: Band of Blades Blue Council Crystalsmith Delvers Golden Mask Kingdom Orcs and Goblinoids Queendom Scaled Ones Shadowhand Shaïdin Sparrow Trading Company Tall Peaks The Coin The Great Houses of…
+description: "List of factions: Factions entry for Aylbyia."
 related:
   - settings/Aylbyia/Factions/index
   - settings/Aylbyia/index

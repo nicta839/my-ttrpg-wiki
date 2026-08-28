@@ -6,7 +6,7 @@ tags:
   - type/rule
 category: Homebrew
 visibility: public
-description: "There are several ways of doing experience points. Here are some alternatives that we could explore in the game. We should decide this at session 0 and can of course be changed as we go:"
+description: "Experience points: Homebrew entry."
 related:
   - running-the-game/Homebrew/index
   - running-the-game/Homebrew/Homebrew rules

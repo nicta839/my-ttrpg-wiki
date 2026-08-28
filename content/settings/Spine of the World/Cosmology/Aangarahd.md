@@ -8,7 +8,7 @@ tags:
 onenote_source: Spine of the world/World/Aangarahd
 category: Cosmology
 visibility: public
-description: Personification of three elven goddesses (Aerdrie Faenya, Hanali Celanil and Sehanine Moonbow) she is cconsidered the consort of Corellon in some clerical circles.
+description: "Aangarahd: Cosmology entry for Spine of the World."
 related:
   - settings/Spine of the World/Cosmology/index
   - settings/Spine of the World/index

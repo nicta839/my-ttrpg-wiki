@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/The Nordlands
 category: Regions
 visibility: public
-description: Mostly unspoiled wildlands and forest, this area is prime for ore prospectors and Far Coldshore is a good location from which to prepare expeditions towards the Northcap.
+description: "The Nordlands: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

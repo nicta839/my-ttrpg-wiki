@@ -6,7 +6,7 @@ tags:
   - type/rule
 category: Homebrew
 visibility: public
-description: Characters will be created together during session 0, but it doesn't hurt to do some work beforehand.
+description: "character creation variant rules: Homebrew entry."
 related:
   - running-the-game/Homebrew/Character creation/index
   - running-the-game/Homebrew/Homebrew rules

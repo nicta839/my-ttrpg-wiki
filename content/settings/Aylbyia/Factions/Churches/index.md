@@ -9,7 +9,7 @@ tags:
   - category/factions
 category: Factions
 visibility: public
-description: Church of Light Church of the Flame Worship of the Scaled Ones
+description: "Index of factions material for Aylbyia."
 related:
   - settings/Aylbyia/Factions/Churches/Church of Light
   - settings/Aylbyia/Factions/Churches/Church of the Flame

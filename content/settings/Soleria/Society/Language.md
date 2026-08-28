@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/World/Language
 category: Society
 visibility: public
-description: Ancient Solarian (this is your gnomish/celestial) Elven (they are very few in number) Dragonborn (keep to themselves mostly) Druidic Runic (how magic is written.
+description: "Language: Society entry for Soleria."
 related:
   - settings/Soleria/Society/index
   - settings/Soleria/index

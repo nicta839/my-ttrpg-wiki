@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: "Most important city: Ziebglen, Seat of Aumogonne"
+description: "Ziebglen: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/index
   - settings/Aylbyia/index

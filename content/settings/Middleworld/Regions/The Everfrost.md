@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/The Everfrost
 category: Regions
 visibility: public
-description: "Frozen wasteland that hosues the largest manawell on this plane of existence: The Frostwell."
+description: "The Everfrost: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

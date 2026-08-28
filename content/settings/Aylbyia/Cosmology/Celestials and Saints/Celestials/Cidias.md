@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: Celestial of Harmony and Order
+description: "Cidias: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Cosmology/Arcane Magic

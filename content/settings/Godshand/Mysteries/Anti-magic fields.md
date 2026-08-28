@@ -8,7 +8,7 @@ tags:
   - category/mysteries
 category: Mysteries
 visibility: public
-description: These fields of anti-magic are randomly strewn about, differ in size and their origin is unknown
+description: "Anti-magic fields: Mysteries entry for Godshand."
 related:
   - settings/Godshand/Mysteries/index
   - settings/Godshand/index

@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: "Geography: Mountain bordered region where every town and village is turned towards the sea."
+description: "The Great Houses of Humanity: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/great houses of humanity/index
   - settings/Aylbyia/index

@@ -8,7 +8,7 @@ tags:
   - category/factions
 category: Factions
 visibility: public
-description: Index of factions material for the Soleria setting.
+description: "Index of factions material for Soleria."
 related:
   - settings/Soleria/Factions/Dwarven Holds
   - settings/Soleria/Factions/Kingdom
@@ -21,7 +21,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Factions</p>
-  <p class="index-guide-purpose">Browse factions material for Soleria.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/soleria/factions/dwarven-holds"><span>Powers and factions</span><strong>Dwarven Holds</strong><em>Open this power or faction entry.</em></a>
     <a class="index-route-card" href="/settings/soleria/factions/kingdom"><span>Powers and factions</span><strong>Kingdom</strong><em>Open this power or faction entry.</em></a>

@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Named sea east of Fin's End and west of the Great Houses waters.
+description: "The Silent Promise: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/Map Features/index
   - settings/Aylbyia/index

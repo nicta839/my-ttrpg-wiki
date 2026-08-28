@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Smaller and older mountains than the Older Brother, the Hill dwarves came tumbling down some 300 years ago from them and established towns and cities within the valley east of these mountains.
+description: "The Younger Brother: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ related:
 Smaller and older mountains than the Older Brother, the [[settings/Aylbyia/Society/Ancestries/Hill|Hill]] [[settings/Aylbyia/Society/Ancestries/Dwarves|dwarves]] came tumbling down some 300 years ago from them and established towns and cities within the valley east of these mountains.
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![younger brother 2](../../../assets/aylbyia/the-younger-brother/younger-brother-2-fe22bb21e7-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-younger-brother/younger-brother-2-fe22bb21e7-full.webp)
+> [![younger brother 2](../../../assets/aylbyia/the-younger-brother/younger-brother-2-fe22bb21e7-1600.webp)](../../../assets/aylbyia/the-younger-brother/younger-brother-2-fe22bb21e7-full.webp)
 
 > [!onenote-gallery]
 > [![younger brother](../../../assets/aylbyia/the-younger-brother/younger-brother-0f16c8fb64-800.webp)](../../../assets/aylbyia/the-younger-brother/younger-brother-0f16c8fb64-full.webp)

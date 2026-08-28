@@ -8,7 +8,7 @@ tags:
 onenote_source: Spine of the world/Factions/Tar Valon
 category: Settlements
 visibility: public
-description: Capital city and center of power for the Empire.
+description: "Tar Valon: Settlements entry for Spine of the World."
 related:
   - settings/Spine of the World/Settlements/index
   - settings/Spine of the World/index

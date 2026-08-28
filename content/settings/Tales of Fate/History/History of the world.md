@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/World/History of the world
 category: History
 visibility: public
-description: The Delian Order fought death and served life. They hid the trinity artifacts from the world and disappeared.
+description: "History of the world: History entry for Tales of Fate."
 related:
   - settings/Tales of Fate/History/index
   - settings/Tales of Fate/index

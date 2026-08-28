@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: Index of cosmology material for the Soleria setting.
+description: "Index of cosmology material for Soleria."
 related:
   - settings/Soleria/Cosmology/Magic
 ---
@@ -17,7 +17,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Cosmology</p>
-  <p class="index-guide-purpose">Browse cosmology material for Soleria.</p>
   <div class="index-empty-state">
     <a href="/settings/soleria/cosmology/magic">Magic</a>
   </div>

@@ -1,5 +1,6 @@
 ---
 title: Goblinoids
+description: "Goblinoids: Society entry for Aylbyia."
 type: society
 setting: Aylbyia
 tags:

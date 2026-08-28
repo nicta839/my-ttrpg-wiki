@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Factions/Empire of Valencis
 category: Factions
 visibility: public
-description: Meritocratic Empire where you climb echelons through enterprise and valor.
+description: "Empire of Valencis: Factions entry for Middleworld."
 related:
   - settings/Middleworld/Factions/index
   - settings/Middleworld/index

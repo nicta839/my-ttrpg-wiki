@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: Thought to have been tainted by the arrival of dragons. Small communities that fled The Dracopeaks have established themselves everywhere but are viewed with suspicion these days.
+description: "Dragonborn: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Society/Ancestries/Ancestries

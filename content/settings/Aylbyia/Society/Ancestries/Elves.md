@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: Recent additions to the cycle or rebirth.
+description: "Elves: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/History/Founding myth

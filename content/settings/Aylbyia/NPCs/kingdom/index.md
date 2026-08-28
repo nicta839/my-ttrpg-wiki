@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: Index for kingdom.
+description: "Index of npcs material for Aylbyia."
 related:
   - settings/Aylbyia/NPCs/kingdom/Aralga Steelguard
   - settings/Aylbyia/NPCs/kingdom/Duran Selenor

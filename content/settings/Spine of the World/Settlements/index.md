@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Index of settlements material for the Spine of the World setting.
+description: "Index of settlements material for Spine of the World."
 related:
   - settings/Spine of the World/Settlements/Caemlyn
   - settings/Spine of the World/Settlements/Ebou Dar
@@ -21,7 +21,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Settlements</p>
-  <p class="index-guide-purpose">Browse settlements material for Spine of the World.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/spine-of-the-world/settlements/caemlyn"><span>Settlements</span><strong>Caemlyn</strong><em>Open this place entry.</em></a>
     <a class="index-route-card" href="/settings/spine-of-the-world/settlements/ebou-dar"><span>Settlements</span><strong>Ebou Dar</strong><em>Open this place entry.</em></a>

@@ -8,7 +8,7 @@ tags:
   - category/campaign
 category: Campaign
 visibility: public
-description: Index for Quests.
+description: "Index of campaign material for Godshand."
 related:
   - settings/Godshand/Campaign/Quests/wildsheep chase
   - settings/Godshand/Campaign/Quests/CSI godshand

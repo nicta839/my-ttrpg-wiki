@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: This immense forest is thought to be the home of elves.
+description: "Fin's End: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ related:
 This immense forest is thought to be the home of [[settings/Aylbyia/Society/Ancestries/Elves|elves]]. The forest is bordered by watchtowers. These are manned by soldiers of the [[settings/Aylbyia/Factions/Queendom|Queendom]] The [[settings/Aylbyia/Society/Ancestries/Elves|Elves]] that come out of the forest are usually haggard and seem to have lost all memories of what lies within the Forest itself.
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![fins end](../../../assets/aylbyia/fin-s-end/fins-end-ad13405fed-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/fin-s-end/fins-end-ad13405fed-full.webp)
+> [![fins end](../../../assets/aylbyia/fin-s-end/fins-end-ad13405fed-1600.webp)](../../../assets/aylbyia/fin-s-end/fins-end-ad13405fed-full.webp)
 
 > [!onenote-gallery]
 > [![fins end 2](../../../assets/aylbyia/fin-s-end/fins-end-2-b01d44742f-800.webp)](../../../assets/aylbyia/fin-s-end/fins-end-2-b01d44742f-full.webp)

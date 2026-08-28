@@ -8,11 +8,10 @@ tags:
 onenote_source: Worldbuilding 2/Geography/The Narthos
 category: Regions
 visibility: public
-description: Point of impact of tall crimson menhirs. It has now corrupted the land and some suspect Lake menthis as well.
+description: "The Narthos: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index
-  - settings/Middleworld/History/Founding Myth
   - settings/Middleworld/History/index
   - settings/Middleworld/Maps/index
 ---
@@ -36,7 +35,6 @@ Point of impact of tall crimson menhirs. It has now corrupted the land and some 
 
 - [[settings/Middleworld/Regions/index|Geography]]
 - [[settings/Middleworld/index|Introduction]]
-- [[GM-thoughts/Middleworld/Founding Myth|Founding Myth]]
 - [[settings/Middleworld/History/index|History]]
 - [[settings/Middleworld/Maps/index|Maps]]
 <!-- vault-enrichment:end -->

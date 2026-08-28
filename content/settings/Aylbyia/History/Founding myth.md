@@ -8,7 +8,7 @@ tags:
   - category/history
 category: History
 visibility: public
-description: The Primordial Fire of the Heavens was revealed to the Plane of Flesh by the Celestials.
+description: "Founding myth: History entry for Aylbyia."
 related:
   - settings/Aylbyia/History/index
   - settings/Aylbyia/index

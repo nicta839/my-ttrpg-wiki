@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: "High Enlightened: Maeva Delmin, priestess of the Celestials. She is said to have portents of the future sent by the Celestials themselves."
+description: "Maeva Delmin: NPCs entry for Aylbyia."
 related:
   - settings/Aylbyia/NPCs/kingdom/index
   - settings/Aylbyia/index

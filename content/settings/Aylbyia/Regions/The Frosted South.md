@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: "Most important city: South-of South Harbour The Citadel of Frozen Crystal"
+description: "The Frosted South: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
@@ -24,7 +24,7 @@ related:
 - [[settings/Aylbyia/Settlements/The Frosted South/The Citadel of Frozen Crystal|The Citadel of Frozen Crystal]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![frosted south2](../../../assets/aylbyia/the-frosted-south/frosted-south2-aa579bf1ea-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-frosted-south/frosted-south2-aa579bf1ea-full.webp)
+> [![frosted south2](../../../assets/aylbyia/the-frosted-south/frosted-south2-aa579bf1ea-1600.webp)](../../../assets/aylbyia/the-frosted-south/frosted-south2-aa579bf1ea-full.webp)
 
 > [!onenote-gallery]
 > [![frosted south](../../../assets/aylbyia/the-frosted-south/frosted-south-8ef0c3e7c4-800.webp)](../../../assets/aylbyia/the-frosted-south/frosted-south-8ef0c3e7c4-full.webp)

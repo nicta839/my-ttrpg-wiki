@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/The world/The Empire
 category: Society
 visibility: public
-description: The Empire is the first known instance of a meritocracy.
+description: "The Empire: Society entry for Middleworld."
 related:
   - settings/Middleworld/Society/index
   - settings/Middleworld/index

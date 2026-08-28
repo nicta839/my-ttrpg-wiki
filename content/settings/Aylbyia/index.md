@@ -7,7 +7,7 @@ tags:
   - type/setting
 category: Setting
 visibility: public
-description: The world is a large and unstable place. The big movers and shakers of the world are going forward with their plots.
+description: "Overview of the Aylbyia setting."
 related:
   - settings/Aylbyia/History/index
   - settings/Aylbyia/Regions/index
@@ -95,5 +95,4 @@ related:
 ## Pages
 
 - [[settings/Aylbyia/Timeline|Timeline]]
-- [[settings/Aylbyia/to-remember-notes|to-remember-notes]]
 <!-- vault-folder-index:end -->

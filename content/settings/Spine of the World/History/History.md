@@ -10,7 +10,7 @@ tags:
 onenote_source: Spine of the world/World/History
 category: History
 visibility: public
-description: -5000 Arrival of the Elves on the Prime Material Elves mercilessly push the Orcs from the land Elves start waging war on the Human Kingdom of Salidar and other human settlements Elves push this…
+description: "History: History entry for Spine of the World."
 related:
   - settings/Spine of the World/History/The Story so far
 ---
@@ -76,7 +76,6 @@ Legend:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">History</p>
-  <p class="index-guide-purpose">-5000 Arrival of the Elves on the Prime Material Elves mercilessly push the Orcs from the land Elves start waging war on the Human Kingdom of Salidar and other human settlements Elves push this…</p>
   <div class="index-empty-state">
     <a href="/settings/spine-of-the-world/history/the-story-so-far">The Story so far</a>
   </div>

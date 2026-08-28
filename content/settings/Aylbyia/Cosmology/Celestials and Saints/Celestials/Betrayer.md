@@ -1,5 +1,6 @@
 ---
 title: Betrayer
+description: "Betrayer: Cosmology entry for Aylbyia."
 type: cosmology
 setting: Aylbyia
 tags:

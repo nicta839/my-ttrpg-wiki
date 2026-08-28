@@ -8,7 +8,7 @@ tags:
   - category/organizations
 category: Organizations
 visibility: public
-description: These are a group of people groomed to become assassins and thieves.
+description: "Shadowhand: Organizations entry for Aylbyia."
 related:
   - settings/Aylbyia/Organizations/index
   - settings/Aylbyia/index
@@ -22,7 +22,7 @@ related:
 Mark: ??
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![shadowhand](../../../assets/aylbyia/shadowhand/shadowhand-187fc6aa52-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/shadowhand/shadowhand-187fc6aa52-full.webp)
+> [![shadowhand](../../../assets/aylbyia/shadowhand/shadowhand-187fc6aa52-1600.webp)](../../../assets/aylbyia/shadowhand/shadowhand-187fc6aa52-full.webp)
 
 > [!onenote-gallery]
 > [![shadowhand mage](../../../assets/aylbyia/shadowhand/shadowhand-mage-8eea689a51-800.webp)](../../../assets/aylbyia/shadowhand/shadowhand-mage-8eea689a51-full.webp)

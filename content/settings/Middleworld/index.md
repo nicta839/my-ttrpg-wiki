@@ -7,7 +7,7 @@ tags:
   - type/setting
 category: Setting
 visibility: public
-description: The world has gone through several renewals. Little is known about the times before.
+description: "Overview of the Middleworld setting."
 related:
   - settings/Middleworld/History/index
   - settings/Middleworld/Regions/index

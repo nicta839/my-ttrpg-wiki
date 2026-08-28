@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: "High Enlightened: Sahar Fengelborn, shrewd head of the Church of the Flame. She has made it known that she wishes to reunite the churches of the west and east under one banner… Her banner."
+description: "Sahar Fengelborn: NPCs entry for Aylbyia."
 related:
   - settings/Aylbyia/NPCs/Queendom/index
   - settings/Aylbyia/index

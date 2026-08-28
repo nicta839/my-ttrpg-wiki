@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: "Tower of a Thousand Stars: Location of the Crystalsmith Guild Headquarters. These dwarves built an immense crystal tower that shines light akin to a starry sky on the mountains nearby at night."
+description: "Tower of a Thousand Stars: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/index
   - settings/Aylbyia/index

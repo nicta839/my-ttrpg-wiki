@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: This is magic granted through the manipulation of the Natural flow and its understanding.
+description: "Arcane Magic: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/Cosmology/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ related:
 This is magic granted through the manipulation of the [[settings/Aylbyia/Cosmology/The Planes/Natural flow|Natural flow]] and its understanding. It manifests in the harnessing of the space within reach and touching the flow in that space. It is a dangerous effort where harnessing the chaotic energies of this flow is a task to be attempted only with the help of someone to guide you.
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![wild magic](../../../assets/aylbyia/arcane-magic/wild-magic-2e5ff8376b-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/arcane-magic/wild-magic-2e5ff8376b-full.webp)
+> [![wild magic](../../../assets/aylbyia/arcane-magic/wild-magic-2e5ff8376b-1600.webp)](../../../assets/aylbyia/arcane-magic/wild-magic-2e5ff8376b-full.webp)
 
 > [!onenote-gallery]
 > [![ND op ght 0 1](../../../assets/aylbyia/arcane-magic/blue-council-wizard-2-b62dfc4a67-800.webp)](../../../assets/aylbyia/arcane-magic/blue-council-wizard-2-b62dfc4a67-full.webp)

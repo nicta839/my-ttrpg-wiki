@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Index for great houses of humanity.
+description: "Index of regions material for Aylbyia."
 related:
   - settings/Aylbyia/Regions/great houses of humanity/Northfangs
   - settings/Aylbyia/Regions/great houses of humanity/Sinderealms

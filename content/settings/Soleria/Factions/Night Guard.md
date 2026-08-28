@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/Factions/Night Guard
 category: Factions
 visibility: public
-description: Something stirs in the region of Night's Reach...
+description: "Night Guard: Factions entry for Soleria."
 related:
   - settings/Soleria/Factions/index
   - settings/Soleria/index

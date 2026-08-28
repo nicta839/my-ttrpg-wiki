@@ -1,5 +1,6 @@
 ---
 title: Fergus Ironglove
+description: "Fergus Ironglove: NPCs entry for Aylbyia."
 type: npc
 setting: Aylbyia
 tags:

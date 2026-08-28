@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Ueli's sentient tower and workshop on the Tales of Fate world map.
+description: "Ueli's Tower: Settlements entry for Tales of Fate."
 related:
   - settings/Tales of Fate/Settlements/index
   - settings/Tales of Fate/index

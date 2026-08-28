@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: "Plause: Small fishing village"
+description: "Plause: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/The great houses of Humanity/Southfang/index
   - settings/Aylbyia/index

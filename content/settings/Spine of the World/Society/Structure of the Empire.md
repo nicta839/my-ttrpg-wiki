@@ -8,7 +8,7 @@ tags:
 onenote_source: Spine of the world/World/Structure of the Empire
 category: Society
 visibility: public
-description: "Shuraz : Supreme Emperor of All the PLanes"
+description: "Structure of the Empire: Society entry for Spine of the World."
 related:
   - settings/Spine of the World/index
 ---

@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/Organizations/Ancient Woods
 category: Organizations
 visibility: public
-description: "Nature oriented: plants, water, minerals, animals"
+description: "Ancient Woods: Organizations entry for Tales of Fate."
 related:
   - settings/Tales of Fate/Organizations/index
   - settings/Tales of Fate/index

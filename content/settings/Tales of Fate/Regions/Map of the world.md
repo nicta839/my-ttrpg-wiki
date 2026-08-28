@@ -1,5 +1,6 @@
 ---
 title: Map of the world
+description: "Map of the world: Regions entry for Tales of Fate."
 type: region
 setting: Tales of Fate
 tags:

@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Small castle that oversees the two rivers exiting Fin's End
+description: "Castle Sobet: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/Fin's end/index
   - settings/Aylbyia/index

@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Surnia and Numitorem
 category: Regions
 visibility: public
-description: Final and Westernmost province of the Empire. Poorer region of the Empire, they provide mostly stone and stoneworkd for the rest of the Empire.
+description: "Surnia and Numitorem: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

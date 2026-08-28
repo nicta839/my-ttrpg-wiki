@@ -8,7 +8,7 @@ tags:
   - category/history
 category: History
 visibility: public
-description: I cut this section into the founding myths of the world that explain the metaphysical origins of the world and then more known history of the people and the land.
+description: "History of the world: History entry for Aylbyia."
 related:
   - settings/Aylbyia/History/index
   - settings/Aylbyia/index

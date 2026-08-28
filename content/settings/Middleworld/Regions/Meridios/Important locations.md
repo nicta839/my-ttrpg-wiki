@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Important locations
 category: Regions
 visibility: public
-description: "Melvern: Location of the third obelisk, village of devout eladrins."
+description: "Important locations: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/Meridios/index
   - settings/Middleworld/index

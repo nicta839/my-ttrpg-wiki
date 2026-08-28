@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Index for Orkunsteppes.
+description: "Index of settlements material for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/Orkunsteppes/Lor
   - settings/Aylbyia/Settlements/Orkunsteppes/Unarchus

@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Index for Fin's end.
+description: "Index of settlements material for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/Fin's end/Castle Bleakunpine
   - settings/Aylbyia/Settlements/Fin's end/Castle Sobet

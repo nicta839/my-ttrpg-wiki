@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/The world/Planes
 category: Cosmology
 visibility: public
-description: Planes are physical places on this plane of existence, little pocket dimensions that are close-by.
+description: "Planes: Cosmology entry for Middleworld."
 related:
   - settings/Middleworld/Cosmology/index
   - settings/Middleworld/index

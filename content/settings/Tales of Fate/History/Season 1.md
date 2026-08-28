@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/World/Season 1
 category: History
 visibility: public
-description: Kissa escapes from the circus after meeting Orso. He gave her the impression that he was after the necklace she inherited from her grandmother.
+description: "Season 1: History entry for Tales of Fate."
 related:
   - settings/Tales of Fate/History/index
   - settings/Tales of Fate/index

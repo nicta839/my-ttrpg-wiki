@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Heart of the Central plains and seat of the Archon of Spirit.
+description: "Caemlyn: Settlements entry for Spine of the World."
 related:
   - settings/Spine of the World/Settlements/index
   - settings/Spine of the World/index

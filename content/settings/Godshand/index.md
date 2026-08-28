@@ -7,7 +7,7 @@ tags:
   - type/setting
 category: Setting
 visibility: public
-description: Godshand is a town that is an oasis within a Desert.
+description: "Overview of the Godshand setting."
 related:
   - settings/Godshand/History/History
   - settings/Godshand/Regions/index

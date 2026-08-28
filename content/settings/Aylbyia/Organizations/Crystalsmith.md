@@ -8,7 +8,7 @@ tags:
   - category/organizations
 category: Organizations
 visibility: public
-description: "Honored reputation: Best artisans there are"
+description: "Crystalsmith: Organizations entry for Aylbyia."
 related:
   - settings/Aylbyia/Organizations/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ related:
 Mark: A simple green crystal
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![crystal smiths](../../../assets/aylbyia/crystalsmith/crystal-smiths-669aff9319-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/crystalsmith/crystal-smiths-669aff9319-full.webp)
+> [![crystal smiths](../../../assets/aylbyia/crystalsmith/crystal-smiths-669aff9319-1600.webp)](../../../assets/aylbyia/crystalsmith/crystal-smiths-669aff9319-full.webp)
 <!-- onenote-media:end -->
 
 Honored reputation: Best artisans there are

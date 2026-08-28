@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: "Portfolio: idealism, justice Symbols: the sun, scales Whispers to those who keep justice, appreciates honesty and striving for the betterment of one's environment."
+description: "Aara: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials and Saints

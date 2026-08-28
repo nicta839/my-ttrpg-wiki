@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Ruins of Gomnigan
 category: Regions
 visibility: public
-description: Ruins of an ancient kingdom.
+description: "Ruins of Gomnigan: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

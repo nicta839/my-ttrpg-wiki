@@ -8,7 +8,7 @@ tags:
 onenote_source: Spine of the world/Factions/Dwarven Kingdom
 category: Factions
 visibility: public
-description: Fractured people after the loss of their last queen to an assassin. The royal bloodline is thought to be extinct.
+description: "Dwarven Kingdom: Factions entry for Spine of the World."
 related:
   - settings/Spine of the World/Factions/index
   - settings/Spine of the World/index

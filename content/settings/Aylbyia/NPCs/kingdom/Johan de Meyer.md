@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: "King Johan de Meyer: Leader of The Platsmoor Kingdom. Seems straightforward and tends to hide his tactical mind behind the outward appearance of his handicap."
+description: "Johan de Meyer: NPCs entry for Aylbyia."
 related:
   - settings/Aylbyia/NPCs/kingdom/index
   - settings/Aylbyia/index

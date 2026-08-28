@@ -6,7 +6,7 @@ tags:
   - type/rule
 category: Homebrew
 visibility: public
-description: "In order for you to make a background of your own you need to:"
+description: "Backgrounds: Homebrew entry."
 related:
   - running-the-game/Homebrew/Character creation/index
   - running-the-game/Homebrew/Character creation/character creation variant rules

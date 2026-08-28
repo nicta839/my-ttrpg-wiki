@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Organizations/Hunters
 category: Organizations
 visibility: public
-description: Used to go around killing dangerous creatures for people. Reduced to barely just a few members after the great Lycan incident.
+description: "Hunters: Organizations entry for Middleworld."
 related:
   - settings/Middleworld/Organizations/index
   - settings/Middleworld/index

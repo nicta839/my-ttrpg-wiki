@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Named grasslands region on the Soleria world map.
+description: "Fleurian Grasslands: Regions entry for Soleria."
 related:
   - settings/Soleria/Regions/Map Features/index
   - settings/Soleria/index

@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: "Portfolio: compassion, tradition Symbols: A tree with green antlers Care for others if you also wish to be cared for in your time of need."
+description: "Elone: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials and Saints

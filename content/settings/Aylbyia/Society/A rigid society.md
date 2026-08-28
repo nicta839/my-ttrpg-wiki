@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: Under this section you will find a description of the society and get a feel for how things work. A lot of bloodline matters are traced through the motherline.
+description: "A rigid society: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/Society/index
   - settings/Aylbyia/index

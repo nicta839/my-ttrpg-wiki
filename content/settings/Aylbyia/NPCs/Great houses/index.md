@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: Index for Great houses.
+description: "Index of npcs material for Aylbyia."
 related:
   - settings/Aylbyia/NPCs/Great houses/Coral/index
   - settings/Aylbyia/NPCs/Great houses/Overstar/index

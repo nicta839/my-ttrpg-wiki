@@ -8,7 +8,7 @@ tags:
   - category/factions
 category: Factions
 visibility: public
-description: Index of factions material for the Spine of the World setting.
+description: "Index of factions material for Spine of the World."
 related:
   - settings/Spine of the World/Factions/Dwarven Kingdom
   - settings/Spine of the World/Factions/Ris'san Dameno
@@ -20,7 +20,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Factions</p>
-  <p class="index-guide-purpose">Browse factions material for Spine of the World.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/spine-of-the-world/factions/dwarven-kingdom"><span>Powers and factions</span><strong>Dwarven Kingdom</strong><em>Open this power or faction entry.</em></a>
     <a class="index-route-card" href="/settings/spine-of-the-world/factions/ris'san-dameno"><span>Threats</span><strong>Ris'san Dameno</strong><em>Open this power or faction entry.</em></a>

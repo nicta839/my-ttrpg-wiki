@@ -8,7 +8,7 @@ tags:
   - category/campaign
 category: Campaign
 visibility: public
-description: Index for Rumors.
+description: "Index of campaign material for Godshand."
 related:
   - settings/Godshand/Campaign/Rumors/Eclipse
   - settings/Godshand/Campaign/Rumors/Shape of a Hand

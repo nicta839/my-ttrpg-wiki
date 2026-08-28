@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/World/Magic
 category: Cosmology
 visibility: public
-description: Practitioners of magic are kept under a tight leash after the events that unfolded during Alera's rampage.
+description: "Magic: Cosmology entry for Soleria."
 related:
   - settings/Soleria/Cosmology/index
   - settings/Soleria/index

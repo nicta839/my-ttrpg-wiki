@@ -9,7 +9,7 @@ tags:
   - type/index
 category: Cosmology
 visibility: public
-description: Aara Elone Emtar Inir Kodall Olan Cidias The Betrayer
+description: "Celestials: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Aara
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Betrayer

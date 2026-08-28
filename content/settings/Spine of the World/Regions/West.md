@@ -8,7 +8,7 @@ tags:
 onenote_source: Spine of the world/Factions/West
 category: Regions
 visibility: public
-description: Western region anchored by Ebou Dar and its crystal towers.
+description: "West: Regions entry for Spine of the World."
 related:
   - settings/Spine of the World/Regions/index
   - settings/Spine of the World/index

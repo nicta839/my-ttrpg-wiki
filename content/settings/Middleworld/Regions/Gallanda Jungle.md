@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Gallanda jungle
 category: Regions
 visibility: public
-description: Mostly unexplored land. An unexperienced teleporter stranded themselves in the middle of it and have reported that there is a forest of trees made of glass in the middle of it.
+description: "Gallanda jungle: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

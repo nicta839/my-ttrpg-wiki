@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Factions/Askalia
 category: Factions
 visibility: public
-description: Working wood, forestry and hunting. Quiet people who tend to the land.
+description: "Askalia: Factions entry for Middleworld."
 related:
   - settings/Middleworld/Factions/index
   - settings/Middleworld/index

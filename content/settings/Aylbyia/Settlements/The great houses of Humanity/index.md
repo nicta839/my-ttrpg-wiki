@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Index for The great houses of Humanity.
+description: "Index of settlements material for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/The great houses of Humanity/Sinderealms/index
   - settings/Aylbyia/Settlements/The great houses of Humanity/Southfang/index

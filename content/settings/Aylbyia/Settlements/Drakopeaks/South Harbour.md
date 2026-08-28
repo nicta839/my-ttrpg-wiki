@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Only means of getting onto this part of the continent without going through the Twilight.
+description: "South Harbour: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/Drakopeaks/index
   - settings/Aylbyia/index

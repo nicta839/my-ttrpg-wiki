@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Reminiscnent in name to the Corrupted city of Tavik, this City was a fortified castle meant to stop the Orcish Warbands from coming into Queendom territory.
+description: "Tavik Nurlowk: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/index
   - settings/Aylbyia/index

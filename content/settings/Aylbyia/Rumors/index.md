@@ -8,7 +8,7 @@ tags:
   - category/rumors
 category: Rumors
 visibility: public
-description: Index for Rumors.
+description: "Index of rumors material for Aylbyia."
 related: []
 ---
 # Rumors
@@ -16,7 +16,6 @@ related: []
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Rumors</p>
-  <p class="index-guide-purpose">Browse rumors material for Aylbyia.</p>
   <div class="index-empty-state">No public entries are listed here yet.</div>
 </section>
 

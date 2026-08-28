@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/Organizations/Church of Spiral
 category: Organizations
 visibility: public
-description: Religion that predicates Redemption, Love and Sacrifice; this church carries a spiral as its symbol.
+description: "Church of Spiral: Organizations entry for Tales of Fate."
 aliases:
   - Spiral Church
 related:

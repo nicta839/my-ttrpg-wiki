@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Index for The Frosted South.
+description: "Index of settlements material for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/The Frosted South/South-of South Harbour
   - settings/Aylbyia/Settlements/The Frosted South/The Citadel of Frozen Crystal

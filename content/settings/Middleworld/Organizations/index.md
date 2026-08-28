@@ -10,7 +10,7 @@ tags:
 onenote_source: Worldbuilding 2/Organizations/Organizations
 category: Organizations
 visibility: public
-description: Will add different organizations that exist within factions as we go
+description: "Organizations: Organizations entry for Middleworld."
 related:
   - settings/Middleworld/Organizations/Builder's guild
   - settings/Middleworld/Organizations/Hunters
@@ -24,7 +24,6 @@ Will add different organizations that exist within factions as we go
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Organizations</p>
-  <p class="index-guide-purpose">Will add different organizations that exist within factions as we go</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/middleworld/organizations/builder's-guild"><span>Organizations</span><strong>Builder's guild</strong><em>Open this organization entry.</em></a>
     <a class="index-route-card" href="/settings/middleworld/organizations/hunters"><span>Organizations</span><strong>Hunters</strong><em>Open this organization entry.</em></a>

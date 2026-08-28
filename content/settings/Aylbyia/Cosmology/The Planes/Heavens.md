@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: The Heavens are a place of eternal bliss that can be reached by being reincarnated and reaching a state of enlightenment.
+description: "Heavens: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Cosmology/Arcane Magic

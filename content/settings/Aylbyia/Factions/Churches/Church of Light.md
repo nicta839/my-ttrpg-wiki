@@ -8,7 +8,7 @@ tags:
   - category/factions
 category: Factions
 visibility: public
-description: This Church posits that existence is a transient state of suffering before being released into the Primordial Fire of the Heavens.
+description: "Church of Light: Factions entry for Aylbyia."
 related:
   - settings/Aylbyia/Factions/Churches/index
   - settings/Aylbyia/index

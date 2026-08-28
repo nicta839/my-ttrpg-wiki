@@ -8,7 +8,7 @@ tags:
   - category/organizations
 category: Organizations
 visibility: public
-description: Index for Organizations.
+description: "Index of organizations material for Aylbyia."
 related:
   - settings/Aylbyia/Organizations/Band of Blades
   - settings/Aylbyia/Organizations/Blue Council
@@ -24,7 +24,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Organizations</p>
-  <p class="index-guide-purpose">Browse organizations material for Aylbyia.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/aylbyia/organizations/band-of-blades"><span>Organizations</span><strong>Band of Blades</strong><em>Open this organization entry.</em></a>
     <a class="index-route-card" href="/settings/aylbyia/organizations/blue-council"><span>Organizations</span><strong>Blue Council</strong><em>Open this organization entry.</em></a>

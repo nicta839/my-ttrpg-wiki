@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Named dwarven homeland region on the Soleria world map.
+description: "Dwarven Homeland: Regions entry for Soleria."
 related:
   - settings/Soleria/Regions/Map Features/index
   - settings/Soleria/index

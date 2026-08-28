@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/World/World Map
 category: Regions
 visibility: public
-description: Shoutout to u/bavarianbayarean on reddit for the awesome map! All credits go to them.
+description: "World Map: Regions entry for Soleria."
 related:
   - settings/Soleria/Regions/index
   - settings/Soleria/index

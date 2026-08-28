@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/Organization/Guardian Druid
 category: Organizations
 visibility: public
-description: The archdruids continue their cycle of stewardship in order to fight the corruption left behind by Nerigoth, but have noticed the effort has become more challenging lately - the reason for this is…
+description: "Guardian Druid: Organizations entry for Soleria."
 related:
   - settings/Soleria/Organizations/index
   - settings/Soleria/index

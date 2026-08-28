@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: On the edge to the Twilight. This is a reinforced citadel said to host the greatest and bravest soldiers of the queendom. They sometimes raid the twilight to cull the advance of foul creatures.
+description: "Castle Bleakunpine: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/Fin's end/index
   - settings/Aylbyia/index

@@ -1,5 +1,6 @@
 ---
 title: Naruun Nierdil Ferop Dagusta XII
+description: "Naruun Nierdil Ferop Dagusta XII: NPCs entry for Aylbyia."
 type: npc
 setting: Aylbyia
 tags:

@@ -8,7 +8,7 @@ tags:
   - category/campaign
 category: Campaign
 visibility: public
-description: Index of campaign material for the Soleria setting.
+description: "Index of campaign material for Soleria."
 related:
   - settings/Soleria/Campaign/Ideas for character motivation
 ---
@@ -17,7 +17,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Campaign</p>
-  <p class="index-guide-purpose">Browse campaign material for Soleria.</p>
   <div class="index-empty-state">
     <a href="/settings/soleria/campaign/ideas-for-character-motivation">Ideas for character motivation</a>
   </div>

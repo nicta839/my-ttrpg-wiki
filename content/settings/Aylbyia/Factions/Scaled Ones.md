@@ -8,7 +8,7 @@ tags:
   - category/factions
 category: Factions
 visibility: public
-description: Although it is a recognized organization with which trade is possible, they pose a problem to the Churches in that their heretical beliefs might entice people into joining them.
+description: "Scaled Ones: Factions entry for Aylbyia."
 related:
   - settings/Aylbyia/Factions/index
   - settings/Aylbyia/index
@@ -22,7 +22,7 @@ related:
 Although it is a recognized organization with which trade is possible, they pose a problem to the Churches in that their heretical beliefs might entice people into joining them. They follow a different belief system but it is not well understood.
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![the scaled ones](../../../assets/aylbyia/scaled-ones/the-scaled-ones-ace24a1cda-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/scaled-ones/the-scaled-ones-ace24a1cda-full.webp)
+> [![the scaled ones](../../../assets/aylbyia/scaled-ones/the-scaled-ones-ace24a1cda-1600.webp)](../../../assets/aylbyia/scaled-ones/the-scaled-ones-ace24a1cda-full.webp)
 
 > [!onenote-gallery]
 > [![scaled ones](../../../assets/aylbyia/scaled-ones/scaled-ones-6ec7cbb9dc-800.webp)](../../../assets/aylbyia/scaled-ones/scaled-ones-6ec7cbb9dc-full.webp)

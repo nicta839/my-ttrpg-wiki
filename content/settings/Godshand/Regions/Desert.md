@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: The desert around the town of Godshand is unforgiving and filled with bandits and dangerous wildlife.
+description: "Desert: Regions entry for Godshand."
 related:
   - settings/Godshand/Regions/index
   - settings/Godshand/index

@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: "Unarchus: Large city constructed by the Orcs on the road to Lor."
+description: "Unarchus: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/Orkunsteppes/index
   - settings/Aylbyia/index

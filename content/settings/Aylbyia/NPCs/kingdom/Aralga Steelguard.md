@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: "Merchant: Aralga Steelguard, dwarven merchant who has taken over surpervising the merchantile affairs of the Kingdom."
+description: "Aralga Steelguard: NPCs entry for Aylbyia."
 related:
   - settings/Aylbyia/NPCs/kingdom/index
   - settings/Aylbyia/index

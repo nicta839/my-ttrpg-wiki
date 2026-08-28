@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Character creation/Allowed classes
 category: Society
 visibility: public
-description: All classes officially published are allowed.
+description: "Allowed classes: Society entry for Middleworld."
 related:
   - settings/Middleworld/Society/Character Creation/index
   - settings/Middleworld/index

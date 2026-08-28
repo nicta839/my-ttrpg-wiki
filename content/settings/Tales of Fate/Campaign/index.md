@@ -8,7 +8,7 @@ tags:
   - category/campaign
 category: Campaign
 visibility: public
-description: Index of campaign material for the Tales of Fate setting.
+description: "Index of campaign material for Tales of Fate."
 related:
   - settings/Tales of Fate/Campaign/Players/index
 ---
@@ -17,7 +17,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Campaign</p>
-  <p class="index-guide-purpose">Browse campaign material for Tales of Fate.</p>
   <div class="index-empty-state">
     <a href="/settings/tales-of-fate/campaign/players/">Players</a>
   </div>

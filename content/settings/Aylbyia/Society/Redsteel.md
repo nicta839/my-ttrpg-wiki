@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: Redsteel is mined and made into ingots through unknown means in the Dracopeaks and in Ziebglen.
+description: "Redsteel: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/Society/index
   - settings/Aylbyia/index

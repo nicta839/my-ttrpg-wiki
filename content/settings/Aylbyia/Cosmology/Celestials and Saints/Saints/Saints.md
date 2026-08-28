@@ -9,7 +9,7 @@ tags:
   - type/index
 category: Cosmology
 visibility: public
-description: Andvar Aumogonne Brulux Junon Neiben The Elder
+description: "Saints: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/Cosmology/Celestials and Saints/Saints/Andvar
   - settings/Aylbyia/Cosmology/Celestials and Saints/Saints/Aumogonne

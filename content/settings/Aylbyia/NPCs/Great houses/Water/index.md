@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: Index for Water.
+description: "Index of npcs material for Aylbyia."
 related:
   - settings/Aylbyia/NPCs/Great houses/Water/Naruun Nierdil Ferop Dagusta XII
 ---

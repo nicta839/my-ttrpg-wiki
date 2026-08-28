@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/Organization/Obsidian Army
 category: Organizations
 visibility: public
-description: Humans (particularly of the Domain of Sky) and Elves have united to form the Obsidian Army in their continued fight against Magnar, who due to the starmetal he has obtained, has gained significant…
+description: "Obsidian Army: Organizations entry for Soleria."
 related:
   - settings/Soleria/Organizations/index
   - settings/Soleria/index

@@ -6,7 +6,7 @@ tags:
   - type/guide
 category: DM-ing
 visibility: public
-description: Too often the NPCs are shown as helpless in a situation.
+description: "Agency: DM-ing entry."
 related:
   - running-the-game/How the game is and can be run
 ---

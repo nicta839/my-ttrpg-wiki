@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: "Portfolio: determinism, security Symbols: A shield, a broken tower Things happen for a good reason, sometimes you can't do anything about it. You can only prepare yourself for it."
+description: "Inir: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials and Saints

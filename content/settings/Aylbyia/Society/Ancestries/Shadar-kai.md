@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: Elves are taken in by other Shadar-Kai or Drow at a young age and taken into Frostmoot for assassin training before they become a danger for the rest of society due to their violent outbursts.
+description: "Shadar-kai: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Society/Ancestries/Ancestries

@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/Organizations/Delian Order
 category: Organizations
 visibility: public
-description: "Oath of the Delian order: I swear theDelian Oath. To serve Life, battle Death and strive to keep the Delian lore Secret."
+description: "Delian Order: Organizations entry for Tales of Fate."
 related:
   - settings/Tales of Fate/Organizations/index
   - settings/Tales of Fate/index

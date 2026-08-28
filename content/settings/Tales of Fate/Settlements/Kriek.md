@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/World/Kriek
 category: Settlements
 visibility: public
-description: Town north of Pelfort. Refugees of the advancing armies of the dead have come here. With Pelfort gone, this is the next place for the King in Red to take.
+description: "Kriek: Settlements entry for Tales of Fate."
 related:
   - settings/Tales of Fate/Settlements/index
   - settings/Tales of Fate/index

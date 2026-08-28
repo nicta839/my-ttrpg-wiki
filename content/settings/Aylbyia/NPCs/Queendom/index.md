@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: Index for Queendom.
+description: "Index of npcs material for Aylbyia."
 related:
   - settings/Aylbyia/NPCs/Queendom/Kalim Endora
   - settings/Aylbyia/NPCs/Queendom/Nasreen Ilneb

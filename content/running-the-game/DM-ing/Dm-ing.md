@@ -8,7 +8,7 @@ tags:
   - category/dm-ing
 category: DM-ing
 visibility: public
-description: Hey everyone, I am maybe your future DM or your current one.
+description: "Dm-ing: DM-ing entry."
 related:
   - running-the-game/DM-ing/Agency
 ---
@@ -28,7 +28,6 @@ The game I wish to run is a homebrewed world and a homebrewed story or something
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">DM-ing</p>
-  <p class="index-guide-purpose">Hey everyone, I am maybe your future DM or your current one.</p>
   <div class="index-empty-state">
     <a href="/running-the-game/dm-ing/agency">Agency</a>
   </div>

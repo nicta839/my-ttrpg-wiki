@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/Organization/Kaern'Dal
 category: Organizations
 visibility: public
-description: A student at Kaern'Dal (think mage college), while researching Inevar (human ancestor predating even Xavian), has discovered in old tomes the possible existence of a weapon of starmetal used by a…
+description: "Kaern'Dal: Organizations entry for Soleria."
 related:
   - settings/Soleria/Organizations/index
   - settings/Soleria/index

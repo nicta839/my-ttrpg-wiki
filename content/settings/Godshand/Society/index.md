@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: Index of society material for the Godshand setting.
+description: "Index of society material for Godshand."
 related:
   - settings/Godshand/Society/Culture
   - settings/Godshand/Society/Showing the Hand
@@ -18,7 +18,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Society</p>
-  <p class="index-guide-purpose">Browse society material for Godshand.</p>
   <div class="index-empty-state">
     <a href="/settings/godshand/society/culture">Culture</a> · <a href="/settings/godshand/society/showing-the-hand">Showing the Hand</a>
   </div>

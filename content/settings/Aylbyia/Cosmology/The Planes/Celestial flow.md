@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: Bridge allowing the Celestials to speak with mortals. This is the flow that allows for divine magic to work and for the souls of the departed to be guided into the Heavens.
+description: "Celestial flow: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Cosmology/The Planes/The Planes

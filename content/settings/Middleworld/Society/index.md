@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: Index of society material for the Middleworld setting.
+description: "Index of society material for Middleworld."
 related:
   - settings/Middleworld/Society/Character Creation/index
   - settings/Middleworld/Society/Ancestries and language
@@ -20,7 +20,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Society</p>
-  <p class="index-guide-purpose">Browse society material for Middleworld.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/middleworld/society/ancestries-and-language"><span>Character creation</span><strong>Ancestries and language</strong><em>Open this entry.</em></a>
     <a class="index-route-card" href="/settings/middleworld/society/the-empire"><span>People and culture</span><strong>The Empire</strong><em>Open this entry.</em></a>

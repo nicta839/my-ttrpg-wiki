@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: Index for Sinder.
+description: "Index of npcs material for Aylbyia."
 related:
   - settings/Aylbyia/NPCs/Great houses/Sinder/Fergus Ironglove
 ---

@@ -10,7 +10,7 @@ tags:
 onenote_source: Worldbuilding 2/Character creation/Character creation
 category: Society
 visibility: public
-description: Characters will be created together during session 0, but it doesn't hurt to do some work beforehand.
+description: "Character creation: Society entry for Middleworld."
 related:
   - settings/Middleworld/Society/Character Creation/Allowed classes
   - settings/Middleworld/Society/Character Creation/Ancestries allowed

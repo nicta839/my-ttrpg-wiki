@@ -6,7 +6,7 @@ tags:
   - category/running-the-game
 category: Running the Game
 visibility: public
-description: Index of rules, table practices, and GM notes.
+description: "Index of running the game material."
 related:
   - running-the-game/DM-ing/Dm-ing
   - running-the-game/Homebrew/index
@@ -17,7 +17,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Running the Game</p>
-  <p class="index-guide-purpose">Rules, table practices, homebrew, and GM notes for running campaigns from this vault.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/running-the-game/how-the-game-is-and-can-be-run"><span>Use at the table</span><strong>How the game is and can be run</strong><em>Open this play reference.</em></a>
     <a class="index-route-card" href="/running-the-game/homebrew/"><span>Use at the table</span><strong>Homebrew</strong><em>Open this play reference.</em></a>

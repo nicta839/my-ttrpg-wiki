@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Index for Regions.
+description: "Index of regions material for Aylbyia."
 related:
   - settings/Aylbyia/Regions/great houses of humanity/index
   - settings/Aylbyia/Regions/Map Features/index
@@ -28,7 +28,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Regions</p>
-  <p class="index-guide-purpose">Browse regions material for Aylbyia.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/aylbyia/regions/map-features/"><span>Maps and overview</span><strong>Map Features</strong><em>Open this geography entry.</em></a>
     <a class="index-route-card" href="/settings/aylbyia/regions/regions-of-the-world"><span>Regions</span><strong>Regions of the world</strong><em>Open this geography entry.</em></a>

@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: Index for Society.
+description: "Index of society material for Aylbyia."
 related:
   - settings/Aylbyia/Society/Ancestries/Ancestries
   - settings/Aylbyia/Society/A rigid society
@@ -21,7 +21,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Society</p>
-  <p class="index-guide-purpose">Browse society material for Aylbyia.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/aylbyia/society/ancestries/"><span>Character creation</span><strong>Ancestries</strong><em>Open this entry.</em></a>
     <a class="index-route-card" href="/settings/aylbyia/society/a-rigid-society"><span>People and culture</span><strong>A rigid society</strong><em>Open this entry.</em></a>

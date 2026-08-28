@@ -9,7 +9,7 @@ tags:
   - type/index
 category: History
 visibility: public
-description: This place was established as a stop on the road in the desert. Access to water has always made this oasis a place of import in the greater geography of the world.
+description: "History: History entry for Godshand."
 related: []
 ---
 
@@ -26,7 +26,6 @@ A plaza was created to have all the different zealots argue between each other a
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">History</p>
-  <p class="index-guide-purpose">This place was established as a stop on the road in the desert. Access to water has always made this oasis a place of import in the greater geography of the world.</p>
   <div class="index-empty-state">No public entries are listed here yet.</div>
 </section>
 <!-- curated-index:end -->

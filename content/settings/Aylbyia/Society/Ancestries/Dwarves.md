@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: Short individuals tied to the earth and stone. Hill Mountain
+description: "Dwarves: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Factions/Orcs and Goblinoids

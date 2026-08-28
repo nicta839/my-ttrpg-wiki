@@ -8,7 +8,7 @@ tags:
   - type/lore
 category: Society
 visibility: public
-description: Raising one's hand in front of their face (back of the hand towards the intended target) is the out-og-game equivalent of showing the finger
+description: "Showing the Hand: Society entry for Godshand."
 related:
   - settings/Godshand/Society/index
   - settings/Godshand/index

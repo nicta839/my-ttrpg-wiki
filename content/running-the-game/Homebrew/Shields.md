@@ -6,7 +6,7 @@ tags:
   - type/rule
 category: Homebrew
 visibility: public
-description: Shields just giving a +2 can be boring. Here's what I found as an alternative for a little bit more modular shielding for your characters.
+description: "Shields: Homebrew entry."
 related:
   - running-the-game/Homebrew/index
   - running-the-game/Homebrew/Homebrew rules

@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/World/Pelfort
 category: Settlements
 visibility: public
-description: Town built between 5 great mountains, it lies on a trade route.
+description: "Pelfort: Settlements entry for Tales of Fate."
 related:
   - settings/Tales of Fate/Settlements/index
   - settings/Tales of Fate/index

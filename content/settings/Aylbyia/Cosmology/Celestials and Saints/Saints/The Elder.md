@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: "The Elder: His name is unknown, but it is said that he begged the forces of nature to come to the aid of the mortals in their time of need."
+description: "The Elder: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials and Saints

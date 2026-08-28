@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Index for Meridios.
+description: "Index of regions material for Middleworld."
 related:
   - settings/Middleworld/Regions/Meridios/Important locations
 ---

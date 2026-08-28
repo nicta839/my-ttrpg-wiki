@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: "Port Shockdark: New seat of power of the House of Water, they deal mostly with the safety of sea travel within the region."
+description: "Southfang: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/great houses of humanity/index
   - settings/Aylbyia/index

@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/The world/Magic
 category: Cosmology
 visibility: public
-description: Mana pools are wells/veins that go into the crust of the planet and spew magical energy.
+description: "Magic: Cosmology entry for Middleworld."
 related:
   - settings/Middleworld/Cosmology/index
   - settings/Middleworld/index

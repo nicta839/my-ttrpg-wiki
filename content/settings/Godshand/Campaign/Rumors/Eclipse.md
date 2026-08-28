@@ -8,7 +8,7 @@ tags:
   - type/campaign
 category: Campaign
 visibility: public
-description: There is something ominous happening in the town of index every time an eclipse occurs.
+description: "Eclipse: Campaign entry for Godshand."
 related:
   - settings/Godshand/Campaign/Rumors/index
   - settings/Godshand/index

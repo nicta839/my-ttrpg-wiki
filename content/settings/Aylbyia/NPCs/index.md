@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: Index for NPCs.
+description: "Index of npcs material for Aylbyia."
 related:
   - settings/Aylbyia/NPCs/Great houses/index
   - settings/Aylbyia/NPCs/kingdom/index
@@ -19,7 +19,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">NPCs</p>
-  <p class="index-guide-purpose">Browse npcs material for Aylbyia.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/aylbyia/npcs/great-houses/"><span>Cast</span><strong>Great houses</strong><em>Open this character entry.</em></a>
     <a class="index-route-card" href="/settings/aylbyia/npcs/kingdom/"><span>Cast</span><strong>kingdom</strong><em>Open this character entry.</em></a>

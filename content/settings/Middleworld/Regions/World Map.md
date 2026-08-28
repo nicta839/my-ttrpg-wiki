@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/World Map
 category: Regions
 visibility: public
-description: This is a pretty large image. Send me a message to get the file sent to you.
+description: "World Map: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

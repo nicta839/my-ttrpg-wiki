@@ -6,7 +6,7 @@ tags:
   - category/homebrew
 category: Homebrew
 visibility: public
-description: Index for Character creation.
+description: "Index of homebrew material."
 related:
   - running-the-game/Homebrew/Character creation/Backgrounds
   - running-the-game/Homebrew/Character creation/character creation variant rules
@@ -17,7 +17,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Homebrew</p>
-  <p class="index-guide-purpose">House rules and table options gathered for quick use during play.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/running-the-game/homebrew/character-creation/backgrounds"><span>Rules and options</span><strong>Backgrounds</strong><em>Open this play reference.</em></a>
     <a class="index-route-card" href="/running-the-game/homebrew/character-creation/character-creation-variant-rules"><span>Rules and options</span><strong>character creation variant rules</strong><em>Open this play reference.</em></a>

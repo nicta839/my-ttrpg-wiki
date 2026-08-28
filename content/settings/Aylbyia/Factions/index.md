@@ -8,7 +8,7 @@ tags:
   - category/factions
 category: Factions
 visibility: public
-description: Index for Factions.
+description: "Index of factions material for Aylbyia."
 related:
   - settings/Aylbyia/Factions/Churches/index
   - settings/Aylbyia/Factions/Kingdom
@@ -26,7 +26,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Factions</p>
-  <p class="index-guide-purpose">Browse factions material for Aylbyia.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/aylbyia/factions/churches/"><span>Organizations and orders</span><strong>churches and worships of the world</strong><em>Open this power or faction entry.</em></a>
     <a class="index-route-card" href="/settings/aylbyia/factions/kingdom"><span>Powers and factions</span><strong>Kingdom</strong><em>Open this power or faction entry.</em></a>

@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: "Tavik Southfang: Ancient ruined location allowing travel to other such locations."
+description: "Tavik Southfang: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/The great houses of Humanity/Southfang/index
   - settings/Aylbyia/index

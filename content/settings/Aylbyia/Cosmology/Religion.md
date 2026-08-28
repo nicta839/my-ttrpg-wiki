@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: Once someone dies, their soul vacates their body and travels to the Astral Sea.
+description: "Religion: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/Cosmology/index
   - settings/Aylbyia/index

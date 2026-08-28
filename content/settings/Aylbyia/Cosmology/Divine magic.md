@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: These feats of magic are possible through the channeling of the divine energy that flows towards the Plane of Flesh and granted by the Celestials.
+description: "Divine magic: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/Cosmology/index
   - settings/Aylbyia/index
@@ -22,7 +22,7 @@ related:
 These feats of magic are possible through the channeling of the divine energy that flows towards the [[settings/Aylbyia/Cosmology/The Planes/Plane of Flesh|Plane of Flesh]] and granted by the [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]]. These miracles are obtained through dedicated worship of the [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]].
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![priestess](../../../assets/aylbyia/divine-magic/priestess-c2da38d92f-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/divine-magic/priestess-c2da38d92f-full.webp)
+> [![priestess](../../../assets/aylbyia/divine-magic/priestess-c2da38d92f-1600.webp)](../../../assets/aylbyia/divine-magic/priestess-c2da38d92f-full.webp)
 
 > [!onenote-gallery]
 > [![priestess 2](../../../assets/aylbyia/divine-magic/priestess-2-cee2327bf1-800.webp)](../../../assets/aylbyia/divine-magic/priestess-2-cee2327bf1-full.webp)

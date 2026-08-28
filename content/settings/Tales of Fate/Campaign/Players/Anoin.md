@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/Players/Anoin
 category: Campaign
 visibility: public
-description: Crusade veteran, he was foretold of a great future in which he will have a crucial part to play.
+description: "Anoin: Campaign entry for Tales of Fate."
 related:
   - settings/Tales of Fate/Campaign/Players/index
   - settings/Tales of Fate/index

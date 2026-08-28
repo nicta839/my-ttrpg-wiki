@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Named region on the Soleria world map.
+description: "Night's Reach: Regions entry for Soleria."
 related:
   - settings/Soleria/Regions/Map Features/index
   - settings/Soleria/index

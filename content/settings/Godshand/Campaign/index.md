@@ -8,7 +8,7 @@ tags:
   - category/campaign
 category: Campaign
 visibility: public
-description: Index of campaign material for the Godshand setting.
+description: "Index of campaign material for Godshand."
 related:
   - settings/Godshand/Campaign/Quests/index
   - settings/Godshand/Campaign/Quests/CSI godshand
@@ -20,7 +20,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Campaign</p>
-  <p class="index-guide-purpose">Browse campaign material for Godshand.</p>
   <div class="index-empty-state">
     <a href="/settings/godshand/campaign/quests/">All quests</a> · <a href="/settings/godshand/campaign/quests/csi-godshand">CSI Godshand</a> · <a href="/settings/godshand/campaign/quests/the-great-popcorn-disappearance">The Great Popcorn Disappearance</a> · <a href="/settings/godshand/campaign/rumors/">Rumors</a>
   </div>

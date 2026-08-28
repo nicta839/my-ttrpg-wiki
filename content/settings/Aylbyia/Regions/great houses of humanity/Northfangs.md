@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: "Tavik Northfang: Ancient inoperating teleportation circle Lasthost: Last village to have been claimed by House Coral."
+description: "Northfangs: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/great houses of humanity/index
   - settings/Aylbyia/index

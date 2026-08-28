@@ -8,7 +8,7 @@ tags:
   - type/lore
 category: Cosmology
 visibility: public
-description: Pantheon for the Godshand
+description: "Pantheon: Cosmology entry for Godshand."
 related:
   - settings/Godshand/Cosmology/index
   - settings/Godshand/index

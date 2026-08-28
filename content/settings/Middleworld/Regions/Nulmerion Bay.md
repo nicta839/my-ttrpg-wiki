@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Nulmerion Bay
 category: Regions
 visibility: public
-description: Unclaimed land due to the ground being very marsh-like and sinking. Some say groups of pirates and exiles have claimed it and live in small communities.
+description: "Nulmerion Bay: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: Like a lot of DnD settings, index is rich in magic.
+description: "The cosmos, gods and magic: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/Cosmology/index
   - settings/Aylbyia/index

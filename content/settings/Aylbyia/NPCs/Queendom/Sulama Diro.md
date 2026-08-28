@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: "Blessed Sword of the Heavens: Sulama Diro, she is the one who directs the troops of the church. First into the fray."
+description: "Sulama Diro: NPCs entry for Aylbyia."
 related:
   - settings/Aylbyia/NPCs/Queendom/index
   - settings/Aylbyia/index

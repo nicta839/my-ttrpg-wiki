@@ -6,11 +6,10 @@ tags:
   - type/index
 category: Wiki
 visibility: public
-description: A polished gateway to the public campaign settings, maps, lore, and table notes.
+description: "Index of wiki material."
 related:
   - settings/Aylbyia/index
   - settings/Godshand/index
-  - settings/In the Ashes/index
   - settings/Middleworld/index
   - settings/Soleria/index
   - settings/Spine of the World/index
@@ -69,13 +68,6 @@ related:
         <span>A sacred town built around a colossal hand-shaped landmark rising from an unforgiving desert.</span>
       </span>
     </a>
-    <a class="portal-card portal-card-accent portal-card-ashes" href="settings/in-the-ashes/">
-      <span class="portal-card-copy">
-        <span class="portal-card-kicker">Liegedom campaign</span>
-        <strong>In the Ashes</strong>
-        <span>A campaign frame for rebuilding power, managing a domain, and carving order out of ruin.</span>
-      </span>
-    </a>
     <a class="portal-card portal-card-image" href="settings/middleworld/">
       <span class="portal-card-copy">
         <span class="portal-card-kicker">Renewed world</span>
@@ -127,7 +119,6 @@ related:
 
 - [[settings/Aylbyia/index|Aylbyia]]
 - [[settings/Godshand/index|Godshand]]
-- [[GM-thoughts/In the Ashes/In the Ashes 1/index|In the Ashes]]
 - [[settings/Middleworld/index|Middleworld]]
 - [[settings/Soleria/index|Soleria]]
 - [[settings/Spine of the World/index|Spine of the World]]

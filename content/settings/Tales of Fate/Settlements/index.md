@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Index of settlements material for the Tales of Fate setting.
+description: "Index of settlements material for Tales of Fate."
 related:
   - settings/Tales of Fate/Settlements/Barathia
   - settings/Tales of Fate/Settlements/Cèpe
@@ -24,7 +24,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Settlements</p>
-  <p class="index-guide-purpose">Browse settlements material for Tales of Fate.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/tales-of-fate/settlements/barathia"><span>Settlements</span><strong>Barathia</strong><em>Open this place entry.</em></a>
     <a class="index-route-card" href="/settings/tales-of-fate/settlements/cèpe"><span>Settlements</span><strong>Cèpe</strong><em>Open this place entry.</em></a>

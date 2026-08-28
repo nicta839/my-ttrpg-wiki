@@ -8,23 +8,22 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: Index of society material for the Soleria setting.
+description: "Index of society material for Soleria."
 related:
   - settings/Soleria/Society/Character Creation/index
   - settings/Soleria/Society/Ancestry
   - settings/Soleria/Society/Language
-  - settings/Soleria/Society/The kingdom
+  - settings/Soleria/Organizations/The kingdom
 ---
 # Soleria — Society
 
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Society</p>
-  <p class="index-guide-purpose">Browse society material for Soleria.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/soleria/society/ancestry"><span>Character creation</span><strong>Ancestry</strong><em>Open this entry.</em></a>
     <a class="index-route-card" href="/settings/soleria/society/language"><span>People and culture</span><strong>Language</strong><em>Open this entry.</em></a>
-    <a class="index-route-card" href="/settings/soleria/society/the-kingdom"><span>People and culture</span><strong>The kingdom</strong><em>Open this entry.</em></a>
+    <a class="index-route-card" href="/settings/soleria/organizations/the-kingdom"><span>People and culture</span><strong>The kingdom</strong><em>Open this entry.</em></a>
     <a class="index-route-card" href="/settings/soleria/society/character-creation/"><span>Character creation</span><strong>Character creation</strong><em>Open this entry.</em></a>
   </div>
   <div class="index-link-groups">
@@ -39,7 +38,7 @@ related:
       <h3>People and culture</h3>
       <ul>
         <li><a href="/settings/soleria/society/language">Language</a></li>
-        <li><a href="/settings/soleria/society/the-kingdom">The kingdom</a></li>
+        <li><a href="/settings/soleria/organizations/the-kingdom">The kingdom</a></li>
       </ul>
     </section>
   </div>

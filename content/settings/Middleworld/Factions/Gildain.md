@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Factions/Gildain
 category: Factions
 visibility: public
-description: Old dwarven kingdom, extremely attached to traditions and boasts about being the rampart of the world against the Empire.
+description: "Gildain: Factions entry for Middleworld."
 related:
   - settings/Middleworld/Factions/index
   - settings/Middleworld/index

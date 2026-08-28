@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: "Region Flavor: Hilly green region where civilization has not threaded yet. Fishing villages inhabited by proud people."
+description: "Tiulasa: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ related:
 Most important city: [[settings/Aylbyia/Settlements/Hatchaka|Hatchaka]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![tiulasa people](../../../assets/aylbyia/tiulasa/tiulasa-people-24c5aa2596-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/tiulasa/tiulasa-people-24c5aa2596-full.webp)
+> [![tiulasa people](../../../assets/aylbyia/tiulasa/tiulasa-people-24c5aa2596-1600.webp)](../../../assets/aylbyia/tiulasa/tiulasa-people-24c5aa2596-full.webp)
 
 > [!onenote-gallery]
 > [![tiulasa](../../../assets/aylbyia/tiulasa/tiulasa-59325c8b68-800.webp)](../../../assets/aylbyia/tiulasa/tiulasa-59325c8b68-full.webp)

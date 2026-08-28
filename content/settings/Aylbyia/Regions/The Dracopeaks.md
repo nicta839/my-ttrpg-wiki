@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: People are not left to roam freely. You enter the city and stick to your business…Then "you go on your way, stranger".
+description: "The Dracopeaks: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ related:
 Most important city: [[settings/Aylbyia/Settlements/Drakopeaks/South Harbour|South Harbour]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![dracopeaks2](../../../assets/aylbyia/the-dracopeaks/dracopeaks2-10e2fe04bd-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-dracopeaks/dracopeaks2-10e2fe04bd-full.webp)
+> [![dracopeaks2](../../../assets/aylbyia/the-dracopeaks/dracopeaks2-10e2fe04bd-1600.webp)](../../../assets/aylbyia/the-dracopeaks/dracopeaks2-10e2fe04bd-full.webp)
 
 > [!onenote-gallery]
 > [![drakopeaks](../../../assets/aylbyia/the-dracopeaks/drakopeaks-45c4a17c4b-800.webp)](../../../assets/aylbyia/the-dracopeaks/drakopeaks-45c4a17c4b-full.webp)

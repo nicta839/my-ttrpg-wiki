@@ -7,7 +7,7 @@ tags:
   - type/setting
 category: Setting
 visibility: public
-description: Index for the Tales of Fate setting.
+description: "Overview of the Tales of Fate setting."
 related:
   - settings/Tales of Fate/History/index
   - settings/Tales of Fate/Regions/index

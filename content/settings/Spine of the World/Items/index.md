@@ -8,7 +8,7 @@ tags:
   - category/items
 category: Items
 visibility: public
-description: Index of items material for the Spine of the World setting.
+description: "Index of items material for Spine of the World."
 related:
   - settings/Spine of the World/Items/Curse of Salidar
   - settings/Spine of the World/Items/Magic armour
@@ -21,7 +21,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Items</p>
-  <p class="index-guide-purpose">Browse items material for Spine of the World.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/spine-of-the-world/items/curse-of-salidar"><span>Items</span><strong>Curse of Salidar</strong><em>Open this entry.</em></a>
     <a class="index-route-card" href="/settings/spine-of-the-world/items/magic-armour"><span>Items</span><strong>Magic armour</strong><em>Open this entry.</em></a>

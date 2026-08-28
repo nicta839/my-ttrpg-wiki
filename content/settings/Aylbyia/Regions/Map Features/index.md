@@ -7,7 +7,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Index for Map Features.
+description: "Index of regions material for Aylbyia."
 related:
   - settings/Aylbyia/Regions/Map Features/Advenza
   - settings/Aylbyia/Regions/Map Features/Bay of Peril

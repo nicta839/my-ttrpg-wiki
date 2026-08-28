@@ -8,7 +8,7 @@ tags:
   - category/factions
 category: Factions
 visibility: public
-description: "Church in the West: The Church of the Flame"
+description: "Church of the Flame: Factions entry for Aylbyia."
 related:
   - settings/Aylbyia/Factions/Churches/index
   - settings/Aylbyia/index

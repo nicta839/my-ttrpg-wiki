@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Eastern Plains
 category: Regions
 visibility: public
-description: Plains that evolve into an unending and uncharted desert. Some people claim some nomads walk this desert from oasis to oasis, but no record has been found.
+description: "Eastern Plains: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

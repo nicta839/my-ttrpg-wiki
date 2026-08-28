@@ -8,7 +8,7 @@ tags:
   - category/organizations
 category: Organizations
 visibility: public
-description: Trading with them Accomplishing tasks for them Protecting their members
+description: "The Coin: Organizations entry for Aylbyia."
 related:
   - settings/Aylbyia/Organizations/index
   - settings/Aylbyia/index
@@ -21,7 +21,7 @@ related:
 Mark: A golden coin
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![the coin](../../../assets/aylbyia/the-coin/the-coin-fea9f382cc-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-coin/the-coin-fea9f382cc-full.webp)
+> [![the coin](../../../assets/aylbyia/the-coin/the-coin-fea9f382cc-1600.webp)](../../../assets/aylbyia/the-coin/the-coin-fea9f382cc-full.webp)
 
 > [!onenote-gallery]
 > [![the coin 2](../../../assets/aylbyia/the-coin/the-coin-2-3057278c06-800.webp)](../../../assets/aylbyia/the-coin/the-coin-2-3057278c06-full.webp)

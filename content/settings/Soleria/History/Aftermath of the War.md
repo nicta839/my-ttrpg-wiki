@@ -8,14 +8,14 @@ tags:
 onenote_source: SOleria/World/Aftermath of the War
 category: History
 visibility: public
-description: The proxy war of Suriel and Nerigoth and the subsequent rampage of Alera put an immediate end to all enmities before the continent plunged into complete destruction.
+description: "Aftermath of the War: History entry for Soleria."
 aliases:
   - Alera's rampage
 related:
   - settings/Soleria/History/index
   - settings/Soleria/index
   - settings/Soleria/Cosmology/Magic
-  - settings/Soleria/Society/The kingdom
+  - settings/Soleria/Organizations/The kingdom
   - settings/Soleria/Regions/Map Features/Night's Reach
   - settings/Soleria/Factions/Pyreborn
   - settings/Soleria/Organizations/Empyrean Guard

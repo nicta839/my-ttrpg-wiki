@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Orvion wildlands
 category: Regions
 visibility: public
-description: Wildlands that have the only road to the Varesh desert. This flatland is home to a sleeping volcano called the Obsidian Mountain. It is said this mountain is a gateway to the elemental plane of Earth
+description: "Orvion wildlands: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

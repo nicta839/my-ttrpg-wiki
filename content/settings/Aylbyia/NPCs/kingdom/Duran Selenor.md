@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: "Archmage: Duran Selenor, battelfield mage. He teaches at the military academy."
+description: "Duran Selenor: NPCs entry for Aylbyia."
 related:
   - settings/Aylbyia/NPCs/kingdom/index
   - settings/Aylbyia/index

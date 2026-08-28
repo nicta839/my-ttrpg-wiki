@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: Index for Cosmology.
+description: "Index of cosmology material for Godshand."
 related:
   - settings/Godshand/Cosmology/Pantheon
   - settings/Godshand/index
@@ -18,7 +18,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Cosmology</p>
-  <p class="index-guide-purpose">Browse cosmology material for Godshand.</p>
   <div class="index-empty-state"><a href="/settings/godshand/cosmology/pantheon">Pantheon</a></div>
 </section>
 

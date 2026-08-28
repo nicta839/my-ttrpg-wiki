@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: "Port Shockdark: New seat of power of the House of Water, they deal mostly with the safety of sea travel within the region."
+description: "Port Shockdark: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/The great houses of Humanity/Southfang/index
   - settings/Aylbyia/index

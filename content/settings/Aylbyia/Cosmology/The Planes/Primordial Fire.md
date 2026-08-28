@@ -1,5 +1,6 @@
 ---
 title: Primordial Fire
+description: "Primordial Fire: Cosmology entry for Aylbyia."
 type: cosmology
 setting: Aylbyia
 tags:

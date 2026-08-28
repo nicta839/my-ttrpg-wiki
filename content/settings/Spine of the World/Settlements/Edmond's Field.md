@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Quiet halfling community established, according to legend, by Edmond Leafsinger.
+description: "Edmond's Field: Settlements entry for Spine of the World."
 related:
   - settings/Spine of the World/Settlements/index
   - settings/Spine of the World/index

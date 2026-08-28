@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Character creation/Ancestries allowed
 category: Society
 visibility: public
-description: All ancestries presented in the world section are allowed.
+description: "Ancestries allowed: Society entry for Middleworld."
 related:
   - settings/Middleworld/Society/Character Creation/index
   - settings/Middleworld/index

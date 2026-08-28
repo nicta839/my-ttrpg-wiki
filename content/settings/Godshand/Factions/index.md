@@ -8,7 +8,7 @@ tags:
   - category/factions
 category: Factions
 visibility: public
-description: Index for Factions.
+description: "Index of factions material for Godshand."
 related: []
 ---
 # Factions
@@ -16,7 +16,6 @@ related: []
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Factions</p>
-  <p class="index-guide-purpose">Browse factions material for Godshand.</p>
   <div class="index-empty-state">No public entries are listed here yet.</div>
 </section>
 

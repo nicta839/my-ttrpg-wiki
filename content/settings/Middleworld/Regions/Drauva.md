@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Drauva
 category: Regions
 visibility: public
-description: Land that was first claimed a few years ago by Gildain.
+description: "Drauva: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

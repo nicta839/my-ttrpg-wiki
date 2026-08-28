@@ -6,7 +6,7 @@ tags:
   - type/rule
 category: Homebrew
 visibility: public
-description: This is a variant on character creation inspired by the one used in Pathfinder second edition.
+description: "PF2e variant: Homebrew entry."
 related:
   - running-the-game/Homebrew/Character creation/index
   - running-the-game/Homebrew/Character creation/character creation variant rules

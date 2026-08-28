@@ -9,7 +9,7 @@ tags:
   - type/index
 category: Cosmology
 visibility: public
-description: There is a Natural flow circulating energies of life and death between Sombra and Lumina.
+description: "The Planes: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/Cosmology/The Planes/Astral Sea
   - settings/Aylbyia/Cosmology/The Planes/Celestial flow
@@ -27,7 +27,7 @@ related:
 The planes of existence exist as such:
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![Heavens Celestial F bw Plane of Flesh](../../../../assets/aylbyia/the-planes/planes-aylbiya-b67d5e55dd-1600.webp)](../../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-planes/planes-aylbiya-b67d5e55dd-full.webp)
+> [![Heavens Celestial F bw Plane of Flesh](../../../../assets/aylbyia/the-planes/planes-aylbiya-b67d5e55dd-1600.webp)](../../../../assets/aylbyia/the-planes/planes-aylbiya-b67d5e55dd-full.webp)
 <!-- onenote-media:end -->
 
 There is a [[settings/Aylbyia/Cosmology/The Planes/Natural flow|Natural flow]] circulating energies of life and death between [[settings/Aylbyia/Cosmology/The Planes/Sombra|Sombra]] and [[settings/Aylbyia/Cosmology/The Planes/Lumina|Lumina]]. The [[settings/Aylbyia/Cosmology/The Planes/Celestial flow|Celestial flow]] showers with divine energy the [[settings/Aylbyia/Cosmology/The Planes/Plane of Flesh|Plane of Flesh]]. Traversing through the [[settings/Aylbyia/Cosmology/The Planes/ethereal plane|ethereal plane]] allows a person to listen into those flows. Beyond the flows lie the [[settings/Aylbyia/Cosmology/The Planes/Astral Sea|Astral Sea]], an immense expanse of nothingness, dotted by the stars. Here, the dead await to be welcomed back into the flow by the [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]] or to ascend.

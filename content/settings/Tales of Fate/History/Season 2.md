@@ -8,7 +8,7 @@ tags:
 onenote_source: Tales of Fate/World/Season 2
 category: History
 visibility: public
-description: The party arrives in the resplendent city of Barathia after a harrowing crossing of the desert.
+description: "Season 2: History entry for Tales of Fate."
 related:
   - settings/Tales of Fate/History/index
   - settings/Tales of Fate/index

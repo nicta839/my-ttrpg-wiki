@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Vesna and Iskara
 category: Regions
 visibility: public
-description: Granary and bridge to the western provinces of the Empire. They also control land and sea trading routes with the Varesh.
+description: "Vesna and Iskara: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

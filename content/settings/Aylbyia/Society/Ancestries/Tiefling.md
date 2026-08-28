@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: Humanoids touched by the corrupted aura of the Twilight.
+description: "Tiefling: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Regions/Twilight

@@ -8,7 +8,7 @@ tags:
   - category/factions
 category: Factions
 visibility: public
-description: "War: Extensive use of the church's resources to wage war. Implacable soldiers who are experts at the use of magic and shock tactics to maintain peace throughout the land."
+description: "Queendom: Factions entry for Aylbyia."
 related:
   - settings/Aylbyia/Factions/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ related:
 Honored Nature: Pious
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![statue in the desert](../../../assets/aylbyia/queendom/statue-in-the-desert-8d07c76285-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/queendom/statue-in-the-desert-8d07c76285-full.webp)
+> [![statue in the desert](../../../assets/aylbyia/queendom/statue-in-the-desert-8d07c76285-1600.webp)](../../../assets/aylbyia/queendom/statue-in-the-desert-8d07c76285-full.webp)
 
 > [!onenote-gallery]
 > [![queen in the desert](../../../assets/aylbyia/queendom/queen-in-the-desert-a717fea90c-800.webp)](../../../assets/aylbyia/queendom/queen-in-the-desert-a717fea90c-full.webp)

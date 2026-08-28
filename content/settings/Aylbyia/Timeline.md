@@ -7,7 +7,7 @@ tags:
   - type/timeline
 category: Setting
 visibility: public
-description: The Celestials contact the Plane of Flesh and offer redemption First sighting of Halfling and Gnome who spread the word of the Celestials All races are touched by their call and send missionaries to…
+description: "Timeline: Setting entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/History/History of the world

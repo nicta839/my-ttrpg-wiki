@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Eastern Borderlands
 category: Regions
 visibility: public
-description: Untamed lands filled with monsters, it is said that those brave enough to thread these lands eventually reach the Sea of Visions where they may perform a ritual to have their future foretold.
+description: "Eastern Borderlands: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

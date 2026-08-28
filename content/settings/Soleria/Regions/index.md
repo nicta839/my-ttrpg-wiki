@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Index of regions material for the Soleria setting.
+description: "Index of regions material for Soleria."
 related:
   - settings/Soleria/Regions/Map Features/index
   - settings/Soleria/Regions/World Map
@@ -18,7 +18,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Regions</p>
-  <p class="index-guide-purpose">Browse regions material for Soleria.</p>
   <div class="index-empty-state">
     <a href="/settings/soleria/regions/map-features/">Map Features</a> · <a href="/settings/soleria/regions/world-map">World Map</a>
   </div>

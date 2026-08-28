@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/The world/Religion
 category: Cosmology
 visibility: public
-description: There is an understanding that some Gods are newer than others.
+description: "Religion: Cosmology entry for Middleworld."
 related:
   - settings/Middleworld/Cosmology/index
   - settings/Middleworld/index

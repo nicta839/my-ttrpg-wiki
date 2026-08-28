@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Index of regions material for the Spine of the World setting.
+description: "Index of regions material for Spine of the World."
 related:
   - settings/Spine of the World/Regions/Center
   - settings/Spine of the World/Regions/Map
@@ -20,7 +20,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Regions</p>
-  <p class="index-guide-purpose">Browse regions material for Spine of the World.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/spine-of-the-world/regions/map"><span>Maps and overview</span><strong>Map</strong><em>Open this geography entry.</em></a>
     <a class="index-route-card" href="/settings/spine-of-the-world/regions/center"><span>Regions</span><strong>Center</strong><em>Open this geography entry.</em></a>

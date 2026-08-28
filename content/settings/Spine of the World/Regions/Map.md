@@ -1,5 +1,6 @@
 ---
 title: Map
+description: "Map: Regions entry for Spine of the World."
 type: region
 setting: Spine of the World
 tags:

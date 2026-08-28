@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: Considered as the last step before enlightenment and final cycling through. They are thought to be bound to join the Heavens and the Celestials.
+description: "Aasimar: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Society/Ancestries/Ancestries

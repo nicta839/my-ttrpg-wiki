@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Factions/Vallios
 category: Factions
 visibility: public
-description: '"Mediterranean" city with a large mana well'
+description: "Vallios: Factions entry for Middleworld."
 related:
   - settings/Middleworld/Factions/index
   - settings/Middleworld/index

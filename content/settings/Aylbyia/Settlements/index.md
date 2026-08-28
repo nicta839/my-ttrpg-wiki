@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Index for Settlements.
+description: "Index of settlements material for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/Drakopeaks/index
   - settings/Aylbyia/Settlements/Fin's end/index
@@ -26,7 +26,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Settlements</p>
-  <p class="index-guide-purpose">Browse settlements material for Aylbyia.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/aylbyia/settlements/drakopeaks/"><span>Settlement groups</span><strong>Drakopeaks</strong><em>Open this place entry.</em></a>
     <a class="index-route-card" href="/settings/aylbyia/settlements/fin's-end/"><span>Settlement groups</span><strong>Fin's end</strong><em>Open this place entry.</em></a>

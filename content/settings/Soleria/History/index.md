@@ -8,7 +8,7 @@ tags:
   - category/history
 category: History
 visibility: public
-description: Index of history material for the Soleria setting.
+description: "Index of history material for Soleria."
 related:
   - settings/Soleria/History/Aftermath of the War
   - settings/Soleria/History/Origin myth
@@ -18,7 +18,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">History</p>
-  <p class="index-guide-purpose">Browse history material for Soleria.</p>
   <div class="index-empty-state">
     <a href="/settings/soleria/history/aftermath-of-the-war">Aftermath of the War</a> · <a href="/settings/soleria/history/origin-myth">Origin myth</a>
   </div>

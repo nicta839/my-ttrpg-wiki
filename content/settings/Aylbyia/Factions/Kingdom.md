@@ -9,7 +9,7 @@ tags:
   - category/factions
 category: Factions
 visibility: public
-description: "Leader: King Johan de Meyer, old veteran of the battlefield. He was maimed during a defense of Klett and was since then forced into taking a more serious hand into politics."
+description: "Kingdom: Factions entry for Aylbyia."
 related:
   - settings/Aylbyia/Factions/index
   - settings/Aylbyia/index
@@ -24,7 +24,7 @@ related:
 Honored Nature: Courage
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![-1월](../../../assets/aylbyia/kingdom/platsmoor-2-d65ecc2ab9-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/kingdom/[[settings/Aylbyia/Regions/The Platsmoor|platsmoor]]-2-d65ecc2ab9-full.webp)
+> [![-1월](../../../assets/aylbyia/kingdom/platsmoor-2-d65ecc2ab9-1600.webp)](../../../assets/aylbyia/kingdom/platsmoor-2-d65ecc2ab9-full.webp)
 
 > [!onenote-gallery]
 > [![platsmoor king](../../../assets/aylbyia/kingdom/platsmoor-king-a08b95af01-800.webp)](../../../assets/aylbyia/kingdom/platsmoor-king-a08b95af01-full.webp)

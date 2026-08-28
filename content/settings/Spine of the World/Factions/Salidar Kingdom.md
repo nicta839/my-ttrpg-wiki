@@ -8,7 +8,7 @@ tags:
 onenote_source: Spine of the world/Factions/Salidar Kingdom
 category: Factions
 visibility: public
-description: The war of the elven Empire on the human kingdoms seems to have had its most important battle in Salidar.
+description: "Salidar Kingdom: Factions entry for Spine of the World."
 related:
   - settings/Spine of the World/Factions/index
   - settings/Spine of the World/index

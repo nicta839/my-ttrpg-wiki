@@ -8,7 +8,7 @@ tags:
 onenote_source: Spine of the world/Items/Magic item
 category: Items
 visibility: public
-description: "Necklace of the Unbending: This item bestowed by The One Who May Speak In The Name Of Asmodeus, it is the spell focus of the one contractually bound to him."
+description: "Magic item: Items entry for Spine of the World."
 related:
   - settings/Spine of the World/Items/index
   - settings/Spine of the World/index

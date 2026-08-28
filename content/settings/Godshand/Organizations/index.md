@@ -8,7 +8,7 @@ tags:
   - category/organizations
 category: Organizations
 visibility: public
-description: Index for Organizations.
+description: "Index of organizations material for Godshand."
 related: []
 ---
 # Organizations
@@ -16,7 +16,6 @@ related: []
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Organizations</p>
-  <p class="index-guide-purpose">Browse organizations material for Godshand.</p>
   <div class="index-empty-state">No public entries are listed here yet.</div>
 </section>
 

@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/Factions/Dwarven Holds
 category: Factions
 visibility: public
-description: The dwarves, having regained adequate strength, have sent a small band of adventurers to pursue Ixis (Nerigoth's pet and originator of the Dwarven corruption), and set up an encampment on the…
+description: "Dwarven Holds: Factions entry for Soleria."
 related:
   - settings/Soleria/Factions/index
   - settings/Soleria/index

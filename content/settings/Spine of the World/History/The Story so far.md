@@ -8,7 +8,7 @@ tags:
 onenote_source: Spine of the world/World/The Story so far
 category: History
 visibility: public
-description: "Season 0: The Inquisition Implication of the Blackwood in a nefarious experiment involving crystals similar the the Circuits Establishment of the Inquisition by orders of the Archon of Stone…"
+description: "The Story so far: History entry for Spine of the World."
 related:
   - settings/Spine of the World/index
   - settings/Spine of the World/Settlements/Tar Valon

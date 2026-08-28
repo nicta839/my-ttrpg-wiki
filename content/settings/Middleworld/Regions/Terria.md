@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Terria
 category: Regions
 visibility: public
-description: Eastern province of the Empire, this marshland is rich in a variety of herbs and insects used for medicinal, magical or esthetical pruposes.
+description: "Terria: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

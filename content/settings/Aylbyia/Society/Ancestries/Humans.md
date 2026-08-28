@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: They make up the major part of the make up of the world.
+description: "Humans: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/History/Founding myth

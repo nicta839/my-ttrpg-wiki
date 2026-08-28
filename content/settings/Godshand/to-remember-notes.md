@@ -7,7 +7,7 @@ tags:
   - type/note
 category: Setting
 visibility: public
-description: What is the town's name? Named after after a neabry landmark Godshand Why are people in this town?
+description: "to-remember-notes: Setting entry for Godshand."
 related:
   - settings/Godshand/index
   - settings/Godshand/Regions/Desert

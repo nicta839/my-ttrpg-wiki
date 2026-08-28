@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: Silksteel is harvested from the spiders in Tiulasa.
+description: "Silksteel: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/Society/index
   - settings/Aylbyia/index

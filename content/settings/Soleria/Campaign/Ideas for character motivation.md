@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/Session 0/Ideas for character motivation
 category: Campaign
 visibility: public
-description: There are several mysteries and lost knowledge that remain to be uncovered in the world
+description: "Ideas for character motivation: Campaign entry for Soleria."
 related:
   - settings/Soleria/Campaign/index
   - settings/Soleria/index

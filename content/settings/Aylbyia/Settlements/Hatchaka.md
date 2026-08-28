@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Isolated town connected to civilization only by the sea and its port.
+description: "Hatchaka: Settlements entry for Aylbyia."
 related:
   - settings/Aylbyia/Settlements/index
   - settings/Aylbyia/index

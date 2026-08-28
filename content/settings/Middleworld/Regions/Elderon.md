@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Elderon
 category: Regions
 visibility: public
-description: A cursed location that has fallen into eternal darkness.
+description: "Elderon: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/index
   - settings/Middleworld/index

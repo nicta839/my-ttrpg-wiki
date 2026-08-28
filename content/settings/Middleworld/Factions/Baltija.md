@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Factions/Baltija
 category: Factions
 visibility: public
-description: Only known entrance built to head into the Shadow Range.
+description: "Baltija: Factions entry for Middleworld."
 related:
   - settings/Middleworld/Factions/index
   - settings/Middleworld/index

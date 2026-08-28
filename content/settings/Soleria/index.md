@@ -7,7 +7,7 @@ tags:
   - type/setting
 category: Setting
 visibility: public
-description: Index for the Soleria setting.
+description: "Overview of the Soleria setting."
 related:
   - settings/Soleria/History/index
   - settings/Soleria/Regions/index

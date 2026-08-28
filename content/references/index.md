@@ -6,7 +6,7 @@ tags:
   - category/references
 category: References
 visibility: public
-description: Index of public reference material.
+description: "Index of references material."
 related: []
 ---
 # References
@@ -14,7 +14,6 @@ related: []
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">References</p>
-  <p class="index-guide-purpose">A reserved place for public reference material and supporting notes.</p>
   <div class="index-empty-state">No public entries are listed here yet.</div>
 </section>
 

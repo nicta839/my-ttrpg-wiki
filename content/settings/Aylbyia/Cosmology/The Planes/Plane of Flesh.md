@@ -1,5 +1,6 @@
 ---
 title: Plane of Flesh
+description: "Plane of Flesh: Cosmology entry for Aylbyia."
 type: cosmology
 setting: Aylbyia
 tags:

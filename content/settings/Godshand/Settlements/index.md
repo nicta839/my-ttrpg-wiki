@@ -8,7 +8,7 @@ tags:
   - category/settlements
 category: Settlements
 visibility: public
-description: Index for Settlements.
+description: "Index of settlements material for Godshand."
 related: []
 ---
 # Settlements
@@ -16,7 +16,6 @@ related: []
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Settlements</p>
-  <p class="index-guide-purpose">Browse settlements material for Godshand.</p>
   <div class="index-empty-state">No public entries are listed here yet.</div>
 </section>
 

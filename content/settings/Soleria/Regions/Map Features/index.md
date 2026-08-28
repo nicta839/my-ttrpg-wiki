@@ -7,7 +7,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Index for Map Features.
+description: "Index of regions material for Soleria."
 related:
   - settings/Soleria/Regions/Map Features/Dwarven Homeland
   - settings/Soleria/Regions/Map Features/Elderbourne Forest

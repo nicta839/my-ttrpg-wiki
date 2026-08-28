@@ -8,7 +8,7 @@ tags:
   - category/npcs
 category: NPCs
 visibility: public
-description: Queen Nasreen Ilneb, her leadership is being put to the test with the rebellion. She was not raised by the Church of the Flame.
+description: "Nasreen Ilneb: NPCs entry for Aylbyia."
 related:
   - settings/Aylbyia/NPCs/Queendom/index
   - settings/Aylbyia/index

@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/session 0/Session 0
 category: Campaign
 visibility: public
-description: "Through session 0 we first establish everybody's expectations for the campaign:"
+description: "Session 0: Campaign entry for Middleworld."
 related:
   - settings/Middleworld/Campaign/index
   - settings/Middleworld/index

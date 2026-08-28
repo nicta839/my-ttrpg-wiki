@@ -8,7 +8,7 @@ tags:
   - category/organizations
 category: Organizations
 visibility: public
-description: Index of organizations material for the Tales of Fate setting.
+description: "Index of organizations material for Tales of Fate."
 related:
   - settings/Tales of Fate/Organizations/Ancient Woods
   - settings/Tales of Fate/Organizations/Church of Spiral
@@ -21,7 +21,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Organizations</p>
-  <p class="index-guide-purpose">Browse organizations material for Tales of Fate.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/tales-of-fate/organizations/ancient-woods"><span>Organizations</span><strong>Ancient Woods</strong><em>Open this organization entry.</em></a>
     <a class="index-route-card" href="/settings/tales-of-fate/organizations/church-of-spiral"><span>Organizations</span><strong>Church of Spiral</strong><em>Open this organization entry.</em></a>

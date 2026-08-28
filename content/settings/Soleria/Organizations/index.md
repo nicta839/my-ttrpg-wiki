@@ -8,7 +8,7 @@ tags:
   - category/organizations
 category: Organizations
 visibility: public
-description: Index of organizations material for the Soleria setting.
+description: "Index of organizations material for Soleria."
 related:
   - settings/Soleria/Organizations/Empyrean Guard
   - settings/Soleria/Organizations/Guardian Druid
@@ -20,7 +20,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Organizations</p>
-  <p class="index-guide-purpose">Browse organizations material for Soleria.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/soleria/organizations/empyrean-guard"><span>Organizations</span><strong>Empyrean Guard</strong><em>Open this organization entry.</em></a>
     <a class="index-route-card" href="/settings/soleria/organizations/guardian-druid"><span>Organizations</span><strong>Guardian Druid</strong><em>Open this organization entry.</em></a>

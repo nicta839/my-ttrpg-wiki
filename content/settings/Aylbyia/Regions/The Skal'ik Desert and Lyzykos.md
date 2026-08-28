@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: "Most important city: Junon, The Celestial City"
+description: "The Skal'ik Desert and Lyzykos: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ related:
 Most important city: [[settings/Aylbyia/Settlements/Junon, The Celestial City|Junon, The Celestial City]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![city in the desert](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/city-in-the-desert-74259f2d97-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-skal-ik-desert-and-lyzykos/city-in-the-desert-74259f2d97-full.webp)
+> [![city in the desert](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/city-in-the-desert-74259f2d97-1600.webp)](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/city-in-the-desert-74259f2d97-full.webp)
 
 > [!onenote-gallery]
 > [![location in the desert](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/location-in-the-desert-f6ce09f0d1-800.webp)](../../../assets/aylbyia/the-skal-ik-desert-and-lyzykos/location-in-the-desert-f6ce09f0d1-full.webp)

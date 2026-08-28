@@ -8,7 +8,7 @@ tags:
   - type/campaign
 category: Campaign
 visibility: public
-description: "andy: bigbear divine soul sorcerer: Crimp Padfoot Olli: Human Champion : RoBeert William: Dwarf Monk (magic initiate): peter Copperpot Alex: Human Druid: Liana"
+description: "The Great Popcorn Disappearance: Campaign entry for Godshand."
 related:
   - settings/Godshand/Campaign/Quests/index
   - settings/Godshand/index

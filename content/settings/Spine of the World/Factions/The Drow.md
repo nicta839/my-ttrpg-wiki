@@ -8,7 +8,7 @@ tags:
 onenote_source: Spine of the world/Factions/The Drow
 category: Factions
 visibility: public
-description: Newly found subrace of elves. They worship a being called the Spider Queen. They seemed to be formed of converted Eladrin and are lead by a mysterious individual who has access to the Emperor.
+description: "The Drow: Factions entry for Spine of the World."
 related:
   - settings/Spine of the World/Factions/index
   - settings/Spine of the World/index

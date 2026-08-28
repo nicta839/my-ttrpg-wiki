@@ -10,7 +10,7 @@ tags:
 onenote_source: Worldbuilding 2/Geography/Geography
 category: Regions
 visibility: public
-description: This section started getting too large to stay just within the World-tab so I decided to giv eit its own tab.
+description: "Geography: Regions entry for Middleworld."
 related:
   - settings/Middleworld/Regions/Meridios/index
   - settings/Middleworld/Regions/Bay Of Skulls
@@ -33,7 +33,6 @@ This section started getting too large to stay just within the World-tab so I de
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Regions</p>
-  <p class="index-guide-purpose">This section started getting too large to stay just within the World-tab so I decided to giv eit its own tab.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/middleworld/regions/world-map"><span>Maps and overview</span><strong>World Map</strong><em>Open this geography entry.</em></a>
     <a class="index-route-card" href="/settings/middleworld/regions/bay-of-skulls"><span>Map features</span><strong>Bay of Skulls</strong><em>Open this geography entry.</em></a>

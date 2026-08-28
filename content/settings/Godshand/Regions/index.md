@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Index of regions material for the Godshand setting.
+description: "Index of regions material for Godshand."
 related:
   - settings/Godshand/Regions/Desert
 ---
@@ -17,7 +17,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Regions</p>
-  <p class="index-guide-purpose">Browse regions material for Godshand.</p>
   <div class="index-empty-state">
     <a href="/settings/godshand/regions/desert">Desert</a>
   </div>

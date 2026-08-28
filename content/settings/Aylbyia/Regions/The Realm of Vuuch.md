@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: "Region Flavor: Dangerous place where nature has retaken its hold over."
+description: "The Realm of Vuuch: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ related:
 Most important city: [[settings/Aylbyia/Settlements/Tavik Nurlowk|Tavik Nurlowk]]
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![realm of vuuch2](../../../assets/aylbyia/the-realm-of-vuuch/realm-of-vuuch2-6e1c62a06e-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/the-realm-of-vuuch/realm-of-vuuch2-6e1c62a06e-full.webp)
+> [![realm of vuuch2](../../../assets/aylbyia/the-realm-of-vuuch/realm-of-vuuch2-6e1c62a06e-1600.webp)](../../../assets/aylbyia/the-realm-of-vuuch/realm-of-vuuch2-6e1c62a06e-full.webp)
 
 > [!onenote-gallery]
 > [![realm of vuuch](../../../assets/aylbyia/the-realm-of-vuuch/realm-of-vuuch-ad106581b7-800.webp)](../../../assets/aylbyia/the-realm-of-vuuch/realm-of-vuuch-ad106581b7-full.webp)

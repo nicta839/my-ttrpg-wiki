@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: Little is known about this landmass. Expeditions have either not returned, returned without finding a landing or sailors with missing memories.
+description: "The Eastern Continent: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index

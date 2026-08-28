@@ -8,7 +8,7 @@ tags:
   - type/lore
 category: Society
 visibility: public
-description: Different cultural elements and things that just are like that....
+description: "Culture: Society entry for Godshand."
 related:
   - settings/Godshand/Society/index
   - settings/Godshand/index

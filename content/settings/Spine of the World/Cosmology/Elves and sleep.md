@@ -8,7 +8,7 @@ tags:
 onenote_source: Spine of the world/World/Elves and sleep
 category: Cosmology
 visibility: public
-description: Elves cannot sleep. They are gifted with being sparred the burden of reliving their past msitakes and fears in the form of dreams.
+description: "Elves and sleep: Cosmology entry for Spine of the World."
 related:
   - settings/Spine of the World/Cosmology/index
   - settings/Spine of the World/index

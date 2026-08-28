@@ -9,7 +9,7 @@ tags:
   - type/index
 category: Society
 visibility: public
-description: Because of the implications of the reincarnation process, some races are more "pure" and valued as a whole.
+description: "Ancestries: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/Society/Ancestries/Aasimar
   - settings/Aylbyia/Society/Ancestries/Dragonborn

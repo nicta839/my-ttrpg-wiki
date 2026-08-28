@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/Factions/Woodfolk
 category: Factions
 visibility: public
-description: "The Elven Forest homeland has noted a mysterious development: the once-prosperous port town of Morningsong, deep within the forest and away from any conflict, has become a desolate ruin, without any…"
+description: "Woodfolk: Factions entry for Soleria."
 related:
   - settings/Soleria/Factions/index
   - settings/Soleria/index

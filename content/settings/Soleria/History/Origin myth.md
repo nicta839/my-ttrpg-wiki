@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/World/Origin myth
 category: History
 visibility: public
-description: The world is thought to have been created by a single entity that split into what is now known as Suriel and Nerigoth.
+description: "Origin myth: History entry for Soleria."
 related:
   - settings/Soleria/History/index
   - settings/Soleria/index

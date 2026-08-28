@@ -8,7 +8,7 @@ tags:
   - category/society
 category: Society
 visibility: public
-description: They operate as a middle stage in the cycle of rebirth.
+description: "Halfling: Society entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Society/Ancestries/Ancestries

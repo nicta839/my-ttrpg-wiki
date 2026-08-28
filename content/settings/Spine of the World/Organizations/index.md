@@ -8,7 +8,7 @@ tags:
   - category/organizations
 category: Organizations
 visibility: public
-description: Index of organizations material for the Spine of the World setting.
+description: "Index of organizations material for Spine of the World."
 related:
   - settings/Spine of the World/Organizations/The Grey Glove
   - settings/Spine of the World/Organizations/Whisper road
@@ -18,7 +18,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Organizations</p>
-  <p class="index-guide-purpose">Browse organizations material for Spine of the World.</p>
   <div class="index-empty-state">
     <a href="/settings/spine-of-the-world/organizations/the-grey-glove">The Grey Glove</a> · <a href="/settings/spine-of-the-world/organizations/whisper-road">Whisper road</a>
   </div>

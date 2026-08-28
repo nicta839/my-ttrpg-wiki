@@ -8,7 +8,7 @@ tags:
   - type/campaign
 category: Campaign
 visibility: public
-description: The shape of this mountain has led to many rumors springing up. Some of the observations are true, some are pure speculation.
+description: "Shape of a Hand: Campaign entry for Godshand."
 related:
   - settings/Godshand/Campaign/Rumors/index
   - settings/Godshand/index

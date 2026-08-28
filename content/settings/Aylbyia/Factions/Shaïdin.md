@@ -8,7 +8,7 @@ tags:
   - category/factions
 category: Factions
 visibility: public
-description: "Shame made Flesh: Creatures of the Twilight."
+description: "Shaïdin: Factions entry for Aylbyia."
 related:
   - settings/Aylbyia/Factions/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ Shame made Flesh:
 Creatures of the [[settings/Aylbyia/Regions/Twilight|Twilight]]. Twisted beings that are said to be manifestations of our sins by the Church. They are vile tempting creatures that are there to test your strength of will and faith in the [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Celestials|Celestials]].
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![twilight 3](../../../assets/aylbyia/shaidin/twilight-3-6f543dcc9a-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/shaidin/[[settings/Aylbyia/Regions/Twilight|twilight]]-3-6f543dcc9a-full.webp)
+> [![twilight 3](../../../assets/aylbyia/shaidin/twilight-3-6f543dcc9a-1600.webp)](../../../assets/aylbyia/shaidin/twilight-3-6f543dcc9a-full.webp)
 
 > [!onenote-gallery]
 > [![twilight 4](../../../assets/aylbyia/shaidin/twilight-4-d6bb1f9bbf-800.webp)](../../../assets/aylbyia/shaidin/twilight-4-d6bb1f9bbf-full.webp)

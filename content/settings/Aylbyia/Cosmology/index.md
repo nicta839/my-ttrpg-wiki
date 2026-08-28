@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: Index for Cosmology.
+description: "Index of cosmology material for Aylbyia."
 related:
   - settings/Aylbyia/Cosmology/Celestials and Saints/Celestials and Saints
   - settings/Aylbyia/Cosmology/The Planes/The Planes
@@ -22,7 +22,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Cosmology</p>
-  <p class="index-guide-purpose">Browse cosmology material for Aylbyia.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/aylbyia/cosmology/arcane-magic"><span>Core concepts</span><strong>Arcane Magic</strong><em>Open this entry.</em></a>
     <a class="index-route-card" href="/settings/aylbyia/cosmology/celestials-and-saints/"><span>Planes and powers</span><strong>Celestials and Saints</strong><em>Open this entry.</em></a>

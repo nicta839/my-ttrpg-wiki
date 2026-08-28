@@ -8,7 +8,7 @@ tags:
   - category/cosmology
 category: Cosmology
 visibility: public
-description: These planes are the energy sources that allow magic to happen as well as permit the flow of time, life and death.
+description: "Lumina: Cosmology entry for Aylbyia."
 related:
   - settings/Aylbyia/index
   - settings/Aylbyia/Cosmology/The Planes/The Planes

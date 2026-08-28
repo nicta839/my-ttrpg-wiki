@@ -8,7 +8,7 @@ tags:
 onenote_source: Spine of the world/Factions/North
 category: Regions
 visibility: public
-description: This is a dense tropical forest that has more than just orcs in it.
+description: "North: Regions entry for Spine of the World."
 related:
   - settings/Spine of the World/Regions/index
   - settings/Spine of the World/index

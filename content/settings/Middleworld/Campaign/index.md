@@ -8,7 +8,7 @@ tags:
   - category/campaign
 category: Campaign
 visibility: public
-description: Index of campaign material for the Middleworld setting.
+description: "Index of campaign material for Middleworld."
 related:
   - settings/Middleworld/Campaign/Session 0
 ---
@@ -17,7 +17,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Campaign</p>
-  <p class="index-guide-purpose">Browse campaign material for Middleworld.</p>
   <div class="index-empty-state">
     <a href="/settings/middleworld/campaign/session-0">Session 0</a>
   </div>

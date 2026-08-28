@@ -8,7 +8,7 @@ tags:
 onenote_source: SOleria/Character creation/Allowed classes
 category: Society
 visibility: public
-description: All officially published classes are allowed from the PHB and Xanathar's.
+description: "Allowed classes: Society entry for Soleria."
 related:
   - settings/Soleria/Society/Character Creation/index
   - settings/Soleria/index

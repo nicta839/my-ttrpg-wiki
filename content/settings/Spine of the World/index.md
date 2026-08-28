@@ -7,7 +7,7 @@ tags:
   - type/setting
 category: Setting
 visibility: public
-description: Index for the Spine of the World setting.
+description: "Overview of the Spine of the World setting."
 related:
   - settings/Spine of the World/History/History
   - settings/Spine of the World/Regions/index

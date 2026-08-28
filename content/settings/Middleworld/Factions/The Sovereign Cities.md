@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/Factions/The Sovereign Cities
 category: Factions
 visibility: public
-description: Group of mining cities that exploit the troubles in the Empire to gather more resources.
+description: "The Sovereign Cities: Factions entry for Middleworld."
 related:
   - settings/Middleworld/Factions/index
   - settings/Middleworld/index

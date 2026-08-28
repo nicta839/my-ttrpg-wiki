@@ -8,7 +8,7 @@ tags:
   - category/factions
 category: Factions
 visibility: public
-description: Index of factions material for the Middleworld setting.
+description: "Index of factions material for Middleworld."
 related:
   - settings/Middleworld/Factions/Threats/index
   - settings/Middleworld/Factions/Askalia
@@ -26,7 +26,6 @@ related:
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Factions</p>
-  <p class="index-guide-purpose">Browse factions material for Middleworld.</p>
   <div class="index-route-grid">
     <a class="index-route-card" href="/settings/middleworld/factions/askalia"><span>Powers and factions</span><strong>Askalia</strong><em>Open this power or faction entry.</em></a>
     <a class="index-route-card" href="/settings/middleworld/factions/baltija"><span>Powers and factions</span><strong>Baltija</strong><em>Open this power or faction entry.</em></a>

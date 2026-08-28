@@ -8,7 +8,7 @@ tags:
   - category/regions
 category: Regions
 visibility: public
-description: The area that was said to have been the final battlefield of the war waged against the Heavens by the Betrayer.
+description: "Twilight: Regions entry for Aylbyia."
 related:
   - settings/Aylbyia/Regions/index
   - settings/Aylbyia/index
@@ -23,7 +23,7 @@ related:
 The area that was said to have been the final battlefield of the war waged against the [[settings/Aylbyia/Cosmology/The Planes/Heavens|Heavens]] by the [[settings/Aylbyia/Cosmology/Celestials and Saints/Celestials/Betrayer|Betrayer]]. It is an area from which nothing grows and that corrupts all those who live inside it. The people living at its border eventually turn into [[settings/Aylbyia/Society/Ancestries/Tiefling|tieflings]].
 <!-- onenote-media:start -->
 > [!onenote-hero]
-> [![twilight](../../../assets/aylbyia/twilight/twilight-a9585674b9-1600.webp)](../../../assets/[[settings/Aylbyia/index|aylbyia]]/twilight/twilight-a9585674b9-full.webp)
+> [![twilight](../../../assets/aylbyia/twilight/twilight-a9585674b9-1600.webp)](../../../assets/aylbyia/twilight/twilight-a9585674b9-full.webp)
 
 > [!onenote-gallery]
 > [![twilight 5](../../../assets/aylbyia/twilight/twilight-5-a29b1effdd-800.webp)](../../../assets/aylbyia/twilight/twilight-5-a29b1effdd-full.webp)

@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/The world/Ancestries and language
 category: Society
 visibility: public
-description: "There are several ancestries that can be traced in this world: Fey folk, Giant Spawn, Plane Touched, Dragon influenced, Old Races, Short Folk and humans."
+description: "Ancestries and language: Society entry for Middleworld."
 related:
   - settings/Middleworld/Society/index
   - settings/Middleworld/index

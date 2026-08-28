@@ -6,7 +6,7 @@ tags:
   - type/guide
 category: Running the Game
 visibility: public
-description: Here are notes about how I want to run the game, dealing with Agency, Dm-ing style and some Homebrew rules that we can discuss during session 0
+description: "How the game is and can be run: Running the Game entry."
 related:
   - running-the-game/index
   - running-the-game/DM-ing/Agency
@@ -14,7 +14,7 @@ related:
   - running-the-game/Homebrew/Homebrew rules
 ---
 
-Here are notes about how I want to run the game, dealing with [[Agency]], [[Dm-ing]] style and some [[Homebrew rules]] that we can discuss during session 0.
+Here are notes about how I want to run the game, dealing with [[Agency]], [[running-the-game/DM-ing/Dm-ing|DM-ing]] style and some [[Homebrew rules]] that we can discuss during session 0.
 
 Below you will find a quick rundown of me as a GM. I tried to keep everything tight and in a few sentences. Writing concisely is tough so bear with me.
 

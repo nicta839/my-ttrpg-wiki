@@ -8,7 +8,7 @@ tags:
 onenote_source: Worldbuilding 2/The world/The people
 category: Society
 visibility: public
-description: In this world, the most important units are "families" then "communities".
+description: "The people: Society entry for Middleworld."
 related:
   - settings/Middleworld/Society/index
   - settings/Middleworld/index

@@ -6,7 +6,7 @@ tags:
   - type/rule
 category: Homebrew
 visibility: public
-description: I am thinking about introducing feats to accommodate for character concepts that you could come up with.
+description: "Feats extra: Homebrew entry."
 related:
   - running-the-game/Homebrew/index
   - running-the-game/Homebrew/Homebrew rules
