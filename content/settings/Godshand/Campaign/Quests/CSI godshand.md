@@ -14,6 +14,7 @@ related:
   - settings/Godshand/index
   - settings/Godshand/Campaign/index
   - settings/Godshand/Timeline
+  - settings/Godshand/Campaign/Quests/The Great Popcorn disappearance
 ---
 
 Judges - Eldrich (dead), Sara, Mira
@@ -86,4 +87,5 @@ Hilda is an elderly woman living next to a bakery. She is the gossip of town. Sh
 - [[settings/Godshand/index|Godshand]]
 - [[settings/Godshand/Campaign/index|Godshand — Campaign]]
 - [[settings/Godshand/Timeline|Timeline]]
+- [[settings/Godshand/Campaign/Quests/The Great Popcorn disappearance|The Great Popcorn Disappearance]]
 <!-- vault-enrichment:end -->

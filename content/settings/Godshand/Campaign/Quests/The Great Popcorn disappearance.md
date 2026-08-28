@@ -1,5 +1,5 @@
 ---
-title: wildsheep chase
+title: The Great Popcorn Disappearance
 type: campaign
 setting: Godshand
 tags:
@@ -14,6 +14,8 @@ related:
   - settings/Godshand/index
   - settings/Godshand/Campaign/index
   - settings/Godshand/Timeline
+  - settings/Godshand/Campaign/Quests/CSI godshand
+  - settings/Godshand/Cosmology/Pantheon
 ---
 
 Crimp, Liana, and Peter try to get more than money out of the big transmutation wizard who got turned in to a sheep and has fallen out of style in other ways
@@ -57,4 +59,6 @@ Maude and Diane McCreary seem to be full dead
 - [[settings/Godshand/index|Godshand]]
 - [[settings/Godshand/Campaign/index|Godshand — Campaign]]
 - [[settings/Godshand/Timeline|Timeline]]
+- [[settings/Godshand/Campaign/Quests/CSI godshand|CSI Godshand]]
+- [[settings/Godshand/Cosmology/Pantheon|Pantheon]]
 <!-- vault-enrichment:end -->

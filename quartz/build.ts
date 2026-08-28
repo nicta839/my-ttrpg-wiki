@@ -2,7 +2,7 @@ import sourceMapSupport from "source-map-support"
 sourceMapSupport.install(options)
 import path from "path"
 import { PerfTimer } from "./util/perf"
-import { rm } from "fs/promises"
+import { access, rm } from "fs/promises"
 import { GlobbyFilterFunction, isGitIgnored } from "globby"
 import { styleText } from "util"
 import { parseMarkdown } from "./processors/parse"
@@ -95,6 +95,16 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const filteredContent = filterContent(ctx, parsedFiles)
 
   await emitContent(ctx, filteredContent)
+  const hasRootPage = filteredContent.some(([_tree, file]) => file.data.slug === "index")
+  if (hasRootPage) {
+    try {
+      await access(path.join(output, "index.html"))
+    } catch {
+      throw new Error(
+        `Build output is incomplete: the root page was parsed but \`${path.join(output, "index.html")}\` was not emitted`,
+      )
+    }
+  }
   console.log(
     styleText("green", `Done processing ${markdownPaths.length} files in ${perf.timeSince()}`),
   )

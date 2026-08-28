@@ -13,6 +13,9 @@ related:
   - settings/Godshand/Regions/Desert
   - settings/Godshand/Campaign/Rumors/Eclipse
   - settings/Godshand/Society/Showing the Hand
+  - settings/Godshand/Cosmology/Pantheon
+  - settings/Godshand/Mysteries/Anti-magic fields
+  - settings/Godshand/Mysteries/Strange metal shards in the ground
 ---
 
 1. What is the town's name?
@@ -26,8 +29,8 @@ related:
 3. What is something wrong or a little bit weird about this place?
 	1. tourism <> religion creates cult like behavior (tribalism around divinity, is the hand part of a body)
 	2. Everybody wants to claim and everybody has temples at the bottom
-	3. Yearly festival of religious argument: also an opportunity of healing: The Hand Debate
-	4. Naturally occurring anti-magic circle (maybe it's just antimagic mushrooms)
+	3. Yearly festival of religious argument: also an opportunity of healing: The Hand Debate, tied to the [[settings/Godshand/Cosmology/Pantheon|Pantheon]]
+	4. [[settings/Godshand/Mysteries/Anti-magic fields|Naturally occurring anti-magic fields]] (maybe it's just antimagic mushrooms)
 4. Name and describe a place that exists here? (landmark)
 	1. Cliff/waterfall/hand-of-god/
 	2. some way to make it weird
@@ -37,7 +40,7 @@ related:
 5. What are some things around? (problems, other ominous areas, etc...)
 	1. Why is it that the pointer finger grows, breaks and regrows (happens during an [[settings/Godshand/Campaign/Rumors/Eclipse|eclipse]]: the sun sits in the hand)
 	2. Why does the town seem like it changes every time an eclipse occurs
-	3. Why do I keep finding these weird metal things in my vegetable fields
+	3. Why do I keep finding these [[settings/Godshand/Mysteries/Strange metal shards in the ground|strange metal shards in the ground]] in my vegetable fields
 	4. bandits or something that burrows (ants or sandworm). THIS IS AUSTRALIA!!!
 	5. Extra extra extra wildlife danger (plants and animal)
 
@@ -50,8 +53,10 @@ related:
 - [[settings/Godshand/Regions/Desert|Desert]]
 - [[settings/Godshand/Campaign/Rumors/Eclipse|Eclipse]]
 - [[settings/Godshand/Society/Showing the Hand|Showing the Hand]]
+- [[settings/Godshand/Cosmology/Pantheon|Pantheon]]
+- [[settings/Godshand/Mysteries/Anti-magic fields|Anti-magic fields]]
+- [[settings/Godshand/Mysteries/Strange metal shards in the ground|Strange metal shards in the ground]]
 <!-- vault-enrichment:end -->
-
 
 
 

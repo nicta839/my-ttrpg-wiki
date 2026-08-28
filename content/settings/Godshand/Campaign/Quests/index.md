@@ -11,6 +11,8 @@ visibility: public
 description: Index for Quests.
 related:
   - settings/Godshand/Campaign/Quests/wildsheep chase
+  - settings/Godshand/Campaign/Quests/CSI godshand
+  - settings/Godshand/Campaign/Quests/The Great Popcorn disappearance
 ---
 
 # Quests

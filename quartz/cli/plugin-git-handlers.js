@@ -26,13 +26,17 @@ const INTERNAL_EXPORTS = new Set(["manifest", "default"])
 
 const execAsync = promisify(execCb)
 
-async function cloneWithSubdirAsync({ url, ref, subdir, pluginDir }) {
+async function cloneWithSubdirAsync({ url, ref, commit, subdir, pluginDir }) {
   const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), "quartz-plugin-"))
   try {
     if (ref) {
       await execAsync(`git clone --depth 1 --branch ${ref} "${url}" "${tmpDir}"`)
     } else {
       await execAsync(`git clone --depth 1 "${url}" "${tmpDir}"`)
+    }
+    if (commit && commit !== "unknown") {
+      await execAsync(`git fetch --depth 1 origin ${commit}`, { cwd: tmpDir })
+      await execAsync(`git checkout --detach ${commit}`, { cwd: tmpDir })
     }
     const subdirPath = path.join(tmpDir, subdir)
     if (!fs.existsSync(subdirPath)) {
@@ -836,6 +840,7 @@ export async function handlePluginInstallUnified({
             await cloneWithSubdirAsync({
               url: entry.resolved,
               ref: entry.ref,
+              commit: entry.commit,
               subdir: entry.subdir,
               pluginDir,
             })
@@ -848,7 +853,10 @@ export async function handlePluginInstallUnified({
             )
             const branchArg = entry.ref ? ` --branch ${entry.ref}` : ""
             await execAsync(`git clone --depth 1${branchArg} "${entry.resolved}" "${pluginDir}"`)
-            await execAsync(`git checkout ${entry.commit}`, { cwd: pluginDir })
+            if (entry.commit !== "unknown") {
+              await execAsync(`git fetch --depth 1 origin ${entry.commit}`, { cwd: pluginDir })
+              await execAsync(`git checkout --detach ${entry.commit}`, { cwd: pluginDir })
+            }
           }
           console.log(styleText("green", `✓ ${name} restored`))
           restoredPlugins.push({ name, pluginDir })
@@ -887,6 +895,7 @@ export async function handlePluginInstallUnified({
       console.log(styleText("green", `✓ Restored ${installed} plugin(s)`))
     } else {
       console.log(styleText("yellow", `⚠ Restored ${installed} plugin(s), ${failed} failed`))
+      throw new Error(`Failed to restore ${failed} plugin(s) from quartz.lock.json`)
     }
     return
   }
@@ -1152,6 +1161,7 @@ export async function handlePluginInstallUnified({
     console.log(styleText("green", `✓ Installed ${installed} plugin(s)`))
   } else {
     console.log(styleText("yellow", `⚠ Installed ${installed} plugin(s), ${failed} failed`))
+    throw new Error(`Failed to install ${failed} plugin(s) from quartz.lock.json`)
   }
 }
 

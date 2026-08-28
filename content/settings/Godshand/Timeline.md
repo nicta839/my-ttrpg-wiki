@@ -11,6 +11,8 @@ description: "This is a living timeline that has elements added to it as the gam
 related:
   - settings/Godshand/index
   - settings/Godshand/Campaign/Quests/wildsheep chase
+  - settings/Godshand/Campaign/Quests/CSI godshand
+  - settings/Godshand/Campaign/Quests/The Great Popcorn disappearance
 ---
 ```wiki-timeline
 source: current
@@ -35,7 +37,7 @@ A few weeks before the Festival of Master Debate
 	- They ask from their rescuee (Finebrith Shinebright) to be compensated properly (under some duress). They receive compensation in the form of: 100GP per head, Favors, Influence, Some firebreath potions
 
 
-CSI godshand happens at more or less the same time than the Great Popcorn disappearance
+[[settings/Godshand/Campaign/Quests/CSI godshand|CSI Godshand]] happens at more or less the same time as [[settings/Godshand/Campaign/Quests/The Great Popcorn disappearance|The Great Popcorn Disappearance]].
 
 
 
@@ -45,4 +47,6 @@ CSI godshand happens at more or less the same time than the Great Popcorn disapp
 
 - [[settings/Godshand/index|Godshand]]
 - [[settings/Godshand/Campaign/Quests/wildsheep chase|wildsheep chase]]
+- [[settings/Godshand/Campaign/Quests/CSI godshand|CSI Godshand]]
+- [[settings/Godshand/Campaign/Quests/The Great Popcorn disappearance|The Great Popcorn Disappearance]]
 <!-- vault-enrichment:end -->

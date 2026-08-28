@@ -9,7 +9,9 @@ tags:
 category: Cosmology
 visibility: public
 description: Index for Cosmology.
-related: []
+related:
+  - settings/Godshand/Cosmology/Pantheon
+  - settings/Godshand/index
 ---
 # Cosmology
 
@@ -17,7 +19,7 @@ related: []
 <section class="index-guide">
   <p class="index-guide-kicker">Cosmology</p>
   <p class="index-guide-purpose">Browse cosmology material for Godshand.</p>
-  <div class="index-empty-state">No public entries are listed here yet.</div>
+  <div class="index-empty-state"><a href="/settings/godshand/cosmology/pantheon">Pantheon</a></div>
 </section>
 
 ## Complete index
@@ -28,5 +30,7 @@ related: []
 <!-- wiki-explore:end -->
 
 <!-- vault-folder-index:start -->
+## Pages
 
+- [[settings/Godshand/Cosmology/Pantheon|Pantheon]]
 <!-- vault-folder-index:end -->
