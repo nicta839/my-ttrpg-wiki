@@ -1,5 +1,5 @@
 ---
-title: Culture
+title: Language
 type: lore
 setting: Godshand
 tags:
@@ -8,17 +8,16 @@ tags:
   - type/lore
 category: Society
 visibility: public
-description: "Culture: Society entry for Godshand."
+description: "Language across the planes."
 related:
   - settings/Godshand/Society/index
   - settings/Godshand/index
   - settings/Godshand/Society/Showing the Hand
 ---
 
-Different cultural elements and things that just are like that....
+It was established during the Great Popcorn Disappearance that all planar languages share the same root. So characters who speak one can understand another. However, they are distinct dialects, so you might not be able to speak or write in the other scripts, but it is intelligible between them.
 
-[[settings/Godshand/Society/Showing the Hand|Showing the Hand]]
-[[settings/Godshand/Society/Language|Language]]
+
 
 <!-- vault-enrichment:start -->
 ## Related

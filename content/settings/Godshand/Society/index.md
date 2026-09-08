@@ -11,6 +11,7 @@ visibility: public
 description: "Index of society material for Godshand."
 related:
   - settings/Godshand/Society/Culture
+  - settings/Godshand/Society/Language
   - settings/Godshand/Society/Showing the Hand
 ---
 # Godshand — Society
@@ -19,7 +20,7 @@ related:
 <section class="index-guide">
   <p class="index-guide-kicker">Society</p>
   <div class="index-empty-state">
-    <a href="/settings/godshand/society/culture">Culture</a> · <a href="/settings/godshand/society/showing-the-hand">Showing the Hand</a>
+    <a href="/settings/godshand/society/culture">Culture</a> · <a href="/settings/godshand/society/language">Language</a> · <a href="/settings/godshand/society/showing-the-hand">Showing the Hand</a>
   </div>
 </section>
 
@@ -34,5 +35,6 @@ related:
 ## Pages
 
 - [[settings/Godshand/Society/Culture|Culture]]
+- [[settings/Godshand/Society/Language|Language]]
 - [[settings/Godshand/Society/Showing the Hand|Showing the Hand]]
 <!-- vault-folder-index:end -->

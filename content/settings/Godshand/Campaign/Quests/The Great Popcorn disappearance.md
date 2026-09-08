@@ -21,10 +21,9 @@ related:
 Crimp, Liana, and Peter try to get more than money out of the big transmutation wizard who got turned in to a sheep and has fallen out of style in other ways
 
 1. Crimp: +1d4 to interactions with mages on mage business
-    
 2. Liana: 4 potions of firebreathing * (con save required)
-    
-3. Peter: future favor
+3. Peter: future favor (maybe, maybe not)
+4. Robeert has boosted farm animals
 
 Janos tells Crimp, Liana, and Peter to check on the nearby corn farm that has stopped sending corn
 
@@ -51,6 +50,18 @@ what happened after:
 - Creepy horse and stealthy kitty
 
 Maude and Diane McCreary seem to be full dead
+
+The party decides to head into the tunnel dug by Ruffles. It's a cramped space covered in black goo. Studying the goo reveals that it does not seem to behave all that well with the laws of physics or sentience. The collected goo reached for the recipient and sloshes unnaturally along the side walls.
+
+The party decides to go as slow as possible in order to avoid being seen and to be covered in goo. It does not go well and a lot of time is spent. In the pigsty established by Ruffles, the party is welcomed by a reflexive Eldritch blast from Ruffles' back crystals who they see surrounded by 4 goo pigs.
+
+A battle ensues as the party tries to defend themselves while breaking the domination of the red crystal and destroying the things controlling Ruffles. The group eventually manages to both break the crystals and to make ruffles throw up a strange-metal shaped bushel from Ruffles who reverts to "just" being a veeery large pig. Robeert reveals after trying to destroy the strange metal cob that there is a ritual of some kind happening in the cornfield. The vision he receives pushes further and lets us imagine some kind of link with the godshand and whatever lies beneath the lake and the mountain.
+
+Robeert's mind averts itself before it can be seen by whatever entity has caused this whole trouble and heads towards the ritual. The party follows and now has to try to interrupt the ritual before something bad happens.
+
+Something bad happens. A shadow demon is summoned (weakened by the efforts of the group) and begins to attack the party. Through clever use of items, sources of light and placing, the group prevents the escape of the creature and defeats it. It warns that it will not be the last and that darkness shall prevail in the end.
+
+The group happily heads back to town with the shipment of corn. Fancy new black popcorn is sure to sell well during the Debate. Janos gives additional potions of Greater Healing to the whole party as well as the +1000 spots bump in the queue. Now we wait for the debate.
 
 <!-- vault-enrichment:start -->
 ## Related
