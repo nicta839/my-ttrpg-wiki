@@ -21,6 +21,6 @@ related:
 ## Pages
 
 - [[settings/Godshand/Campaign/Quests/wildsheep chase|wildsheep chase]]
-- [[CSI godshand|CSI Godshand]]
-- [[The Great Popcorn disappearance|The Great Popcorn disappearance]]
+- [[settings/Godshand/Campaign/Quests/CSI godshand|CSI Godshand]]
+- [[settings/Godshand/Campaign/Quests/The Great Popcorn disappearance|The Great Popcorn Disappearance]]
 <!-- vault-folder-index:end -->

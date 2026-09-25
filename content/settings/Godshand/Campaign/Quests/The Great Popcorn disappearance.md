@@ -16,16 +16,19 @@ related:
   - settings/Godshand/Timeline
   - settings/Godshand/Campaign/Quests/CSI godshand
   - settings/Godshand/Cosmology/Pantheon
+  - settings/Godshand/Campaign/Quests/wildsheep chase
+  - settings/Godshand/NPCs/Janos
+  - settings/Godshand/Society/Language
 ---
 
-Crimp, Liana, and Peter try to get more than money out of the big transmutation wizard who got turned in to a sheep and has fallen out of style in other ways
+Crimp, Liana, and Peter try to get more than money out of the big transmutation wizard from [[settings/Godshand/Campaign/Quests/wildsheep chase|Wild Sheep Chase]] who got turned into a sheep and has fallen out of style in other ways
 
 1. Crimp: +1d4 to interactions with mages on mage business
 2. Liana: 4 potions of firebreathing * (con save required)
 3. Peter: future favor (maybe, maybe not)
 4. Robeert has boosted farm animals
 
-Janos tells Crimp, Liana, and Peter to check on the nearby corn farm that has stopped sending corn
+[[settings/Godshand/NPCs/Janos|Janos]] tells Crimp, Liana, and Peter to check on the nearby corn farm that has stopped sending corn
 
 Crimp purchases an ox named Cherryblossom
 
@@ -37,7 +40,7 @@ Find the farmhouse and silo quiet and still, backdoor locked. Send Cherryblossom
 
 Mrs. McCready pokes her head through the hole in the wall and invites us inside kindly (?????)
 
-Find an altar to the Jaded One (LG deity), multi-faceted, seasonally varying worship, fertility and harvest
+Find an altar to [[settings/Godshand/Cosmology/Pantheon#the-jaded-one|the Jaded One]] (LG deity), multi-faceted, seasonally varying worship, fertility and harvest
 
 Peter listens carefully and hears breathing beyond the kitchen, which breaks the illusion of the dining area for him, and he cues the rest of us. Crimp realizes the symbol for the Jaded One is upside down, and reiterating their daughters wakes Diane out of a trance of some kind. She says she locked the twins in the storm cellar.
 
@@ -72,4 +75,7 @@ The group happily heads back to town with the shipment of corn. Fancy new black 
 - [[settings/Godshand/Timeline|Timeline]]
 - [[settings/Godshand/Campaign/Quests/CSI godshand|CSI Godshand]]
 - [[settings/Godshand/Cosmology/Pantheon|Pantheon]]
+- [[settings/Godshand/Campaign/Quests/wildsheep chase|Wild Sheep Chase]]
+- [[settings/Godshand/NPCs/Janos|Janos]]
+- [[settings/Godshand/Society/Language|Language]]
 <!-- vault-enrichment:end -->

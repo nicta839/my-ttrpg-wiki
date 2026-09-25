@@ -13,9 +13,11 @@ related:
   - settings/Godshand/Society/index
   - settings/Godshand/index
   - settings/Godshand/Society/Showing the Hand
+  - settings/Godshand/Society/Culture
+  - settings/Godshand/Campaign/Quests/The Great Popcorn disappearance
 ---
 
-It was established during the Great Popcorn Disappearance that all planar languages share the same root. So characters who speak one can understand another. However, they are distinct dialects, so you might not be able to speak or write in the other scripts, but it is intelligible between them.
+It was established during [[settings/Godshand/Campaign/Quests/The Great Popcorn disappearance|The Great Popcorn Disappearance]] that all planar languages share the same root. So characters who speak one can understand another. However, they are distinct dialects, so you might not be able to speak or write in the other scripts, but it is intelligible between them.
 
 
 
@@ -25,4 +27,6 @@ It was established during the Great Popcorn Disappearance that all planar langua
 - [[settings/Godshand/Society/index|Godshand — Society]]
 - [[settings/Godshand/index|Godshand]]
 - [[settings/Godshand/Society/Showing the Hand|Showing the Hand]]
+- [[settings/Godshand/Society/Culture|Culture]]
+- [[settings/Godshand/Campaign/Quests/The Great Popcorn disappearance|The Great Popcorn Disappearance]]
 <!-- vault-enrichment:end -->

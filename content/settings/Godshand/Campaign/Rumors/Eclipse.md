@@ -17,7 +17,7 @@ related:
   - settings/Godshand/to-remember-notes
 ---
 
-There is something ominous happening in the town of [[settings/Godshand/index|index]] every time an eclipse occurs. Things are just a little different. The sun seems to sit in the very hand of the [[settings/Godshand/index|index]] and the pointer digit breaks again and again each time. What could this all mean?
+There is something ominous happening in the town of [[settings/Godshand/index|Godshand]] every time an eclipse occurs. Things are just a little different. The sun seems to sit in the very hand of [[settings/Godshand/index|Godshand]] and the pointer digit breaks again and again each time. What could this all mean?
 
 <!-- vault-enrichment:start -->
 ## Related

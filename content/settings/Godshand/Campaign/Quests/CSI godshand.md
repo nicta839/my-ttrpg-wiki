@@ -15,6 +15,10 @@ related:
   - settings/Godshand/Campaign/index
   - settings/Godshand/Timeline
   - settings/Godshand/Campaign/Quests/The Great Popcorn disappearance
+  - settings/Godshand/NPCs/Hilda
+  - settings/Godshand/NPCs/Heron
+  - settings/Godshand/NPCs/Marla Greenleaf
+  - settings/Godshand/Campaign/Rumors/(K)Night's Mercy
 ---
 
 Judges - Eldrich (dead), Sara, Mira
@@ -28,9 +32,9 @@ Aldrich's boots look normal, not like they've been down by the river. there is a
 
 Find a key on his person to locked drawers of his desk. Find a notebook with notes about the debate and panel. Contains information he should not know about the debate like who the judges are. Only the magistrate and councilpeople should be aware, but every year, seems like people find out early
 
-Hilda Mirin - grandma who loves knowing things, has information about betting on the debate
+[[settings/Godshand/NPCs/Hilda|Hilda Mirin]] - grandma who loves knowing things, has information about betting on the debate
 
-(K)Night's Mercy - a small dose sedative, that is dangerous in larger doses. 
+[[settings/Godshand/Campaign/Rumors/(K)Night's Mercy|(K)Night's Mercy]] - a small dose sedative, that is dangerous in larger doses.
 
 _Find Culprit_
 
@@ -42,7 +46,7 @@ Aldrich has been seeing a business downturn this year, which matches with the sl
     
     Tibin - thieves cant for transport, very nervous, wants cops out of clothes shop, agreed that business was going well for Aldrich, which we know it wasn't. Seems like Aldrich was trying to arrange transport out of the city, but was killed before he could, presumably due to debts owed.
     
-    Traveling Merchants each purchased 2 doses of (K)Night's Mercy from Marla Greenleaf over different days.
+    Traveling Merchants each purchased 2 doses of (K)Night's Mercy from [[settings/Godshand/NPCs/Marla Greenleaf|Marla Greenleaf]] over different days.
     
 6. Seems like Tibin was the person Aldrich was supposed to meet at the riverbank
     so new paths:
@@ -54,7 +58,7 @@ Aldrich has been seeing a business downturn this year, which matches with the sl
     
     Aldrich gambling with Tibin and Jessa (blacksmith), and kept losing, which made him launder money by making purchases
     
-7. Aldrich also has debts to Herron
+7. Aldrich also has debts to [[settings/Godshand/NPCs/Heron|Herron]]
     
 8. Herron appears to be a roaming vagabond about Gods Hand, given a surprising amount of respect. Is important to or the leader of the thieves guild
     
@@ -88,4 +92,8 @@ Hilda is an elderly woman living next to a bakery. She is the gossip of town. Sh
 - [[settings/Godshand/Campaign/index|Godshand — Campaign]]
 - [[settings/Godshand/Timeline|Timeline]]
 - [[settings/Godshand/Campaign/Quests/The Great Popcorn disappearance|The Great Popcorn Disappearance]]
+- [[settings/Godshand/NPCs/Hilda|Hilda]]
+- [[settings/Godshand/NPCs/Heron|Heron]]
+- [[settings/Godshand/NPCs/Marla Greenleaf|Marla Greenleaf]]
+- [[settings/Godshand/Campaign/Rumors/(K)Night's Mercy|(K)Night's Mercy]]
 <!-- vault-enrichment:end -->

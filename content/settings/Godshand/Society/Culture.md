@@ -13,6 +13,7 @@ related:
   - settings/Godshand/Society/index
   - settings/Godshand/index
   - settings/Godshand/Society/Showing the Hand
+  - settings/Godshand/Society/Language
 ---
 
 Different cultural elements and things that just are like that....
@@ -26,4 +27,5 @@ Different cultural elements and things that just are like that....
 - [[settings/Godshand/Society/index|Godshand — Society]]
 - [[settings/Godshand/index|Godshand]]
 - [[settings/Godshand/Society/Showing the Hand|Showing the Hand]]
+- [[settings/Godshand/Society/Language|Language]]
 <!-- vault-enrichment:end -->

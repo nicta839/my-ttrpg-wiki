@@ -14,9 +14,10 @@ related:
   - settings/Godshand/index
   - settings/Godshand/Campaign/index
   - settings/Godshand/Timeline
+  - settings/Godshand/NPCs/Wild sheep chase
 ---
 
-This was played as part of [[settings/Godshand/index|index]]
+This was played as part of [[settings/Godshand/index|Godshand]]
 
 andy: bigbear divine soul sorcerer: Crimp Padfoot
 Olli: Human Champion : RoBeert
@@ -32,4 +33,5 @@ Gus survived, Noke survived, shinebright turned back into an elf
 - [[settings/Godshand/index|Godshand]]
 - [[settings/Godshand/Campaign/index|Godshand — Campaign]]
 - [[settings/Godshand/Timeline|Timeline]]
+- [[settings/Godshand/NPCs/Wild sheep chase|Wild Sheep Chase character notes]]
 <!-- vault-enrichment:end -->

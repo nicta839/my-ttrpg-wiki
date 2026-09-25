@@ -12,6 +12,7 @@ description: "Index of campaign material for Godshand."
 related:
   - settings/Godshand/Campaign/Rumors/Eclipse
   - settings/Godshand/Campaign/Rumors/Shape of a Hand
+  - settings/Godshand/Campaign/Rumors/(K)Night's Mercy
 ---
 
 # Rumors
@@ -21,4 +22,5 @@ related:
 
 - [[settings/Godshand/Campaign/Rumors/Eclipse|Eclipse]]
 - [[settings/Godshand/Campaign/Rumors/Shape of a Hand|Shape of a Hand]]
+- [[settings/Godshand/Campaign/Rumors/(K)Night's Mercy|(K)Night's Mercy]]
 <!-- vault-folder-index:end -->

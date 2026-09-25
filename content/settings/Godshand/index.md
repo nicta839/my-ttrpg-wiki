@@ -64,6 +64,7 @@ related:
     <a class="portal-card" href="settings/Godshand/Regions/index"><span class="portal-card-kicker">Geography</span><strong>Regions</strong><span>The desert, lake, and hard country around the town.</span></a>
     <a class="portal-card" href="settings/Godshand/Settlements/index"><span class="portal-card-kicker">Places</span><strong>Settlements</strong><span>Town material and local settlement anchors.</span></a>
     <a class="portal-card" href="settings/Godshand/Society/index"><span class="portal-card-kicker">People</span><strong>Society</strong><span>Culture, public signs, customs, and everyday life.</span></a>
+    <a class="portal-card" href="settings/Godshand/NPCs/index"><span class="portal-card-kicker">Characters</span><strong>NPCs</strong><span>People tied to the town and its adventures.</span></a>
     <a class="portal-card" href="settings/Godshand/Campaign/index"><span class="portal-card-kicker">Hooks</span><strong>Campaign</strong><span>Quests, rumors, and table-facing adventure material.</span></a>
     <a class="portal-card" href="settings/Godshand/Mysteries/index"><span class="portal-card-kicker">Unknowns</span><strong>Mysteries</strong><span>Anti-magic fields, strange shards, and unresolved signals.</span></a>
     <a class="portal-card" href="settings/Godshand/Factions/index"><span class="portal-card-kicker">Power</span><strong>Factions</strong><span>Public faction anchors for future campaign expansion.</span></a>
