@@ -13,6 +13,7 @@ related:
   - settings/Godshand/Mysteries/index
   - settings/Godshand/index
   - settings/Godshand/Campaign/Rumors/Shape of a Hand
+  - settings/Godshand/Regions/The Hand Mountain and Pilgrim Stair
 ---
 
 These fields of anti-magic are randomly strewn about, differ in size and their origin is unknown
@@ -23,4 +24,5 @@ These fields of anti-magic are randomly strewn about, differ in size and their o
 - [[settings/Godshand/Mysteries/index|Godshand — Mysteries]]
 - [[settings/Godshand/index|Godshand]]
 - [[settings/Godshand/Campaign/Rumors/Shape of a Hand|Shape of a Hand]]
+- [[settings/Godshand/Regions/The Hand Mountain and Pilgrim Stair|The Hand Mountain and Pilgrim Stair]]
 <!-- vault-enrichment:end -->

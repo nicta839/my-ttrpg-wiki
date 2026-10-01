@@ -15,6 +15,8 @@ related:
   - settings/Godshand/Campaign/index
   - settings/Godshand/Mysteries/Anti-magic fields
   - settings/Godshand/Campaign/Rumors/Eclipse
+  - settings/Godshand/Regions/The Hand Mountain and Pilgrim Stair
+  - settings/Godshand/Regions/The Lake and Waterfall
 ---
 
 The shape of this mountain has led to many rumors springing up. Some of the observations are true, some are pure speculation.
@@ -31,4 +33,6 @@ What is less understandable and is source of many rumors and speculation is that
 - [[settings/Godshand/Campaign/index|Godshand — Campaign]]
 - [[settings/Godshand/Mysteries/Anti-magic fields|Anti-magic fields]]
 - [[settings/Godshand/Campaign/Rumors/Eclipse|Eclipse]]
+- [[settings/Godshand/Regions/The Hand Mountain and Pilgrim Stair|The Hand Mountain and Pilgrim Stair]]
+- [[settings/Godshand/Regions/The Lake and Waterfall|The Lake and Waterfall]]
 <!-- vault-enrichment:end -->

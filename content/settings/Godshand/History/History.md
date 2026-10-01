@@ -10,18 +10,22 @@ tags:
 category: History
 visibility: public
 description: "History: History entry for Godshand."
-related: []
+related:
+  - settings/Godshand/Settlements/Godshand - The Town
+  - settings/Godshand/Regions/The Hand Mountain and Pilgrim Stair
+  - settings/Godshand/Regions/The Lake and Waterfall
+  - settings/Godshand/Society/The Hand Debate
 ---
 
 # History
 
 This place was established as a stop on the road in the [[settings/Godshand/Regions/Desert|desert]]. Access to water has always made this oasis a place of import in the greater geography of the world.
 
-It rapidly became an opportunity to turn a place of worship into a touristic attraction and as such the town has grown, a temple was built atop the gosdhand mountain and stairs carved for pilgrims to climb.
+It rapidly became an opportunity to turn a place of worship into a touristic attraction and as such the town has grown, a temple was built atop [[settings/Godshand/Regions/The Hand Mountain and Pilgrim Stair|the Godshand mountain]] and stairs carved for pilgrims to climb.
 
 As various cults of worship sprung up, it also became an opportunity to turn the general disagreements between the various groups into a lucrative opportunity.
 
-A plaza was created to have all the different zealots argue between each other and a great festival was created to have them pit their awesome miracles granted by their "true god of [[settings/Godshand/index|Godshand]]" against each other. This festival (The Hand Debate) became an opportunity to have great swathes of pilgrims, worshippers and people suffering from various ailments and curses come to the town of godshand for healing during the festival. More people = more money!
+A plaza was created to have all the different zealots argue between each other and a great festival was created to have them pit their awesome miracles granted by their "true god of [[settings/Godshand/index|Godshand]]" against each other. This festival ([[settings/Godshand/Society/The Hand Debate|The Hand Debate]]) became an opportunity to have great swathes of pilgrims, worshippers and people suffering from various ailments and curses come to the town of godshand for healing during the festival. More people = more money!
 
 <!-- curated-index:start -->
 <section class="index-guide">
@@ -37,3 +41,10 @@ A plaza was created to have all the different zealots argue between each other a
 <!-- vault-folder-index:start -->
 
 <!-- vault-folder-index:end -->
+
+## Related
+
+- [[settings/Godshand/Settlements/Godshand - The Town|Godshand — The Town]]
+- [[settings/Godshand/Regions/The Hand Mountain and Pilgrim Stair|The Hand Mountain and Pilgrim Stair]]
+- [[settings/Godshand/Regions/The Lake and Waterfall|The Lake and Waterfall]]
+- [[settings/Godshand/Society/The Hand Debate|The Hand Debate]]

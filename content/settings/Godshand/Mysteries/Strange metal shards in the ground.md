@@ -12,6 +12,8 @@ description: "Strange metal shards in the ground: Mysteries entry for Godshand."
 related:
   - settings/Godshand/Mysteries/index
   - settings/Godshand/index
+  - settings/Godshand/Mysteries/Black Goo and Cornfield Corruption
+  - settings/Godshand/Settlements/The McReady Farm
 ---
 
 There are strange metal shards in the ground. They can sometimes be found in vegetables that grow in the fields
@@ -21,4 +23,6 @@ There are strange metal shards in the ground. They can sometimes be found in veg
 
 - [[settings/Godshand/Mysteries/index|Godshand — Mysteries]]
 - [[settings/Godshand/index|Godshand]]
+- [[settings/Godshand/Mysteries/Black Goo and Cornfield Corruption|Black Goo and Cornfield Corruption]]
+- [[settings/Godshand/Settlements/The McReady Farm|The McReady Farm]]
 <!-- vault-enrichment:end -->

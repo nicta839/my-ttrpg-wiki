@@ -9,14 +9,15 @@ tags:
 category: Factions
 visibility: public
 description: "Index of factions material for Godshand."
-related: []
+related:
+  - settings/Godshand/Factions/Thieves Guild
 ---
 # Factions
 
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Factions</p>
-  <div class="index-empty-state">No public entries are listed here yet.</div>
+  <div class="index-empty-state"><a href="/settings/godshand/factions/thieves-guild">Godshand’s Thieves’ Guild</a></div>
 </section>
 
 ## Complete index
@@ -27,5 +28,7 @@ related: []
 <!-- wiki-explore:end -->
 
 <!-- vault-folder-index:start -->
+## Pages
 
+- [[settings/Godshand/Factions/Thieves Guild|Godshand’s Thieves’ Guild]]
 <!-- vault-folder-index:end -->

@@ -14,6 +14,8 @@ related:
   - settings/Godshand/index
   - settings/Godshand/Campaign/Quests/The Great Popcorn disappearance
   - settings/Godshand/to-remember-notes
+  - settings/Godshand/Cosmology/The Jaded One
+  - settings/Godshand/Society/The Hand Debate
 ---
 # Pantheon
 
@@ -21,7 +23,7 @@ related:
 
 Lawful Good God with themes of Water, Healing and Fertility. They are represented with different faces around the year. "You may not show being jaded to tourists", cyclical with the seasons, symbolized as Face with one hand over a half of it (not a facepalm, I swear)
 
-The Jaded One's inverted symbol appears during [[settings/Godshand/Campaign/Quests/The Great Popcorn disappearance|The Great Popcorn Disappearance]]. Their worship is also part of the religious tourism and yearly debate described in [[settings/Godshand/to-remember-notes|the Godshand notes]].
+[[settings/Godshand/Cosmology/The Jaded One|The Jaded One's inverted symbol]] appears during [[settings/Godshand/Campaign/Quests/The Great Popcorn disappearance|The Great Popcorn Disappearance]]. Their worship is also part of the religious tourism and yearly debate described in [[settings/Godshand/to-remember-notes|the Godshand notes]].
 
 ## Related
 
@@ -29,3 +31,5 @@ The Jaded One's inverted symbol appears during [[settings/Godshand/Campaign/Ques
 - [[settings/Godshand/index|Godshand]]
 - [[settings/Godshand/Campaign/Quests/The Great Popcorn disappearance|The Great Popcorn Disappearance]]
 - [[settings/Godshand/to-remember-notes|Godshand notes]]
+- [[settings/Godshand/Cosmology/The Jaded One|The Jaded One]]
+- [[settings/Godshand/Society/The Hand Debate|The Hand Debate]]

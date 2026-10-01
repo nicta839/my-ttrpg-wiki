@@ -21,6 +21,10 @@ related:
   - settings/Godshand/Mysteries/index
   - settings/Godshand/Timeline
   - settings/Godshand/to-remember-notes
+  - settings/Godshand/Settlements/Godshand - The Town
+  - settings/Godshand/Society/The Hand Debate
+  - settings/Godshand/Regions/The Hand Mountain and Pilgrim Stair
+  - settings/Godshand/Regions/The Lake and Waterfall
 ---
 
 # Godshand
@@ -62,7 +66,7 @@ related:
   <div class="portal-nav-grid">
     <a class="portal-card" href="settings/Godshand/History/History"><span class="portal-card-kicker">Past</span><strong>History</strong><span>Known history and the events that shaped the oasis.</span></a>
     <a class="portal-card" href="settings/Godshand/Regions/index"><span class="portal-card-kicker">Geography</span><strong>Regions</strong><span>The desert, lake, and hard country around the town.</span></a>
-    <a class="portal-card" href="settings/Godshand/Settlements/index"><span class="portal-card-kicker">Places</span><strong>Settlements</strong><span>Town material and local settlement anchors.</span></a>
+    <a class="portal-card" href="settings/Godshand/Settlements/Godshand - The Town"><span class="portal-card-kicker">Places</span><strong>Godshand — The Town</strong><span>The oasis, its businesses, pilgrimage, and nearby farm.</span></a>
     <a class="portal-card" href="settings/Godshand/Society/index"><span class="portal-card-kicker">People</span><strong>Society</strong><span>Culture, public signs, customs, and everyday life.</span></a>
     <a class="portal-card" href="settings/Godshand/NPCs/index"><span class="portal-card-kicker">Characters</span><strong>NPCs</strong><span>People tied to the town and its adventures.</span></a>
     <a class="portal-card" href="settings/Godshand/Campaign/index"><span class="portal-card-kicker">Hooks</span><strong>Campaign</strong><span>Quests, rumors, and table-facing adventure material.</span></a>
@@ -92,3 +96,10 @@ related:
 - [[settings/Godshand/Timeline|Timeline]]
 - [[settings/Godshand/to-remember-notes|to-remember-notes]]
 <!-- vault-folder-index:end -->
+
+## Related
+
+- [[settings/Godshand/Settlements/Godshand - The Town|Godshand — The Town]]
+- [[settings/Godshand/Society/The Hand Debate|The Hand Debate]]
+- [[settings/Godshand/Regions/The Hand Mountain and Pilgrim Stair|The Hand Mountain and Pilgrim Stair]]
+- [[settings/Godshand/Regions/The Lake and Waterfall|The Lake and Waterfall]]

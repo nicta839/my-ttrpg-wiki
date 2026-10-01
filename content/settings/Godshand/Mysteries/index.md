@@ -12,15 +12,14 @@ description: "Index of mysteries material for Godshand."
 related:
   - settings/Godshand/Mysteries/Anti-magic fields
   - settings/Godshand/Mysteries/Strange metal shards in the ground
+  - settings/Godshand/Mysteries/Black Goo and Cornfield Corruption
 ---
 # Godshand — Mysteries
 
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Mysteries</p>
-  <div class="index-empty-state">
-    <a href="/settings/godshand/mysteries/anti-magic-fields">Anti-magic fields</a> · <a href="/settings/godshand/mysteries/strange-metal-shards-in-the-ground">Strange metal shards in the ground</a>
-  </div>
+  <div class="index-empty-state"><a href="/settings/godshand/mysteries/anti-magic-fields">Anti-magic fields</a> · <a href="/settings/godshand/mysteries/black-goo-and-cornfield-corruption">Black Goo and Cornfield Corruption</a> · <a href="/settings/godshand/mysteries/strange-metal-shards-in-the-ground">Strange metal shards in the ground</a></div>
 </section>
 
 ## Complete index
@@ -34,5 +33,6 @@ related:
 ## Pages
 
 - [[settings/Godshand/Mysteries/Anti-magic fields|Anti-magic fields]]
+- [[settings/Godshand/Mysteries/Black Goo and Cornfield Corruption|Black Goo and Cornfield Corruption]]
 - [[settings/Godshand/Mysteries/Strange metal shards in the ground|Strange metal shards in the ground]]
 <!-- vault-folder-index:end -->

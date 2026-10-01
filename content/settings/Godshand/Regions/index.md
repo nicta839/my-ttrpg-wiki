@@ -11,15 +11,15 @@ visibility: public
 description: "Index of regions material for Godshand."
 related:
   - settings/Godshand/Regions/Desert
+  - settings/Godshand/Regions/The Hand Mountain and Pilgrim Stair
+  - settings/Godshand/Regions/The Lake and Waterfall
 ---
 # Godshand — Regions
 
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Regions</p>
-  <div class="index-empty-state">
-    <a href="/settings/godshand/regions/desert">Desert</a>
-  </div>
+  <div class="index-empty-state"><a href="/settings/godshand/regions/desert">Desert</a> · <a href="/settings/godshand/regions/the-hand-mountain-and-pilgrim-stair">The Hand Mountain and Pilgrim Stair</a> · <a href="/settings/godshand/regions/the-lake-and-waterfall">The Lake and Waterfall</a></div>
 </section>
 
 ## Complete index
@@ -33,4 +33,6 @@ related:
 ## Pages
 
 - [[settings/Godshand/Regions/Desert|Desert]]
+- [[settings/Godshand/Regions/The Hand Mountain and Pilgrim Stair|The Hand Mountain and Pilgrim Stair]]
+- [[settings/Godshand/Regions/The Lake and Waterfall|The Lake and Waterfall]]
 <!-- vault-folder-index:end -->

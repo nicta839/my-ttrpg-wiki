@@ -12,13 +12,14 @@ description: "Index of cosmology material for Godshand."
 related:
   - settings/Godshand/Cosmology/Pantheon
   - settings/Godshand/index
+  - settings/Godshand/Cosmology/The Jaded One
 ---
 # Cosmology
 
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Cosmology</p>
-  <div class="index-empty-state"><a href="/settings/godshand/cosmology/pantheon">Pantheon</a></div>
+  <div class="index-empty-state"><a href="/settings/godshand/cosmology/pantheon">Pantheon</a> · <a href="/settings/godshand/cosmology/the-jaded-one">The Jaded One</a></div>
 </section>
 
 ## Complete index
@@ -32,4 +33,5 @@ related:
 ## Pages
 
 - [[settings/Godshand/Cosmology/Pantheon|Pantheon]]
+- [[settings/Godshand/Cosmology/The Jaded One|The Jaded One]]
 <!-- vault-folder-index:end -->

@@ -13,15 +13,14 @@ related:
   - settings/Godshand/Society/Culture
   - settings/Godshand/Society/Language
   - settings/Godshand/Society/Showing the Hand
+  - settings/Godshand/Society/The Hand Debate
 ---
 # Godshand — Society
 
 <!-- curated-index:start -->
 <section class="index-guide">
   <p class="index-guide-kicker">Society</p>
-  <div class="index-empty-state">
-    <a href="/settings/godshand/society/culture">Culture</a> · <a href="/settings/godshand/society/language">Language</a> · <a href="/settings/godshand/society/showing-the-hand">Showing the Hand</a>
-  </div>
+  <div class="index-empty-state"><a href="/settings/godshand/society/culture">Culture</a> · <a href="/settings/godshand/society/language">Language</a> · <a href="/settings/godshand/society/showing-the-hand">Showing the Hand</a> · <a href="/settings/godshand/society/the-hand-debate">The Hand Debate</a></div>
 </section>
 
 ## Complete index
@@ -37,4 +36,5 @@ related:
 - [[settings/Godshand/Society/Culture|Culture]]
 - [[settings/Godshand/Society/Language|Language]]
 - [[settings/Godshand/Society/Showing the Hand|Showing the Hand]]
+- [[settings/Godshand/Society/The Hand Debate|The Hand Debate]]
 <!-- vault-folder-index:end -->

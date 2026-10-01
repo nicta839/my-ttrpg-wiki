@@ -13,6 +13,14 @@ related:
   - settings/Godshand/Campaign/Quests/wildsheep chase
   - settings/Godshand/Campaign/Quests/CSI godshand
   - settings/Godshand/Campaign/Quests/The Great Popcorn disappearance
+  - settings/Godshand/NPCs/Crimp Padfoot
+  - settings/Godshand/NPCs/RoBeert
+  - settings/Godshand/NPCs/Peter Copperpot
+  - settings/Godshand/NPCs/Liana
+  - settings/Godshand/NPCs/Shinebright
+  - settings/Godshand/NPCs/Gus
+  - settings/Godshand/NPCs/Noke
+  - settings/Godshand/Society/The Hand Debate
 ---
 ```wiki-timeline
 source: current
@@ -30,11 +38,11 @@ density: clustered
 This is a living timeline that has elements added to it as the game continues to be played in time:
 
 
-A few weeks before the Festival of Master Debate
+A few weeks before the [[settings/Godshand/Society/The Hand Debate|Festival of Master Debate]]
 - [[settings/Godshand/Campaign/Quests/wildsheep chase|wildsheep chase]]:
-	- The party Crimp Padfoot, RoBeert, Peter Copperpot, Liana help a transmuter turn back from a sheep into an elf.
-	- All main characters survived including those who committed the crime (Gus and Noke)
-	- They ask from their rescuee (Finebrith Shinebright) to be compensated properly (under some duress). They receive compensation in the form of: 100GP per head, Favors, Influence, Some firebreath potions
+	- The party [[settings/Godshand/NPCs/Crimp Padfoot|Crimp Padfoot]], [[settings/Godshand/NPCs/RoBeert|RoBeert]], [[settings/Godshand/NPCs/Peter Copperpot|Peter Copperpot]], [[settings/Godshand/NPCs/Liana|Liana]] help a transmuter turn back from a sheep into an elf.
+	- All main characters survived including those who committed the crime ([[settings/Godshand/NPCs/Gus|Gus]] and [[settings/Godshand/NPCs/Noke|Noke]])
+	- They ask from their rescuee ([[settings/Godshand/NPCs/Shinebright|Finebrith Shinebright]]) to be compensated properly (under some duress). They receive compensation in the form of: 100GP per head, Favors, Influence, Some firebreath potions
 
 
 [[settings/Godshand/Campaign/Quests/CSI godshand|CSI Godshand]] happens at more or less the same time as [[settings/Godshand/Campaign/Quests/The Great Popcorn disappearance|The Great Popcorn Disappearance]].
@@ -49,4 +57,12 @@ A few weeks before the Festival of Master Debate
 - [[settings/Godshand/Campaign/Quests/wildsheep chase|wildsheep chase]]
 - [[settings/Godshand/Campaign/Quests/CSI godshand|CSI Godshand]]
 - [[settings/Godshand/Campaign/Quests/The Great Popcorn disappearance|The Great Popcorn Disappearance]]
+- [[settings/Godshand/NPCs/Crimp Padfoot|Crimp Padfoot]]
+- [[settings/Godshand/NPCs/RoBeert|RoBeert]]
+- [[settings/Godshand/NPCs/Peter Copperpot|Peter Copperpot]]
+- [[settings/Godshand/NPCs/Liana|Liana]]
+- [[settings/Godshand/NPCs/Shinebright|Shinebright]]
+- [[settings/Godshand/NPCs/Gus|Gus]]
+- [[settings/Godshand/NPCs/Noke|Noke]]
+- [[settings/Godshand/Society/The Hand Debate|The Hand Debate]]
 <!-- vault-enrichment:end -->

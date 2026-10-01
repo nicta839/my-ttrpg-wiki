@@ -19,11 +19,21 @@ related:
   - settings/Godshand/NPCs/Heron
   - settings/Godshand/NPCs/Marla Greenleaf
   - settings/Godshand/Campaign/Rumors/(K)Night's Mercy
+  - settings/Godshand/NPCs/Tibin Quickstep
+  - settings/Godshand/NPCs/Aldrich
+  - settings/Godshand/NPCs/Verick
+  - settings/Godshand/NPCs/Arti
+  - settings/Godshand/NPCs/Gill
+  - settings/Godshand/Society/The Hand Debate
+  - settings/Godshand/Organizations/The City Guard
+  - settings/Godshand/Organizations/The Apothecary Cooperative
+  - settings/Godshand/Factions/Thieves Guild
+  - settings/Godshand/Settlements/Godshand - The Town
 ---
 
-Judges - Eldrich (dead), Sara, Mira
+Judges - [[settings/Godshand/NPCs/Aldrich|Aldrich]] (dead), Sara, Mira
 
-Witness statement - Tibin Quickstep (clothes merchant), found Aldrich in the Inn owned by Aldrich adjacent to the brewery. Tibin was there to discuss business early. Wasn't in his office, but was found dead in the bedroom.
+Witness statement - [[settings/Godshand/NPCs/Tibin Quickstep|Tibin Quickstep]] (clothes merchant), found Aldrich in the Inn owned by Aldrich adjacent to the brewery. Tibin was there to discuss business early. Wasn't in his office, but was found dead in the bedroom.
 
 Ferrin, new city guard keeping watch on the crime scene    
 Bedroom - "meet me at the riverbank at dusk" in unusual handwriting, fine green powder on his lips, apothecary smell. Small boot prints also present.
@@ -60,23 +70,23 @@ Aldrich has been seeing a business downturn this year, which matches with the sl
     
 7. Aldrich also has debts to [[settings/Godshand/NPCs/Heron|Herron]]
     
-8. Herron appears to be a roaming vagabond about Gods Hand, given a surprising amount of respect. Is important to or the leader of the thieves guild
+8. Herron appears to be a roaming vagabond about Gods Hand, given a surprising amount of respect. Is important to or the leader of the [[settings/Godshand/Factions/Thieves Guild|thieves guild]]
     
     Aldrich was in an argument with a plain-looking woman in earthy clothes, about a recipe yesterday morning. witnessed on the way to the flower shop - apothecary is on that route
     
-    Marla panics at being confronted about Aldrich, her recipes, and the thing she is working on, when we mention the Night's Mercy, she freaks and casts druidic magic to attack us as blights rise up from the herbs to attack as well. Gill knocks her unconscious, we examine her notes and bring them and her back to the station.
+    Marla panics at being confronted about Aldrich, her recipes, and the thing she is working on, when we mention the Night's Mercy, she freaks and casts druidic magic to attack us as blights rise up from the herbs to attack as well. [[settings/Godshand/NPCs/Gill|Gill]] knocks her unconscious, we examine her notes and bring them and her back to the station.
 
 Important characters of CSI godshand
 6. Hilda - horny old lady who lives next to a bakery and is DEEP in the town gossip. (Is she a hag? I'll never tell.)
     
 7. Herron - appears as a vagrant town drunk, but is actually important to the Thieves Guild
     
-8. Verick, Arti, and Gill - three investigators in the guard
+8. [[settings/Godshand/NPCs/Verick|Verick]], [[settings/Godshand/NPCs/Arti|Arti]], and Gill - three investigators in the guard
 
 
-Every time the Debate happens: Judges are selected secretly until the day of the Debate (illegal betting pool, and people trying to fix the book)
+Every time [[settings/Godshand/Society/The Hand Debate|the Debate]] happens: Judges are selected secretly until the day of the Debate (illegal betting pool, and people trying to fix the book)
 
-Apothecary works like a cooperative. (K)Night's Mercy - a small dose sedative, that is dangerous in larger doses and is a controlled substance. Two doses is the max you can buy per transaction
+[[settings/Godshand/Organizations/The Apothecary Cooperative|Apothecary]] works like a cooperative. (K)Night's Mercy - a small dose sedative, that is dangerous in larger doses and is a controlled substance. Two doses is the max you can buy per transaction
 
 Very creative apothecary is locked up (Marla Greenleaf, human). Only one assistant knows about this other than the guards.
 
@@ -96,4 +106,14 @@ Hilda is an elderly woman living next to a bakery. She is the gossip of town. Sh
 - [[settings/Godshand/NPCs/Heron|Heron]]
 - [[settings/Godshand/NPCs/Marla Greenleaf|Marla Greenleaf]]
 - [[settings/Godshand/Campaign/Rumors/(K)Night's Mercy|(K)Night's Mercy]]
+- [[settings/Godshand/NPCs/Tibin Quickstep|Tibin Quickstep]]
+- [[settings/Godshand/NPCs/Aldrich|Aldrich]]
+- [[settings/Godshand/NPCs/Verick|Verick]]
+- [[settings/Godshand/NPCs/Arti|Arti]]
+- [[settings/Godshand/NPCs/Gill|Gill]]
+- [[settings/Godshand/Society/The Hand Debate|The Hand Debate]]
+- [[settings/Godshand/Organizations/The City Guard|The City Guard]]
+- [[settings/Godshand/Organizations/The Apothecary Cooperative|The Apothecary Cooperative]]
+- [[settings/Godshand/Factions/Thieves Guild|Godshand’s Thieves’ Guild]]
+- [[settings/Godshand/Settlements/Godshand - The Town|Godshand — The Town]]
 <!-- vault-enrichment:end -->

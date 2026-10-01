@@ -14,6 +14,7 @@ related:
   - settings/Godshand/index
   - settings/Godshand/Society/Showing the Hand
   - settings/Godshand/Society/Language
+  - settings/Godshand/Society/The Hand Debate
 ---
 
 Different cultural elements and things that just are like that....
@@ -28,4 +29,5 @@ Different cultural elements and things that just are like that....
 - [[settings/Godshand/index|Godshand]]
 - [[settings/Godshand/Society/Showing the Hand|Showing the Hand]]
 - [[settings/Godshand/Society/Language|Language]]
+- [[settings/Godshand/Society/The Hand Debate|The Hand Debate]]
 <!-- vault-enrichment:end -->

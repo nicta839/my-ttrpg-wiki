@@ -19,16 +19,26 @@ related:
   - settings/Godshand/Campaign/Quests/wildsheep chase
   - settings/Godshand/NPCs/Janos
   - settings/Godshand/Society/Language
+  - settings/Godshand/NPCs/Crimp Padfoot
+  - settings/Godshand/NPCs/RoBeert
+  - settings/Godshand/NPCs/Peter Copperpot
+  - settings/Godshand/NPCs/Liana
+  - settings/Godshand/NPCs/Shinebright
+  - settings/Godshand/Society/The Hand Debate
+  - settings/Godshand/Cosmology/The Jaded One
+  - settings/Godshand/Settlements/The McReady Farm
+  - settings/Godshand/Mysteries/Black Goo and Cornfield Corruption
+  - settings/Godshand/Regions/The Lake and Waterfall
 ---
 
-Crimp, Liana, and Peter try to get more than money out of the big transmutation wizard from [[settings/Godshand/Campaign/Quests/wildsheep chase|Wild Sheep Chase]] who got turned into a sheep and has fallen out of style in other ways
+[[settings/Godshand/NPCs/Crimp Padfoot|Crimp]], [[settings/Godshand/NPCs/Liana|Liana]], and [[settings/Godshand/NPCs/Peter Copperpot|Peter]] try to get more than money out of [[settings/Godshand/NPCs/Shinebright|the big transmutation wizard]] from [[settings/Godshand/Campaign/Quests/wildsheep chase|Wild Sheep Chase]] who got turned into a sheep and has fallen out of style in other ways
 
 1. Crimp: +1d4 to interactions with mages on mage business
 2. Liana: 4 potions of firebreathing * (con save required)
 3. Peter: future favor (maybe, maybe not)
-4. Robeert has boosted farm animals
+4. [[settings/Godshand/NPCs/RoBeert|Robeert]] has boosted farm animals
 
-[[settings/Godshand/NPCs/Janos|Janos]] tells Crimp, Liana, and Peter to check on the nearby corn farm that has stopped sending corn
+[[settings/Godshand/NPCs/Janos|Janos]] tells Crimp, Liana, and Peter to check on the [[settings/Godshand/Settlements/The McReady Farm|nearby corn farm]] that has stopped sending corn
 
 Crimp purchases an ox named Cherryblossom
 
@@ -38,9 +48,9 @@ Cut through the cornfield instead of navigating the maze. Liana heals a horse al
 
 Find the farmhouse and silo quiet and still, backdoor locked. Send Cherryblossom to bust down the door very effectively.
 
-Mrs. McCready pokes her head through the hole in the wall and invites us inside kindly (?????)
+Mrs. McReady pokes her head through the hole in the wall and invites us inside kindly (?????)
 
-Find an altar to [[settings/Godshand/Cosmology/Pantheon#the-jaded-one|the Jaded One]] (LG deity), multi-faceted, seasonally varying worship, fertility and harvest
+Find an altar to [[settings/Godshand/Cosmology/The Jaded One|the Jaded One]] (LG deity), multi-faceted, seasonally varying worship, fertility and harvest
 
 Peter listens carefully and hears breathing beyond the kitchen, which breaks the illusion of the dining area for him, and he cues the rest of us. Crimp realizes the symbol for the Jaded One is upside down, and reiterating their daughters wakes Diane out of a trance of some kind. She says she locked the twins in the storm cellar.
 
@@ -52,9 +62,9 @@ what happened after:
 - Horse with log exploding chickens
 - Creepy horse and stealthy kitty
 
-Maude and Diane McCreary seem to be full dead
+Maude and Diane McReady seem to be full dead
 
-The party decides to head into the tunnel dug by Ruffles. It's a cramped space covered in black goo. Studying the goo reveals that it does not seem to behave all that well with the laws of physics or sentience. The collected goo reached for the recipient and sloshes unnaturally along the side walls.
+The party decides to head into the tunnel dug by Ruffles. It's a cramped space covered in [[settings/Godshand/Mysteries/Black Goo and Cornfield Corruption|black goo]]. Studying the goo reveals that it does not seem to behave all that well with the laws of physics or sentience. The collected goo reached for the recipient and sloshes unnaturally along the side walls.
 
 The party decides to go as slow as possible in order to avoid being seen and to be covered in goo. It does not go well and a lot of time is spent. In the pigsty established by Ruffles, the party is welcomed by a reflexive Eldritch blast from Ruffles' back crystals who they see surrounded by 4 goo pigs.
 
@@ -64,7 +74,7 @@ Robeert's mind averts itself before it can be seen by whatever entity has caused
 
 Something bad happens. A shadow demon is summoned (weakened by the efforts of the group) and begins to attack the party. Through clever use of items, sources of light and placing, the group prevents the escape of the creature and defeats it. It warns that it will not be the last and that darkness shall prevail in the end.
 
-The group happily heads back to town with the shipment of corn. Fancy new black popcorn is sure to sell well during the Debate. Janos gives additional potions of Greater Healing to the whole party as well as the +1000 spots bump in the queue. Now we wait for the debate.
+The group happily heads back to town with the shipment of corn. Fancy new black popcorn is sure to sell well during [[settings/Godshand/Society/The Hand Debate|the Debate]]. Janos gives additional potions of Greater Healing to the whole party as well as the +1000 spots bump in the queue. Now we wait for the debate.
 
 <!-- vault-enrichment:start -->
 ## Related
@@ -78,4 +88,14 @@ The group happily heads back to town with the shipment of corn. Fancy new black 
 - [[settings/Godshand/Campaign/Quests/wildsheep chase|Wild Sheep Chase]]
 - [[settings/Godshand/NPCs/Janos|Janos]]
 - [[settings/Godshand/Society/Language|Language]]
+- [[settings/Godshand/NPCs/Crimp Padfoot|Crimp Padfoot]]
+- [[settings/Godshand/NPCs/RoBeert|RoBeert]]
+- [[settings/Godshand/NPCs/Peter Copperpot|Peter Copperpot]]
+- [[settings/Godshand/NPCs/Liana|Liana]]
+- [[settings/Godshand/NPCs/Shinebright|Shinebright]]
+- [[settings/Godshand/Society/The Hand Debate|The Hand Debate]]
+- [[settings/Godshand/Cosmology/The Jaded One|The Jaded One]]
+- [[settings/Godshand/Settlements/The McReady Farm|The McReady Farm]]
+- [[settings/Godshand/Mysteries/Black Goo and Cornfield Corruption|Black Goo and Cornfield Corruption]]
+- [[settings/Godshand/Regions/The Lake and Waterfall|The Lake and Waterfall]]
 <!-- vault-enrichment:end -->
